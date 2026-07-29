@@ -1,0 +1,225 @@
+employee_id,full_name,department,job_title,hire_date,salary,bonus,years_experience,email,phone,city,state,performance_rating,status,remote_work,manager_name,last_review_date
+1034,  Grace Ferreira,IT,Software Engineer,11/08/2021,87609,,10,grace.ferreira@retailco.com,779 898 3950,Nashville,TN,2,Active,No,Sophie Khan,4/15/2023
+1056,Sonia  Chen,Operations,Logistics Coordinator,01/21/2019,58508,,4,sonia.chen@retailco.com,(736) 569-2108,Nashville,TN,5,Active,No,Hugo Muller,12/01/2024
+1156,Wei Khan,  Finance,Finance Manager,02/08/2019,64418,,1,wei.khan@retailco.com,,Nashville,TN,2,Inactive,No,Noah Kowalski,2/23/2024
+1081,Noah Brown,Operations ,Operations Manager,07/01/2016,58431,1560,2,noah.brown@retailco.com,(392) 979-4555,Columbus,OH,5,Active,Hybrid,,12/25/2023
+1072,Wei  Wilson,OPERATIONS ,Operations Manager,08/06/2018,63197,,6,wei.wilson@retailco.com,747-956-1611,Chicago,IL,1,On Leave,Hybrid,Ahmed Wilson,01/01/2024
+1071,Omar   Patel,HR ,HR Business Partner,02/14/2012,64644,,8,omar.patel@retailco.com,340.311.4920,Portland,OR,3,Active,Hybrid,Ravi Kim,25/11/2023
+1109,Ali  Suzuki,HR  ,Payroll Specialist,15/09/2013,60408,2146,10,ali.suzuki@retailco.com,(610) 270-8620,Columbus,OH,1,Inactive,Hybrid,Lena Fischer,10/26/2024
+1169,Bianca   Novak,hr,Recruiter,07/28/2020,66828,4571,13,bianca.novak@retailco.com,789-902-4744,Portland,OR,3,Active,No,Grace Larsson,16/03/2025
+1148,  Miguel Suzuki  ,IT,Software Engineer,15/06/2022,79573,2543,5,miguel.suzuki@retailco.com,569.500.4579,Seattle,WA,2,Inactive,No,Miguel Garcia,08/10/2025
+1088,Layla   Suzuki,HR,Payroll Specialist,03/02/2017,59279,1846,5,layla.suzuki@retailco.com,(474) 357-7225,Columbus,OH,2,Active,Yes,Diego Karim,06/25/2024
+1165,  Lucas Costa  ,IT ,DevOps Engineer,25/08/2021,68433,2316,0,lucas.costa@retailco.com,(725) 463-9813,Nashville,TN,,Active,No,Julia Marquez,11/15/2024
+1003,  Nadia Larsen  ,HR ,Recruiter,04/05/2017,64539,8713,10,nadia.larsen@retailco.com,962-774-9830,Nashville,TN,2,Active,Hybrid,Sam Karim,02/05/2023
+1116,James Garcia  ,finance,Accountant,12/12/2023,68740,,3,james.garcia@retailco.com,789-597-6813,Columbus,OH,1,Inactive,No,Ahmed Khan,
+1139,Hassan   Novak,  Sales,Regional Sales Lead,12/08/2022,56693,1601,3,hassan.novak@retailco.com,885-546-9504,Minneapolis,MN,1,On Leave,Hybrid,Keiko Marquez,13/11/2025
+1155,  David Haddad, finance,Accountant,22/01/2020,77469,9356,8,david.haddad@retailco.com,337.675.9210,Charlotte,NC,2,Active,No,Andre Walker,11/06/2025
+1047,Tom Ahmed,SALES ,Sales Associate,10/13/2018,73544,5464,13,tom.ahmed@retailco.com,832-671-6928,Portland,OR,1,Active,Hybrid,Yusuf Ahmed,
+1082,Noah Larsen,IT,Systems Administrator,24/04/2021,91495,5498,12,noah.larsen@retailco.com,979 527 4328,Chicago,IL,4,On Leave,Hybrid,Leo Zhang,
+1166,Hana  Noor, sales,Account Executive,06/07/2017,63719,4199,7,hana.noor@retailco.com,(608) 889-6603,Raleigh,NC,3,Inactive,Yes,Carlos Andersson,11/07/2025
+1053,Ruth   Patel,marketing,Content Strategist,14/09/2020,64407,,9,ruth.patel@retailco.com,576-894-8218,Nashville,TN,4,Active,Hybrid,Tariq Fischer,03/28/2025
+1046,  Gustav Lee,HR ,HR Business Partner,7/18/2014,61137,,7,gustav.lee@retailco.com,496.535.2965,Boston,MA,2,Active,No,Sarah Nguyen,11/26/2025
+1178,Ravi  Rossi,CUSTOMER SUPPORT ,Support Representative,05/07/2022,46178,1488,1,ravi.rossi@retailco.com,530.362.1691,Raleigh,NC,2,Inactive,No,Keiko Lee,04/04/2025
+1090,Nina Davis,MARKETING,Brand Manager,07/26/2021,73645,10513,15,nina.davis@retailco.com,668-309-3219,Columbus,OH,4,Active,No,Ivy Johnson,20/11/2024
+1067,  Lena Gomez  ,Marketing,Brand Manager,01/05/2012,64465,2285,8,lena.gomez@retailco.com,771.574.3363,Chicago,IL,4,On Leave,Hybrid,Ingrid Costa,15/09/2024
+1203,Keiko Alvarez  ,finance,Financial Analyst,23/06/2023,82076,,10,keiko.alvarez@retailco.com,841 747 3719,Dallas,TX,1,Active,No,Felix Khan,08/08/2023
+1192,Victor  Larsen,  Operations,Operations Analyst,11/05/2015,75350,7634,12,victor.larsen@retailco.com,519 819 6395,Atlanta,GA,2,Inactive,Hybrid,,03/10/2023
+1007,Bianca Smith  ,CUSTOMER SUPPORT ,Customer Success Manager,08/05/2020,50295,3775,3,bianca.smith@retailco.com,(262) 612-6559,Phoenix,AZ,1,Active,Hybrid,Liam Smith,28/04/2024
+1032,Simon   Hassan,HR,Payroll Specialist,11/05/2022,67445,3443,10,simon.hassan@retailco.com,,Nashville,TN,4,Active,No,Bianca Petrov,09/19/2023
+1190,Sam   Andersson,  Marketing,Marketing Coordinator,01/10/2013,45856,,1,sam.andersson@retailco.com,870 208 2091,Charlotte,NC,5,Active,No,Felix Dube,23/09/2024
+1097,  Ben Osei  , customer support,Technical Support Agent,8/19/2014,70879,7961,15,ben.osei@retailco.com,(979) 425-5785,Dallas,TX,2,On Leave,Yes,Laura Turner,17/09/2024
+1033,Grace   Kowalski, Marketing,Content Strategist,02/08/2021,51950,2829,4,grace.kowalski@retailco.com,890.746.7226,Chicago,IL,4,Active,Yes,Nadia Yamamoto,24/04/2024
+1160,Paula Ferreira  ,  Marketing,Marketing Coordinator,12/17/2012,79881,10713,15,paula.ferreira@retailco.com,817-752-1019,Charlotte,NC,1,Inactive,Hybrid,Gustav Kowalski,07/12/2024
+1106,Ethan Walker,Operations,Logistics Coordinator,2/15/2018,52681,2445,2,ethan.walker@retailco.com,(517) 915-8167,Denver,CO,5,Inactive,Yes,Anna Kim,11/24/2024
+1121,Victor   Costa,FINANCE ,Financial Analyst,02/02/2015,71661,,5,victor.costa@retailco.com,913 767 9849,Dallas,TX,2,Active,No,Sam Dube,03/02/2024
+1050,  Tom Ferreira  ,Customer Support  ,Customer Success Manager,20/09/2020,67930,5337,15,tom.ferreira@retailco.com,(716) 861-3827,San Diego,CA,3,Inactive,Hybrid,Tom Smith,07/14/2024
+1030,Aisha  Osei,finance,Finance Manager,27/04/2013,87114,,14,aisha.osei@retailco.com,324 229 4920,Minneapolis,MN,3,Active,Hybrid,Wei Alvarez,27/11/2023
+1175,Lena   Garcia, Finance,Finance Manager,05/03/2015,73407,7165,9,lena.garcia@retailco.com,774 647 7467,Nashville,TN,5,Inactive,No,Ravi Davis,10/26/2025
+1107,Oliver Johnson  ,  Operations,Operations Analyst,09/03/2016,84465,10287,15,oliver.johnson@retailco.com,950.320.1480,Minneapolis,MN,2,Active,Hybrid,,11/03/2025
+1052,  Miguel Walker, operations,Warehouse Supervisor,03/20/2021,67152,4326,11,miguel.walker@retailco.com,358-279-5846,Columbus,OH,2,Active,Hybrid,Grace Muller,12/25/2023
+1120,Aisha   Rossi, marketing,Content Strategist,02/03/2016,77632,5341,15,aisha.rossi@retailco.com,366-662-2207,Columbus,OH,5,On Leave,Yes,Laura Martin,24/03/2024
+1011,Liam  Ivanova,HR ,HR Coordinator,09/11/2014,53220,6029,4,liam.ivanova@retailco.com,252.294.7939,Columbus,OH,3,Active,Yes,Kevin Patel,12/14/2025
+1070,Alina  Silva,HR,HR Business Partner,12/09/2020,63558,,8,alina.silva@retailco.com,989.495.4396,Charlotte,NC,5,Active,Yes,Layla Zhang,09/13/2025
+1177,Mike   Suzuki,  Sales,Sales Associate,06/08/2020,59742,,6,mike.suzuki@retailco.com,(538) 282-3393,Denver,CO,3,Active,Hybrid,James Turner,27/07/2024
+1133,Kenji Turner  ,  IT,QA Engineer,07/09/2017,97781,,15,kenji.turner@retailco.com,592 204 1618,Austin,TX,4,Inactive,No,Sonia Osei,08/12/2025
+1189,Sophie   Hassan,FINANCE ,Accountant,16/08/2016,63058,,1,sophie.hassan@retailco.com,(448) 835-3419,Seattle,WA,1,On Leave,Hybrid,Lena Johnson,07/09/2025
+1096,Emma Ferreira  ,it,Software Engineer,05/05/2019,80370,3084,9,emma.ferreira@retailco.com,633 390 8973,Boston,MA,5,Active,No,Sonia Marquez,10/02/2024
+1218,  Mike Gomez  , sales,Sales Associate,02/03/2023,56356,6441,3,mike.gomez@retailco.com,,Seattle,WA,1,Active,Hybrid,Yusuf Kim,19/11/2025
+1024,  Jack Dube  ,finance,Finance Manager,12/16/2015,81493,,11,jack.dube@retailco.com,323-938-4155,Phoenix,AZ,3,Active,No,Nadia Lee,10/10/2025
+1092,Ivy   Smith,  HR,Payroll Specialist,20/11/2014,53216,3837,2,ivy.smith@retailco.com,918.749.2392,Charlotte,NC,4,Active,No,Liam Fischer,11/21/2025
+1040,  Oliver Lin,Sales  ,Sales Associate,26/05/2020,62521,2918,10,oliver.lin@retailco.com,438-536-3417,Atlanta,GA,5,Active,Hybrid,Sarah Turner,03/01/2023
+1204,Zara Kowalski,  HR,HR Coordinator,22/09/2013,48651,3780,1,zara.kowalski@retailco.com,394-548-8921,Atlanta,GA,,On Leave,Yes,Miguel Alvarez,8/13/2023
+1065,Fatima Adeyemi,HR,HR Coordinator,08/17/2014,57742,,7,fatima.adeyemi@retailco.com,830 628 5067,Phoenix,AZ,1,Active,Hybrid,Wei Zhang,01/08/2024
+1104,Felix Hassan  ,marketing,Content Strategist,02/11/2016,58570,,8,felix.hassan@retailco.com,(874) 508-4366,Nashville,TN,5,On Leave,Yes,Keiko Costa,4/16/2023
+1037,  Ingrid Ivanova  ,Customer Support,Customer Success Manager,12/22/2022,58747,,8,ingrid.ivanova@retailco.com,964.546.2886,Portland,OR,4,Active,No,Tariq Gomez,06/03/2025
+1205,Sarah   Alvarez,Sales ,Sales Manager,09/02/2022,52569,6146,1,sarah.alvarez@retailco.com,528-405-4154,San Diego,CA,,On Leave,Yes,Lena Turner,1/20/2023
+1108,Claire Kim  ,  Marketing,SEO Specialist,05/07/2017,59770,6433,8,claire.kim@retailco.com,,Raleigh,NC,5,Inactive,Hybrid,Mike Smith,9/26/2023
+1059,Peter Bello,sales,Sales Manager,22/12/2020,78317,8589,14,peter.bello@retailco.com,829.645.5498,Charlotte,NC,1,Active,Yes,James Gomez,10/22/2023
+1153,  Carlos Martin,Operations ,Warehouse Supervisor,10/05/2023,65414,4122,6,carlos.martin@retailco.com,(398) 525-8960,Dallas,TX,2,Active,Yes,,06/07/2024
+1216,Felix Smith  ,OPERATIONS ,Logistics Coordinator,05/05/2019,68066,,11,felix.smith@retailco.com,687 508 8803,Nashville,TN,1,Active,Hybrid,Sonia Suzuki,05/26/2023
+1044,  Liam Hassan,Customer Support,Customer Success Manager,01/06/2017,57148,7422,8,liam.hassan@retailco.com,(823) 873-5381,Dallas,TX,5,Active,Hybrid,David Khan,13/11/2025
+1134,Jack Ivanova  , sales,Sales Manager,01/07/2014,51460,,2,jack.ivanova@retailco.com,644.903.3192,Phoenix,AZ,5,On Leave,Hybrid,Victor Nguyen,24/04/2023
+1211,  Fatima Martin,sales,Sales Associate,04/18/2014,63743,3224,11,fatima.martin@retailco.com,615 590 8130,Raleigh,NC,4,Inactive,Yes,Hugo O'Brien,07/05/2024
+1144,Andre  Alvarez,Customer Support,Customer Success Manager,10/22/2021,51147,2955,6,andre.alvarez@retailco.com,715-755-6281,Raleigh,NC,2,Active,Hybrid,Hana Adeyemi,09/10/2025
+1219,Ella  Noor,HR ,HR Coordinator,05/06/2016,77280,8500,14,ella.noor@retailco.com,(483) 995-2022,Chicago,IL,3,Active,Hybrid,Sana Rossi,
+1143,  Dmitri Johnson  , Finance,Finance Manager,07/11/2016,95354,13190,15,dmitri.johnson@retailco.com,306-596-6273,Portland,OR,2,Inactive,Hybrid,Paula Rossi,3/14/2023
+1073,Liam Brown  ,HR ,Payroll Specialist,06/03/2020,67285,4238,14,liam.brown@retailco.com,(954) 545-5833,Minneapolis,MN,3,Active,Yes,Marco Khan,03/16/2023
+1168,  Aisha Kowalski  , customer support,Customer Success Manager,02/11/2021,45558,4976,1,aisha.kowalski@retailco.com,523 905 1137,Nashville,TN,1,Active,No,Mike Ferreira,03/18/2024
+1042,Peter Costa,IT ,IT Support Specialist,08/13/2017,87793,6934,10,peter.costa@retailco.com,(870) 866-4522,Minneapolis,MN,1,Active,No,Gustav Ferreira,07/11/2024
+1095,Felix Johnson,Operations  ,Logistics Coordinator,02/12/2021,53415,4796,2,felix.johnson@retailco.com,886.701.9646,Nashville,TN,2,Inactive,No,Nadia Costa,3/27/2025
+1101,  Maria Zhang  ,CUSTOMER SUPPORT,Customer Success Manager,12/05/2015,52091,7097,4,maria.zhang@retailco.com,216 327 3588,Minneapolis,MN,1,Active,Yes,Ruth Lin,02/21/2024
+1188,Sam  Walker,Marketing,Brand Manager,07/14/2022,52024,2380,4,sam.walker@retailco.com,448-273-5362,Seattle,WA,5,Active,No,Gustav Zhang,6/20/2024
+1173,  Maya Bello  ,Sales ,Regional Sales Lead,01/03/2020,51478,7695,1,maya.bello@retailco.com,516 434 5053,Atlanta,GA,5,Active,Hybrid,Lena Ferreira,8/15/2024
+1180,Sonia Bello,IT ,IT Support Specialist,03/18/2021,92857,2115,11,sonia.bello@retailco.com,(696) 923-8168,Phoenix,AZ,2,On Leave,Yes,Omar Silva,5/28/2024
+1069,Simon  Davis, finance,Accountant,17/03/2023,72314,2479,7,simon.davis@retailco.com,622-907-4340,Chicago,IL,,Active,Yes,Zoe Muller,08/17/2025
+1191,Sonia   Walker,IT  ,QA Engineer,26/05/2020,69026,4117,0,sonia.walker@retailco.com,,Portland,OR,2,Active,Yes,Hassan Hassan,01/18/2024
+1041,Peter Chen  ,IT,Software Engineer,08/28/2012,90525,7415,13,peter.chen@retailco.com,715 426 1710,Austin,TX,5,Active,Yes,Keiko Alvarez,08/23/2023
+1126,Bianca Turner, HR,HR Business Partner,04/27/2019,62410,6805,9,bianca.turner@retailco.com,992 528 5414,Phoenix,AZ,2,On Leave,Yes,Ali Costa,27/06/2025
+1043,  Diego Ferreira,Marketing ,Marketing Coordinator,10/10/2016,47075,3222,2,diego.ferreira@retailco.com,886.325.7730,Chicago,IL,1,Active,Yes,Hassan Dube,04/05/2025
+1054,Simon Robinson,Finance ,Financial Analyst,06/08/2020,64275,,2,simon.robinson@retailco.com,(427) 661-6727,Nashville,TN,2,Active,Hybrid,David Wilson,04/01/2024
+1025,Mei  Robinson,IT,Software Engineer,01/09/2014,73292,6738,4,mei.robinson@retailco.com,305 212 5658,Columbus,OH,2,On Leave,Hybrid,Bianca Garcia,16/07/2023
+1118,  Chloe Fischer,Sales,Sales Manager,27/10/2022,73555,2437,11,chloe.fischer@retailco.com,854 698 6198,Portland,OR,2,Active,Hybrid,Ahmed Petrov,10/12/2025
+1028,Oliver Lin,OPERATIONS,Operations Manager,09/21/2019,74378,10088,15,oliver.lin@retailco.com,(434) 890-1339,Boston,MA,5,Active,Yes,Maria Popescu,10/14/2023
+1172,Ethan Gomez  ,  Sales,Sales Manager,24/03/2012,67589,,10,ethan.gomez@retailco.com,999 571 9535,Boston,MA,4,Active,Yes,Kenji Wilson,24/12/2025
+1151,Sonia  Johnson,Operations ,Operations Analyst,18/03/2019,56251,,2,sonia.johnson@retailco.com,983.648.7249,Austin,TX,3,Active,No,,09/10/2024
+1063,Diego  Alvarez,  IT,Systems Administrator,11/20/2014,82128,10674,7,diego.alvarez@retailco.com,829.746.2530,Atlanta,GA,5,Active,Yes,Paula Singh,02/10/2024
+1129,Bianca Ivanova  ,  Operations,Operations Analyst,02/01/2021,66078,7415,8,bianca.ivanova@retailco.com,458 423 8646,Nashville,TN,4,On Leave,No,,9/21/2024
+1013,  Ravi Turner,IT ,DevOps Engineer,9/13/2022,90039,7189,15,ravi.turner@retailco.com,608-536-5564,Charlotte,NC,2,Active,Yes,Nina Fischer,01/06/2025
+1210,James  Walker,  IT,QA Engineer,06/03/2023,68201,5380,0,james.walker@retailco.com,410-897-6187,Minneapolis,MN,5,On Leave,No,Ivy Popescu,
+1075,  Leo Wilson  ,Operations,Operations Manager,05/09/2021,62907,6131,6,leo.wilson@retailco.com,279.777.2838,Phoenix,AZ,5,Active,Hybrid,,08/04/2025
+1207,Kenji Novak  ,HR,HR Business Partner,05/12/2021,53208,1707,2,kenji.novak@retailco.com,900.859.8625,Atlanta,GA,4,Active,No,Bianca Suzuki,06/26/2025
+1135,Sophie  Lee, HR,Payroll Specialist,5/16/2020,65292,6347,8,sophie.lee@retailco.com,(249) 906-2897,Seattle,WA,,Active,No,Ali Ferreira,21/11/2025
+1119,Sarah Marquez  , finance,Financial Analyst,09/01/2019,85438,,10,sarah.marquez@retailco.com,(443) 555-6234,Columbus,OH,4,Inactive,Yes,Sophie Yamamoto,09/06/2023
+1012,Carlos Marquez,IT,Software Engineer,26/03/2015,74604,,4,carlos.marquez@retailco.com,898-455-2684,Atlanta,GA,1,Active,Hybrid,Hassan Fischer,03/24/2023
+1039,  Felix Lin  ,HR,Payroll Specialist,06/04/2015,56822,7295,4,felix.lin@retailco.com,,San Diego,CA,3,Active,Yes,Leo O'Brien,06/02/2025
+1140,Aisha   Johnson,  Operations,Operations Manager,8/15/2013,59407,,5,aisha.johnson@retailco.com,763-858-7203,Portland,OR,3,Active,Hybrid,,11/08/2024
+1080,Nora  Andersson, Marketing,SEO Specialist,01/18/2019,71344,,12,nora.andersson@retailco.com,972-750-8758,Atlanta,GA,2,Active,No,Anna Suzuki,09/05/2025
+1022,Mike   Wilson,CUSTOMER SUPPORT ,Support Representative,04/25/2019,65116,4989,11,mike.wilson@retailco.com,676 646 5397,Miami,FL,3,Active,No,Peter Smith,11/07/2025
+1001,Kevin   Johnson,  Customer Support,Technical Support Agent,02/18/2018,57113,,10,kevin.johnson@retailco.com,(567) 552-5333,Seattle,WA,1,Inactive,Yes,Tom Larsson,19/06/2025
+1162,Claire   Novak, hr,Recruiter,09/13/2015,68777,5701,15,claire.novak@retailco.com,953 341 2951,Seattle,WA,5,Active,Yes,Mei Ferreira,12/22/2025
+1105,Miguel   Johnson,hr,Recruiter,01/26/2012,69937,8333,13,miguel.johnson@retailco.com,,Phoenix,AZ,1,Active,Hybrid,Nina Johnson,12/17/2025
+1089,  Yusuf Khan,MARKETING ,Brand Manager,09/06/2021,45899,4480,0,yusuf.khan@retailco.com,,Portland,OR,4,Active,Yes,Zoe Rossi,05/10/2023
+1174,  Ruth Ivanova  ,Operations,Logistics Coordinator,10/03/2016,80052,6128,14,ruth.ivanova@retailco.com,693.752.4721,Minneapolis,MN,5,Active,No,Ruth Alvarez,
+1005,Paula Costa  ,  IT,Systems Administrator,18/08/2022,69655,2406,0,paula.costa@retailco.com,780-280-2403,Atlanta,GA,3,Inactive,Hybrid,Layla Gomez,07/07/2025
+1079,Aisha   Smith, Operations,Operations Manager,09/08/2022,63043,7621,7,aisha.smith@retailco.com,791.812.6253,Atlanta,GA,3,Active,Hybrid,,9/19/2023
+1060,Nina   Smith,customer support,Customer Success Manager,9/13/2019,44075,6318,1,nina.smith@retailco.com,607.521.5566,Boston,MA,1,On Leave,No,Ravi Lee,15/12/2024
+1002,Tom Dube  ,IT,Software Engineer,07/09/2019,74044,9510,3,tom.dube@retailco.com,918.899.2169,Boston,MA,3,Active,Yes,Sophie Silva,11/11/2023
+1213,  Paula Turner,Marketing,SEO Specialist,11/24/2019,48739,1692,1,paula.turner@retailco.com,676.729.2281,Portland,OR,1,On Leave,No,Keiko Novak,11/21/2023
+1062,  Leo Lin  ,Customer Support,Support Representative,19/11/2020,46067,5215,2,leo.lin@retailco.com,(328) 524-2215,Atlanta,GA,4,Active,Hybrid,Kenji Lin,17/07/2023
+1208,David   Gomez,Marketing ,SEO Specialist,8/13/2020,73323,,14,david.gomez@retailco.com,(615) 931-2752,Dallas,TX,5,Active,No,Peter Andersson,18/04/2025
+1214,Aisha   Brown, Finance,Finance Manager,01/22/2021,88520,12824,15,aisha.brown@retailco.com,944.777.5267,Boston,MA,3,Active,Yes,James Yamamoto,01/10/2025
+1132,Tariq   Lee, Marketing,Marketing Coordinator,06/12/2017,54253,3777,6,tariq.lee@retailco.com,340-405-6614,Atlanta,GA,1,Active,Yes,Zoe Popescu,03/11/2025
+1206,Noah Silva,HR,HR Business Partner,02/07/2013,59430,5624,4,noah.silva@retailco.com,753.654.1831,Chicago,IL,3,Inactive,Hybrid,Fatima Chen,12/20/2023
+1029,Bianca  Hassan,marketing,SEO Specialist,02/25/2017,50551,,3,bianca.hassan@retailco.com,978 763 1601,Miami,FL,3,Active,No,Alina Walker,11/28/2023
+1158,Wei   Robinson,Finance ,Accountant,09/02/2022,79298,6522,10,wei.robinson@retailco.com,222 449 1706,Atlanta,GA,2,Active,Hybrid,Fatima Popescu,05/06/2023
+1094,Kenji  Zhang,SALES,Sales Associate,11/22/2014,53479,5777,3,kenji.zhang@retailco.com,538-773-7985,Boston,MA,2,On Leave,No,Tariq Suzuki,10/07/2025
+1019,Lucas   Nguyen,IT,DevOps Engineer,03/02/2019,69753,8633,0,lucas.nguyen@retailco.com,(603) 806-1444,Atlanta,GA,4,Active,No,Emma Singh,08/11/2023
+1193,  Ben Ahmed  ,  Customer Support,Technical Support Agent,11/24/2023,49180,7048,5,ben.ahmed@retailco.com,944-230-6221,San Diego,CA,3,Active,Hybrid,Zoe Wilson,05/02/2023
+1159,Priya Larsson  ,OPERATIONS,Operations Analyst,19/10/2019,78355,3305,14,priya.larsson@retailco.com,838-875-9369,Columbus,OH,5,Active,Hybrid,,04/03/2024
+1182,  Peter Lee,Sales,Sales Associate,06/08/2012,52784,,4,peter.lee@retailco.com,,Miami,FL,1,Active,No,Felix Dube,04/21/2023
+1128,Anna   Robinson,MARKETING ,Content Strategist,11/14/2016,61411,3293,11,anna.robinson@retailco.com,250 366 4511,Phoenix,AZ,1,Inactive,Yes,Lucas Singh,
+1058,Bianca Noor,Sales  ,Sales Manager,09/09/2017,54457,,1,bianca.noor@retailco.com,961 650 7334,Raleigh,NC,3,On Leave,No,Victor Khan,20/07/2023
+1212,Ben  Johnson, Sales,Account Executive,04/06/2017,78672,2962,15,ben.johnson@retailco.com,838 384 8444,Nashville,TN,4,Active,Hybrid,Andre Ahmed,8/28/2025
+1195,Nina   Khan,MARKETING ,SEO Specialist,01/18/2023,57775,5722,7,nina.khan@retailco.com,(733) 311-8399,Nashville,TN,3,Active,No,Alina Patel,01/07/2025
+1083,Ali Martin  ,IT  ,Systems Administrator,12/18/2014,90409,9502,12,ali.martin@retailco.com,940 857 9037,Boston,MA,3,Active,Yes,Alina Davis,11/02/2025
+1185,  Julia Robinson,MARKETING ,Brand Manager,5/18/2023,49371,,1,julia.robinson@retailco.com,,Austin,TX,3,Active,No,Lucas O'Brien,04/03/2025
+1149,  Sana Lee,MARKETING,SEO Specialist,25/11/2022,66153,1700,11,sana.lee@retailco.com,(298) 371-9814,Phoenix,AZ,2,Inactive,Hybrid,Sonia Johnson,02/07/2024
+1015,Zoe Zhang  ,MARKETING,Content Strategist,22/08/2019,70545,9690,13,zoe.zhang@retailco.com,(511) 493-4443,San Diego,CA,3,Active,Hybrid,Gustav Haddad,22/03/2025
+1217,  Nadia Kowalski  , Operations,Operations Analyst,19/11/2023,76506,8015,11,nadia.kowalski@retailco.com,(461) 870-7408,Portland,OR,3,On Leave,Yes,,12/06/2025
+1154,Lucas Petrov, operations,Warehouse Supervisor,11/03/2023,59296,4754,4,lucas.petrov@retailco.com,(379) 861-2343,Miami,FL,3,Active,Hybrid,Ben Silva,
+1130,Ivy Ferreira,SALES ,Sales Associate,08/10/2022,64503,3480,8,ivy.ferreira@retailco.com,258-814-7620,Austin,TX,3,On Leave,Hybrid,Nadia Ferreira,24/07/2024
+1199,Noah  Kim,  IT,Software Engineer,12/19/2019,81797,8729,11,noah.kim@retailco.com,(250) 311-7831,Boston,MA,3,Active,Yes,Ahmed Davis,05/11/2023
+1086,  Dmitri Ahmed  ,operations,Operations Analyst,22/10/2020,52166,5738,1,dmitri.ahmed@retailco.com,,Miami,FL,3,Active,Hybrid,,01/07/2024
+1142,  Omar Andersson,finance,Financial Analyst,1/21/2018,68670,8002,5,omar.andersson@retailco.com,323-602-4532,Seattle,WA,3,On Leave,Yes,Alina Osei,8/22/2024
+1202,  Jack Alvarez,Finance,Accounts Payable Clerk,03/21/2019,67436,,3,jack.alvarez@retailco.com,398-538-6536,Atlanta,GA,5,Inactive,Yes,Simon Garcia,06/15/2025
+1115,  Omar Nguyen,Marketing,Brand Manager,09/11/2021,49109,,2,omar.nguyen@retailco.com,(591) 930-6883,Charlotte,NC,5,Active,No,Simon Silva,20/06/2023
+1201,Keiko Larsson  ,OPERATIONS ,Operations Manager,9/26/2017,64854,1310,7,keiko.larsson@retailco.com,(955) 412-7793,Columbus,OH,,Active,Yes,,04/23/2025
+1078,Sonia   Rossi,Customer Support  ,Support Representative,02/04/2015,58196,,11,sonia.rossi@retailco.com,,Portland,OR,1,On Leave,Hybrid,Ali Novak,
+1016,Rosa Walker,Customer Support  ,Technical Support Agent,23/11/2014,56806,,7,rosa.walker@retailco.com,(666) 624-4185,Portland,OR,,Inactive,Hybrid,Felix Nguyen,08/07/2023
+1150,Gustav  Singh,Customer Support ,Technical Support Agent,07/14/2022,49657,1238,4,gustav.singh@retailco.com,771.272.4729,San Diego,CA,,Inactive,Yes,Sam Wilson,
+1184,Liam  Fischer,operations,Operations Manager,11/14/2018,77204,,13,liam.fischer@retailco.com,746-814-8258,Charlotte,NC,4,Active,Hybrid,Nadia Andersson,18/10/2023
+1061,Layla   Osei,  Sales,Sales Associate,04/04/2020,63443,1993,5,layla.osei@retailco.com,(763) 755-5757,Charlotte,NC,3,On Leave,Hybrid,Ivy Davis,08/01/2023
+1006,Ingrid   Petrov, hr,HR Business Partner,09/08/2013,65552,,14,ingrid.petrov@retailco.com,207-272-1964,Columbus,OH,5,On Leave,Hybrid,Mei Gomez,09/05/2023
+1049,  Peter Yamamoto,  HR,Payroll Specialist,28/11/2013,74952,,15,peter.yamamoto@retailco.com,(517) 672-8404,Dallas,TX,1,On Leave,Hybrid,Laura Kim,7/15/2025
+1100,Maya   Nguyen,IT,DevOps Engineer,11/23/2022,90068,10804,14,maya.nguyen@retailco.com,665.699.6362,San Diego,CA,3,Active,No,Sarah Fischer,07/07/2025
+1035,Julia  Dube,SALES ,Sales Manager,06/19/2021,56993,8457,5,julia.dube@retailco.com,509 403 7302,Nashville,TN,4,Active,No,Simon Bello,1/27/2024
+1152,  Leo Johnson,Finance,Accountant,07/05/2021,64896,5830,1,leo.johnson@retailco.com,416.622.9397,Portland,OR,3,Active,Hybrid,Chloe Davis,1/28/2025
+1112,  Kenji Lin  , hr,HR Coordinator,04/12/2023,70757,5677,11,kenji.lin@retailco.com,921.913.1660,Denver,CO,1,Active,No,Zara Zhang,09/05/2025
+1021,  Hana Fischer,  Customer Support,Customer Success Manager,07/22/2020,43555,6012,0,hana.fischer@retailco.com,304-913-5941,Charlotte,NC,2,Inactive,No,Oliver Popescu,
+1124,Kenji Khan  ,IT  ,IT Support Specialist,15/09/2016,69274,5306,1,kenji.khan@retailco.com,527.944.2097,Columbus,OH,2,Active,No,Yusuf Rossi,10/17/2025
+1171,Sam Robinson,HR,HR Business Partner,07/20/2013,45993,4983,0,sam.robinson@retailco.com,999-491-6818,San Diego,CA,5,Active,Hybrid,Peter Ferreira,03/21/2023
+1215,Paula Gomez  ,CUSTOMER SUPPORT,Customer Success Manager,28/09/2014,54952,,8,paula.gomez@retailco.com,874-657-7058,Raleigh,NC,2,Active,No,Ahmed Noor,20/03/2023
+1194,Maria Costa  ,Finance  ,Accountant,14/01/2015,59651,4889,0,maria.costa@retailco.com,388.596.9051,Phoenix,AZ,5,Active,Yes,Bianca Ivanova,4/24/2024
+1076,Layla   Walker,FINANCE ,Financial Analyst,18/02/2023,69303,1906,4,layla.walker@retailco.com,460 203 4570,Charlotte,NC,3,Active,Yes,Carlos Patel,08/02/2023
+1048,  Victor Suzuki  ,  HR,HR Coordinator,02/06/2022,54406,,3,victor.suzuki@retailco.com,441-305-3399,Atlanta,GA,3,On Leave,Hybrid,Julia Osei,10/15/2025
+1176,Lena   Singh,Operations,Warehouse Supervisor,18/01/2014,61998,,6,lena.singh@retailco.com,917.837.9060,Austin,TX,4,Inactive,No,,09/05/2023
+1010,Sam Larsen,IT,DevOps Engineer,09/23/2019,73172,6819,2,sam.larsen@retailco.com,335.557.2127,Boston,MA,5,On Leave,No,Ravi Robinson,09/01/2025
+1141,  Priya Bello  , marketing,Marketing Coordinator,11/12/2023,43744,6352,0,priya.bello@retailco.com,549 572 1889,Raleigh,NC,5,Active,No,Lucas Lin,08/11/2023
+1045,David   Walker,Operations,Logistics Coordinator,11/14/2019,73424,,13,david.walker@retailco.com,(253) 359-3579,Miami,FL,3,Active,No,Aisha Ferreira,05/07/2024
+1051,Aisha Yamamoto,operations,Operations Analyst,12/03/2021,59870,3159,3,aisha.yamamoto@retailco.com,283.796.3317,Atlanta,GA,5,Inactive,Hybrid,Jack Singh,27/06/2025
+1074,Sam Rossi,IT ,Systems Administrator,05/12/2022,89085,4811,9,sam.rossi@retailco.com,(676) 514-3616,Seattle,WA,2,Inactive,Hybrid,Ethan Ferreira,08/05/2023
+1117,Chloe Popescu,IT ,QA Engineer,23/06/2014,75820,,5,chloe.popescu@retailco.com,,Phoenix,AZ,2,On Leave,Hybrid,Simon Johnson,01/01/2024
+1020,  Ali Noor,Customer Support ,Customer Success Manager,22/08/2014,46040,,1,ali.noor@retailco.com,(972) 231-5051,Portland,OR,,Active,Yes,Ingrid Chen,08/23/2023
+1087,  Maya Gomez  ,  HR,Recruiter,6/20/2013,72144,,12,maya.gomez@retailco.com,(712) 963-6666,Portland,OR,2,Active,No,Aisha Bello,06/01/2024
+1136,Grace   Dube,FINANCE,Accountant,01/18/2014,70057,3976,3,grace.dube@retailco.com,996-469-9571,Dallas,TX,4,Active,Yes,Ingrid Hassan,11/08/2025
+1093,  Liam Johnson  ,SALES,Account Executive,05/11/2017,61656,7424,7,liam.johnson@retailco.com,(694) 307-5840,Atlanta,GA,5,Active,No,Ali Walker,08/12/2025
+1023,Ella Nguyen,it,Systems Administrator,12/16/2022,88691,4959,8,ella.nguyen@retailco.com,(447) 937-7658,Raleigh,NC,,Inactive,Yes,Layla Andersson,05/08/2023
+1165,  Lucas Costa  ,IT ,DevOps Engineer,25/08/2021,68433,2316,0,lucas.costa@retailco.com,(725) 463-9813,Nashville,TN,,Active,No,Julia Marquez,11/15/2024
+1161,Grace Ahmed  ,IT,DevOps Engineer,02/05/2017,74881,5476,2,grace.ahmed@retailco.com,(732) 207-7144,Minneapolis,MN,1,Active,Hybrid,Noah Marquez,5/28/2024
+1014,Sam  Patel, sales,Sales Manager,06/20/2022,68426,2397,10,sam.patel@retailco.com,201 732 9821,Denver,CO,2,Active,Hybrid,Ingrid Robinson,12/10/2023
+1102,Leo   Dube,  Operations,Operations Analyst,4/17/2021,72216,5474,9,leo.dube@retailco.com,,Atlanta,GA,1,Active,Hybrid,,11/12/2023
+1077,Ben   Fischer, operations,Warehouse Supervisor,27/04/2023,81352,8847,14,ben.fischer@retailco.com,321.382.9802,Atlanta,GA,5,On Leave,No,,8/22/2024
+1085,Ahmed Bello  ,Sales,Account Executive,07/13/2013,62316,,6,ahmed.bello@retailco.com,670 778 4984,Chicago,IL,4,Active,Yes,Lucas Alvarez,11/01/2023
+1091,Ingrid Garcia,  HR,Payroll Specialist,04/15/2023,68261,9953,9,ingrid.garcia@retailco.com,573 316 4273,San Diego,CA,3,Active,Hybrid,Hugo Khan,07/22/2023
+1137,  Yusuf Lee,CUSTOMER SUPPORT ,Support Representative,11/11/2017,50807,,2,yusuf.lee@retailco.com,470.675.1820,Dallas,TX,2,Inactive,Hybrid,Grace Khan,01/01/2023
+1145,Liam  Chen,  Marketing,Marketing Coordinator,10/28/2013,46591,1907,1,liam.chen@retailco.com,(907) 502-4342,San Diego,CA,3,Active,Yes,Hugo Patel,12/21/2023
+1031,Omar   Muller,OPERATIONS,Operations Manager,05/24/2012,74476,5203,15,omar.muller@retailco.com,271-482-7798,Miami,FL,5,Active,Hybrid,,16/11/2025
+1123,James  Ruiz,Customer Support ,Support Representative,12/02/2018,67732,8015,11,james.ruiz@retailco.com,748 903 8779,Denver,CO,1,Active,Yes,Anna Garcia,10/22/2025
+1098,Maria  Fischer,finance,Financial Analyst,12/19/2015,85416,2846,14,maria.fischer@retailco.com,(660) 469-6711,Portland,OR,2,Active,Hybrid,Yusuf Ferreira,10/21/2025
+1187,  Mei Karim, Operations,Operations Manager,05/07/2016,64961,,9,mei.karim@retailco.com,356-251-7436,Minneapolis,MN,3,On Leave,No,Paula Walker,24/10/2024
+1057,Anna Larsson  ,Operations ,Warehouse Supervisor,07/05/2012,55032,,1,anna.larsson@retailco.com,846 386 3209,San Diego,CA,4,Active,Hybrid,,06/10/2023
+1045,David   Walker,Operations,Logistics Coordinator,11/14/2019,73424,,13,david.walker@retailco.com,(253) 359-3579,Miami,FL,3,Active,No,Aisha Ferreira,05/07/2024
+1017,Tariq   Kim,Finance  ,Financial Analyst,5/25/2022,70886,10521,4,tariq.kim@retailco.com,761 656 3607,Portland,OR,4,Inactive,No,Bianca Ferreira,15/05/2023
+1103,  Fatima Garcia,Sales  ,Regional Sales Lead,12/05/2022,53481,3150,3,fatima.garcia@retailco.com,270-743-1138,Phoenix,AZ,2,Active,Yes,Sophie Ferreira,03/04/2024
+1111,  Leo Lin  ,Operations ,Operations Analyst,08/05/2019,59638,,4,leo.lin@retailco.com,442-498-5276,Columbus,OH,4,Active,Yes,Maya Marquez,04/10/2023
+1122,  Yusuf Martin,CUSTOMER SUPPORT ,Support Representative,12/07/2017,42399,6233,0,yusuf.martin@retailco.com,682 700 5341,Boston,MA,1,Active,No,Yusuf Singh,08/15/2024
+1125,  Diego Ruiz  ,Finance ,Financial Analyst,10/20/2014,67355,9054,3,diego.ruiz@retailco.com,785 823 8750,Nashville,TN,3,Active,Yes,Laura Khan,07/11/2023
+1181,Nina Kowalski,IT ,Systems Administrator,09/22/2015,85309,7317,11,nina.kowalski@retailco.com,994.835.4912,Nashville,TN,1,Active,Hybrid,Peter Larsson,10/10/2023
+1131,Marco  Brown,Operations  ,Operations Manager,06/08/2015,70368,9097,11,marco.brown@retailco.com,331 958 5237,Denver,CO,2,On Leave,No,Ella Ferreira,06/12/2024
+1197,  Peter Marquez,  Operations,Operations Analyst,10/28/2017,58450,1817,3,peter.marquez@retailco.com,587-763-7235,Boston,MA,5,Active,No,,03/06/2023
+1147,  Oliver Rossi  , sales,Sales Manager,10/18/2019,58982,3135,8,oliver.rossi@retailco.com,,Dallas,TX,2,Inactive,No,Peter Costa,
+1100,Maya   Nguyen,IT,DevOps Engineer,11/23/2022,90068,10804,14,maya.nguyen@retailco.com,665.699.6362,San Diego,CA,3,Active,No,Sarah Fischer,07/07/2025
+1084,Aisha  Adeyemi, sales,Account Executive,09/24/2012,61676,,7,aisha.adeyemi@retailco.com,875 699 1257,Austin,TX,4,Inactive,No,Sarah Silva,1/17/2024
+1179,  Peter Johnson,IT,QA Engineer,08/03/2014,93087,,12,peter.johnson@retailco.com,904 810 3539,Portland,OR,,Inactive,Yes,Leo Fischer,01/02/2025
+1200,Nora Andersson  ,SALES,Regional Sales Lead,06/09/2021,54981,,3,nora.andersson@retailco.com,(311) 785-9666,Minneapolis,MN,2,On Leave,No,Yusuf Garcia,06/05/2025
+1068,Ben   Zhang,finance,Accountant,08/09/2021,78018,6730,9,ben.zhang@retailco.com,(577) 539-2795,Austin,TX,5,Active,Hybrid,Ali Haddad,10/08/2025
+1099,  Ben O'Brien  ,Customer Support  ,Support Representative,11/05/2016,62497,2618,11,ben.obrien@retailco.com,726.895.2560,Chicago,IL,3,Active,Hybrid,Ben Adeyemi,03/23/2023
+1170,Dmitri  Ivanova,Customer Support,Technical Support Agent,5/16/2015,65026,,10,dmitri.ivanova@retailco.com,,Chicago,IL,5,Inactive,No,Grace Marquez,
+1009,  James Kim,FINANCE ,Accountant,10/19/2022,64664,,2,james.kim@retailco.com,322 783 5033,Minneapolis,MN,,Active,Yes,Tom Novak,4/22/2024
+1000,Hana Chen  ,OPERATIONS,Logistics Coordinator,10/01/2020,57655,7840,4,hana.chen@retailco.com,,Portland,OR,4,Active,No,,12/18/2025
+1163,Felix   Yamamoto,Sales ,Account Executive,11/16/2014,64294,,13,felix.yamamoto@retailco.com,,Chicago,IL,5,Inactive,Hybrid,Felix Larsen,
+1167,Anna Karim  ,IT,IT Support Specialist,10/28/2019,81369,5393,6,anna.karim@retailco.com,828 206 9871,Columbus,OH,1,On Leave,Yes,Tom Garcia,13/05/2025
+1038,  Sonia Lee  ,marketing,SEO Specialist,02/03/2013,72734,2479,12,sonia.lee@retailco.com,824.426.2035,Minneapolis,MN,1,On Leave,Yes,Tariq Marquez,04/02/2024
+1127,Nina Alvarez  ,Operations,Operations Manager,04/09/2023,50579,2331,0,nina.alvarez@retailco.com,,Charlotte,NC,,Inactive,Yes,,21/07/2025
+1004,  Nora Costa  , sales,Regional Sales Lead,1/24/2019,73433,9686,14,nora.costa@retailco.com,987.856.6573,Boston,MA,,Inactive,No,Hana Martin,17/03/2025
+1114,  Ruth Ivanova,sales,Sales Associate,05/09/2014,65890,5028,14,ruth.ivanova@retailco.com,,Phoenix,AZ,4,Active,Hybrid,Nora Khan,10/20/2023
+1198,Jack  Alvarez,OPERATIONS ,Warehouse Supervisor,15/07/2019,56677,1160,5,jack.alvarez@retailco.com,756 205 9084,Raleigh,NC,1,On Leave,Hybrid,,04/18/2023
+1064,Sam  Singh, it,QA Engineer,08/07/2019,72137,7462,0,sam.singh@retailco.com,504 664 2195,Minneapolis,MN,2,Active,No,James Davis,12/11/2024
+1186,Diego Ivanova  ,hr,Recruiter,13/10/2023,63700,,8,diego.ivanova@retailco.com,694.377.8999,Chicago,IL,2,Active,Yes,Grace Costa,06/27/2024
+1146,Andre   Marquez, HR,Payroll Specialist,04/10/2023,78939,,13,andre.marquez@retailco.com,835-999-8259,Phoenix,AZ,1,Inactive,Hybrid,Lucas Yamamoto,06/02/2025
+1209,  Nina Brown  , it,DevOps Engineer,13/05/2014,90256,,10,nina.brown@retailco.com,317 806 8584,San Diego,CA,1,Active,No,Peter Andersson,10/25/2025
+1018,Anna Turner  ,hr,HR Coordinator,01/12/2019,53881,6026,4,anna.turner@retailco.com,625 263 4388,Nashville,TN,,On Leave,Hybrid,Ali Rossi,9/24/2024
+1008,  Grace Kim,Operations,Operations Analyst,10/04/2014,61919,2959,7,grace.kim@retailco.com,(599) 471-8454,Raleigh,NC,1,Inactive,No,,18/12/2025
+1026,Aisha Ruiz  ,IT,Software Engineer,11/07/2015,75722,9298,3,aisha.ruiz@retailco.com,504 802 8025,Seattle,WA,5,Active,Yes,Jack Popescu,04/06/2023
+1066,  Alina Smith,it,Software Engineer,06/25/2023,87248,9166,9,alina.smith@retailco.com,,Miami,FL,5,Active,No,Liam Ahmed,1/19/2024
+1183,James  Robinson, finance,Accounts Payable Clerk,4/17/2015,66096,,1,james.robinson@retailco.com,279.421.9511,Nashville,TN,,On Leave,No,Grace Bello,3/18/2025
+1113,  Kenji Andersson,Operations,Logistics Coordinator,09/10/2021,68401,,14,kenji.andersson@retailco.com,333-402-7563,Denver,CO,,Active,Yes,,
+1125,  Diego Ruiz  ,Finance ,Financial Analyst,10/20/2014,67355,9054,3,diego.ruiz@retailco.com,785 823 8750,Nashville,TN,3,Active,Yes,Laura Khan,07/11/2023
+1164,  Lena Osei  ,Sales,Account Executive,03/12/2023,56745,5967,5,lena.osei@retailco.com,561 885 7474,Austin,TX,1,Active,No,Ethan Haddad,09/19/2025
+1157,Sam  Haddad,  Finance,Finance Manager,15/03/2020,82702,10636,12,sam.haddad@retailco.com,728-615-6781,Austin,TX,4,Active,Yes,Amy Nguyen,09/11/2025
+1055,Rosa   Ruiz, IT,Systems Administrator,02/02/2016,80687,8068,4,rosa.ruiz@retailco.com,761-944-9647,Portland,OR,1,Active,Hybrid,Nora Lee,03/08/2025
+1110,Ravi  Lin,HR ,Recruiter,02/08/2018,54530,1260,7,ravi.lin@retailco.com,(977) 873-7164,Portland,OR,1,Active,Hybrid,Jack Bello,01/08/2023
+1196,Ivy Fischer  ,CUSTOMER SUPPORT,Customer Success Manager,15/06/2018,65535,7189,13,ivy.fischer@retailco.com,292 939 9202,Nashville,TN,4,Active,No,Hana Khan,12/07/2025
+1138,Sophie  Brown,HR ,HR Business Partner,2/14/2014,50969,,2,sophie.brown@retailco.com,906 689 7909,Chicago,IL,4,On Leave,No,Sophie Lee,15/11/2025
+1036,Mike  Popescu, Customer Support,Technical Support Agent,01/19/2019,74124,3700,15,mike.popescu@retailco.com,894.973.3240,Dallas,TX,2,Active,Yes,Grace Yamamoto,05/11/2023
+1027,  Sarah Wilson,MARKETING ,SEO Specialist,03/03/2016,59256,,7,sarah.wilson@retailco.com,840.803.4241,Atlanta,GA,1,Active,No,Nora Lee,10/24/2024
