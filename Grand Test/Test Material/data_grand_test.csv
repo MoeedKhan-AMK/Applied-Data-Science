@@ -1,0 +1,1001 @@
+ID,Name,Department,City,Age,Salary,Phone,Status,Skills,Performance
+1,Bilal,HR,Islamabad,41,51594,0321-5781453,Active,"Python, Excel",82
+2, Ali ,Finance,Karachi ,44,176975,0308-5916045,Active," Excel,Power BI ",91
+3,Hina,Sales,Peshawar ,38,171526,0305-9439388, inactive,"Python ,SQL",55
+4, Ahmed,Finance,Quetta,38,81409,0329-7879972,Active ,"Python, Excel",55
+5,Hina,IT,Peshawar ,37,129637,0317-4639011, inactive,"Python, Excel",91
+6,Hamza,Sales,Karachi ,36,52773,0305-9962052,ACTIVE,"SQL,Python",78
+7,Bilal,IT,Karachi ,23,63274,0310-8507841,Inactive,"Python ,SQL",76
+8,Sara,Finance,Peshawar ,40,103558,0308-9768375, inactive,"Python ,SQL",67
+9,Hamza,Sales, Lahore,29,166372,0332-8412389,Inactive,"Python, Excel",55
+10,Hina,HR,Islamabad,21,76276,0328-5114429, inactive,"Java, Python ",55
+11, Ali ,IT,Peshawar ,29,137053,0323-4998468,Active,"Python ,SQL",78
+12,Zain ,HR,Peshawar ,38,79843,0338-9453896,Active,"Python ,SQL",78
+13,Hina,Sales,Quetta,45,132188,0303-7508623, inactive,"Python, Excel",55
+14,Bilal,CS,Quetta,20,132174,0323-3968284, inactive,"Python, Excel",76
+15,Zain ,Sales,Peshawar ,45,139736,0327-1176720,Active," Excel,Power BI ",91
+16,Hina,HR,Quetta,41,176220,0308-5215453,Active," Excel,Power BI ",55
+17,Bilal,HR,Karachi ,34,54688,0329-3032555,Active ,"Python ,SQL",55
+18,Bilal,CS,Islamabad,27,75407,0312-9912388,Inactive,"Python, Excel",76
+19,Bilal,Finance,Islamabad,28,123860,0349-6835853,Active," Excel,Power BI ",82
+20,Ayesha,HR, Lahore,32,52212,0336-5093103,Active ,"Python ,SQL",67
+21,Hamza,Finance,Quetta,21,116642,0312-7228548,Inactive,"SQL,Python",78
+22,Bilal,Sales,Karachi ,37,96408,0308-8964310,Active ,"Python ,SQL",89
+23,Zain ,HR,Peshawar ,34,92141,0330-5719411, inactive,"Python ,SQL",89
+24, Ali ,CS,Islamabad,43,104998,0342-5312726,Inactive,"Python ,SQL",89
+25,Usman,CS,Peshawar ,41,47699,0310-7944376,Active ,"Java, Python ",76
+26,Fatima,CS, Lahore,24,138726,0305-2288135,ACTIVE,"SQL,Python",67
+27, Ali ,Finance,Quetta,31,88187,0317-4534388,Active ," Excel,Power BI ",55
+28,Usman,Sales,Quetta,42,161067,0348-5830313,ACTIVE,"Python, Excel",78
+29,Zain ,HR, Lahore,26,171100,0306-3941987,Active,"Java, Python ",78
+30,Hina,IT,Islamabad,33,147513,0303-7516455, inactive,"Java, Python ",91
+31,Zain ,HR,Quetta,35,92523,0307-7990511,Active," Excel,Power BI ",67
+32,Zain ,Finance,Quetta,39,104217,0328-4354859,Inactive,"SQL,Python",91
+33,Sara,HR, Lahore,23,84990,0340-5738578, inactive,"Python, Excel",78
+34,Fatima,HR, Lahore,41,175038,0300-6846263,Active,"SQL,Python",89
+35,Bilal,HR,Quetta,24,93118,0314-3787528,Active ,"SQL,Python",82
+36,Bilal,Finance,Quetta,34,76013,0307-2450594, inactive,"Python, Excel",82
+37, Ali ,Sales,Karachi ,28,145539,0339-7193006, inactive,"SQL,Python",91
+38,Ayesha,Finance,Karachi ,41,40352,0314-9821367,Active,"SQL,Python",82
+39, Ali ,HR,Karachi ,35,62645,0330-8846504,Inactive," Excel,Power BI ",55
+40,Hamza,HR,Peshawar ,45,149505,0315-6368250,Active ," Excel,Power BI ",82
+41,Ayesha,Finance, Lahore,33,84085,0307-8972585,ACTIVE,"SQL,Python",82
+42, Ahmed,HR,Quetta,22,59507,0303-5768926, inactive,"Python, Excel",89
+43,Sara,Sales,Islamabad,29,175336,0320-5927031,ACTIVE,"Python ,SQL",76
+44,Usman,Sales,Karachi ,23,44448,0310-3282594,ACTIVE,"SQL,Python",78
+45,Hamza,Finance,Quetta,32,121990,0346-4199338,Inactive,"Python, Excel",89
+46,Hamza,Sales,Peshawar ,45,100898,0325-6112106,Active ,"Python, Excel",67
+47,Ayesha,Sales,Islamabad,23,59486,0315-2790024,Active," Excel,Power BI ",82
+48,Zain ,Finance,Karachi ,27,41442,0346-6107085,ACTIVE,"Java, Python ",78
+49,Bilal,CS,Islamabad,42,170743,0339-8593852,Active ,"Python ,SQL",76
+50,Hina,Sales, Lahore,41,89469,0338-3246988,Inactive,"Python ,SQL",55
+51, Ali ,CS,Islamabad,39,130445,0319-6031116,Active," Excel,Power BI ",82
+52,Hina,HR,Quetta,42,120906,0321-4452893,ACTIVE," Excel,Power BI ",67
+53,Fatima,Sales, Lahore,31,177941,0336-4722946, inactive," Excel,Power BI ",82
+54,Fatima,HR, Lahore,36,64494,0330-6712086,Active,"Python, Excel",78
+55,Usman,Sales,Quetta,33,94239,0337-6696130,Active,"SQL,Python",55
+56,Sara,IT,Karachi ,30,149567,0321-2550032, inactive,"SQL,Python",67
+57,Fatima,Finance,Peshawar ,37,128280,0342-9564354,Active,"Python, Excel",67
+58,Hina,IT, Lahore,34,114416,0346-7082267,Active,"Python ,SQL",91
+59,Fatima,Finance,Peshawar ,45,81679,0338-6085381,Inactive,"Python ,SQL",78
+60,Fatima,IT, Lahore,35,93872,0322-6856038,Active," Excel,Power BI ",91
+61,Fatima,IT,Islamabad,44,163305,0319-4991143,Active," Excel,Power BI ",67
+62,Zain ,IT, Lahore,36,150509,0321-4721746,Inactive,"SQL,Python",82
+63, Ali ,Finance,Peshawar ,25,172361,0343-1610213,Inactive,"Java, Python ",76
+64,Hamza,CS,Karachi ,40,71020,0306-7276936,Active ,"Java, Python ",91
+65,Sara,IT,Quetta,21,179905,0305-2941008,Active," Excel,Power BI ",82
+66,Sara,Finance,Islamabad,25,167669,0321-7291682,ACTIVE,"Python ,SQL",78
+67,Sara,IT, Lahore,21,136671,0329-5124419,Inactive,"Python, Excel",76
+68,Usman,Sales,Karachi ,40,177368,0312-9336779,Active,"Java, Python ",82
+69,Zain ,CS,Islamabad,33,131207,0327-8150952,Active,"Python ,SQL",67
+70,Zain ,IT,Quetta,44,67021,0300-7115689,ACTIVE,"Python ,SQL",55
+71,Hamza,Sales, Lahore,23,169480,0312-9290896, inactive,"Java, Python ",91
+72,Sara,CS,Quetta,41,178347,0314-9092500, inactive,"SQL,Python",78
+73,Fatima,CS,Peshawar ,33,74862,0315-7754304,Active,"SQL,Python",76
+74, Ali ,Sales, Lahore,31,54962,0342-9740250,Active,"Python, Excel",91
+75,Hamza,HR, Lahore,40,47317,0317-9664195,Active ,"Java, Python ",67
+76,Fatima,CS, Lahore,28,73554,0300-8680476, inactive,"SQL,Python",67
+77,Ayesha,CS, Lahore,36,120350,0347-6166800, inactive,"Java, Python ",67
+78,Bilal,CS,Quetta,35,134832,0307-8595570,ACTIVE,"SQL,Python",91
+79,Bilal,IT,Quetta,39,52124,0325-2575379, inactive," Excel,Power BI ",82
+80,Hina,CS,Karachi ,43,162755,0325-1559645,Inactive," Excel,Power BI ",76
+81,Usman,HR,Islamabad,22,108483,0306-9801556,Active ,"Python ,SQL",91
+82,Sara,HR, Lahore,26,177674,0327-8705932,Active,"Python ,SQL",55
+83,Hina,HR, Lahore,24,46812,0311-6260475,Active,"Java, Python ",91
+84,Zain ,IT, Lahore,27,97236,0302-9563966,Active,"Java, Python ",55
+85,Hina,Finance,Karachi ,28,48890,0313-3930883,Inactive,"Java, Python ",82
+86,Ayesha,CS,Peshawar ,45,172919,0338-2018674,ACTIVE,"Python ,SQL",82
+87,Zain ,HR,Peshawar ,31,131501,0304-8252346, inactive,"Java, Python ",55
+88,Zain ,Finance,Quetta,25,43905,0306-6527540,Active,"Python, Excel",82
+89, Ali ,Finance,Peshawar ,35,164186,0342-7282626,Inactive,"Python ,SQL",89
+90,Usman,Finance,Islamabad,32,73257,0348-3093074,Active ,"SQL,Python",67
+91,Bilal,Sales,Karachi ,43,97458,0305-2586605,Inactive," Excel,Power BI ",55
+92, Ali ,Finance, Lahore,20,111606,0317-6548213,Active,"Python, Excel",91
+93,Bilal,Sales,Peshawar ,32,63716,0325-8874597,Inactive,"Java, Python ",55
+94,Bilal,Finance,Quetta,32,97112,0323-5881699,ACTIVE,"Python ,SQL",55
+95,Hamza,IT,Islamabad,32,112943,0328-4142107,Inactive," Excel,Power BI ",67
+96,Bilal,HR, Lahore,33,49034,0334-8899267, inactive," Excel,Power BI ",82
+97,Zain ,CS,Karachi ,41,172979,0345-5061060,Active ,"Python, Excel",78
+98, Ahmed,HR,Islamabad,27,143853,0332-4627441,Active ,"Java, Python ",67
+99,Ayesha,IT,Islamabad,23,85848,0317-9579653,Active,"SQL,Python",55
+100, Ali ,Sales, Lahore,22,73559,0337-7211870,ACTIVE,"Python ,SQL",78
+101,Usman,HR,Peshawar ,37,79859,0347-1807648,ACTIVE,"Java, Python ",55
+102,Usman,CS, Lahore,36,138326,0341-1737561,Active ," Excel,Power BI ",89
+103,Hamza,CS,Islamabad,43,167329,0333-3226122,Active ,"Java, Python ",78
+104,Hamza,IT, Lahore,43,130984,0346-8042406,ACTIVE," Excel,Power BI ",91
+105,Bilal,Finance,Peshawar ,20,125857,0336-3604563,ACTIVE,"Python ,SQL",67
+106,Bilal,Sales,Peshawar ,30,100900,0305-2432291,Active ," Excel,Power BI ",55
+107,Hamza,HR,Karachi ,29,148874,0327-8023681,Active ," Excel,Power BI ",89
+108, Ali ,Finance,Karachi ,26,173998,0328-4112782,Active ,"Java, Python ",91
+109,Fatima,HR,Peshawar ,33,98460,0331-6503119, inactive,"Java, Python ",89
+110, Ahmed,Finance,Quetta,40,76400,0310-6724304,Inactive,"Python, Excel",91
+111,Sara,IT,Karachi ,42,58653,0338-1778837,Active ,"Python ,SQL",89
+112,Ayesha,Finance, Lahore,24,130303,0339-9651779,Active,"Python, Excel",55
+113,Bilal,HR,Islamabad,43,137846,0322-5910250,Active,"Python, Excel",89
+114,Ayesha,Finance, Lahore,42,118990,0324-7883577, inactive,"Python ,SQL",78
+115,Fatima,IT,Quetta,35,91748,0307-1944706,Active ,"SQL,Python",67
+116,Zain ,HR,Islamabad,42,77496,0319-5005211,Active,"SQL,Python",76
+117,Ayesha,Sales,Peshawar ,38,40183,0322-8619599,Inactive,"Python ,SQL",67
+118,Usman,IT, Lahore,31,80617,0349-1126179,Active," Excel,Power BI ",76
+119,Fatima,IT,Islamabad,34,148816,0307-8341872, inactive,"SQL,Python",76
+120, Ali ,CS,Karachi ,31,49299,0333-2704705,Inactive,"SQL,Python",78
+121, Ali ,Sales,Karachi ,31,89385,0324-5285783, inactive,"Python, Excel",67
+122,Bilal,CS,Karachi ,35,160978,0320-9953557,Active ," Excel,Power BI ",76
+123, Ali ,CS,Quetta,23,56388,0349-2561532,Inactive," Excel,Power BI ",82
+124, Ahmed,CS,Quetta,35,152896,0334-8455316, inactive,"Python, Excel",82
+125,Sara,Finance, Lahore,26,158038,0300-6568550,ACTIVE,"Python, Excel",55
+126,Ayesha,Finance,Quetta,31,102426,0344-9317828,ACTIVE," Excel,Power BI ",89
+127,Usman,CS, Lahore,39,54159,0316-2883326,Active," Excel,Power BI ",78
+128,Ayesha,HR,Quetta,43,62454,0301-7283793,Active ,"Python, Excel",76
+129, Ali ,HR,Quetta,37,124335,0323-6586174,ACTIVE," Excel,Power BI ",91
+130,Fatima,HR,Islamabad,40,62481,0345-8486633,ACTIVE,"SQL,Python",89
+131, Ali ,HR, Lahore,42,65551,0314-9701650,Active ,"Python ,SQL",67
+132,Hamza,HR, Lahore,34,178083,0322-7131473,Active," Excel,Power BI ",55
+133,Hina,Finance,Karachi ,36,147373,0315-8979894,ACTIVE," Excel,Power BI ",76
+134, Ali ,IT,Karachi ,25,152111,0309-5525655, inactive,"Java, Python ",78
+135,Bilal,IT,Quetta,45,177555,0303-3553269,Active ,"Python ,SQL",55
+136,Sara,Finance,Peshawar ,21,151234,0311-7559137,Active ," Excel,Power BI ",55
+137,Hamza,Finance,Peshawar ,32,81322,0314-5951665,Active ,"Java, Python ",82
+138,Bilal,Sales,Karachi ,27,163518,0326-9971316,Active ,"SQL,Python",82
+139,Sara,IT, Lahore,24,88231,0326-3146629,Active,"Python ,SQL",67
+140,Sara,IT,Peshawar ,27,130701,0300-1851826,Active ,"Java, Python ",76
+141, Ahmed,Sales,Peshawar ,25,132524,0319-8464496,ACTIVE,"Java, Python ",55
+142, Ahmed,IT,Islamabad,43,128600,0327-6439836, inactive,"Python ,SQL",67
+143, Ahmed,HR,Peshawar ,36,46536,0321-4883251,Active,"SQL,Python",91
+144,Usman,Finance,Quetta,34,50437,0330-9354803,Inactive,"SQL,Python",91
+145, Ahmed,CS, Lahore,28,72952,0319-4221126,Inactive,"Java, Python ",78
+146,Zain ,CS,Peshawar ,38,169738,0342-6654867,Active,"Python ,SQL",76
+147,Sara,IT,Peshawar ,28,148267,0318-1649271,Active ,"Python, Excel",76
+148, Ahmed,Finance,Islamabad,28,150792,0305-9677740,ACTIVE,"Python, Excel",91
+149,Sara,IT,Islamabad,45,52835,0304-6396555,ACTIVE,"Python ,SQL",78
+150,Sara,IT,Karachi ,45,150205,0324-6741089,Active," Excel,Power BI ",78
+151,Hina,Finance,Karachi ,38,68618,0325-6612621,Active ," Excel,Power BI ",55
+152,Ayesha,Finance, Lahore,37,68490,0336-4927669, inactive,"Python ,SQL",78
+153,Bilal,Finance,Karachi ,43,113486,0301-6233492, inactive,"Java, Python ",91
+154,Zain ,Finance,Karachi ,24,162131,0309-4050788,Active,"Python ,SQL",55
+155,Zain ,Finance,Peshawar ,36,112333,0334-5402054, inactive,"SQL,Python",67
+156,Zain ,Finance, Lahore,21,83098,0307-6026308,Active ," Excel,Power BI ",91
+157,Usman,HR,Karachi ,42,121930,0300-2315812,ACTIVE,"Python ,SQL",89
+158,Fatima,HR, Lahore,43,95223,0336-1871900,Active,"Java, Python ",67
+159,Sara,CS, Lahore,25,120837,0305-8649772,Active ,"SQL,Python",67
+160,Hamza,HR,Quetta,26,109784,0301-2329820,ACTIVE,"Python, Excel",89
+161,Ayesha,Finance, Lahore,20,100151,0323-3046450,Inactive,"Python ,SQL",89
+162,Zain ,Finance,Islamabad,28,80627,0321-5796181,Active ,"Java, Python ",82
+163,Fatima,CS,Islamabad,21,108861,0313-1780339,Active ,"Python, Excel",67
+164,Ayesha,HR, Lahore,38,90116,0323-9244357,Active,"Python ,SQL",76
+165, Ahmed,CS,Quetta,40,152582,0316-9247695,Active ,"Python, Excel",78
+166,Hina,CS,Quetta,29,111597,0338-5293943,ACTIVE,"Java, Python ",78
+167,Sara,Sales,Karachi ,44,133908,0325-7626685,Active ,"Python, Excel",55
+168, Ali ,IT,Islamabad,35,76673,0342-1766235,Inactive,"Java, Python ",55
+169, Ali ,HR, Lahore,34,60159,0342-4687269,ACTIVE,"Python ,SQL",55
+170, Ahmed,CS,Islamabad,26,44859,0308-2855714, inactive,"Java, Python ",67
+171,Fatima,Finance,Quetta,36,42286,0349-8052398,Active," Excel,Power BI ",91
+172,Hina,HR,Islamabad,32,164318,0331-5541889, inactive,"Java, Python ",78
+173,Bilal,Sales,Islamabad,30,145043,0336-3088320,Inactive," Excel,Power BI ",82
+174,Usman,Sales,Quetta,29,40618,0324-7232422,Active ,"Java, Python ",76
+175, Ali ,Sales,Peshawar ,24,117162,0319-5134657,Active ,"Java, Python ",82
+176,Hina,Sales,Peshawar ,27,89832,0322-1877277, inactive,"Python ,SQL",76
+177,Hina,CS,Islamabad,21,95333,0341-1366447,Active,"Python ,SQL",89
+178,Ayesha,Finance,Quetta,23,76150,0317-4315092,Active ,"Java, Python ",55
+179,Usman,IT,Quetta,41,122202,0309-9665531,Active ,"Python, Excel",67
+180, Ali ,HR, Lahore,41,70431,0344-4568894,Inactive,"Java, Python ",82
+181,Sara,HR,Quetta,24,151176,0344-2916690, inactive,"SQL,Python",78
+182, Ahmed,CS, Lahore,43,98709,0300-3054237,Inactive,"Python ,SQL",89
+183,Hamza,HR,Karachi ,31,111109,0333-6417242,Active,"Java, Python ",76
+184,Hina,Sales,Karachi ,42,141538,0348-3877229,Active ,"SQL,Python",67
+185,Sara,Finance, Lahore,32,59551,0302-4032961,Active ,"Python, Excel",82
+186,Fatima,Finance,Quetta,40,121836,0329-1922133,ACTIVE," Excel,Power BI ",76
+187,Hina,CS,Quetta,34,84763,0302-3576186,Active ,"SQL,Python",78
+188,Sara,CS,Karachi ,30,137314,0304-6797540,ACTIVE,"Python ,SQL",89
+189,Ayesha,HR,Quetta,35,145743,0309-8473267,Active ," Excel,Power BI ",67
+190,Fatima,IT,Karachi ,32,93814,0316-4024809,Inactive," Excel,Power BI ",91
+191,Zain ,Finance, Lahore,24,45130,0307-1319705,Inactive,"Java, Python ",67
+192,Zain ,Sales,Karachi ,21,178015,0347-6871392,ACTIVE,"Java, Python ",76
+193,Zain ,HR,Karachi ,40,54486,0312-4694750,Active ," Excel,Power BI ",89
+194,Hamza,IT,Karachi ,29,143665,0300-5449998,Inactive,"Java, Python ",78
+195,Zain ,CS,Karachi ,30,167556,0308-7860781,ACTIVE,"Python ,SQL",89
+196,Zain ,CS,Quetta,24,179702,0302-9950490,ACTIVE,"Python, Excel",67
+197, Ali ,HR,Quetta,31,144174,0348-1923291, inactive,"SQL,Python",82
+198,Hina,Sales,Karachi ,29,155350,0310-7190538,ACTIVE," Excel,Power BI ",91
+199,Zain ,IT,Peshawar ,24,46663,0340-7718436,Active,"Python ,SQL",89
+200, Ali ,Sales,Karachi ,20,138464,0327-6810810, inactive,"SQL,Python",76
+201,Hamza,Finance,Peshawar ,34,80632,0340-5643154,Active,"Java, Python ",78
+202, Ahmed,IT, Lahore,20,145072,0349-9021365,Inactive," Excel,Power BI ",78
+203,Zain ,CS,Islamabad,31,174166,0308-2975498,ACTIVE," Excel,Power BI ",76
+204,Ayesha,HR,Karachi ,21,161571,0348-7544315,Inactive," Excel,Power BI ",91
+205,Fatima,Sales, Lahore,24,54991,0307-9397745,Active,"Python, Excel",78
+206,Hina,Finance,Islamabad,22,161262,0305-2132114, inactive,"Python ,SQL",55
+207,Ayesha,CS,Islamabad,43,50419,0311-3115077, inactive,"Java, Python ",91
+208,Ayesha,Sales, Lahore,34,60062,0343-2183638, inactive,"SQL,Python",67
+209, Ahmed,CS,Islamabad,35,111033,0301-8962723,Active," Excel,Power BI ",91
+210,Zain ,CS,Peshawar ,44,103902,0317-7054623, inactive,"Java, Python ",55
+211,Usman,Finance,Peshawar ,36,47705,0300-9361142,ACTIVE,"SQL,Python",91
+212,Fatima,Sales,Karachi ,37,59738,0305-8132827,Active,"Python, Excel",78
+213,Bilal,HR,Peshawar ,35,123895,0332-3443204, inactive,"Python, Excel",89
+214, Ali ,CS,Islamabad,25,107047,0305-3992839,Active," Excel,Power BI ",91
+215,Ayesha,IT,Karachi ,37,67493,0333-7475324,ACTIVE,"Python ,SQL",55
+216,Bilal,IT, Lahore,32,90902,0308-2163973,Inactive," Excel,Power BI ",82
+217, Ali ,CS,Quetta,41,83570,0303-5297464,Inactive,"SQL,Python",76
+218,Hamza,CS,Islamabad,32,41574,0327-8230465,Active ," Excel,Power BI ",67
+219,Hina,CS,Islamabad,35,45038,0311-7591219,Active," Excel,Power BI ",76
+220,Zain ,HR,Karachi ,43,60103,0325-6378431, inactive," Excel,Power BI ",89
+221,Zain ,Sales,Quetta,22,59302,0304-1628394,Active,"Java, Python ",67
+222,Hamza,CS, Lahore,41,124544,0313-7232371, inactive,"Python ,SQL",82
+223, Ali ,HR,Quetta,31,151779,0334-8030781, inactive,"SQL,Python",67
+224,Bilal,Finance,Karachi ,25,144237,0315-3914902,Active ," Excel,Power BI ",89
+225,Bilal,CS,Karachi ,42,154915,0300-3606670,Active,"Java, Python ",67
+226,Bilal,IT,Karachi ,44,114682,0341-6655955,Active ,"Python ,SQL",82
+227,Hamza,Finance,Peshawar ,37,50722,0314-5578411, inactive,"Python ,SQL",76
+228, Ali ,HR, Lahore,37,97882,0344-6093043, inactive,"Python ,SQL",78
+229,Ayesha,CS,Karachi ,29,100872,0326-9393363,Active,"Python ,SQL",67
+230,Fatima,CS,Quetta,43,98321,0348-8755884,Active ,"Java, Python ",67
+231,Sara,IT,Quetta,22,87308,0307-5352095,ACTIVE,"Python, Excel",55
+232,Zain ,HR,Quetta,41,107017,0303-4045920,Inactive,"Python, Excel",89
+233,Ayesha,Sales,Islamabad,24,51719,0317-7019461,Active,"SQL,Python",67
+234,Sara,Finance,Quetta,39,149296,0301-2110529,Inactive,"Java, Python ",55
+235,Fatima,HR, Lahore,37,142141,0327-3192881,Active ,"Python, Excel",76
+236,Hina,CS,Peshawar ,40,80724,0325-5241308,Active,"Python ,SQL",76
+237,Hamza,IT,Karachi ,42,116092,0326-9958214, inactive,"Python ,SQL",78
+238,Sara,HR, Lahore,36,109725,0343-4669753,ACTIVE," Excel,Power BI ",78
+239,Fatima,CS, Lahore,35,103909,0341-7850096,Active,"Python ,SQL",82
+240,Zain ,Sales, Lahore,35,51362,0339-9217608, inactive,"Python ,SQL",82
+241, Ahmed,HR,Islamabad,22,115678,0338-5497071, inactive,"Java, Python ",82
+242,Bilal,IT,Islamabad,31,159675,0336-2339795, inactive,"Java, Python ",82
+243,Ayesha,HR,Karachi ,31,123826,0329-3604775,ACTIVE," Excel,Power BI ",76
+244,Fatima,CS,Quetta,34,119758,0307-8359635, inactive,"Java, Python ",91
+245,Zain ,HR,Quetta,41,145785,0312-9279333,Active ,"SQL,Python",82
+246,Hamza,CS,Karachi ,40,170566,0345-8151498,Active ,"Java, Python ",91
+247,Fatima,Sales, Lahore,41,144687,0343-5553594,Active ,"Python, Excel",91
+248,Ayesha,Sales,Quetta,33,147788,0340-2532465,Inactive,"Java, Python ",89
+249,Sara,Sales,Peshawar ,27,45501,0337-8745551, inactive,"SQL,Python",78
+250,Zain ,HR,Karachi ,39,77541,0322-1264593,Active ,"Python, Excel",67
+251,Fatima,HR,Islamabad,37,70223,0322-9979760,Active ,"Python ,SQL",55
+252,Hamza,HR,Karachi ,25,123021,0311-3772076,ACTIVE,"SQL,Python",91
+253,Usman,HR,Peshawar ,43,55237,0321-5179676,Active ,"Java, Python ",89
+254,Fatima,IT, Lahore,21,179899,0341-5821264,Active ,"Python ,SQL",55
+255,Hamza,Sales,Quetta,21,68883,0303-4891194, inactive,"Python, Excel",78
+256,Usman,Finance,Peshawar ,42,163205,0325-3698215,Active ,"Java, Python ",82
+257,Hamza,CS,Peshawar ,45,138642,0345-9448506,Inactive,"Java, Python ",89
+258,Fatima,Finance, Lahore,38,167232,0346-9823622, inactive,"Java, Python ",78
+259, Ali ,Finance,Peshawar ,45,171413,0304-4162815,ACTIVE,"Python, Excel",67
+260,Bilal,CS,Peshawar ,33,102425,0331-4131811, inactive,"Python, Excel",78
+261,Hina,CS,Islamabad,33,124970,0329-2875423,Active,"Java, Python ",82
+262, Ali ,IT,Karachi ,20,83883,0335-4450216,Inactive,"Java, Python ",78
+263,Hina,Finance,Karachi ,44,162696,0313-2315263, inactive,"Python ,SQL",67
+264,Hamza,Sales,Islamabad,23,143674,0302-8013632,Active ,"SQL,Python",55
+265,Hamza,HR,Karachi ,32,86929,0313-1645509,Inactive,"Java, Python ",76
+266, Ali ,HR,Peshawar ,26,131163,0305-5320963,ACTIVE,"SQL,Python",67
+267,Sara,Finance,Islamabad,21,178807,0326-8036590,Active,"SQL,Python",55
+268,Bilal,Sales,Islamabad,42,96951,0322-3564569,ACTIVE," Excel,Power BI ",55
+269,Ayesha,Sales,Quetta,22,87270,0342-8538443,Active ,"Java, Python ",78
+270,Bilal,IT,Islamabad,24,138737,0304-6299156,Inactive,"Java, Python ",76
+271,Ayesha,HR,Islamabad,25,61883,0341-9045360,Active ," Excel,Power BI ",67
+272,Usman,Finance, Lahore,34,108929,0331-1401387,Active ,"Java, Python ",82
+273,Bilal,CS,Quetta,32,63187,0334-3152259, inactive," Excel,Power BI ",78
+274,Sara,Finance, Lahore,34,103314,0314-5458917,ACTIVE,"SQL,Python",76
+275,Fatima,CS,Quetta,25,104710,0311-8076087,ACTIVE,"Java, Python ",89
+276,Bilal,Sales,Quetta,39,167423,0344-5982620,ACTIVE,"Java, Python ",55
+277,Hamza,Finance,Quetta,28,81607,0316-8920138, inactive,"Python ,SQL",67
+278,Bilal,IT,Karachi ,33,165714,0331-7114876,Inactive,"Java, Python ",82
+279,Zain ,CS,Islamabad,24,80328,0347-9798039, inactive,"Python ,SQL",82
+280,Usman,Finance,Quetta,37,44071,0337-5226119, inactive,"Python, Excel",78
+281,Hina,IT,Islamabad,35,140796,0343-9696748, inactive,"Python ,SQL",67
+282,Zain ,HR,Karachi ,21,172245,0302-8884859,Active ," Excel,Power BI ",89
+283,Bilal,CS,Quetta,36,155272,0328-5593794,ACTIVE,"Python, Excel",82
+284,Bilal,HR,Quetta,33,148958,0338-9057721,Active ,"Python ,SQL",55
+285,Sara,Finance,Islamabad,34,65152,0322-6438888, inactive,"Python, Excel",55
+286,Bilal,HR, Lahore,21,98055,0328-4050558,Active,"Python ,SQL",78
+287,Hina,HR,Quetta,21,44930,0324-4445131,ACTIVE,"SQL,Python",82
+288, Ali ,Sales,Karachi ,24,170718,0341-9339275,Active," Excel,Power BI ",91
+289,Zain ,CS, Lahore,23,177314,0324-5125329,Active,"Python ,SQL",82
+290,Fatima,IT,Peshawar ,37,154516,0319-5426732, inactive," Excel,Power BI ",91
+291,Sara,Sales, Lahore,34,177468,0330-8212269, inactive,"Java, Python ",55
+292,Zain ,IT,Karachi ,31,84813,0346-5767018,Active," Excel,Power BI ",82
+293, Ali ,IT,Peshawar ,22,140037,0302-5647545,Active ,"SQL,Python",67
+294,Hina,Sales,Peshawar ,24,44413,0348-6541213,Active,"Java, Python ",89
+295,Fatima,Finance,Karachi ,21,131929,0331-9805110,Active ,"Python ,SQL",78
+296, Ali ,Finance,Karachi ,27,126571,0323-9665165, inactive,"Java, Python ",76
+297,Ayesha,Finance, Lahore,39,77911,0317-8690265,Active,"SQL,Python",82
+298,Hina,HR,Islamabad,39,58663,0346-3694913,Inactive,"Python, Excel",78
+299, Ali ,CS,Karachi ,24,141158,0307-6834733,Active,"SQL,Python",76
+300,Bilal,Sales,Peshawar ,29,104352,0336-3081047,ACTIVE,"SQL,Python",55
+301,Usman,Finance,Quetta,36,150681,0338-4273772,Active,"Java, Python ",89
+302,Usman,Finance,Peshawar ,28,104824,0313-9028401, inactive,"Java, Python ",91
+303,Hina,Finance,Karachi ,33,100228,0326-6762042, inactive,"Java, Python ",78
+304, Ahmed,HR, Lahore,44,170146,0342-1133877,Active ,"Python, Excel",82
+305,Sara,IT,Islamabad,43,78463,0315-9719620,Active ,"Java, Python ",89
+306,Bilal,HR,Islamabad,28,86399,0319-5986693,Inactive,"Python, Excel",76
+307,Bilal,CS,Peshawar ,21,40399,0348-4107083,ACTIVE," Excel,Power BI ",78
+308,Fatima,CS, Lahore,32,137325,0319-7607219,Active ,"Java, Python ",89
+309,Ayesha,IT,Islamabad,30,66459,0334-5324692,ACTIVE," Excel,Power BI ",55
+310, Ali ,Finance,Islamabad,25,161442,0308-5833628, inactive,"Java, Python ",89
+311,Usman,Sales,Quetta,29,148631,0338-4972508, inactive," Excel,Power BI ",82
+312, Ahmed,CS,Islamabad,39,58406,0327-6584587, inactive,"SQL,Python",76
+313,Sara,Finance,Islamabad,32,177488,0329-2878150,Inactive,"SQL,Python",78
+314, Ahmed,HR, Lahore,43,119706,0312-2385705,Active ," Excel,Power BI ",82
+315,Zain ,Finance, Lahore,44,51412,0338-2261410,Active ,"Python ,SQL",89
+316,Bilal,CS,Islamabad,43,70462,0324-2191858, inactive," Excel,Power BI ",89
+317,Hamza,CS, Lahore,43,82043,0348-9998161,Inactive,"SQL,Python",82
+318, Ahmed,HR,Peshawar ,42,170857,0348-8685832, inactive,"Java, Python ",55
+319,Usman,IT,Karachi ,40,177073,0320-6908704,ACTIVE,"SQL,Python",67
+320, Ahmed,Finance,Quetta,33,70573,0335-6598091,Active ,"Python ,SQL",82
+321,Hina,CS,Islamabad,26,73641,0329-3918286,Inactive,"Python, Excel",55
+322,Usman,CS,Peshawar ,39,148552,0318-5516416,Inactive,"SQL,Python",91
+323, Ali ,HR,Quetta,42,40951,0346-6267719, inactive,"SQL,Python",55
+324,Ayesha,Finance,Peshawar ,32,163354,0321-4920511,Active ,"SQL,Python",89
+325,Sara,IT,Karachi ,43,174369,0320-9312861,Active ,"Python, Excel",67
+326,Ayesha,HR, Lahore,41,75984,0348-2145820,Active," Excel,Power BI ",55
+327,Usman,Finance,Islamabad,20,47144,0312-2716929,Inactive,"Python ,SQL",82
+328,Bilal,IT, Lahore,36,60372,0333-9398492, inactive,"Java, Python ",78
+329,Fatima,CS,Islamabad,40,112060,0345-5299607, inactive,"SQL,Python",82
+330,Bilal,Sales,Peshawar ,26,54359,0322-5228865,Active ,"Python ,SQL",76
+331,Hamza,CS,Quetta,30,70184,0348-4042874,ACTIVE,"Python, Excel",89
+332,Hina,CS, Lahore,20,114670,0338-9239125,ACTIVE,"Java, Python ",76
+333, Ali ,CS,Peshawar ,20,140365,0338-8783898, inactive," Excel,Power BI ",91
+334,Sara,IT,Islamabad,23,68532,0338-6632919,Active ,"SQL,Python",91
+335,Fatima,Sales,Islamabad,33,175900,0326-9962980,Active ," Excel,Power BI ",89
+336, Ali ,Finance,Peshawar ,25,113666,0301-4426410,ACTIVE,"Python, Excel",82
+337,Bilal,Sales,Karachi ,30,94912,0312-6050651,Active,"Python, Excel",55
+338,Hamza,Sales,Islamabad,25,88428,0314-2364158,Active,"Python, Excel",76
+339,Usman,HR,Islamabad,25,101786,0335-1772098,Inactive,"SQL,Python",55
+340,Ayesha,CS,Peshawar ,45,130593,0320-1548162, inactive,"Python ,SQL",82
+341,Usman,CS, Lahore,41,128122,0339-3226654,Active ," Excel,Power BI ",89
+342,Bilal,CS,Quetta,29,46165,0330-6904440,Active,"Java, Python ",55
+343,Zain ,Finance,Quetta,23,68065,0322-1265493,Inactive," Excel,Power BI ",55
+344,Sara,HR, Lahore,45,75859,0305-5368320,Active,"Java, Python ",67
+345,Hamza,IT,Islamabad,21,41818,0328-3320314,Active,"Python, Excel",76
+346,Sara,IT,Peshawar ,31,163866,0301-2036786,Active ,"Java, Python ",78
+347,Hamza,Finance, Lahore,28,137437,0330-8762453, inactive," Excel,Power BI ",76
+348,Ayesha,Finance, Lahore,24,100261,0340-8828293,ACTIVE,"SQL,Python",67
+349, Ahmed,Sales,Quetta,26,100928,0344-1425436,Inactive,"Python ,SQL",76
+350,Zain ,CS,Peshawar ,44,134722,0323-1079601,Active ,"Java, Python ",89
+351,Sara,CS,Peshawar ,40,63917,0300-7023234,ACTIVE,"Java, Python ",55
+352,Zain ,HR,Islamabad,34,118620,0339-7638476, inactive,"Python, Excel",82
+353, Ali ,Finance, Lahore,21,109568,0305-1930185,Active ,"Python ,SQL",55
+354,Hina,Sales,Quetta,27,134816,0303-7121059, inactive,"Java, Python ",55
+355, Ahmed,Sales,Quetta,45,104836,0313-5849168,Active,"SQL,Python",89
+356,Sara,IT,Karachi ,37,53958,0318-1294768,Active,"Python ,SQL",78
+357,Zain ,CS,Karachi ,20,153793,0344-4179150,ACTIVE,"Python, Excel",78
+358,Hamza,Finance,Karachi ,21,178161,0334-7028642,Active,"Python, Excel",89
+359,Zain ,Finance, Lahore,34,133192,0310-6244746,Inactive,"Java, Python ",89
+360,Bilal,IT,Islamabad,34,129057,0312-2253900, inactive,"Python, Excel",55
+361,Hamza,Finance,Karachi ,30,160720,0330-2749907,Active,"Java, Python ",91
+362,Fatima,HR,Karachi ,32,132502,0333-8189021,ACTIVE,"Python ,SQL",76
+363,Hamza,IT,Quetta,21,52615,0308-3038820,Inactive,"Python, Excel",82
+364,Bilal,IT,Islamabad,22,122118,0338-7906737,ACTIVE,"Python ,SQL",55
+365,Bilal,Sales,Islamabad,32,164326,0316-4919066,Active ,"Python, Excel",78
+366,Ayesha,HR,Quetta,33,94479,0316-6212806, inactive," Excel,Power BI ",91
+367,Hina,Sales,Karachi ,44,87605,0339-5720264, inactive,"Java, Python ",78
+368, Ali ,IT,Islamabad,34,137084,0309-6725504,Active," Excel,Power BI ",78
+369,Sara,IT,Islamabad,26,72563,0335-8598841, inactive,"Python, Excel",67
+370, Ahmed,CS,Karachi ,30,130584,0340-2550686, inactive,"SQL,Python",91
+371,Bilal,HR,Quetta,31,170444,0304-1831120,Inactive," Excel,Power BI ",82
+372,Ayesha,HR,Karachi ,22,48874,0312-7177143,Active,"Java, Python ",91
+373,Hina,Finance,Karachi ,44,122621,0338-1593717,Inactive,"SQL,Python",55
+374,Hina,IT,Islamabad,21,41132,0340-3707378,Active,"Python, Excel",91
+375,Hina,Sales,Karachi ,45,167612,0329-9537459,Inactive," Excel,Power BI ",78
+376,Ayesha,IT,Quetta,28,162639,0308-6013878,Active ,"Python ,SQL",67
+377,Usman,IT, Lahore,36,163777,0336-4788714,Active ,"Java, Python ",55
+378,Ayesha,HR,Peshawar ,24,108329,0316-7387029,ACTIVE," Excel,Power BI ",89
+379, Ali ,HR,Karachi ,23,165686,0318-8014898,Active ,"Java, Python ",78
+380,Bilal,IT,Islamabad,31,53670,0327-6969614,Active ,"Python, Excel",91
+381, Ali ,Sales, Lahore,21,164941,0319-3316959,Active,"Java, Python ",91
+382,Bilal,HR,Karachi ,33,87106,0322-3973975, inactive," Excel,Power BI ",76
+383,Usman,Sales,Quetta,27,106573,0327-5225238,Active ,"Python ,SQL",82
+384,Zain ,Finance, Lahore,24,44736,0302-2985440, inactive,"Python ,SQL",82
+385,Zain ,IT,Islamabad,35,65767,0312-4945701,Inactive," Excel,Power BI ",82
+386,Zain ,Sales,Karachi ,43,113794,0345-3297159,Inactive,"Python, Excel",76
+387,Ayesha,IT,Quetta,24,130620,0338-4716444,ACTIVE," Excel,Power BI ",67
+388,Usman,IT,Quetta,20,130713,0318-5951463,Active ,"Python ,SQL",55
+389, Ali ,CS,Islamabad,44,44148,0301-8485500,Active ,"Python ,SQL",67
+390,Fatima,Finance,Islamabad,41,99296,0330-6886119,Active ," Excel,Power BI ",67
+391, Ahmed,Sales,Peshawar ,35,62197,0324-1055715,ACTIVE,"SQL,Python",67
+392,Hamza,IT,Quetta,45,84377,0328-4475030,Active," Excel,Power BI ",55
+393,Fatima,Finance,Peshawar ,34,40268,0328-1321080,Active ,"Python ,SQL",67
+394,Zain ,Finance,Quetta,42,99302,0338-7613778,Inactive," Excel,Power BI ",89
+395,Fatima,Sales,Quetta,29,56200,0340-2733730,ACTIVE,"SQL,Python",55
+396, Ahmed,Finance,Islamabad,29,71135,0305-5832190,Inactive,"Java, Python ",67
+397,Bilal,Finance,Karachi ,24,62359,0336-5341531,ACTIVE,"Java, Python ",89
+398,Fatima,Sales,Karachi ,27,175847,0327-4787667,ACTIVE,"Java, Python ",89
+399,Usman,Finance,Islamabad,26,162059,0326-2025370,ACTIVE,"Python ,SQL",82
+400, Ahmed,HR,Karachi ,43,142359,0330-6942752, inactive,"Python, Excel",91
+401,Hina,HR,Peshawar ,35,81019,0310-1521100,ACTIVE,"Python ,SQL",82
+402,Zain ,IT,Islamabad,29,148578,0314-8393713,Inactive,"Python ,SQL",55
+403, Ali ,HR, Lahore,21,44013,0303-5369097,Active ,"Java, Python ",76
+404, Ali ,CS,Islamabad,31,170261,0316-2695474,Inactive," Excel,Power BI ",67
+405,Usman,Sales, Lahore,44,92897,0327-6926769,Active ,"Python, Excel",91
+406,Zain ,IT,Quetta,34,150132,0304-6820003,Inactive," Excel,Power BI ",55
+407,Sara,Sales,Islamabad,32,56799,0342-8730818,Inactive," Excel,Power BI ",55
+408,Bilal,Finance, Lahore,33,99510,0300-8740248,Inactive,"Python, Excel",89
+409, Ali ,IT, Lahore,30,85014,0318-9804527, inactive,"Python ,SQL",76
+410,Sara,IT, Lahore,22,148375,0312-2968052,Active,"SQL,Python",67
+411,Bilal,Finance,Karachi ,37,52719,0348-9602053,Active ,"Java, Python ",67
+412, Ali ,CS,Quetta,41,150441,0300-4315363,ACTIVE," Excel,Power BI ",91
+413,Ayesha,IT,Quetta,39,126605,0318-5056749, inactive,"Python, Excel",91
+414,Usman,IT,Quetta,25,141765,0338-4457307,Inactive,"Python ,SQL",76
+415,Sara,Finance, Lahore,22,128907,0322-3766645,Inactive," Excel,Power BI ",76
+416,Hamza,CS,Karachi ,20,59196,0310-1650834,Inactive,"Java, Python ",78
+417, Ahmed,Finance, Lahore,40,52753,0332-3344789,Active ,"SQL,Python",89
+418,Bilal,HR,Quetta,44,89671,0341-1116014,Inactive,"Python ,SQL",76
+419, Ahmed,Finance,Peshawar ,28,106309,0313-7627708,ACTIVE,"Python, Excel",91
+420, Ahmed,HR,Peshawar ,23,139299,0322-4642400,Active ,"Python, Excel",91
+421,Hamza,IT,Quetta,43,155276,0330-9871459,ACTIVE,"SQL,Python",89
+422,Hamza,HR, Lahore,42,109537,0308-8495696, inactive,"SQL,Python",76
+423,Fatima,HR,Quetta,38,80136,0342-1978332,ACTIVE,"Java, Python ",89
+424, Ahmed,Finance,Peshawar ,45,66882,0314-9957856,Active ," Excel,Power BI ",82
+425,Bilal,IT, Lahore,33,154147,0345-9292061,Active ,"SQL,Python",78
+426, Ahmed,Finance,Quetta,44,151556,0330-4592735,ACTIVE,"Python ,SQL",55
+427,Zain ,Finance, Lahore,21,120315,0324-3210822,ACTIVE,"Python ,SQL",55
+428,Usman,IT,Islamabad,34,63684,0316-1409343, inactive,"SQL,Python",91
+429, Ahmed,CS,Peshawar ,26,119663,0320-7638988,ACTIVE,"Python, Excel",55
+430,Bilal,Sales, Lahore,37,54777,0349-1892959,ACTIVE,"SQL,Python",91
+431,Ayesha,Finance, Lahore,22,92006,0330-2677131,ACTIVE,"Java, Python ",55
+432,Zain ,Finance,Islamabad,26,175880,0324-4520102,Inactive,"Java, Python ",55
+433,Fatima,Finance, Lahore,39,173830,0323-6862994,Inactive,"Python ,SQL",78
+434, Ali ,HR,Karachi ,39,148890,0338-4761947,ACTIVE,"Python ,SQL",76
+435,Sara,IT, Lahore,44,75007,0330-3062815,ACTIVE,"SQL,Python",78
+436,Zain ,CS,Islamabad,38,159377,0311-5093310,Active,"SQL,Python",55
+437, Ahmed,IT,Quetta,45,144634,0344-5568944,Inactive,"Java, Python ",89
+438,Hamza,IT,Islamabad,26,79075,0333-8895499,Active,"Python ,SQL",82
+439,Hina,Sales,Karachi ,44,149439,0346-9034171,Active,"SQL,Python",55
+440,Usman,HR,Islamabad,26,92847,0332-3565611,ACTIVE,"Python ,SQL",78
+441, Ahmed,CS,Islamabad,35,97322,0309-7079688,Active,"Python ,SQL",91
+442,Zain ,CS,Karachi ,33,83509,0339-1551543,ACTIVE,"Java, Python ",91
+443,Bilal,Sales,Islamabad,31,97825,0336-1609725,Inactive," Excel,Power BI ",76
+444,Bilal,HR,Peshawar ,44,81960,0342-8758500,Active,"SQL,Python",76
+445,Sara,HR, Lahore,39,145306,0320-8426262,Active ," Excel,Power BI ",76
+446, Ali ,HR,Islamabad,32,92786,0306-8868916,ACTIVE,"SQL,Python",76
+447,Ayesha,HR,Karachi ,20,76672,0343-3147647,Active,"Python, Excel",91
+448,Bilal,IT, Lahore,44,144164,0323-5841289,ACTIVE,"Java, Python ",78
+449,Hamza,Finance,Islamabad,41,63224,0343-3953585,Active ,"Java, Python ",67
+450,Usman,HR,Quetta,23,82170,0327-5848250,Active,"Java, Python ",55
+451,Zain ,Sales,Quetta,43,86148,0312-2872088, inactive,"SQL,Python",89
+452,Fatima,Finance,Islamabad,42,44353,0318-4597264,Inactive,"Python ,SQL",55
+453,Usman,Sales,Karachi ,20,112534,0320-5491596,ACTIVE,"SQL,Python",76
+454,Bilal,Finance,Peshawar ,38,130933,0305-7741261,Active ,"Python, Excel",78
+455,Ayesha,HR,Peshawar ,39,97172,0340-6987677,Active," Excel,Power BI ",82
+456, Ahmed,IT,Karachi ,29,160544,0334-1291283, inactive,"SQL,Python",78
+457, Ahmed,Sales, Lahore,26,41268,0300-8968067, inactive,"Python ,SQL",89
+458,Bilal,CS,Karachi ,24,133059,0320-9401971,Active ,"SQL,Python",91
+459,Sara,Sales,Peshawar ,21,98564,0340-6635808, inactive," Excel,Power BI ",76
+460,Hina,CS,Karachi ,29,172107,0343-2041624,ACTIVE,"Python ,SQL",89
+461,Bilal,HR,Peshawar ,23,160514,0322-6225898,ACTIVE,"Python ,SQL",89
+462,Hina,Finance,Karachi ,36,147795,0310-2623442,Active ,"Java, Python ",67
+463, Ali ,CS, Lahore,22,169214,0315-4581359, inactive,"SQL,Python",91
+464,Hina,IT,Karachi ,41,117715,0332-7022516, inactive," Excel,Power BI ",78
+465, Ahmed,Sales,Islamabad,36,108451,0316-3404960, inactive," Excel,Power BI ",91
+466, Ali ,Finance, Lahore,37,135853,0349-7580191, inactive,"Python ,SQL",76
+467,Hina,Finance,Peshawar ,31,113929,0347-8626757,Inactive,"Python, Excel",89
+468,Hamza,Sales,Peshawar ,35,171014,0307-6698184,Inactive," Excel,Power BI ",76
+469,Hamza,CS, Lahore,21,98478,0310-7610208, inactive,"SQL,Python",76
+470,Hina,Finance,Peshawar ,45,113958,0318-1299841,Active ,"SQL,Python",89
+471,Sara,HR,Peshawar ,32,160398,0347-6436461,Active ,"Python, Excel",91
+472,Bilal,IT,Islamabad,27,147512,0317-2490457, inactive,"SQL,Python",55
+473, Ahmed,CS,Quetta,41,131676,0336-1079297,Active ,"Python, Excel",67
+474,Bilal,HR,Peshawar ,24,122146,0314-1162119, inactive,"Java, Python ",91
+475,Usman,Finance, Lahore,29,160497,0348-3934031,Active,"Python ,SQL",89
+476,Usman,CS,Karachi ,24,80686,0342-4799191, inactive,"Java, Python ",89
+477,Zain ,Finance,Peshawar ,26,90332,0330-5122644,Active,"SQL,Python",89
+478,Usman,IT,Peshawar ,26,100435,0320-3461544,ACTIVE," Excel,Power BI ",89
+479,Hina,IT,Quetta,38,88339,0320-2026925, inactive," Excel,Power BI ",55
+480,Usman,Finance,Peshawar ,43,82545,0313-2073546,ACTIVE,"SQL,Python",91
+481,Hamza,CS, Lahore,25,166881,0323-7244164,Active," Excel,Power BI ",89
+482, Ali ,Finance,Islamabad,32,87468,0342-3464208,Active," Excel,Power BI ",55
+483,Usman,IT,Peshawar ,35,78255,0313-1474033,Inactive,"Python, Excel",91
+484,Hamza,Sales,Islamabad,28,43002,0336-4916748, inactive,"Java, Python ",82
+485, Ahmed,CS,Karachi ,38,114822,0339-5088093,Inactive,"Python, Excel",67
+486,Sara,Finance,Quetta,31,95096,0326-3864435,Active,"SQL,Python",67
+487,Usman,IT,Quetta,43,116613,0327-7783739,Active,"Java, Python ",67
+488,Bilal,CS,Islamabad,43,95224,0342-3690429,Inactive,"SQL,Python",78
+489,Bilal,Sales,Islamabad,22,115050,0329-1986666, inactive,"Java, Python ",67
+490,Usman,Finance,Peshawar ,35,75057,0308-7581291, inactive,"Python ,SQL",67
+491,Bilal,IT,Islamabad,27,48871,0320-4242796,Active,"Python, Excel",55
+492,Ayesha,Sales,Quetta,30,158996,0330-4388336,Active,"Python ,SQL",89
+493, Ali ,Finance,Quetta,44,111649,0326-9024007,Active," Excel,Power BI ",67
+494,Ayesha,Sales,Islamabad,36,164253,0310-1664967,Active ," Excel,Power BI ",82
+495,Zain ,HR,Islamabad,29,73564,0349-6341535, inactive,"Python ,SQL",76
+496,Hamza,Finance,Karachi ,33,53932,0312-9459860,Active,"Java, Python ",67
+497,Fatima,HR,Quetta,35,124686,0336-7124096,ACTIVE,"SQL,Python",91
+498,Hina,HR, Lahore,40,169921,0347-1279742,Active,"Python ,SQL",91
+499, Ahmed,CS,Karachi ,42,169913,0347-6993046,Active,"SQL,Python",67
+500,Zain ,HR,Karachi ,38,88976,0324-7131607,Active ,"Java, Python ",78
+501,Sara,Sales,Quetta,34,109162,0348-1757556,Active ,"Java, Python ",78
+502,Sara,HR,Islamabad,21,131775,0306-7257789,ACTIVE,"Java, Python ",55
+503,Usman,IT, Lahore,27,138800,0338-8323942,Active," Excel,Power BI ",89
+504,Usman,IT,Peshawar ,34,122459,0332-1142090,ACTIVE,"Java, Python ",89
+505,Zain ,Finance,Peshawar ,45,159304,0320-7635567, inactive,"Java, Python ",82
+506,Hamza,HR,Quetta,26,121355,0312-1520929,Active,"Python ,SQL",91
+507,Bilal,Finance, Lahore,31,141380,0328-3580837, inactive,"Java, Python ",76
+508, Ahmed,CS,Islamabad,35,144055,0323-8155771, inactive,"Python ,SQL",55
+509,Zain ,IT, Lahore,45,53934,0349-9738066,Active,"Python, Excel",91
+510,Hamza,Sales,Islamabad,35,162961,0300-2169200,Inactive,"Python ,SQL",76
+511,Hamza,IT,Karachi ,21,164661,0335-9510580,Active,"SQL,Python",67
+512,Fatima,Sales,Quetta,32,93536,0343-3722717, inactive,"Python ,SQL",78
+513,Sara,Finance,Karachi ,22,117039,0304-6065701,ACTIVE,"Java, Python ",76
+514,Hina,Sales,Quetta,27,176957,0308-8460488,ACTIVE,"Java, Python ",78
+515,Zain ,CS, Lahore,25,130571,0339-2619269,ACTIVE,"Python, Excel",55
+516,Sara,CS,Peshawar ,28,173908,0324-1872656,ACTIVE,"Python, Excel",89
+517,Hamza,Finance,Islamabad,28,41028,0345-2914323,Active,"SQL,Python",78
+518,Zain ,HR,Karachi ,29,169274,0325-1400609,Active ," Excel,Power BI ",67
+519,Hamza,HR,Islamabad,32,117807,0317-5180417,Inactive,"SQL,Python",67
+520, Ali ,Sales,Islamabad,26,106235,0306-9449766,Active ,"SQL,Python",67
+521,Hamza,IT,Karachi ,23,44078,0342-8910485,Active ," Excel,Power BI ",91
+522, Ahmed,HR,Karachi ,29,71443,0303-8146663,Inactive,"Java, Python ",89
+523,Bilal,Finance,Karachi ,26,103998,0337-5316478,Inactive,"Python, Excel",78
+524,Hina,IT, Lahore,25,58602,0321-4218780,Inactive,"Python ,SQL",55
+525,Hamza,CS,Islamabad,35,172608,0331-1245861, inactive,"SQL,Python",76
+526,Ayesha,Sales, Lahore,31,158973,0310-7251464, inactive,"SQL,Python",76
+527, Ahmed,Sales,Islamabad,37,145871,0308-8500674,ACTIVE,"Python, Excel",82
+528,Fatima,IT,Karachi ,30,94428,0343-3193478,Inactive,"Python, Excel",55
+529,Hina,Sales, Lahore,22,159770,0348-7641211, inactive,"Python, Excel",76
+530,Hamza,IT,Peshawar ,26,61372,0306-2818265,ACTIVE,"SQL,Python",76
+531,Fatima,IT,Peshawar ,45,63331,0326-8341571,Active ," Excel,Power BI ",76
+532, Ahmed,HR, Lahore,29,171113,0309-1579316,Active ,"SQL,Python",89
+533,Sara,Sales,Quetta,36,118699,0333-8541581,ACTIVE," Excel,Power BI ",78
+534,Ayesha,HR,Quetta,35,169751,0313-2675299,Inactive," Excel,Power BI ",82
+535,Zain ,IT,Peshawar ,31,132451,0330-8536631,Active," Excel,Power BI ",78
+536,Ayesha,IT,Karachi ,31,140952,0313-3352923,Active ,"Python, Excel",55
+537,Bilal,HR,Islamabad,29,87329,0340-6234315, inactive,"Java, Python ",67
+538,Bilal,HR,Karachi ,30,154751,0335-8067550,Active ,"SQL,Python",67
+539,Bilal,CS,Karachi ,22,157184,0333-2648809,ACTIVE,"Python ,SQL",82
+540,Sara,HR,Islamabad,38,104282,0324-5362819,ACTIVE,"Java, Python ",82
+541,Usman,Sales,Karachi ,38,149482,0319-3543764,ACTIVE,"Python, Excel",91
+542,Usman,HR, Lahore,34,55427,0312-4476925, inactive,"Python ,SQL",91
+543,Usman,Sales,Karachi ,20,100578,0338-9956664,Active ,"Java, Python ",82
+544,Usman,HR, Lahore,34,115192,0305-3605277,ACTIVE,"Python, Excel",76
+545,Hamza,Finance,Islamabad,31,143710,0347-1003221, inactive,"Python ,SQL",89
+546,Hina,Sales, Lahore,26,76275,0335-3041514,Active ," Excel,Power BI ",76
+547,Hina,IT,Islamabad,29,144540,0332-4536629,ACTIVE," Excel,Power BI ",89
+548,Sara,CS,Peshawar ,22,66108,0329-6472079,Active ,"Java, Python ",76
+549,Sara,CS,Karachi ,26,118832,0337-7200056, inactive,"Python ,SQL",78
+550,Usman,IT,Islamabad,22,59667,0332-3651596,Inactive,"Python, Excel",89
+551,Hamza,Finance,Islamabad,41,131559,0318-2351023,Inactive,"SQL,Python",67
+552, Ali ,HR,Karachi ,22,93311,0330-5108469,Active,"Java, Python ",55
+553,Sara,HR,Quetta,36,102442,0322-4498759, inactive," Excel,Power BI ",76
+554,Zain ,Sales,Islamabad,31,79539,0337-3988451,ACTIVE,"Java, Python ",91
+555, Ali ,Finance,Quetta,37,164605,0315-1551466,Inactive,"SQL,Python",91
+556,Hina,HR,Islamabad,21,41618,0329-5163576,Inactive,"Java, Python ",78
+557,Hamza,Finance,Karachi ,36,45543,0321-8243523,Inactive," Excel,Power BI ",78
+558, Ahmed,IT,Peshawar ,23,74680,0343-2502639, inactive,"Python ,SQL",91
+559, Ahmed,CS,Islamabad,33,83413,0303-7316623,ACTIVE," Excel,Power BI ",82
+560,Hamza,Finance,Karachi ,34,170594,0338-4549965,ACTIVE,"Python, Excel",67
+561,Fatima,IT,Quetta,35,75704,0329-1268102, inactive," Excel,Power BI ",91
+562,Bilal,Finance,Islamabad,21,168086,0313-1390269,Inactive,"Python, Excel",78
+563, Ali ,IT,Karachi ,39,126475,0304-4383360,ACTIVE,"Python, Excel",67
+564,Usman,Finance,Islamabad,24,82852,0334-3420496,Active ,"Python, Excel",91
+565,Bilal,Finance,Islamabad,36,60490,0343-7380222, inactive,"Java, Python ",89
+566,Hamza,HR, Lahore,26,152597,0311-5825527,Active ,"SQL,Python",76
+567, Ali ,HR,Peshawar ,34,89985,0348-5755410,Active,"Java, Python ",91
+568,Fatima,IT,Karachi ,24,171472,0332-7121297,ACTIVE," Excel,Power BI ",55
+569,Bilal,CS,Karachi ,34,46747,0349-1084291,Inactive,"SQL,Python",76
+570,Ayesha,Sales,Peshawar ,41,57364,0347-3236032,Inactive,"Python, Excel",89
+571,Hamza,Finance, Lahore,40,139096,0343-8301383,ACTIVE," Excel,Power BI ",76
+572,Hina,Finance,Karachi ,31,138769,0303-1561953,Active ,"SQL,Python",91
+573,Sara,IT,Quetta,44,44028,0317-7963151, inactive,"SQL,Python",91
+574,Ayesha,CS,Karachi ,42,129681,0320-2592053,Active,"Java, Python ",91
+575,Hamza,IT,Karachi ,42,96783,0316-8461553,Inactive,"Python, Excel",55
+576,Fatima,HR,Islamabad,33,165601,0313-3233767,Active ,"SQL,Python",67
+577,Hamza,HR,Karachi ,23,118434,0337-3073076,Inactive,"Python, Excel",78
+578,Zain ,IT,Karachi ,22,177529,0333-9436136,Active," Excel,Power BI ",91
+579,Bilal,CS,Islamabad,34,83708,0312-5094945,Active," Excel,Power BI ",78
+580,Hina,CS,Islamabad,23,93798,0341-8299680,Active ,"Java, Python ",91
+581,Fatima,Finance, Lahore,32,164474,0335-5197852, inactive," Excel,Power BI ",78
+582,Sara,CS,Quetta,24,127405,0347-9127315, inactive,"Java, Python ",67
+583, Ali ,Sales,Quetta,22,83382,0323-7039316,ACTIVE,"Python ,SQL",55
+584,Usman,Sales, Lahore,27,54231,0322-7377620,Active ,"SQL,Python",55
+585, Ali ,Sales,Quetta,41,103423,0300-8087828,Active ,"SQL,Python",89
+586, Ali ,Finance,Karachi ,43,76563,0313-9627850,Active,"Java, Python ",89
+587,Fatima,IT,Peshawar ,41,49460,0326-1245341,ACTIVE,"Python, Excel",67
+588,Bilal,Finance,Islamabad,33,96471,0313-8745528, inactive,"Python ,SQL",78
+589,Usman,Sales,Islamabad,21,76046,0343-5910497,Inactive," Excel,Power BI ",67
+590,Sara,Sales,Islamabad,23,95982,0318-7097903,Active,"SQL,Python",67
+591,Hina,Sales, Lahore,34,172615,0315-4626479,Active ,"Python ,SQL",67
+592,Hamza,IT,Quetta,20,83556,0339-3975936,Active ,"SQL,Python",82
+593, Ahmed,HR,Islamabad,28,113396,0321-4629774,ACTIVE," Excel,Power BI ",78
+594,Zain ,Finance,Karachi ,21,179943,0325-1316270,Active ,"Python ,SQL",82
+595,Hina,HR,Islamabad,35,89314,0337-5658748, inactive,"Python, Excel",76
+596,Sara,Finance,Quetta,30,118469,0338-7396364,ACTIVE,"Java, Python ",55
+597,Zain ,HR,Karachi ,26,134495,0311-1826832,Inactive,"Python ,SQL",67
+598,Ayesha,HR,Karachi ,21,163916,0311-9800484,Active,"Python, Excel",91
+599,Hina,IT,Islamabad,45,96343,0330-3903615,Active ,"SQL,Python",55
+600,Zain ,IT,Islamabad,32,179136,0335-4731082,Active ,"Java, Python ",91
+601, Ali ,HR, Lahore,44,117372,0312-6848013,Inactive,"Java, Python ",76
+602, Ahmed,Finance,Peshawar ,36,92814,0319-9973880,Active ," Excel,Power BI ",89
+603,Zain ,HR,Peshawar ,42,72485,0317-6685885,ACTIVE,"SQL,Python",55
+604,Fatima,CS,Karachi ,20,161872,0302-5443606,Active,"Python ,SQL",67
+605,Usman,Sales,Karachi ,29,145723,0342-6785522,Active,"Java, Python ",82
+606, Ali ,Finance,Islamabad,22,61801,0334-4808228, inactive," Excel,Power BI ",78
+607,Sara,Sales,Peshawar ,40,96990,0340-5952317,Inactive,"SQL,Python",55
+608,Sara,IT,Karachi ,28,98851,0323-7047632,Active,"SQL,Python",82
+609, Ahmed,Finance, Lahore,34,174199,0349-6290842,Active,"Java, Python ",89
+610,Fatima,Finance, Lahore,31,59615,0331-5959223, inactive,"SQL,Python",78
+611,Hamza,HR,Islamabad,37,124052,0313-5467161,ACTIVE,"Java, Python ",91
+612,Fatima,CS,Karachi ,37,168030,0336-1676084,Active ," Excel,Power BI ",67
+613,Zain ,CS,Quetta,25,83116,0333-4421286,Active,"Java, Python ",91
+614,Ayesha,Finance,Islamabad,22,68123,0310-7551825,Active,"Python ,SQL",76
+615,Hina,HR,Quetta,45,165606,0346-9263830, inactive," Excel,Power BI ",76
+616,Zain ,Finance, Lahore,34,53729,0340-8398071,ACTIVE,"Python, Excel",89
+617, Ali ,IT,Quetta,30,174755,0313-5895873,ACTIVE,"SQL,Python",78
+618,Usman,HR, Lahore,42,85405,0308-9412748, inactive,"SQL,Python",78
+619,Usman,Finance,Peshawar ,22,176017,0343-2358215,Inactive," Excel,Power BI ",67
+620,Fatima,HR,Karachi ,31,112124,0341-6035720,Inactive,"Python, Excel",55
+621,Hina,HR, Lahore,25,49670,0335-7710195,Active ,"Python ,SQL",67
+622,Usman,CS,Peshawar ,35,46766,0319-1551377,ACTIVE,"Python ,SQL",89
+623, Ahmed,Sales,Islamabad,36,150257,0304-3070547,Active ," Excel,Power BI ",82
+624,Hina,CS,Peshawar ,45,58838,0326-1729961,Active,"Python, Excel",67
+625,Zain ,HR,Islamabad,42,166287,0314-5344003,Active,"SQL,Python",76
+626,Bilal,IT,Islamabad,29,179380,0335-3450250,ACTIVE,"Python ,SQL",67
+627, Ali ,Finance, Lahore,43,76399,0302-2886305, inactive,"Python, Excel",91
+628,Sara,HR,Quetta,21,74076,0340-2561193,ACTIVE,"Python, Excel",89
+629,Zain ,HR, Lahore,31,171798,0347-2911033,Inactive,"Python ,SQL",89
+630,Hina,HR,Peshawar ,38,71855,0330-4378769,Active,"Python ,SQL",76
+631, Ali ,CS,Karachi ,23,165624,0319-8011954,ACTIVE,"Java, Python ",78
+632,Hamza,Finance,Quetta,26,97247,0348-5182639, inactive,"Python, Excel",78
+633, Ahmed,HR, Lahore,24,176726,0313-5054403,Active ,"Python ,SQL",67
+634,Bilal,Finance,Quetta,45,43757,0338-6681041,ACTIVE,"Python ,SQL",55
+635,Ayesha,HR,Quetta,40,147547,0348-4664122,ACTIVE,"Python ,SQL",78
+636, Ahmed,HR,Peshawar ,35,44794,0316-5140567, inactive," Excel,Power BI ",91
+637, Ahmed,CS,Islamabad,44,85244,0302-2598193,Active,"SQL,Python",67
+638,Ayesha,CS, Lahore,44,101516,0344-4239748,Active,"Python, Excel",91
+639,Bilal,Finance,Quetta,44,146319,0346-1261604,ACTIVE,"Java, Python ",78
+640,Zain ,Sales,Islamabad,44,172229,0336-6883845,Active,"Python ,SQL",67
+641,Hamza,Sales,Islamabad,35,124814,0327-3036023,Active,"Python, Excel",89
+642,Bilal,IT,Quetta,25,51207,0343-6349825,Active ,"Python ,SQL",78
+643,Usman,IT,Islamabad,45,121963,0323-7280586, inactive," Excel,Power BI ",91
+644,Usman,Finance,Peshawar ,41,50003,0308-6344172,Active ,"Python ,SQL",89
+645,Sara,Sales, Lahore,30,45401,0302-2416527, inactive,"SQL,Python",82
+646,Sara,Sales,Peshawar ,32,174060,0349-4843115, inactive,"Python ,SQL",76
+647,Fatima,Sales,Peshawar ,31,45178,0335-6119754,ACTIVE,"Python, Excel",91
+648,Sara,Finance,Islamabad,39,175418,0326-2643033,Active ,"Python, Excel",76
+649,Ayesha,HR, Lahore,39,164062,0327-4508055,Inactive,"SQL,Python",76
+650,Fatima,HR,Islamabad,33,48232,0310-6275081, inactive," Excel,Power BI ",82
+651,Zain ,Finance,Islamabad,43,138910,0307-7912521,Inactive,"Python ,SQL",89
+652, Ali ,HR,Quetta,45,113427,0328-4717009,Inactive,"SQL,Python",55
+653,Ayesha,IT, Lahore,21,80292,0316-5365037, inactive,"Python ,SQL",89
+654, Ahmed,CS, Lahore,20,95482,0321-6317007,ACTIVE,"Java, Python ",78
+655,Hina,HR,Islamabad,29,123487,0349-8849948,ACTIVE,"SQL,Python",76
+656,Zain ,IT, Lahore,43,139836,0335-1916221,Active,"Python, Excel",82
+657,Hina,CS, Lahore,40,142209,0301-6317756,Active,"Java, Python ",78
+658,Ayesha,Sales,Karachi ,28,120145,0329-9298887,Inactive,"Java, Python ",67
+659,Hina,HR, Lahore,37,63142,0324-9030957, inactive,"Python ,SQL",67
+660,Fatima,Finance,Karachi ,32,130726,0330-6213376, inactive,"Python, Excel",91
+661,Bilal,IT, Lahore,32,178929,0346-3059141, inactive,"Python ,SQL",78
+662,Zain ,HR,Quetta,38,61989,0340-5505743,Active,"SQL,Python",67
+663,Sara,Finance,Karachi ,43,86442,0328-5422219,Inactive,"Python, Excel",76
+664,Sara,IT,Quetta,29,46224,0313-8386279,ACTIVE,"SQL,Python",89
+665,Zain ,IT,Karachi ,32,84578,0321-8531659,Inactive," Excel,Power BI ",76
+666, Ahmed,IT, Lahore,36,134199,0326-2783741, inactive," Excel,Power BI ",55
+667,Hina,CS,Karachi ,42,66210,0347-7371925,ACTIVE," Excel,Power BI ",91
+668,Usman,Sales, Lahore,31,67983,0305-5507722,Inactive," Excel,Power BI ",78
+669, Ahmed,Finance,Peshawar ,28,148082,0328-8851163,Active,"Python ,SQL",78
+670, Ahmed,IT,Karachi ,24,110422,0341-8144460,Active ,"Python, Excel",55
+671, Ali ,Finance, Lahore,30,88075,0311-1611994,ACTIVE,"SQL,Python",91
+672,Sara,IT,Peshawar ,27,159448,0318-2604732,Inactive,"Java, Python ",89
+673,Sara,CS,Quetta,33,71273,0324-6713984,ACTIVE,"Python ,SQL",91
+674,Usman,HR,Quetta,29,116524,0340-2930497,ACTIVE,"SQL,Python",89
+675,Sara,Sales,Quetta,38,103479,0338-5571362,ACTIVE," Excel,Power BI ",76
+676,Hamza,IT,Quetta,22,63182,0303-2478048,Active," Excel,Power BI ",76
+677,Bilal,CS,Islamabad,28,117719,0328-9087493,Inactive,"SQL,Python",76
+678,Bilal,Finance,Islamabad,41,155648,0302-6761480,ACTIVE,"Java, Python ",91
+679,Bilal,CS,Islamabad,44,171430,0303-8971508,ACTIVE,"Python, Excel",78
+680,Fatima,IT, Lahore,22,106469,0335-1662633,ACTIVE,"SQL,Python",82
+681,Zain ,HR,Peshawar ,40,110658,0307-6712300,Active ," Excel,Power BI ",76
+682,Sara,CS,Quetta,31,77927,0325-2058526,Active," Excel,Power BI ",78
+683, Ali ,Sales, Lahore,28,116137,0327-4273286,Active,"SQL,Python",76
+684,Zain ,IT,Peshawar ,39,131769,0343-2404600,ACTIVE,"SQL,Python",82
+685, Ali ,Finance,Peshawar ,20,105535,0327-5125607,Active,"Python ,SQL",67
+686,Hamza,CS,Quetta,45,75675,0303-6400096,Active ,"Python, Excel",76
+687, Ali ,HR,Quetta,24,155683,0324-5832466, inactive,"Python, Excel",67
+688,Hina,IT,Quetta,42,66402,0331-4655331, inactive,"Java, Python ",78
+689,Bilal,Sales,Karachi ,34,169922,0328-2199554, inactive," Excel,Power BI ",67
+690,Hamza,Finance, Lahore,34,127187,0327-6214187, inactive," Excel,Power BI ",91
+691,Hina,IT,Islamabad,20,176974,0313-4457283,Inactive,"Java, Python ",55
+692,Hina,Sales,Peshawar ,22,117835,0320-2883430,Inactive,"Python, Excel",91
+693,Hamza,Sales,Islamabad,28,101235,0346-3578588,Active,"Java, Python ",67
+694,Ayesha,Finance,Karachi ,22,93352,0327-7154082,Inactive," Excel,Power BI ",67
+695,Sara,IT,Quetta,39,122758,0330-6987055, inactive,"SQL,Python",67
+696,Zain ,Finance, Lahore,31,133099,0329-4881952,Inactive,"Java, Python ",78
+697,Ayesha,IT, Lahore,22,60343,0318-3137423,Inactive,"Java, Python ",55
+698,Usman,HR, Lahore,45,81125,0322-1295330, inactive,"Java, Python ",78
+699,Sara,CS,Islamabad,26,156016,0303-5373233,Inactive,"Python, Excel",89
+700,Ayesha,HR,Karachi ,26,90449,0346-2381812, inactive,"Python, Excel",67
+701,Hamza,IT,Karachi ,37,138117,0333-8490440,Active,"Python, Excel",78
+702, Ahmed,IT,Peshawar ,40,119975,0322-6871074, inactive,"Python, Excel",82
+703,Hina,HR, Lahore,41,71692,0319-8107526,Active ,"Python, Excel",55
+704, Ali ,IT,Peshawar ,41,145086,0338-4737099,Active,"Python ,SQL",91
+705,Hamza,IT,Peshawar ,41,176716,0328-2351321,Inactive,"Java, Python ",91
+706, Ahmed,HR,Islamabad,32,82350,0340-2938751,ACTIVE,"Java, Python ",55
+707,Hamza,Finance,Peshawar ,34,83149,0319-5645665, inactive,"Python, Excel",82
+708,Hamza,HR,Quetta,41,63460,0328-3352162, inactive,"Python ,SQL",67
+709,Usman,Finance,Karachi ,22,62703,0319-3865909,Inactive,"Python, Excel",89
+710,Zain ,IT,Quetta,24,59291,0305-9992098,Active ,"Java, Python ",67
+711, Ahmed,Sales,Quetta,37,86882,0334-4741948,Inactive,"SQL,Python",78
+712,Sara,HR,Quetta,42,137142,0319-8987907, inactive,"Python, Excel",89
+713,Sara,IT,Peshawar ,20,45151,0313-4045527, inactive,"Java, Python ",76
+714,Zain ,Finance,Islamabad,39,49584,0326-4879462,Inactive," Excel,Power BI ",82
+715,Fatima,CS,Peshawar ,36,102046,0321-3672188,Inactive," Excel,Power BI ",89
+716,Usman,CS,Peshawar ,38,149154,0338-3664037,Active,"SQL,Python",67
+717,Sara,HR,Quetta,28,82996,0348-3426651, inactive,"Python ,SQL",82
+718,Usman,CS,Quetta,35,68172,0301-4909805,Active ," Excel,Power BI ",76
+719,Hina,Finance,Karachi ,24,85644,0324-5459677, inactive,"SQL,Python",78
+720,Zain ,CS,Quetta,21,113285,0347-5029987, inactive,"Python, Excel",89
+721,Usman,IT,Karachi ,28,70219,0320-3434142, inactive,"Java, Python ",91
+722,Usman,Finance,Quetta,39,89734,0335-5543060,Active,"Python ,SQL",89
+723,Hamza,Sales,Islamabad,27,52942,0332-1403707,Active,"SQL,Python",76
+724,Zain ,IT,Peshawar ,36,145130,0332-7552558,Active,"Python ,SQL",89
+725,Hamza,Finance,Quetta,21,166879,0320-8772265,Inactive,"Java, Python ",89
+726, Ahmed,IT,Karachi ,20,98095,0329-6636163,ACTIVE," Excel,Power BI ",78
+727,Zain ,Finance, Lahore,30,81957,0344-6049237,Active," Excel,Power BI ",91
+728, Ahmed,Finance,Islamabad,26,74742,0326-3670763,Inactive," Excel,Power BI ",78
+729,Ayesha,CS,Quetta,41,96227,0303-1255900,Inactive,"Python ,SQL",91
+730,Zain ,HR,Islamabad,35,138886,0311-4716918,ACTIVE,"Java, Python ",82
+731,Fatima,Finance, Lahore,32,160258,0328-1008249,Inactive,"Python ,SQL",76
+732,Ayesha,HR,Peshawar ,26,94816,0310-8438633, inactive,"Python ,SQL",89
+733,Hina,HR,Islamabad,42,55296,0320-3880789,Inactive,"Python, Excel",76
+734,Ayesha,HR,Islamabad,26,99096,0329-9601511,Active ,"Python, Excel",67
+735, Ali ,IT,Peshawar ,45,73141,0327-7656786,Active,"Python, Excel",89
+736,Zain ,CS, Lahore,20,80898,0337-3018773,Active,"SQL,Python",82
+737,Zain ,Finance,Islamabad,34,151213,0326-8285770, inactive,"Java, Python ",91
+738, Ali ,IT,Islamabad,29,77735,0334-1434525,Active,"Java, Python ",67
+739, Ahmed,Sales,Islamabad,22,72565,0336-2513482,ACTIVE,"Python, Excel",55
+740, Ali ,IT,Peshawar ,32,54575,0314-9347214,Active,"Python, Excel",89
+741,Usman,Finance, Lahore,21,103868,0342-5453665,Active ," Excel,Power BI ",78
+742,Bilal,IT,Karachi ,39,140208,0327-3622981, inactive,"Python, Excel",78
+743,Fatima,Sales,Islamabad,27,146753,0339-7461135,Active,"Java, Python ",91
+744,Hina,Finance,Karachi ,40,69310,0335-8798433,Active,"SQL,Python",76
+745,Fatima,IT,Quetta,45,115470,0325-5022963,Inactive," Excel,Power BI ",89
+746,Fatima,HR,Islamabad,20,81308,0311-2077467, inactive," Excel,Power BI ",55
+747,Ayesha,Finance,Karachi ,28,105500,0308-8956749,Active ,"Python, Excel",89
+748,Usman,Sales, Lahore,39,128656,0301-8725948,Active ,"Java, Python ",91
+749,Sara,Sales,Peshawar ,42,138080,0320-7085496,Inactive,"Python, Excel",67
+750, Ahmed,Sales,Islamabad,41,161128,0326-9459372,Active ,"SQL,Python",82
+751,Zain ,CS,Quetta,22,82352,0313-4305219,Active ,"Java, Python ",67
+752, Ali ,HR, Lahore,23,117368,0303-6372643,Active,"SQL,Python",91
+753, Ali ,Sales,Quetta,29,113840,0341-1125098,Inactive,"Python, Excel",82
+754,Usman,IT, Lahore,29,95992,0315-9036663, inactive," Excel,Power BI ",91
+755, Ahmed,Finance, Lahore,42,178149,0327-1775423,ACTIVE,"Python ,SQL",89
+756, Ahmed,HR,Peshawar ,27,165105,0323-1040764,Inactive,"Python ,SQL",55
+757,Hina,CS,Karachi ,44,92198,0302-8088179, inactive,"SQL,Python",55
+758, Ahmed,Sales,Karachi ,38,74380,0348-3598244,ACTIVE," Excel,Power BI ",55
+759,Zain ,CS, Lahore,39,158207,0313-9666201, inactive,"SQL,Python",55
+760,Hina,Finance,Karachi ,22,79169,0307-2655251,Active ,"Python, Excel",67
+761,Hamza,HR,Quetta,29,66405,0310-2987256, inactive,"Python, Excel",67
+762,Sara,Finance,Islamabad,44,166198,0324-9131213,Active ," Excel,Power BI ",82
+763,Bilal,CS,Islamabad,37,93691,0348-7948592,Active,"Python ,SQL",78
+764,Ayesha,IT,Islamabad,34,76205,0334-9897832,ACTIVE,"Python, Excel",67
+765,Sara,IT,Islamabad,30,113129,0305-2905100, inactive,"SQL,Python",89
+766,Sara,IT, Lahore,39,102523,0306-4107198,Active," Excel,Power BI ",67
+767,Bilal,Finance, Lahore,23,55124,0349-3859947,ACTIVE,"Python, Excel",82
+768, Ali ,IT,Peshawar ,27,165682,0347-9152052,Active ,"Python, Excel",55
+769,Bilal,IT,Quetta,38,164901,0331-1679895,ACTIVE,"SQL,Python",76
+770,Bilal,Finance,Karachi ,39,111838,0316-7474649,Inactive,"Python ,SQL",67
+771,Hina,IT,Karachi ,32,178765,0329-2545208,Active,"Python ,SQL",78
+772,Fatima,IT, Lahore,37,168082,0318-7241269,Active,"Python ,SQL",76
+773, Ahmed,HR,Karachi ,27,88239,0347-2679767,Active,"Java, Python ",76
+774,Fatima,HR, Lahore,43,172979,0327-9046870,Inactive,"Java, Python ",67
+775,Sara,Sales,Peshawar ,43,143548,0339-5233085,ACTIVE,"Python ,SQL",76
+776,Fatima,HR,Karachi ,38,97649,0302-9979710,Inactive,"SQL,Python",89
+777, Ahmed,Finance,Karachi ,24,50785,0321-7362424,Inactive," Excel,Power BI ",91
+778,Ayesha,Sales,Quetta,31,86809,0308-6452797,Inactive,"Java, Python ",82
+779,Zain ,HR, Lahore,45,153874,0344-9311905,Inactive,"Java, Python ",82
+780,Hina,IT, Lahore,42,64349,0333-3973631,ACTIVE," Excel,Power BI ",67
+781, Ali ,CS, Lahore,40,48893,0301-4289107,Active," Excel,Power BI ",89
+782,Bilal,Sales,Quetta,23,147103,0341-2159443,Inactive,"Python, Excel",76
+783,Zain ,HR, Lahore,40,93892,0343-4711944,Inactive,"Python ,SQL",89
+784,Hamza,Sales,Peshawar ,37,71318,0309-5908898,Active,"Java, Python ",67
+785,Usman,Sales, Lahore,37,124360,0344-2075084,Inactive,"Python ,SQL",91
+786,Bilal,HR,Peshawar ,39,130928,0341-2727449,ACTIVE,"Python, Excel",78
+787,Hamza,Sales, Lahore,25,57733,0343-7516686,Active,"Python, Excel",55
+788,Fatima,Finance, Lahore,33,103285,0332-8548239,Active ," Excel,Power BI ",76
+789,Sara,HR,Quetta,26,134842,0318-4200072,Active ,"Java, Python ",78
+790,Fatima,IT,Peshawar ,22,138038,0330-6864324, inactive," Excel,Power BI ",91
+791,Usman,Sales,Peshawar ,23,151925,0318-9763083,Active ," Excel,Power BI ",76
+792,Sara,IT, Lahore,24,166470,0330-6578122,Active ,"Java, Python ",89
+793,Fatima,Sales,Peshawar ,36,40322,0348-5049780,Active,"Python ,SQL",67
+794,Hamza,Sales, Lahore,44,177462,0311-8006987, inactive," Excel,Power BI ",67
+795,Sara,IT,Islamabad,21,49434,0323-1142748,Active ,"SQL,Python",78
+796,Usman,CS, Lahore,40,40694,0343-5024313, inactive," Excel,Power BI ",76
+797,Ayesha,Sales,Karachi ,22,115474,0304-6059102,Active,"Python, Excel",78
+798,Sara,CS,Peshawar ,29,156456,0305-3445582, inactive,"Python, Excel",91
+799,Sara,Finance,Quetta,27,116275,0339-2665806,ACTIVE,"Python, Excel",91
+800,Hina,IT, Lahore,39,102263,0348-8604414,Active ," Excel,Power BI ",78
+801,Hina,HR, Lahore,45,129520,0339-3726826,Inactive,"SQL,Python",82
+802,Sara,Sales,Peshawar ,42,116122,0319-9784475,Active ,"SQL,Python",82
+803,Hina,IT,Karachi ,45,105976,0320-7248557, inactive,"Python, Excel",55
+804,Hamza,CS, Lahore,39,153955,0316-4231222,Active ,"SQL,Python",91
+805,Ayesha,HR,Peshawar ,28,83073,0319-8696813,Active ," Excel,Power BI ",55
+806,Hamza,CS,Islamabad,38,40097,0330-1008622,Active ,"Python ,SQL",91
+807, Ahmed,CS,Peshawar ,43,139470,0344-1142309,Active ," Excel,Power BI ",89
+808,Hamza,Finance,Islamabad,36,170270,0314-8169788,ACTIVE,"Python, Excel",76
+809,Hamza,IT,Karachi ,24,139449,0330-5378669,Active ,"Python, Excel",82
+810,Fatima,HR,Peshawar ,20,68618,0307-9621852, inactive,"Python ,SQL",78
+811,Sara,Finance,Islamabad,23,43696,0348-4605161,Active ,"Python ,SQL",55
+812, Ahmed,CS,Islamabad,40,63416,0335-5933414,ACTIVE," Excel,Power BI ",67
+813,Hina,IT, Lahore,43,172069,0315-8603396,Active ,"Python, Excel",91
+814,Hina,HR,Karachi ,34,133091,0340-7970483,ACTIVE,"SQL,Python",82
+815,Zain ,IT, Lahore,24,67325,0325-5638569, inactive,"Python ,SQL",76
+816, Ali ,CS,Quetta,37,159495,0345-8623753,Active,"Java, Python ",76
+817, Ali ,Sales,Peshawar ,22,155236,0303-1848661,Active ,"Python, Excel",67
+818,Hina,IT,Karachi ,34,160726,0337-8293466,Active ,"Python ,SQL",55
+819,Zain ,Finance,Peshawar ,44,46229,0309-8145414,Active ,"Python ,SQL",82
+820,Hina,Finance,Karachi ,30,103159,0317-1140785, inactive,"Python ,SQL",76
+821,Bilal,Sales,Peshawar ,29,51369,0308-4197303,ACTIVE,"Python, Excel",76
+822,Hina,IT,Peshawar ,25,95299,0300-2616019,Active ,"Python ,SQL",89
+823,Zain ,IT,Peshawar ,41,59716,0305-5764000,ACTIVE,"Python ,SQL",78
+824,Bilal,Sales,Karachi ,34,62822,0309-6363116, inactive,"SQL,Python",89
+825,Usman,Sales,Peshawar ,37,137370,0321-8230367, inactive,"SQL,Python",76
+826,Sara,Finance,Peshawar ,34,52012,0318-5217301,Active ,"Python ,SQL",55
+827, Ali ,IT,Peshawar ,34,176658,0338-4935251,ACTIVE,"Python ,SQL",55
+828, Ahmed,Finance, Lahore,39,159167,0317-5056364,Inactive,"Java, Python ",76
+829,Fatima,CS,Karachi ,39,110454,0301-5061388, inactive,"Python, Excel",76
+830,Usman,Sales,Islamabad,38,147103,0323-5299548,Active,"Python, Excel",82
+831,Bilal,Finance,Quetta,34,152571,0332-8171460,ACTIVE,"SQL,Python",89
+832,Ayesha,Finance,Karachi ,38,107065,0349-4596386, inactive,"Python, Excel",78
+833,Bilal,CS,Karachi ,23,106819,0320-7199553,Inactive," Excel,Power BI ",89
+834, Ali ,IT,Peshawar ,30,75987,0349-4585998,Inactive,"Python ,SQL",82
+835,Fatima,Finance, Lahore,22,49422,0312-8791107,ACTIVE,"Python ,SQL",55
+836,Hina,CS,Peshawar ,27,112443,0334-1897086,Inactive,"Java, Python ",78
+837, Ali ,Sales,Islamabad,27,77562,0345-6739458,Active ,"Python ,SQL",76
+838,Bilal,Finance,Islamabad,23,93093,0302-8125278,ACTIVE," Excel,Power BI ",67
+839,Ayesha,IT, Lahore,20,153899,0344-9210807,Active,"SQL,Python",67
+840,Hina,CS,Islamabad,34,60853,0347-2898489,ACTIVE," Excel,Power BI ",91
+841,Zain ,IT,Islamabad,43,135951,0309-9462772,Inactive,"Python, Excel",78
+842,Sara,IT,Quetta,41,73014,0338-7003378,Active ," Excel,Power BI ",91
+843,Hina,HR, Lahore,24,159818,0341-8173202,ACTIVE,"SQL,Python",89
+844, Ahmed,Sales,Karachi ,22,87254,0311-6014719,Active,"Python, Excel",78
+845,Sara,HR,Quetta,44,61420,0313-4097562,ACTIVE,"Python ,SQL",78
+846,Fatima,CS,Quetta,27,161096,0308-1529356, inactive," Excel,Power BI ",55
+847,Sara,Finance,Peshawar ,43,179388,0308-9383864,Active ,"Python, Excel",76
+848, Ali ,Sales, Lahore,35,107165,0325-3878449,ACTIVE,"Java, Python ",91
+849, Ali ,Sales,Quetta,38,75315,0317-2587380,ACTIVE,"Python, Excel",67
+850, Ali ,Sales,Quetta,24,47851,0313-8725744,ACTIVE," Excel,Power BI ",89
+851,Hina,Finance, Lahore,33,161199,0337-4734904,Inactive," Excel,Power BI ",76
+852,Hina,IT, Lahore,27,65771,0338-1713815,Inactive,"Python, Excel",67
+853,Zain ,CS,Peshawar ,33,152245,0313-7979082,Active,"Python ,SQL",91
+854,Sara,CS,Karachi ,42,154869,0304-8844876,Active,"Java, Python ",67
+855,Zain ,IT,Quetta,33,71831,0308-5793200, inactive,"Java, Python ",82
+856,Hina,HR,Quetta,44,154274,0319-6771573,Active,"Java, Python ",78
+857,Usman,IT,Islamabad,29,51066,0340-1252252,Inactive,"SQL,Python",82
+858,Sara,CS,Peshawar ,20,52611,0314-2691225,Inactive,"Java, Python ",82
+859,Zain ,HR,Karachi ,29,118454,0302-5785937,Active,"Java, Python ",76
+860,Ayesha,CS,Peshawar ,30,46937,0318-5292218, inactive,"Java, Python ",91
+861,Bilal,HR,Islamabad,21,166638,0331-1826047,Inactive,"Python, Excel",76
+862,Usman,Finance,Karachi ,36,164924,0340-2122645,ACTIVE,"Python, Excel",55
+863, Ahmed,Finance,Quetta,41,171538,0335-1891825, inactive,"SQL,Python",76
+864, Ali ,Sales,Quetta,41,123361,0312-5132898,Inactive,"Java, Python ",89
+865,Usman,IT,Islamabad,34,76420,0318-2653744,Active ," Excel,Power BI ",89
+866,Usman,CS,Islamabad,22,127284,0315-6551205,Active,"Java, Python ",82
+867,Zain ,Sales, Lahore,45,46869,0320-7533499,Active ,"SQL,Python",67
+868,Usman,Sales,Karachi ,32,174102,0331-8165663,Inactive,"SQL,Python",82
+869,Sara,HR,Quetta,27,107132,0334-6695859,Active,"Python, Excel",76
+870, Ahmed,Sales,Islamabad,24,159856,0302-6276460, inactive,"Python, Excel",89
+871,Ayesha,IT,Karachi ,32,155348,0349-4095952,Active ," Excel,Power BI ",78
+872,Zain ,Sales,Karachi ,28,121482,0325-9181260,ACTIVE," Excel,Power BI ",91
+873,Sara,Finance,Peshawar ,39,164268,0303-8103935,ACTIVE,"SQL,Python",67
+874,Bilal,HR,Islamabad,21,96674,0349-9385905,ACTIVE,"SQL,Python",78
+875,Hina,Finance,Islamabad,31,125531,0343-2493175,ACTIVE,"SQL,Python",78
+876,Ayesha,IT,Peshawar ,37,57532,0338-4204394,Active ,"Python ,SQL",55
+877,Fatima,IT,Peshawar ,37,148382,0331-7297447,Inactive," Excel,Power BI ",76
+878,Ayesha,CS,Peshawar ,37,110966,0302-8572473,ACTIVE,"SQL,Python",91
+879,Ayesha,Finance,Peshawar ,44,168990,0309-8198666, inactive,"Java, Python ",76
+880,Hamza,HR,Karachi ,37,128175,0317-4554199,Active," Excel,Power BI ",76
+881, Ali ,HR,Peshawar ,30,150280,0317-9547670,ACTIVE,"Python, Excel",89
+882,Zain ,HR,Peshawar ,44,152942,0325-7719580,Inactive,"Python, Excel",82
+883,Hamza,CS,Karachi ,28,103728,0337-8676913,Inactive,"SQL,Python",78
+884,Ayesha,Sales,Peshawar ,39,60793,0329-9180882,ACTIVE,"Python ,SQL",82
+885,Hamza,HR,Islamabad,28,130811,0324-4182238,Inactive,"Python ,SQL",91
+886,Bilal,HR,Karachi ,23,112567,0326-5068370, inactive,"Python ,SQL",76
+887, Ahmed,IT,Karachi ,35,145788,0306-2325390,ACTIVE,"Python, Excel",82
+888,Bilal,Sales, Lahore,37,105829,0331-1409469,ACTIVE," Excel,Power BI ",78
+889, Ahmed,HR,Quetta,40,121197,0337-3106852, inactive,"Python, Excel",89
+890,Sara,Finance,Quetta,21,77382,0302-7474734,Active ,"Python, Excel",91
+891,Hamza,CS,Karachi ,34,169521,0311-8855072,Active,"Python, Excel",78
+892,Hamza,Sales,Karachi ,31,98865,0338-8746881,ACTIVE,"SQL,Python",78
+893,Hina,CS,Quetta,22,128640,0308-9164046,ACTIVE," Excel,Power BI ",55
+894,Hamza,HR,Peshawar ,31,43258,0329-5785869,ACTIVE,"SQL,Python",67
+895,Hina,Sales,Peshawar ,41,104391,0345-6618274, inactive,"Python, Excel",89
+896, Ahmed,IT,Peshawar ,38,173935,0333-8783653,Active ,"SQL,Python",91
+897,Hamza,IT,Quetta,34,87566,0309-1587087,Active,"SQL,Python",78
+898, Ahmed,Sales, Lahore,26,45301,0326-8443595,Active," Excel,Power BI ",82
+899, Ahmed,HR,Karachi ,31,170996,0312-8540218,Active,"SQL,Python",91
+900,Zain ,Finance,Islamabad,45,81020,0330-4437744,Active,"Python ,SQL",89
+901,Zain ,HR,Quetta,23,84450,0318-1073394,Inactive,"SQL,Python",91
+902,Zain ,CS,Karachi ,22,74240,0346-6014554,Active ," Excel,Power BI ",55
+903, Ahmed,Sales,Karachi ,27,95393,0323-3167456,Active ,"Java, Python ",82
+904,Hamza,IT,Karachi ,45,117078,0320-9171644,Active ," Excel,Power BI ",76
+905,Usman,IT,Karachi ,31,175727,0301-4720319,ACTIVE,"Python ,SQL",82
+906,Bilal,Finance,Islamabad,29,170409,0338-5224992,Active,"Java, Python ",82
+907,Ayesha,Sales,Quetta,36,78219,0329-8232388,ACTIVE,"Python ,SQL",67
+908,Hina,Sales,Peshawar ,29,103595,0321-6996083,Inactive," Excel,Power BI ",78
+909,Usman,Finance,Quetta,22,103097,0300-1941963,ACTIVE,"Python ,SQL",89
+910,Bilal,Sales,Islamabad,44,164494,0345-4516746, inactive,"Java, Python ",89
+911,Ayesha,HR,Islamabad,33,96154,0317-4652054,ACTIVE,"Python ,SQL",89
+912, Ahmed,CS,Karachi ,25,99384,0319-1797655, inactive," Excel,Power BI ",76
+913, Ahmed,Finance,Islamabad,39,101137,0349-9658878,Inactive,"Python, Excel",67
+914,Ayesha,CS,Quetta,37,149371,0305-5631644,Active ,"Java, Python ",76
+915,Ayesha,CS,Islamabad,36,104073,0327-3401084,Inactive,"Java, Python ",91
+916,Zain ,Finance,Peshawar ,33,91652,0344-7852002, inactive," Excel,Power BI ",91
+917,Ayesha,Finance,Peshawar ,26,167459,0335-9234967, inactive,"Python, Excel",76
+918,Usman,HR,Islamabad,23,169925,0325-3216790,Active," Excel,Power BI ",89
+919,Usman,IT, Lahore,41,44697,0339-7594599,ACTIVE,"Java, Python ",91
+920,Ayesha,IT,Peshawar ,45,66739,0335-3828827,Active ," Excel,Power BI ",82
+921,Sara,Sales,Peshawar ,31,167989,0335-7338882,Active ," Excel,Power BI ",89
+922,Fatima,Finance,Quetta,43,53942,0333-5880841,Inactive,"Python, Excel",91
+923,Usman,Sales,Islamabad,28,149897,0312-7392054,ACTIVE,"Python, Excel",55
+924,Zain ,Sales,Islamabad,45,145666,0340-9106936,ACTIVE,"SQL,Python",78
+925, Ali ,HR,Peshawar ,41,119394,0325-5479749,ACTIVE," Excel,Power BI ",78
+926,Hina,Sales,Karachi ,27,47569,0348-5499144,ACTIVE,"Python, Excel",82
+927, Ali ,HR,Peshawar ,39,134340,0318-5293521,Active ,"SQL,Python",91
+928,Hamza,Finance,Karachi ,22,91000,0308-4279661,ACTIVE,"Python, Excel",67
+929,Hamza,IT,Islamabad,23,129566,0323-4996098,Inactive,"SQL,Python",67
+930,Hina,Finance,Quetta,40,125843,0349-4250813,Active," Excel,Power BI ",91
+931,Fatima,CS,Karachi ,31,100557,0305-2393723,Inactive,"SQL,Python",91
+932,Hamza,CS,Islamabad,25,89209,0307-5764213,Active," Excel,Power BI ",67
+933,Sara,IT,Quetta,29,133139,0309-5204511, inactive," Excel,Power BI ",67
+934,Bilal,Sales,Peshawar ,25,111579,0326-9090066, inactive,"SQL,Python",82
+935,Bilal,IT, Lahore,30,106824,0326-4418968,Inactive," Excel,Power BI ",82
+936,Zain ,IT, Lahore,33,165990,0331-8042469,Inactive," Excel,Power BI ",91
+937, Ali ,CS,Karachi ,38,105579,0315-6616345,Active,"SQL,Python",78
+938,Usman,Sales, Lahore,34,80165,0322-7966490,ACTIVE,"Java, Python ",78
+939,Sara,Finance,Islamabad,45,113409,0322-8590693,Active ,"Python, Excel",55
+940,Sara,CS, Lahore,20,130302,0342-7050009,Inactive,"Java, Python ",67
+941,Ayesha,HR,Islamabad,45,148595,0337-1551074,Inactive,"SQL,Python",82
+942,Hina,CS,Quetta,27,109940,0302-1649345,Active,"Java, Python ",78
+943,Ayesha,HR,Karachi ,30,40963,0339-4881171,Inactive," Excel,Power BI ",78
+944,Hina,CS,Quetta,23,172325,0324-3089203,Inactive,"Python ,SQL",76
+945,Fatima,Finance,Karachi ,40,160717,0344-5347163,Inactive,"Java, Python ",67
+946,Ayesha,Sales,Islamabad,42,84903,0307-7777063,ACTIVE,"Java, Python ",82
+947,Usman,IT,Islamabad,43,122910,0347-7727145,ACTIVE," Excel,Power BI ",67
+948,Ayesha,HR,Karachi ,45,71680,0311-2808255,Active ,"Python, Excel",89
+949,Zain ,Sales, Lahore,27,60194,0349-8211209,Inactive,"Java, Python ",55
+950,Fatima,IT,Islamabad,40,123046,0349-4022552,Active,"Java, Python ",78
+951,Zain ,Finance, Lahore,27,155637,0320-6212351,Active," Excel,Power BI ",76
+952,Hamza,CS, Lahore,35,54515,0300-6303411,Inactive,"Python, Excel",67
+953,Usman,IT, Lahore,41,142349,0344-6164978, inactive,"Python ,SQL",91
+954,Sara,Finance,Quetta,36,70063,0347-2106101,Active ,"SQL,Python",82
+955, Ali ,Sales, Lahore,39,168206,0311-8127631, inactive,"Python ,SQL",89
+956,Hamza,IT,Islamabad,34,165828,0310-2110403,Inactive,"Python ,SQL",76
+957, Ali ,CS,Peshawar ,39,65382,0301-8108295, inactive,"Python ,SQL",55
+958,Bilal,HR,Quetta,30,166164,0336-9582741,Active,"Java, Python ",91
+959,Hamza,IT,Quetta,42,162477,0334-2658715,Inactive,"Python, Excel",78
+960,Ayesha,HR, Lahore,42,121807,0308-2948761,Active,"SQL,Python",82
+961,Usman,HR,Quetta,45,55945,0348-5689396, inactive," Excel,Power BI ",82
+962,Zain ,Finance,Quetta,27,138724,0339-1835441,Inactive,"Java, Python ",82
+963,Sara,Finance, Lahore,39,119781,0322-8350763,Active," Excel,Power BI ",67
+964,Zain ,CS,Quetta,34,122180,0340-3139951, inactive,"SQL,Python",89
+965,Zain ,Finance,Islamabad,44,96831,0315-8195065,Active,"Python ,SQL",55
+966,Hamza,Finance,Islamabad,34,43592,0311-8103251,ACTIVE," Excel,Power BI ",67
+967,Bilal,Sales,Peshawar ,40,83201,0349-6882560,Inactive,"SQL,Python",82
+968,Hina,CS,Karachi ,40,159490,0334-4905609, inactive,"Java, Python ",89
+969,Fatima,Finance, Lahore,21,176693,0317-1475729,Active ,"Java, Python ",67
+970,Usman,IT,Islamabad,40,177575,0310-4162933,Inactive,"Java, Python ",89
+971,Sara,Finance,Karachi ,44,170829,0340-5519071, inactive,"Java, Python ",76
+972,Zain ,Sales,Quetta,31,40563,0345-9576217, inactive,"Python, Excel",76
+973, Ali ,Finance,Peshawar ,27,50059,0321-7808860, inactive,"Python, Excel",82
+974,Hina,HR, Lahore,28,120526,0303-7788600,ACTIVE,"SQL,Python",78
+975,Hamza,Finance,Karachi ,21,168142,0304-2844423,Inactive,"Python ,SQL",67
+976,Hina,IT, Lahore,21,97386,0308-1527122,Active,"SQL,Python",55
+977,Fatima,Finance,Quetta,30,83329,0311-4330206, inactive,"Java, Python ",91
+978,Sara,CS,Peshawar ,43,125433,0319-6834512,Active,"Java, Python ",91
+979,Hina,Finance,Islamabad,23,75664,0308-1689345,Active ,"Python, Excel",91
+980,Usman,Finance,Karachi ,34,122510,0306-4321656,Inactive,"Python ,SQL",55
+981,Bilal,HR,Karachi ,28,64229,0318-8122566,ACTIVE,"SQL,Python",76
+982,Hina,CS,Quetta,45,145947,0333-8838810, inactive," Excel,Power BI ",67
+983,Fatima,Finance,Peshawar ,38,113951,0300-6766767,ACTIVE,"Java, Python ",82
+984,Hamza,IT,Peshawar ,42,54669,0330-1963212,Inactive,"Python ,SQL",82
+985,Sara,HR,Quetta,21,160388,0316-7866119,ACTIVE,"Python ,SQL",76
+986,Fatima,Finance,Karachi ,30,162479,0308-2242663,ACTIVE,"Java, Python ",67
+987,Fatima,IT,Islamabad,30,142832,0316-2042478,ACTIVE,"Python, Excel",78
+988,Zain ,HR,Karachi ,43,81111,0348-7464735,Inactive,"Java, Python ",91
+989,Sara,HR,Peshawar ,29,98701,0349-3216237,Active ,"Python, Excel",67
+990,Ayesha,Finance,Islamabad,43,112479,0301-7577213,ACTIVE,"Python, Excel",78
+991, Ali ,HR,Peshawar ,21,70125,0313-6237288,ACTIVE,"Java, Python ",82
+992,Ayesha,HR,Quetta,30,114558,0315-4752548,Active ,"Python, Excel",82
+993, Ali ,Finance,Quetta,27,160070,0305-3567301,Active ,"SQL,Python",76
+994,Hina,HR,Karachi ,21,128964,0324-6002723, inactive,"SQL,Python",91
+995,Hamza,CS, Lahore,42,53367,0336-1665664,ACTIVE," Excel,Power BI ",78
+996, Ali ,CS,Peshawar ,21,170844,0339-2414665,Inactive,"Java, Python ",78
+997, Ahmed,Finance, Lahore,42,90919,0300-2999562,Active ,"SQL,Python",82
+998,Hina,CS,Karachi ,33,153119,0305-6756228,ACTIVE,"Java, Python ",91
+999, Ahmed,HR, Lahore,23,164489,0339-6428600,Active ,"Python ,SQL",78
+1000,Bilal,Finance,Islamabad,39,160165,0303-1245347,Active ,"SQL,Python",78
