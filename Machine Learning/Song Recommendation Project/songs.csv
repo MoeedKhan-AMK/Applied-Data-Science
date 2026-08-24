@@ -1,0 +1,330 @@
+track_id,title,artist,genre,subgenre,mood,themes,instruments,language,year,era,tempo_bpm,energy,danceability,acousticness,duration_sec
+1001,Hollow Bones,Ridge Choir,Pop,synthpop,catchy|upbeat,city lights|youth,drum machine|electric guitar|synthesizer,english,1975,1970s,111,0.868,0.842,0.037,126
+1002,Salt Letters,Lark Trio,Folk,folk revival,wistful|storytelling,the road|family,,english,2009,2000s,97,0.382,0.398,0.672,226
+1003,Restless Machines,Lumen Petrov,Classical,romantic era,sweeping|solemn,memory|the sea|nature,cello|piano,instrumental,2004,2000s,97,0.187,0.208,0.971,242
+1004,Salt Window,Quarry Lindqvist,Jazz,jazz fusion,improvised|late night,midnight|the city,brushed drums|saxophone|piano,instrumental,1988,1980s,119,0.398,0.576,0.612,371
+1005,Winter Highway,Pallas Society,Electronic,ambient techno,hypnotic|euphoric,night drive|neon,sub bass|synthesizer,english,1988,1980s,135,0.803,0.733,0.046,171
+1006,Midnight Orbit,Quarry Quartet,Country,bluegrass,storytelling|warm,family|whiskey|small town,acoustic guitar|pedal steel|fiddle,english,1991,1990s,100,0.62,0.617,0.64,142
+1007,Rust Orbit,Indigo Okonkwo,Reggae,dancehall,hypnotic|sunny,summer|unity|the sea,bass guitar|organ|drum kit,english,2012,2010s,76,0.468,0.779,0.312,310
+1008,Wild Rivers,Quarry Lindqvist,Jazz,jazz fusion,improvised|late night,the city|midnight|longing,trumpet|saxophone,english,2017,2010s,123,0.436,0.43,0.795,391
+1009,Small Tide,Ridge Choir,Pop,synthpop,catchy|upbeat,dancing|heartbreak,synthesizer|drum machine|bass guitar,english,2011,2010s,110,0.655,0.912,0.153,156
+1010,Sleepless Bones,Juno Circuit,Folk,folk revival,wistful|warm,family|the sea,harmonica|banjo,english,2015,2010s,80,0.368,0.417,0.74,197
+1011,Rust Rivers,Ridge Ferreira,R&B,neo soul,sensual|romantic,devotion|late night|love,layered vocals|bass guitar,english,1975,1970s,77,0.614,0.747,0.321,384
+1012,Sleepless Lanterns,Solace Vasquez,Reggae,roots reggae,sunny|hypnotic,the sea|unity|freedom,drum kit|bass guitar|offbeat guitar,english,2024,2020s,100,0.451,0.826,0.336,374
+1013,Distant Gardens,Orla Collective,Lo-fi,chillhop,sleepy|calm,rain|memory|study,vinyl crackle|electric piano|sampler,instrumental,1969,1960s,78,0.352,0.583,0.654,318
+1014,Copper Lanterns,Pallas Circuit,Country,country pop,warm|nostalgic,small town|whiskey,fiddle|pedal steel,english,2010,2010s,89,0.415,0.491,0.719,339
+1015,Iron Bones,Ridge Union,Jazz,modal jazz,improvised|late night,the city|midnight|conversation,trumpet|brushed drums,instrumental,2006,2000s,106,0.548,0.588,0.491,334
+1016,Amber Weather,Pallas Union,R&B,neo soul,laid back|sensual,love|heartbreak|late night,bass guitar|layered vocals,english,2021,2020s,94,0.667,0.783,0.389,290
+1017,Velvet Hours,Meridian Novak,Jazz,modal jazz,sophisticated|improvised,midnight|conversation,piano|brushed drums,instrumental,1984,1980s,129,0.595,0.573,0.605,163
+1018,Wild Machines,Tarn Kowalski,Pop,dance pop,upbeat|catchy,love|dancing,electric guitar|bass guitar|synthesizer,english,1975,1970s,126,0.856,0.654,0.032,154
+1019,Endless Weather,Halcyon Union,Folk,indie folk,gentle|wistful,family|the road|loss,fiddle|harmonica,english,1995,1990s,108,0.484,0.418,0.926,343
+1020,Quiet Mornings,Lumen Bergstrom,Hip-Hop,lo-fi hip hop,confident|laid back,money|the city|hustle,808 drums|turntables,english,2012,2010s,85,0.59,0.728,0.218,240
+1021,Winter Window,Rowan Avenue,Country,country pop,storytelling|nostalgic,heartbreak|the road|family,pedal steel|banjo|acoustic guitar,english,2017,2010s,86,0.638,0.462,0.527,182
+1022,Velvet Bones,Cinder Aranda,Hip-Hop,trap,reflective|laid back,the block|family,spoken vocals|sampler,english,2013,2010s,81,0.624,0.829,0.183,225
+1023,Golden Engine,Vesper Club,Classical,chamber music,delicate|sweeping,nature|memory,harpsichord|cello|piano,instrumental,2009,2000s,110,0.188,0.204,0.925,181
+1024,Midnight Signal,Vesper Club,Classical,minimalism,delicate|sweeping,devotion|the sea,piano|string quartet,instrumental,1999,1990s,67,0.238,0.147,0.854,167
+1025,Restless Static,Meridian Diallo,Lo-fi,lo-fi hip hop,study|nostalgic,study|memory|solitude,electric piano|vinyl crackle|soft drums,english,2000,2000s,72,0.192,0.637,0.471,316
+1026,Neon Rooms,Marlow Avenue,R&B,contemporary rnb,romantic|smooth,late night|devotion,layered vocals|bass guitar,english,1982,1980s,74,0.525,0.551,0.468,292
+1027,Endless Highway,Pallas Sisters,Folk,indie folk,storytelling|warm,loss|home,banjo|harmonica|vocals,english,2001,2000s,94,0.304,0.403,0.907,221
+1028,Electric Rooms,Indigo Sandoval,Electronic,ambient techno,hypnotic|euphoric,machines|neon|the club,sampler|drum machine,instrumental,1985,1980s,123,0.806,0.768,0.097,354
+1029,Bright Lanterns,Solace Aranda,Country,country pop,rowdy|nostalgic,the road|family,acoustic guitar|pedal steel,english,2016,2010s,102,0.544,0.607,0.647,334
+1030,Neon Letters,Baskin Society,Rock,alt rock,restless|raw,freedom|the road|friendship,electric guitar|drum kit|bass guitar,english,1991,1990s,129,0.929,0.44,0.11,340
+1031,Winter Mornings,Cinder Aranda,Hip-Hop,trap,reflective|laid back,money|hustle|family,spoken vocals|turntables|808 drums,english,1993,1990s,78,0.839,0.919,0.242,192
+1032,Golden Mornings,Lark Circuit,Pop,electropop,catchy|energetic,heartbreak|summer|city lights,bass guitar|synthesizer|drum machine,english,1999,1990s,118,0.797,0.622,0.087,289
+1033,Small Highway,Meridian Novak,Jazz,modal jazz,sophisticated|improvised,longing|conversation|midnight,trumpet|piano|saxophone,english,2013,2010s,105,0.368,0.505,0.418,314
+1034,Wild Cathedral,Orla Collective,Lo-fi,lo-fi hip hop,sleepy|calm,solitude|late night|study,electric piano|soft drums|sampler,english,1998,1990s,87,0.327,0.47,0.418,316
+1035,Salt Shoulders,Pallas Society,Electronic,ambient techno,hypnotic|euphoric,night drive|escape|the club,drum machine|synthesizer,english,1972,1970s,167,0.76,0.836,0.08,314
+1036,Amber Engine,Harbor Machine,Reggae,dub,sunny|hypnotic,summer|the sea|resistance,organ|offbeat guitar|drum kit,english,2010,2010s,74,0.545,0.633,0.403,209
+1037,Amber Gardens,Ridge Choir,Pop,synthpop,catchy|upbeat,heartbreak|love,synthesizer|bass guitar,spanish,1993,1990s,128,0.905,0.769,0.101,181
+1038,Sleepless Summer,Baskin Society,Rock,alt rock,restless|raw,the road|small town,bass guitar|drum kit,english,2024,2020s,114,0.946,0.366,0.171,221
+1039,Restless Chorus,Lark Circuit,Pop,electropop,catchy|energetic,dancing|summer,bass guitar|synthesizer,english,1989,1980s,121,0.878,0.63,0.093,230
+1040,Amber Orbit,Solace Aranda,Country,country pop,rowdy|nostalgic,the road|whiskey,banjo|fiddle|acoustic guitar,english,2007,2000s,127,0.438,0.539,0.679,346
+1041,Crooked Shoulders,Nova Riot,Pop,synthpop,catchy|energetic,love|dancing|city lights,bass guitar|drum machine|synthesizer,english,2023,2020s,106,0.835,0.674,0.22,310
+1042,Crooked Orbit,Solace Vasquez,Reggae,roots reggae,sunny|hypnotic,resistance|summer,organ|bass guitar,english,1971,1970s,100,0.633,0.603,0.234,272
+1043,Paper Signal,Meridian Diallo,Lo-fi,lo-fi hip hop,study|nostalgic,rain|solitude|memory,soft drums|electric piano|sampler,instrumental,2004,2000s,74,0.159,0.439,0.413,142
+1044,Iron Mornings,Lark Sisters,Lo-fi,bedroom pop,sleepy|study,memory|late night|solitude,electric piano|vinyl crackle,instrumental,1976,1970s,79,0.322,0.618,0.582,163
+1045,Winter Signal,Jetty Novak,R&B,quiet storm,romantic|smooth,heartbreak|devotion|late night,electric piano|bass guitar|strings,english,2006,2000s,70,0.628,0.782,0.334,278
+1046,Quiet Chorus,Juno Choir,Hip-Hop,conscious rap,gritty|confident,struggle|the city|family,turntables|sampler,english,1978,1970s,86,0.573,0.888,0.258,290
+1047,Rust Machines,Quarry Ibrahim,Metal,thrash metal,heavy|intense,apocalypse|rage,distorted guitar|bass guitar,english,1973,1970s,156,0.963,0.417,0.037,394
+1048,Iron Engine,Rowan Haddad,R&B,neo soul,smooth|laid back,late night|love,bass guitar|layered vocals|electric piano,english,1999,1990s,87,0.686,0.704,0.457,126
+1049,Golden Window,Pallas Circuit,Country,bluegrass,warm|nostalgic,family|the road|whiskey,pedal steel|banjo,english,1979,1970s,99,0.524,0.501,0.491,271
+1050,Distant Ceiling,Lark Circuit,Pop,synthpop,catchy|energetic,city lights|dancing,bass guitar|electric guitar,korean,1999,1990s,130,0.764,0.692,0.133,329
+1051,Distant Hours,Halcyon Union,Folk,indie folk,gentle|wistful,the sea|loss,banjo|harmonica|vocals,english,1992,1990s,77,0.274,0.407,0.863,183
+1052,Winter Radio,Indigo Sandoval,Electronic,drum and bass,hypnotic|euphoric,night drive|the club|escape,sub bass|drum machine,english,2018,2010s,150,0.87,0.864,0.011,240
+1053,Copper Chorus,Tarn Machine,Reggae,roots reggae,hypnotic|laid back,the sea|unity|summer,drum kit|offbeat guitar,english,1991,1990s,77,0.65,0.676,0.412,211
+1054,Iron Ceiling,Pallas Union,R&B,neo soul,laid back|sensual,love|heartbreak,electric piano|bass guitar,english,1991,1990s,77,0.474,0.639,0.213,301
+1055,Glass Radio,Kestrel Trio,Electronic,ambient techno,nocturnal|hypnotic,night drive|machines,drum machine|sampler|sub bass,english,2000,2000s,133,0.754,0.924,0.086,312
+1056,Salt Ceiling,Lumen Quartet,Metal,thrash metal,intense|dark,war|apocalypse|machines,distorted guitar|bass guitar,english,1986,1980s,179,0.888,0.355,0.076,243
+1057,Small Mornings,Lark Lindqvist,Metal,prog metal,intense|heavy,apocalypse|war|machines,bass guitar|growled vocals|double bass drum,english,1969,1960s,144,0.86,0.383,0.044,335
+1058,Hollow Chorus,Baskin Lindqvist,Reggae,dub,sunny|hypnotic,resistance|freedom,drum kit|bass guitar,english,1976,1970s,96,0.529,0.72,0.42,336
+1059,Amber Hours,Quarry Quartet,Country,country pop,storytelling|warm,heartbreak|the road|small town,fiddle|pedal steel|banjo,english,2021,2020s,103,0.745,0.457,0.732,243
+1060,Slow Machines,Lumen Quartet,Metal,doom metal,intense|dark,rage|machines,growled vocals|distorted guitar|double bass drum,english,2009,2000s,183,0.881,0.378,0.051,351
+1061,Glass Signal,Kite Circuit,Classical,chamber music,solemn|delicate,memory|grief,cello|piano|harpsichord,instrumental,1979,1970s,84,0.295,0.174,0.916,271
+1062,Crooked Tide,Kestrel Petrov,Rock,post punk,driving|anthemic,rebellion|small town,electric guitar|bass guitar,english,1973,1970s,132,0.719,0.567,0.194,142
+1063,Copper Hours,Juno Ibrahim,Rock,indie rock,driving|raw,rebellion|friendship,drum kit|electric guitar,english,2017,2010s,121,0.793,0.543,0.205,145
+1064,Winter Harbour,Juno Circuit,Folk,folk revival,wistful|warm,family|home|loss,fiddle|vocals,english,1994,1990s,80,0.318,0.47,0.605,287
+1065,Paper Summer,Cobalt Nakamura,Pop,indie pop,upbeat|romantic,summer|love|dancing,synthesizer|drum machine,english,2018,2010s,126,0.761,0.717,0.149,316
+1066,Copper Window,Lark Trio,Folk,indie folk,wistful|storytelling,the road|loss|seasons,vocals|harmonica|fiddle,english,1975,1970s,80,0.541,0.368,0.895,351
+1067,Winter Machines,Quarry Quartet,Country,country pop,storytelling|warm,heartbreak|small town|the road,banjo|acoustic guitar,english,2007,2000s,106,0.673,0.645,0.569,387
+1068,Midnight Tide,Meridian Diallo,Lo-fi,lo-fi hip hop,study|nostalgic,solitude|study,vinyl crackle|sampler|soft drums,instrumental,1983,1980s,73,0.208,0.496,0.529,346
+1069,Endless Rivers,Pallas Sisters,Folk,indie folk,storytelling|warm,the road|loss|family,harmonica|vocals|fiddle,irish,2014,2010s,73,0.357,0.344,0.623,363
+1070,Endless Static,Jetty Novak,R&B,quiet storm,romantic|smooth,heartbreak|late night|devotion,electric piano|strings|bass guitar,english,1985,1980s,91,0.571,0.682,0.333,383
+1071,Electric Lanterns,Vesper Club,Classical,chamber music,delicate|sweeping,grief|nature,string quartet|piano|cello,instrumental,2013,2010s,80,0.265,0.245,0.965,219
+1072,Neon Cathedral,Rowan Avenue,Country,country pop,storytelling|nostalgic,whiskey|heartbreak|the road,pedal steel|fiddle|banjo,english,1990,1990s,92,0.489,0.448,0.664,362
+1073,Distant Radio,Grove Sandoval,Hip-Hop,lo-fi hip hop,confident|reflective,the city|the block|family,turntables|sampler,english,2017,2010s,82,0.771,0.728,0.273,234
+1074,Restless Highway,Lumen Quartet,Metal,doom metal,intense|dark,apocalypse|war,distorted guitar|bass guitar|double bass drum,english,1995,1990s,146,0.926,0.241,0.022,250
+1075,Slow Window,Lumen Okonkwo,Lo-fi,lo-fi hip hop,sleepy|calm,study|late night|memory,vinyl crackle|soft drums,instrumental,1985,1980s,76,0.426,0.511,0.713,326
+1076,Velvet Gardens,Lumen Okonkwo,Lo-fi,chillhop,sleepy|calm,solitude|study,electric piano|vinyl crackle|sampler,english,2007,2000s,76,0.326,0.478,0.739,290
+1077,Electric Highway,Ember Avenue,Metal,doom metal,aggressive|intense,machines|rage,growled vocals|bass guitar,english,2000,2000s,184,0.927,0.276,0.067,222
+1078,Neon Orbit,Indigo Okonkwo,Reggae,dancehall,hypnotic|sunny,the sea|resistance,organ|bass guitar,english,1996,1990s,84,0.713,0.692,0.238,357
+1079,Iron Window,Cinder Choir,Jazz,cool jazz,sophisticated|late night,longing|conversation,piano|saxophone|brushed drums,english,1982,1980s,93,0.518,0.384,0.529,263
+1080,Copper Highway,Lumen Bergstrom,Hip-Hop,lo-fi hip hop,confident|laid back,the city|the block,spoken vocals|sampler|turntables,english,2021,2020s,87,0.777,0.83,0.293,151
+1081,Restless Harbour,Lumen Okonkwo,Lo-fi,bedroom pop,sleepy|calm,,vinyl crackle|sampler,instrumental,1995,1990s,84,0.427,0.639,0.732,140
+1082,Hollow Tide,Rowan Ensemble,Rock,indie rock,restless|raw,freedom|friendship,drum kit|electric guitar|organ,english,2022,2020s,135,0.883,0.548,0.167,190
+1083,Hollow Cathedral,Lark Trio,Folk,indie folk,wistful|storytelling,home|the road,vocals|banjo,english,2017,2010s,77,0.345,0.449,0.61,217
+1084,Winter Rivers,Rowan Haddad,R&B,neo soul,smooth|laid back,late night|love|devotion,electric piano|bass guitar|strings,english,2012,2010s,96,0.647,0.582,0.224,154
+1085,Copper Summer,Solace Aranda,Country,outlaw country,rowdy|nostalgic,whiskey|the road|family,pedal steel|banjo,english,2012,2010s,124,0.563,0.421,0.67,286
+1086,Copper Orbit,Kite Circuit,Classical,minimalism,solemn|delicate,the sea|nature|memory,piano|harpsichord,instrumental,2006,2000s,97,0.405,0.261,0.884,360
+1087,Silver Chorus,Nimbus Collective,Folk,indie folk,wistful|gentle,,banjo|fiddle|acoustic guitar,english,2021,2020s,91,0.295,0.315,0.63,160
+1088,Slow Rooms,Pallas Sisters,Folk,folk revival,storytelling|warm,home|family,fiddle|acoustic guitar,irish,1991,1990s,91,0.504,0.511,0.836,234
+1089,Small Chorus,Orla Collective,Lo-fi,lo-fi hip hop,sleepy|calm,rain|study|memory,vinyl crackle|sampler,instrumental,1987,1980s,71,0.306,0.407,0.774,305
+1090,Electric Radio,Ridge Union,Jazz,cool jazz,improvised|late night,conversation|midnight|longing,upright bass|trumpet|piano,instrumental,2016,2010s,100,0.426,0.524,0.85,205
+1091,Electric Rivers,Lumen Petrov,Classical,romantic era,sweeping|solemn,memory|grief|nature,string quartet|cello,instrumental,1979,1970s,73,0.248,0.106,0.902,174
+1092,Hollow Letters,Rowan Ensemble,Rock,indie rock,restless|raw,freedom|friendship|the road,organ|drum kit|electric guitar,german,1989,1980s,145,0.823,0.401,0.231,298
+1093,Midnight Window,Solace Vasquez,Reggae,roots reggae,sunny|hypnotic,summer|the sea|resistance,bass guitar|organ,english,1998,1990s,83,0.707,0.765,0.253,334
+1094,Golden Radio,Vesper Nakamura,Country,country pop,nostalgic|warm,family|small town|whiskey,banjo|pedal steel|acoustic guitar,english,1971,1970s,116,0.508,0.543,0.688,376
+1095,Glass Ceiling,Kite Circuit,Classical,baroque,solemn|delicate,devotion|the sea|grief,string quartet|piano,instrumental,1997,1990s,86,0.339,0.17,0.948,261
+1096,Electric Cathedral,Juno Ibrahim,Rock,indie rock,driving|raw,small town|rebellion|freedom,bass guitar|electric guitar|drum kit,english,2000,2000s,149,0.873,0.374,0.058,151
+1097,Bright Static,Lumen Bergstrom,Hip-Hop,conscious rap,confident|laid back,hustle|money|the city,spoken vocals|sampler,english,1980,1980s,82,0.527,0.767,0.081,337
+1098,Broken Harbour,Rowan Avenue,Country,country pop,storytelling|nostalgic,whiskey|family,fiddle|acoustic guitar|banjo,english,2001,2000s,99,0.471,0.441,0.731,307
+1099,Paper Letters,Pallas Union,R&B,neo soul,laid back|sensual,late night|heartbreak,strings|layered vocals|electric piano,english,1979,1970s,98,0.511,0.609,0.414,311
+1100,Wild Letters,Orla Collective,Lo-fi,lo-fi hip hop,sleepy|calm,solitude|memory|study,sampler|electric piano|vinyl crackle,english,2022,2020s,69,0.321,0.429,0.427,255
+1101,Slow Highway,Kestrel Petrov,Rock,post punk,driving|anthemic,friendship|small town|rebellion,electric guitar|bass guitar|drum kit,english,2024,2020s,122,0.815,0.591,0.218,183
+1102,Electric Window,Indigo Ferreira,Classical,chamber music,delicate|calm,nature|devotion,string quartet|flute|cello,instrumental,2002,2000s,92,0.384,0.153,0.856,140
+1103,Bright Orbit,Kestrel Petrov,Rock,post punk,driving|anthemic,small town|the road|rebellion,electric guitar|drum kit,english,2001,2000s,124,0.842,0.442,0.183,402
+1104,Broken Engine,Lark Lindqvist,Metal,prog metal,intense|heavy,rage|apocalypse|the abyss,distorted guitar|growled vocals|bass guitar,english,1977,1970s,188,0.859,0.387,0.018,365
+1105,Quiet Letters,Lumen Quartet,Metal,thrash metal,intense|dark,apocalypse|machines|the abyss,bass guitar|distorted guitar,english,1970,1970s,149,0.896,0.29,0.064,225
+1106,Glass Gardens,Lumen Bergstrom,Hip-Hop,lo-fi hip hop,confident|laid back,the block|money|family,sampler|turntables,english,1980,1980s,80,0.539,0.815,0.097,159
+1107,Small Shoulders,Sable Sound,Electronic,ambient techno,euphoric|hypnotic,escape|the club|night drive,sampler|drum machine,english,2002,2000s,149,0.912,0.738,0.079,205
+1108,Hollow Static,Vesper Club,Classical,minimalism,delicate|sweeping,devotion|memory,flute|cello,instrumental,1972,1970s,92,0.165,0.119,0.938,273
+1109,Quiet Summer,Baskin Society,Rock,alt rock,restless|raw,the road|small town|freedom,bass guitar|electric guitar,english,2003,2000s,120,0.943,0.484,0.168,297
+1110,Wild Shoulders,Kestrel Club,Metal,thrash metal,dark|intense,war|apocalypse|machines,growled vocals|distorted guitar,english,1976,1970s,159,0.953,0.255,0.021,339
+1111,Velvet Cathedral,Vesper Club,Classical,minimalism,delicate|sweeping,memory|the sea|grief,flute|piano,instrumental,2005,2000s,81,0.195,0.132,0.989,345
+1112,Golden Signal,Vesper Nakamura,Country,outlaw country,nostalgic|warm,the road|small town,pedal steel|acoustic guitar|banjo,english,2003,2000s,98,0.556,0.446,0.662,330
+1113,Crooked Rivers,Quarry Quartet,Country,country pop,storytelling|warm,family|the road|heartbreak,fiddle|acoustic guitar|banjo,english,1984,1980s,113,0.419,0.65,0.54,316
+1114,Silver Letters,Ridge Choir,Pop,synthpop,catchy|upbeat,summer|love|city lights,synthesizer|drum machine|bass guitar,english,2014,2010s,106,0.68,0.722,0.089,192
+1115,Winter Rooms,Indigo Ferreira,Classical,chamber music,delicate|calm,devotion|the sea,string quartet|cello|piano,instrumental,1968,1960s,58,0.143,0.245,0.937,339
+1116,Neon Window,Solace Vasquez,Reggae,roots reggae,sunny|hypnotic,the sea|unity,organ|bass guitar,patois,1990,1990s,74,0.554,0.69,0.246,137
+1117,Glass Hours,Juno Ibrahim,Rock,indie rock,driving|raw,friendship|small town,organ|drum kit|bass guitar,german,1978,1970s,130,0.748,0.389,0.093,333
+1118,Velvet Chorus,Marlow Avenue,R&B,contemporary rnb,romantic|smooth,love|devotion|late night,bass guitar|layered vocals,english,2013,2010s,68,0.407,0.685,0.458,282
+1119,Glass Rooms,Vesper Nakamura,Country,country pop,nostalgic|warm,the road|family,pedal steel|banjo,english,2022,2020s,115,0.691,0.506,0.747,264
+1120,Endless Mornings,Rowan Haddad,R&B,neo soul,smooth|laid back,late night|heartbreak|devotion,layered vocals|bass guitar,english,1989,1980s,97,0.536,0.797,0.237,126
+1121,Distant Rivers,Halcyon Union,Folk,indie folk,gentle|wistful,loss|seasons,harmonica|acoustic guitar,english,1999,1990s,104,0.294,0.439,0.681,334
+1122,Copper Rooms,Lark Sisters,Lo-fi,bedroom pop,sleepy|study,study|memory,sampler|electric piano|soft drums,instrumental,1991,1990s,84,0.432,0.491,0.439,333
+1123,Amber Signal,Kestrel Club,Metal,thrash metal,dark|intense,machines|the abyss,bass guitar|growled vocals|distorted guitar,english,1975,1970s,147,0.976,0.281,0.017,292
+1124,Salt Tide,Juno Choir,Hip-Hop,boom bap,gritty|confident,family|hustle,808 drums|spoken vocals|turntables,english,2017,2010s,92,0.611,0.736,0.053,282
+1125,Electric Mornings,Kestrel Trio,Electronic,ambient techno,nocturnal|hypnotic,escape|night drive|neon,drum machine|sampler,english,1993,1990s,146,0.889,0.826,0.033,341
+1126,Sleepless Orbit,Ridge Ferreira,R&B,quiet storm,sensual|romantic,devotion|love|heartbreak,layered vocals|strings,english,2002,2000s,74,0.473,0.655,0.41,348
+1127,Distant Static,Cobalt Nakamura,Pop,indie pop,upbeat|romantic,heartbreak|city lights,electric guitar|bass guitar,english,1974,1970s,118,0.793,0.822,0.092,311
+1128,Wild Harbour,Tarn Kowalski,Pop,dance pop,upbeat|catchy,youth|heartbreak|dancing,electric guitar|drum machine|synthesizer,english,1995,1990s,123,0.697,0.628,0.071,249
+1129,Paper Highway,Indigo Sandoval,Electronic,ambient techno,hypnotic|euphoric,night drive|neon,drum machine|synthesizer,english,1979,1970s,140,0.942,0.874,0.094,145
+1130,Glass Bones,Lark Lindqvist,Metal,prog metal,intense|heavy,apocalypse|machines,double bass drum|distorted guitar|bass guitar,english,1984,1980s,169,0.894,0.32,0.067,302
+1131,Golden Gardens,Tarn Machine,Reggae,dancehall,hypnotic|laid back,resistance|summer|freedom,drum kit|organ,english,2010,2010s,96,0.572,0.767,0.339,397
+1132,Bright Mornings,Pallas Circuit,Country,country pop,warm|nostalgic,heartbreak|small town|whiskey,acoustic guitar|pedal steel,english,1982,1980s,97,0.717,0.558,0.469,259
+1133,Electric Bones,Solace Aranda,Country,bluegrass,rowdy|nostalgic,small town|whiskey|the road,banjo|pedal steel|acoustic guitar,english,2000,2000s,119,0.704,0.543,0.419,195
+1134,Sleepless Chorus,Rowan Haddad,R&B,neo soul,smooth|laid back,late night|love|devotion,strings|bass guitar,english,2000,2000s,76,0.465,0.66,0.326,197
+1135,Distant Engine,Tarn Kowalski,Pop,dance pop,upbeat|catchy,youth|city lights|dancing,bass guitar|synthesizer,english,1979,1970s,126,0.831,0.751,0.19,285
+1136,Wild Lanterns,Lumen Bergstrom,Hip-Hop,lo-fi hip hop,confident|laid back,the block|family,turntables|sampler|808 drums,french,2004,2000s,82,0.722,0.788,0.218,378
+1137,Slow Signal,Tarn Kowalski,Pop,dance pop,upbeat|catchy,summer|heartbreak,electric guitar|synthesizer|bass guitar,english,2003,2000s,112,0.829,0.734,0.046,390
+1138,Slow Rivers,Lark Lindqvist,Metal,prog metal,intense|heavy,rage|the abyss|war,distorted guitar|growled vocals|bass guitar,english,2019,2010s,159,0.965,0.354,0.07,390
+1139,Rust Highway,Pallas Society,Electronic,ambient techno,hypnotic|euphoric,neon|escape|machines,drum machine|synthesizer|sub bass,english,1993,1990s,136,0.813,0.852,0.013,287
+1140,Sleepless Window,Harbor Machine,Reggae,roots reggae,sunny|hypnotic,resistance|freedom,offbeat guitar|drum kit,english,2011,2010s,100,0.552,0.707,0.18,351
+1141,Electric Static,Rowan Ensemble,Rock,indie rock,restless|raw,the road|rebellion,drum kit|bass guitar,english,2011,2010s,135,0.741,0.61,0.11,329
+1142,Slow Mornings,Indigo Okonkwo,Reggae,roots reggae,hypnotic|sunny,summer|the sea,drum kit|organ|offbeat guitar,english,1996,1990s,76,0.588,0.763,0.449,388
+1143,Iron Tide,Ember Avenue,Metal,doom metal,aggressive|intense,war|rage,distorted guitar|bass guitar,finnish,1998,1990s,161,0.985,0.394,0.042,190
+1144,Quiet Signal,Marlow Avenue,R&B,contemporary rnb,romantic|smooth,devotion|late night,electric piano|strings,english,1995,1990s,100,0.44,0.625,0.489,136
+1145,Golden Chorus,Cinder Aranda,Hip-Hop,trap,reflective|laid back,hustle|the city|struggle,808 drums|sampler|turntables,spanish,2001,2000s,96,0.672,0.884,0.155,355
+1146,Endless Letters,Solace Vasquez,Reggae,roots reggae,sunny|hypnotic,unity|summer|the sea,drum kit|offbeat guitar,english,1982,1980s,89,0.658,0.752,0.341,330
+1147,Midnight Hours,Kestrel Club,Metal,thrash metal,dark|intense,machines|rage,growled vocals|bass guitar,finnish,1977,1970s,175,0.963,0.211,0.079,241
+1148,Endless Chorus,Onyx Okonkwo,Rock,alt rock,restless|raw,the road|friendship,drum kit|bass guitar|electric guitar,english,2019,2010s,156,0.693,0.395,0.25,329
+1149,Slow Summer,Lark Circuit,Pop,electropop,catchy|energetic,love|city lights|summer,bass guitar|synthesizer|electric guitar,english,1975,1970s,129,0.715,0.777,0.166,187
+1150,Wild Signal,Cinder Aranda,Hip-Hop,trap,reflective|laid back,the city|money|hustle,808 drums|turntables|sampler,english,1990,1990s,78,0.842,0.702,0.142,177
+1151,Electric Harbour,Indigo Ferreira,Classical,minimalism,delicate|calm,the sea|devotion,cello|piano|harpsichord,instrumental,1969,1960s,76,0.367,0.148,0.857,178
+1152,Small Letters,Pallas Sisters,Folk,indie folk,storytelling|warm,seasons|home|loss,acoustic guitar|vocals|harmonica,english,1999,1990s,104,0.259,0.322,0.685,128
+1153,Amber Cathedral,Juno Circuit,Folk,indie folk,wistful|warm,seasons|loss,fiddle|acoustic guitar,english,1969,1960s,96,0.367,0.424,0.931,315
+1154,Rust Tide,Harbor Society,Electronic,house,hypnotic|energetic,the club|escape|neon,drum machine|sub bass,english,2015,2010s,124,0.951,0.865,0.077,207
+1155,Copper Signal,Lumen Quartet,Metal,thrash metal,intense|dark,rage|the abyss,bass guitar|double bass drum|distorted guitar,finnish,1986,1980s,171,0.869,0.395,0.027,381
+1156,Midnight Gardens,Rowan Avenue,Country,country pop,storytelling|nostalgic,small town|heartbreak,pedal steel|fiddle,english,1992,1990s,101,0.644,0.49,0.547,167
+1157,Paper Hours,Baskin Lindqvist,Reggae,dub,sunny|hypnotic,freedom|summer,organ|drum kit,patois,2009,2000s,86,0.452,0.695,0.177,271
+1158,Bright Bones,Harbor Society,Electronic,house,hypnotic|energetic,the club|escape,drum machine|sampler|sub bass,instrumental,1992,1990s,136,0.927,0.876,0.1,130
+1159,Rust Mornings,Baskin Society,Rock,alt rock,restless|raw,small town|freedom,bass guitar|drum kit,english,1998,1990s,120,0.827,0.427,0.186,142
+1160,Rust Window,Tarn Machine,Reggae,dancehall,hypnotic|laid back,the sea|summer|unity,bass guitar|drum kit|offbeat guitar,english,1999,1990s,100,0.465,0.848,0.263,133
+1161,Amber Machines,Lumen Okonkwo,Lo-fi,bedroom pop,sleepy|calm,rain|memory|late night,vinyl crackle|soft drums,instrumental,1982,1980s,78,0.227,0.402,0.614,288
+1162,Midnight Radio,Kite Circuit,Classical,minimalism,solemn|delicate,memory|the sea|devotion,cello|harpsichord|string quartet,instrumental,1987,1980s,107,0.305,0.253,0.968,357
+1163,Velvet Static,Grove Sandoval,Hip-Hop,lo-fi hip hop,confident|reflective,struggle|the city|family,turntables|sampler,english,2012,2010s,92,0.647,0.813,0.237,142
+1164,Copper Radio,Cinder Choir,Jazz,bebop,sophisticated|late night,the city|midnight,piano|brushed drums,instrumental,1991,1990s,148,0.308,0.484,0.476,290
+1165,Crooked Rooms,Pallas Sisters,Folk,folk revival,storytelling|warm,the sea|loss,acoustic guitar|banjo,english,1983,1980s,108,0.291,0.43,0.704,356
+1166,Quiet Machines,Vesper Nakamura,Country,country pop,nostalgic|warm,whiskey|heartbreak,fiddle|acoustic guitar,english,2006,2000s,127,0.68,0.459,0.748,373
+1167,Distant Window,Ridge Union,Jazz,modal jazz,improvised|late night,conversation|midnight|the city,trumpet|brushed drums|upright bass,english,2001,2000s,103,0.548,0.568,0.587,147
+1168,Paper Cathedral,Solace Aranda,Country,country pop,rowdy|nostalgic,whiskey|the road|heartbreak,pedal steel|banjo,english,2007,2000s,113,0.62,0.551,0.554,337
+1169,Iron Hours,Nimbus Collective,Folk,americana,wistful|gentle,loss|the sea|family,vocals|acoustic guitar|fiddle,english,1995,1990s,107,0.209,0.344,0.759,236
+1170,Midnight Rooms,Quarry Lindqvist,Jazz,jazz fusion,improvised|late night,midnight|conversation,piano|brushed drums|upright bass,english,1991,1990s,99,0.629,0.571,0.778,158
+1171,Crooked Engine,Harbor Machine,Reggae,roots reggae,sunny|hypnotic,unity|the sea|freedom,offbeat guitar|organ,english,1975,1970s,98,0.618,0.622,0.304,173
+1172,Electric Hours,Indigo Ferreira,Classical,minimalism,delicate|calm,devotion|nature|the sea,string quartet|flute,instrumental,1971,1970s,94,0.341,0.154,0.898,258
+1173,Sleepless Radio,Kite Circuit,Classical,minimalism,solemn|delicate,grief|nature,harpsichord|piano,instrumental,1984,1980s,100,0.23,0.246,0.939,346
+1174,Midnight Static,Tarn Trio,Jazz,jazz fusion,smooth|late night,conversation|midnight,saxophone|trumpet|upright bass,english,2006,2000s,140,0.385,0.47,0.616,158
+1175,Glass Rivers,Marlow Avenue,R&B,contemporary rnb,romantic|smooth,devotion|late night,bass guitar|layered vocals,english,1987,1980s,92,0.454,0.782,0.457,188
+1176,Salt Engine,Nova Riot,Pop,synthpop,catchy|energetic,love|dancing,drum machine|bass guitar,english,2009,2000s,115,0.917,0.846,0.077,191
+1177,Restless Tide,Juno Ibrahim,Rock,indie rock,driving|raw,rebellion|the road|freedom,organ|drum kit,english,1996,1990s,145,0.828,0.399,0.181,346
+1178,Midnight Mornings,Lumen Petrov,Classical,romantic era,sweeping|solemn,grief|devotion|nature,string quartet|piano|flute,instrumental,1997,1990s,74,0.165,0.185,0.875,368
+1179,Electric Chorus,Quarry Quartet,Country,outlaw country,storytelling|warm,the road|family,pedal steel|banjo|fiddle,english,1981,1980s,84,0.718,0.61,0.666,366
+1180,Quiet Static,Tarn Machine,Reggae,dancehall,hypnotic|laid back,summer|the sea,drum kit|bass guitar|offbeat guitar,patois,1979,1970s,82,0.731,0.726,0.438,171
+1181,Velvet Summer,Nova Riot,Pop,synthpop,catchy|energetic,city lights|love|summer,drum machine|electric guitar,english,1973,1970s,107,0.733,0.691,0.143,272
+1182,Hollow Rivers,Nova Bergstrom,Hip-Hop,boom bap,reflective|confident,family|struggle,sampler|turntables|808 drums,english,1995,1990s,83,0.759,0.662,0.13,249
+1183,Velvet Window,Sable Sound,Electronic,ambient techno,euphoric|hypnotic,neon|the club,drum machine|sampler|synthesizer,english,2008,2000s,168,0.731,0.77,0.085,402
+1184,Iron Harbour,Nova Riot,Pop,synthpop,catchy|energetic,love|dancing|heartbreak,drum machine|synthesizer,english,1999,1990s,129,0.874,0.662,0.156,362
+1185,Small Window,Sable Sound,Electronic,drum and bass,euphoric|hypnotic,machines|escape|night drive,sub bass|sampler|synthesizer,instrumental,1969,1960s,143,0.9,0.902,0.076,189
+1186,Electric Summer,Ember Avenue,Metal,doom metal,aggressive|intense,apocalypse|machines,distorted guitar|growled vocals|double bass drum,english,2017,2010s,147,0.876,0.334,0.045,160
+1187,Sleepless Harbour,Tarn Kowalski,Pop,dance pop,upbeat|catchy,dancing|summer|heartbreak,drum machine|bass guitar|synthesizer,english,2016,2010s,127,0.889,0.692,0.101,250
+1188,Broken Letters,Ridge Union,Jazz,modal jazz,improvised|late night,conversation|the city|longing,brushed drums|upright bass|saxophone,instrumental,1973,1970s,138,0.355,0.541,0.719,327
+1189,Endless Cathedral,Indigo Ferreira,Classical,chamber music,delicate|calm,nature|devotion,piano|harpsichord|string quartet,instrumental,1996,1990s,60,0.244,0.207,0.951,250
+1190,Silver Rivers,Meridian Novak,Jazz,modal jazz,sophisticated|improvised,longing|conversation,upright bass|brushed drums,english,2024,2020s,103,0.514,0.393,0.473,350
+1191,Slow Lanterns,Nova Bergstrom,Hip-Hop,conscious rap,reflective|confident,family|struggle|money,turntables|sampler,english,1987,1980s,93,0.664,0.773,0.147,203
+1192,Slow Shoulders,Pallas Sisters,Folk,indie folk,storytelling|warm,the sea|home,fiddle|harmonica|vocals,english,1976,1970s,101,0.526,0.467,0.843,387
+1193,Rust Weather,Nova Bergstrom,Hip-Hop,trap,reflective|confident,money|hustle|family,808 drums|turntables,spanish,1983,1980s,102,0.563,0.737,0.248,354
+1194,Broken Hours,Nova Bergstrom,Hip-Hop,lo-fi hip hop,reflective|confident,hustle|the block,turntables|spoken vocals,english,2022,2020s,84,0.732,0.928,0.197,247
+1195,Hollow Orbit,Lumen Bergstrom,Hip-Hop,lo-fi hip hop,confident|laid back,family|the block|the city,sampler|808 drums|turntables,spanish,1997,1990s,100,0.818,0.901,0.109,284
+1196,Wild Window,Kite Circuit,Classical,baroque,solemn|delicate,memory|grief,string quartet|cello,instrumental,2022,2020s,99,0.303,0.179,0.982,187
+1197,Iron Weather,Vesper Nakamura,Country,country pop,nostalgic|warm,whiskey|heartbreak|small town,acoustic guitar|pedal steel|banjo,english,1994,1990s,122,0.561,0.535,0.537,339
+1198,Electric Engine,Pallas Circuit,Country,country pop,warm|nostalgic,family|whiskey,acoustic guitar|fiddle,english,1979,1970s,86,0.635,0.565,0.414,250
+1199,Salt Machines,Harbor Society,Electronic,house,hypnotic|energetic,machines|escape|the club,synthesizer|drum machine|sub bass,english,1975,1970s,142,0.859,0.853,0.063,223
+1200,Bright Window,Pallas Union,R&B,neo soul,laid back|sensual,devotion|late night,bass guitar|electric piano|layered vocals,english,1971,1970s,78,0.684,0.734,0.314,299
+1201,Wild Rooms,Baskin Lindqvist,Reggae,dub,sunny|hypnotic,unity|freedom|the sea,bass guitar|organ,patois,1991,1990s,80,0.644,0.62,0.372,398
+1202,Restless Letters,Cobalt Nakamura,Pop,indie pop,upbeat|romantic,youth|dancing,synthesizer|electric guitar|bass guitar,english,1993,1990s,119,0.679,0.758,0.039,183
+1203,Sleepless Tide,Solace Aranda,Country,country pop,rowdy|nostalgic,small town|family,pedal steel|banjo|fiddle,english,1987,1980s,103,0.496,0.404,0.544,198
+1204,Small Ceiling,Cobalt Nakamura,Pop,indie pop,upbeat|romantic,love|city lights,electric guitar|synthesizer,english,1972,1970s,119,0.703,0.725,0.164,338
+1205,Crooked Radio,Halcyon Kowalski,Lo-fi,bedroom pop,study|calm,study|solitude|late night,soft drums|vinyl crackle,english,1989,1980s,90,0.328,0.509,0.685,256
+1206,Velvet Harbour,Kestrel Petrov,Rock,post punk,driving|anthemic,freedom|the road|small town,electric guitar|bass guitar,english,2018,2010s,124,0.888,0.537,0.273,381
+1207,Amber Rooms,Lark Lindqvist,Metal,prog metal,intense|heavy,war|apocalypse,growled vocals|bass guitar|distorted guitar,english,2021,2020s,181,0.928,0.235,0.071,330
+1208,Velvet Weather,Nimbus Collective,Folk,americana,wistful|gentle,the sea|family,vocals|acoustic guitar,english,2017,2010s,71,0.2,0.359,0.801,306
+1209,Sleepless Weather,Kestrel Petrov,Rock,post punk,driving|anthemic,friendship|freedom,electric guitar|organ|drum kit,english,1999,1990s,115,0.855,0.387,0.287,291
+1210,Broken Gardens,Harbor Society,Electronic,house,hypnotic|energetic,neon|escape,drum machine|sub bass,english,2007,2000s,131,0.889,0.825,0.029,343
+1211,Silver Gardens,Juno Ibrahim,Rock,indie rock,driving|raw,the road|rebellion|friendship,bass guitar|electric guitar,english,2006,2000s,114,0.84,0.609,0.065,375
+1212,Silver Highway,Tarn Trio,Jazz,jazz fusion,smooth|late night,longing|midnight|conversation,trumpet|brushed drums,instrumental,1986,1980s,138,0.389,0.433,0.408,265
+1213,Slow Cathedral,Lark Lindqvist,Metal,prog metal,intense|heavy,war|rage|machines,,english,1984,1980s,185,0.946,0.412,0.049,379
+1214,Wild Summer,Onyx Okonkwo,Rock,alt rock,restless|raw,rebellion|friendship|the road,drum kit|bass guitar|electric guitar,english,2004,2000s,123,0.792,0.562,0.056,335
+1215,Endless Gardens,Indigo Sandoval,Electronic,ambient techno,hypnotic|euphoric,night drive|machines,sampler|drum machine|sub bass,english,1974,1970s,159,0.799,0.922,0.014,349
+1216,Slow Hours,Pallas Circuit,Country,country pop,warm|nostalgic,small town|whiskey|the road,pedal steel|banjo,english,1969,1960s,124,0.449,0.469,0.698,398
+1217,Wild Engine,Ridge Ferreira,R&B,neo soul,sensual|romantic,love|heartbreak|late night,strings|electric piano|bass guitar,english,1974,1970s,88,0.598,0.627,0.272,397
+1218,Hollow Harbour,Halcyon Kowalski,Lo-fi,bedroom pop,study|calm,memory|rain|solitude,electric piano|vinyl crackle,instrumental,2017,2010s,74,0.334,0.596,0.617,342
+1219,Bright Tide,Nimbus Bergstrom,Classical,minimalism,delicate|sweeping,nature|grief|the sea,piano|harpsichord|cello,instrumental,1977,1970s,81,0.191,0.171,0.902,339
+1220,Rust Shoulders,Lumen Petrov,Classical,romantic era,sweeping|solemn,grief|devotion,harpsichord|cello|piano,instrumental,2011,2010s,59,0.342,0.279,0.911,350
+1221,Endless Radio,Harbor Machine,Reggae,roots reggae,sunny|hypnotic,resistance|freedom|unity,bass guitar|organ|offbeat guitar,patois,1999,1990s,94,0.565,0.713,0.44,173
+1222,Salt Mornings,Kestrel Petrov,Rock,post punk,driving|anthemic,freedom|friendship,bass guitar|organ|drum kit,english,1975,1970s,117,0.694,0.462,0.25,246
+1223,Endless Signal,Rowan Ensemble,Rock,indie rock,restless|raw,small town|friendship|the road,drum kit|bass guitar,english,1972,1970s,114,0.861,0.478,0.244,186
+1224,Bright Rooms,Lark Trio,Folk,indie folk,wistful|storytelling,seasons|home,harmonica|acoustic guitar|banjo,english,2004,2000s,79,0.276,0.512,0.907,285
+1225,Hollow Radio,Jetty Novak,R&B,quiet storm,romantic|smooth,love|heartbreak,bass guitar|layered vocals|electric piano,english,1970,1970s,92,0.643,0.674,0.382,328
+1226,Bright Summer,Pallas Circuit,Country,bluegrass,warm|nostalgic,heartbreak|family,fiddle|pedal steel,english,2019,2010s,126,0.571,0.611,0.705,137
+1227,Crooked Lanterns,Indigo Sandoval,Electronic,ambient techno,hypnotic|euphoric,the club|neon|machines,sub bass|drum machine,instrumental,1986,1980s,173,0.884,0.829,0.015,341
+1228,Golden Tide,Meridian Novak,Jazz,modal jazz,sophisticated|improvised,,piano|brushed drums|trumpet,instrumental,1969,1960s,129,0.535,0.444,0.561,160
+1229,Broken Shoulders,Cinder Choir,Jazz,bebop,sophisticated|late night,midnight|the city|longing,saxophone|piano|upright bass,instrumental,2012,2010s,128,0.593,0.358,0.426,199
+1230,Copper Cathedral,Halcyon Kowalski,Lo-fi,chillhop,study|calm,solitude|late night|study,soft drums|sampler,instrumental,1997,1990s,68,0.159,0.511,0.653,364
+1231,Crooked Gardens,Indigo Okonkwo,Reggae,dancehall,hypnotic|sunny,the sea|freedom|resistance,offbeat guitar|drum kit,english,1984,1980s,90,0.713,0.801,0.378,277
+1232,Iron Rivers,Quarry Lindqvist,Jazz,jazz fusion,improvised|late night,conversation|midnight,piano|trumpet|saxophone,instrumental,1968,1960s,104,0.388,0.385,0.509,278
+1233,Sleepless Letters,Juno Choir,Hip-Hop,conscious rap,gritty|confident,the block|the city|hustle,spoken vocals|808 drums|sampler,english,2003,2000s,103,0.747,0.675,0.086,402
+1234,Endless Rooms,Onyx Okonkwo,Rock,alt rock,restless|raw,small town|rebellion,drum kit|electric guitar|bass guitar,english,1981,1980s,147,0.942,0.607,0.239,394
+1235,Silver Summer,Meridian Diallo,Lo-fi,lo-fi hip hop,study|nostalgic,study|memory|solitude,electric piano|vinyl crackle|sampler,instrumental,1973,1970s,91,0.436,0.456,0.775,289
+1236,Quiet Gardens,Indigo Okonkwo,Reggae,dancehall,hypnotic|sunny,unity|freedom,offbeat guitar|organ|bass guitar,english,1993,1990s,80,0.513,0.835,0.294,331
+1237,Silver Hours,Ember Avenue,Metal,doom metal,aggressive|intense,apocalypse|war,double bass drum|distorted guitar|growled vocals,english,1987,1980s,154,0.925,0.314,0.072,353
+1238,Copper Harbour,Rowan Ensemble,Rock,indie rock,restless|raw,friendship|freedom|rebellion,organ|electric guitar|bass guitar,english,1970,1970s,154,0.834,0.483,0.265,400
+1239,Neon Engine,Rowan Haddad,R&B,quiet storm,smooth|laid back,devotion|late night|love,layered vocals|electric piano,english,1996,1990s,86,0.573,0.747,0.456,202
+1240,Sleepless Cathedral,Grove Sandoval,Hip-Hop,lo-fi hip hop,confident|reflective,family|hustle,sampler|808 drums|turntables,english,2016,2010s,83,0.507,0.753,0.184,358
+1241,Amber Ceiling,Pallas Society,Electronic,ambient techno,hypnotic|euphoric,machines|escape|night drive,sub bass|synthesizer,instrumental,1992,1990s,159,0.944,0.795,0.077,231
+1242,Hollow Gardens,Nova Bergstrom,Hip-Hop,conscious rap,reflective|confident,struggle|the city,turntables|808 drums,english,2020,2020s,104,0.706,0.851,0.209,129
+1243,Distant Lanterns,Juno Choir,Hip-Hop,conscious rap,gritty|confident,family|the city,turntables|808 drums,english,2004,2000s,82,0.756,0.832,0.099,341
+1244,Neon Radio,Lumen Quartet,Metal,doom metal,intense|dark,the abyss|machines,double bass drum|bass guitar,english,1973,1970s,140,0.982,0.208,0.051,153
+1245,Velvet Radio,Pallas Sisters,Folk,folk revival,storytelling|warm,seasons|the sea,acoustic guitar|harmonica|banjo,english,1976,1970s,91,0.429,0.546,0.866,252
+1246,Midnight Rivers,Halcyon Union,Folk,folk revival,gentle|wistful,family|home,banjo|acoustic guitar|harmonica,english,1968,1960s,83,0.404,0.388,0.906,140
+1247,Rust Radio,Nimbus Bergstrom,Classical,minimalism,delicate|sweeping,grief|memory|devotion,harpsichord|string quartet|piano,instrumental,2020,2020s,108,0.377,0.125,0.867,128
+1248,Velvet Lanterns,Onyx Okonkwo,Rock,alt rock,restless|raw,small town|rebellion|freedom,electric guitar|organ|bass guitar,english,1972,1970s,143,0.815,0.531,0.126,183
+1249,Winter Letters,Harbor Machine,Reggae,roots reggae,sunny|hypnotic,freedom|resistance|summer,bass guitar|organ|offbeat guitar,english,2017,2010s,89,0.488,0.618,0.154,250
+1250,Silver Shoulders,Solace Vasquez,Reggae,roots reggae,sunny|hypnotic,unity|summer,organ|offbeat guitar,english,1975,1970s,89,0.595,0.634,0.404,128
+1251,Broken Lanterns,Kestrel Petrov,Rock,post punk,driving|anthemic,small town|the road|rebellion,organ|drum kit|electric guitar,english,2019,2010s,139,0.689,0.571,0.163,294
+1252,Midnight Machines,Nimbus Bergstrom,Classical,minimalism,delicate|sweeping,memory|devotion|grief,piano|flute,instrumental,2000,2000s,83,0.261,0.285,0.945,190
+1253,Sleepless Highway,Lumen Bergstrom,Hip-Hop,trap,confident|laid back,money|struggle,sampler|spoken vocals|turntables,english,1985,1980s,85,0.749,0.89,0.215,178
+1254,Electric Ceiling,Nova Riot,Pop,dance pop,catchy|energetic,summer|city lights|dancing,bass guitar|electric guitar|drum machine,korean,1997,1990s,119,0.702,0.873,0.133,348
+1255,Hollow Window,Nimbus Collective,Folk,americana,wistful|gentle,home|the road,acoustic guitar|harmonica,english,1980,1980s,109,0.28,0.344,0.673,259
+1256,Amber Mornings,Juno Choir,Hip-Hop,conscious rap,gritty|confident,the city|hustle|money,turntables|808 drums,english,1972,1970s,97,0.575,0.684,0.169,363
+1257,Neon Rivers,Tarn Machine,Reggae,dancehall,hypnotic|laid back,the sea|resistance|unity,offbeat guitar|organ|bass guitar,patois,1979,1970s,98,0.493,0.735,0.179,155
+1258,Golden Ceiling,Tarn Machine,Reggae,dancehall,hypnotic|laid back,unity|freedom|the sea,offbeat guitar|bass guitar,english,1973,1970s,94,0.737,0.799,0.438,344
+1259,Quiet Engine,Halcyon Union,Folk,indie folk,gentle|wistful,loss|seasons,banjo|acoustic guitar,irish,1985,1980s,102,0.432,0.488,0.889,237
+1260,Sleepless Ceiling,Cobalt Nakamura,Pop,indie pop,upbeat|romantic,youth|summer,bass guitar|electric guitar,english,1991,1990s,117,0.865,0.741,0.061,128
+1261,Crooked Letters,Harbor Machine,Reggae,roots reggae,sunny|hypnotic,the sea|summer,bass guitar|drum kit,english,1976,1970s,88,0.608,0.761,0.306,264
+1262,Velvet Signal,Quarry Quartet,Country,country pop,storytelling|warm,the road|heartbreak,pedal steel|fiddle,english,1996,1990s,85,0.404,0.614,0.485,307
+1263,Velvet Engine,Tarn Kowalski,Pop,dance pop,upbeat|catchy,youth|love|heartbreak,drum machine|electric guitar|synthesizer,english,1976,1970s,106,0.637,0.821,0.06,281
+1264,Neon Chorus,Cinder Choir,Jazz,bebop,sophisticated|late night,midnight|longing|conversation,trumpet|brushed drums,instrumental,1978,1970s,116,0.614,0.407,0.594,171
+1265,Wild Ceiling,Tarn Kowalski,Pop,dance pop,upbeat|catchy,summer|youth|dancing,bass guitar|drum machine,english,1978,1970s,104,0.908,0.809,0.063,330
+1266,Glass Harbour,Pallas Society,Electronic,ambient techno,hypnotic|euphoric,escape|machines|the club,drum machine|sub bass,english,2023,2020s,129,0.837,0.728,0.012,289
+1267,Bright Engine,Rowan Ensemble,Rock,indie rock,restless|raw,freedom|small town,bass guitar|drum kit,english,1977,1970s,129,0.91,0.498,0.125,322
+1268,Endless Window,Kestrel Club,Metal,thrash metal,dark|intense,war|the abyss|rage,distorted guitar|bass guitar,english,2021,2020s,155,0.895,0.215,0.078,314
+1269,Neon Signal,Tarn Machine,Reggae,roots reggae,hypnotic|laid back,freedom|the sea,bass guitar|drum kit|organ,english,1985,1980s,83,0.517,0.65,0.385,244
+1270,Restless Shoulders,Jetty Novak,R&B,contemporary rnb,romantic|smooth,heartbreak|late night|devotion,layered vocals|electric piano,english,1974,1970s,87,0.434,0.57,0.258,207
+1271,Crooked Summer,Ridge Ferreira,R&B,neo soul,sensual|romantic,late night|heartbreak|love,layered vocals|electric piano|strings,english,2013,2010s,82,0.665,0.707,0.375,152
+1272,Silver Orbit,Kestrel Club,Metal,thrash metal,dark|intense,apocalypse|rage|the abyss,distorted guitar|bass guitar,english,1971,1970s,145,0.88,0.205,0.05,202
+1273,Slow Bones,Juno Choir,Hip-Hop,conscious rap,gritty|confident,money|struggle|hustle,spoken vocals|turntables|808 drums,english,1971,1970s,84,0.805,0.662,0.236,397
+1274,Crooked Bones,Grove Sandoval,Hip-Hop,lo-fi hip hop,confident|reflective,hustle|struggle|the city,turntables|sampler|808 drums,english,1998,1990s,86,0.789,0.807,0.298,360
+1275,Hollow Highway,Pallas Society,Electronic,ambient techno,hypnotic|euphoric,the club|machines,sampler|synthesizer|drum machine,instrumental,2022,2020s,150,0.959,0.937,0.019,308
+1276,Bright Harbour,Juno Circuit,Folk,folk revival,wistful|warm,the road|home,acoustic guitar|harmonica,english,2019,2010s,86,0.494,0.499,0.858,311
+1277,Glass Shoulders,Quarry Lindqvist,Jazz,jazz fusion,improvised|late night,longing|conversation|the city,upright bass|trumpet|piano,instrumental,1981,1980s,115,0.41,0.367,0.452,170
+1278,Amber Harbour,Juno Choir,Hip-Hop,conscious rap,gritty|confident,money|struggle,sampler|turntables,english,2006,2000s,88,0.806,0.691,0.147,289
+1279,Distant Machines,Tarn Trio,Jazz,jazz fusion,smooth|late night,the city|conversation|longing,trumpet|brushed drums,english,2009,2000s,139,0.317,0.535,0.774,176
+1280,Quiet Orbit,Pallas Circuit,Country,country pop,warm|nostalgic,small town|the road|family,fiddle|pedal steel|acoustic guitar,english,1997,1990s,100,0.481,0.607,0.398,187
+1281,Midnight Ceiling,Ridge Union,Jazz,modal jazz,improvised|late night,the city|longing,brushed drums|upright bass,instrumental,1977,1970s,91,0.398,0.505,0.637,226
+1282,Hollow Signal,Ridge Union,Jazz,modal jazz,improvised|late night,longing|the city|conversation,brushed drums|trumpet,english,2010,2010s,119,0.593,0.581,0.846,136
+1283,Neon Bones,Kestrel Trio,Electronic,ambient techno,nocturnal|hypnotic,escape|the club|night drive,sub bass|drum machine|sampler,english,1985,1980s,165,0.951,0.769,0.099,394
+1284,Restless Rooms,Solace Vasquez,Reggae,roots reggae,sunny|hypnotic,summer|the sea|freedom,bass guitar|offbeat guitar,english,2012,2010s,92,0.627,0.64,0.412,223
+1285,Salt Cathedral,Ember Avenue,Metal,doom metal,aggressive|intense,war|rage|the abyss,distorted guitar|double bass drum|growled vocals,english,1972,1970s,176,0.953,0.365,0.045,323
+1286,Winter Cathedral,Halcyon Kowalski,Lo-fi,bedroom pop,study|calm,solitude|rain,sampler|soft drums,english,1977,1970s,70,0.223,0.414,0.663,198
+1287,Wild Hours,Ridge Ferreira,R&B,quiet storm,sensual|romantic,late night|love|heartbreak,electric piano|bass guitar|strings,english,1994,1990s,96,0.687,0.678,0.437,266
+1288,Paper Shoulders,Lumen Petrov,Classical,romantic era,sweeping|solemn,nature|the sea,flute|harpsichord|string quartet,instrumental,2000,2000s,78,0.287,0.15,0.877,231
+1289,Glass Lanterns,Quarry Ibrahim,Metal,thrash metal,heavy|intense,the abyss|war,double bass drum|growled vocals,english,2022,2020s,158,0.914,0.277,0.038,218
+1290,Salt Summer,Cinder Choir,Jazz,bebop,sophisticated|late night,longing|midnight|conversation,saxophone|upright bass|trumpet,english,1972,1970s,129,0.349,0.484,0.667,396
+1291,Endless Tide,Cinder Choir,Jazz,bebop,sophisticated|late night,the city|conversation,piano|brushed drums|trumpet,instrumental,1998,1990s,91,0.359,0.491,0.634,316
+1292,Quiet Lanterns,Ember Avenue,Metal,doom metal,aggressive|intense,war|rage,growled vocals|bass guitar,english,1982,1980s,177,0.973,0.258,0.023,396
+1293,Quiet Rooms,Baskin Society,Rock,alt rock,restless|raw,the road|rebellion,electric guitar|drum kit,english,1976,1970s,118,0.829,0.611,0.168,271
+1294,Crooked Signal,Sable Sound,Electronic,ambient techno,euphoric|hypnotic,escape|night drive|neon,sub bass|sampler|drum machine,english,2020,2020s,145,0.9,0.773,0.082,338
+1295,Midnight Weather,Lark Sisters,Lo-fi,bedroom pop,sleepy|study,study|solitude|late night,electric piano|vinyl crackle|sampler,instrumental,1976,1970s,77,0.246,0.597,0.703,180
+1296,Electric Letters,Jetty Novak,R&B,quiet storm,romantic|smooth,heartbreak|devotion|late night,bass guitar|strings|layered vocals,english,1987,1980s,74,0.405,0.689,0.39,151
+1297,Distant Bones,Cinder Aranda,Hip-Hop,trap,reflective|laid back,money|the block,turntables|808 drums,english,1977,1970s,84,0.798,0.786,0.201,186
+1298,Endless Bones,Nova Riot,Pop,synthpop,catchy|energetic,youth|summer,drum machine|synthesizer,spanish,2019,2010s,104,0.704,0.92,0.227,388
+1299,Iron Rooms,Pallas Union,R&B,neo soul,laid back|sensual,late night|heartbreak,strings|layered vocals|electric piano,english,2009,2000s,73,0.588,0.712,0.319,371
+1300,Distant Harbour,Nimbus Collective,Folk,americana,wistful|gentle,,banjo|vocals|fiddle,english,2007,2000s,98,0.423,0.5,0.624,131
+1301,Endless Ceiling,Halcyon Kowalski,Lo-fi,bedroom pop,study|calm,memory|solitude|study,vinyl crackle|electric piano|sampler,instrumental,1989,1980s,91,0.38,0.624,0.66,199
+1302,Distant Chorus,Indigo Okonkwo,Reggae,dancehall,hypnotic|sunny,the sea|freedom|resistance,offbeat guitar|drum kit,english,2010,2010s,98,0.543,0.756,0.293,204
+1303,Amber Radio,Quarry Ibrahim,Metal,thrash metal,heavy|intense,apocalypse|machines,distorted guitar|growled vocals|double bass drum,english,2024,2020s,144,0.938,0.353,0.041,203
+1304,Copper Machines,Halcyon Union,Folk,indie folk,gentle|wistful,the road|the sea|seasons,vocals|acoustic guitar|fiddle,english,1994,1990s,73,0.266,0.334,0.731,225
+1305,Small Lanterns,Marlow Avenue,R&B,contemporary rnb,romantic|smooth,devotion|late night,electric piano|strings,english,2017,2010s,86,0.494,0.554,0.469,214
+1306,Neon Ceiling,Jetty Novak,R&B,contemporary rnb,romantic|smooth,heartbreak|late night,strings|bass guitar,english,1994,1990s,89,0.463,0.569,0.36,183
+1307,Amber Rivers,Kite Circuit,Classical,minimalism,solemn|delicate,devotion|grief|nature,string quartet|flute,instrumental,1982,1980s,103,0.117,0.279,0.93,380
+1308,Wild Bones,Nova Riot,Pop,indie pop,catchy|energetic,youth|heartbreak|dancing,drum machine|bass guitar|synthesizer,english,1969,1960s,106,0.738,0.715,0.21,356
+1309,Neon Summer,Rowan Haddad,R&B,neo soul,smooth|laid back,devotion|late night,bass guitar|electric piano|strings,english,1998,1990s,93,0.453,0.72,0.23,145
+1310,Hollow Weather,Cobalt Nakamura,Pop,indie pop,upbeat|romantic,love|dancing,bass guitar|synthesizer|electric guitar,english,1992,1990s,123,0.781,0.879,0.066,345
+1311,Glass Summer,Rowan Ensemble,Rock,indie rock,restless|raw,rebellion|friendship,organ|bass guitar,english,1973,1970s,138,0.824,0.489,0.126,294
+1312,Neon Machines,Nimbus Bergstrom,Classical,minimalism,delicate|sweeping,grief|nature,harpsichord|flute|cello,instrumental,2007,2000s,72,0.144,0.287,0.877,199
+1313,Neon Mornings,Lark Sisters,Lo-fi,bedroom pop,sleepy|study,rain|late night,sampler|electric piano,instrumental,2000,2000s,72,0.358,0.606,0.768,396
+1314,Copper Static,Baskin Lindqvist,Reggae,dub,sunny|hypnotic,freedom|resistance,organ|drum kit,english,1982,1980s,99,0.508,0.739,0.398,298
+1315,Velvet Tide,Lark Lindqvist,Metal,prog metal,intense|heavy,war|the abyss|apocalypse,double bass drum|growled vocals|distorted guitar,finnish,1968,1960s,172,0.962,0.36,0.021,361
+1316,Broken Tide,Ridge Ferreira,R&B,neo soul,sensual|romantic,love|heartbreak|devotion,bass guitar|strings|layered vocals,english,1977,1970s,96,0.445,0.561,0.486,174
+1317,Sleepless Static,Quarry Ibrahim,Metal,thrash metal,heavy|intense,the abyss|machines|apocalypse,growled vocals|bass guitar|double bass drum,english,1999,1990s,160,0.873,0.363,0.034,150
+1318,Amber Bones,Indigo Ferreira,Classical,chamber music,delicate|calm,memory|devotion,cello|string quartet|harpsichord,instrumental,1994,1990s,67,0.385,0.234,0.943,203
+1319,Winter Lanterns,Sable Sound,Electronic,ambient techno,euphoric|hypnotic,night drive|escape,drum machine|sampler,instrumental,1995,1990s,170,0.909,0.727,0.087,203
+1320,Glass Engine,Solace Aranda,Country,bluegrass,rowdy|nostalgic,family|the road,banjo|fiddle,english,1997,1990s,85,0.544,0.427,0.693,270
+1321,Copper Engine,Halcyon Kowalski,Lo-fi,bedroom pop,study|calm,late night|study|memory,electric piano|soft drums|vinyl crackle,instrumental,1983,1980s,74,0.295,0.422,0.489,215
+1322,Copper Letters,Cinder Choir,Jazz,bebop,sophisticated|late night,longing|midnight,upright bass|piano|saxophone,english,2003,2000s,124,0.483,0.566,0.496,292
+1323,Small Harbour,Kestrel Club,Metal,thrash metal,dark|intense,apocalypse|war|rage,distorted guitar|growled vocals,english,2013,2010s,152,0.898,0.293,0.016,213
+1324,Quiet Window,Nimbus Bergstrom,Classical,romantic era,delicate|sweeping,the sea|grief,cello|piano,instrumental,1969,1960s,87,0.247,0.278,0.941,146
+1325,Glass Cathedral,Onyx Okonkwo,Rock,alt rock,restless|raw,the road|small town|rebellion,drum kit|electric guitar,english,2020,2020s,138,0.925,0.406,0.059,324
+1326,Sleepless Signal,Tarn Trio,Jazz,jazz fusion,smooth|late night,midnight|conversation,brushed drums|piano,english,1994,1990s,137,0.427,0.425,0.7,297
+1327,Silver Static,Pallas Society,Electronic,ambient techno,hypnotic|euphoric,the club|neon,synthesizer|sub bass,instrumental,1972,1970s,162,0.721,0.881,0.051,318
+1328,Distant Cathedral,Ember Avenue,Metal,doom metal,aggressive|intense,the abyss|machines|apocalypse,double bass drum|distorted guitar|growled vocals,english,1969,1960s,156,0.977,0.45,0.016,367
+1329,Copper Ceiling,Kestrel Trio,Electronic,techno,nocturnal|hypnotic,the club|night drive,sampler|drum machine,instrumental,2020,2020s,145,0.821,0.796,0.1,253
