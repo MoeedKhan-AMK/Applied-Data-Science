@@ -1,0 +1,1401 @@
+Order ID,Customer Code,Product ID,Qty,Sales Rep,Warehouse,Discount %,Order Month,Order Note,Source URL
+ORD23-70001,CUST-PK-1221,PRD-871,17 units,Omar Siddiqui,WH-HYD-11,0%,Jun,[RUSH] deliver before friday,https://portal.techmazone.com.pk/orders/new
+ORD23-70002,cust_pk_1239,PRD-864,3 units,,WH/ISB/12,,Jul,[URGENT] client waiting at site,http://b2b.dell-partners.pk/quote
+ORD23-70003,Customer: PK-1178 (2022),PRD-864,19 units,,wh-skt-12,7.5%,Aug,[HOLD] awaiting credit approval,https://shop.hpstore.pk/checkout
+ORD23-70004,2019-PK_1035,PRD-885,12 units,,WH SKT 08,10%,Sep,[PRIORITY] escalated by manager,http://orders.lenovo-pk.com/b2b/new
+ORD23-70005,CUST-PK-1216,PRD-794,14 units,,WH-FSD-03,7.5%,Oct,[BACKORDER] awaiting stock from vendor,https://www.acer-distributor.pk/cart
+ORD23-70006,cust_pk_1159,PRD-864,18 units,,WH/RWP/09,12.5%,Nov,[SPLIT] shipping in two lots,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70007,Customer: PK-1208 (2022),PRD-927,3 units,,wh-fsd-02,5%,Dec,confirm stock before dispatch [pending],http://b2b.dell-partners.pk/renewal
+ORD23-70008,cust_pk_1084,PRD-759,7 units,,WH PEW 12,,Jan,packaging damaged on arrival [reported],https://store.asus-pk.com/business/order
+ORD23-70009,2019-PK_1135,PRD-864,28 units,Fatima Zafar,WH-MUL-03,5%,Feb,customer asked for invoice [pdf],http://reseller.msi-pakistan.pk/new
+ORD23-70010,Customer: PK-1123 (2017),PRD-521,38 units,,WH/HYD/05,20%,Mar,installation scheduled next week [planned],https://www.samsung-b2b.pk/orders/create
+ORD23-70011,BR2016/PK-1132,PRD-521,21 units,,wh-khi-02,,Apr,credit terms extended to 60 days [approved],https://shop.hpstore.pk/enterprise
+ORD23-70012,BR2021/PK-1007,PRD-675,26 units,,WH RWP 04,0%,May,serial numbers shared with buyer [done],http://orders.lenovo-pk.com/renewal
+ORD23-70013,BR2016/PK-1172,PRD-766,10 units,Ali Raza,WH-KHI-02,10%,Jun,[VERIFIED],https://portal.techmazone.com.pk/orders/new
+ORD23-70014,2024-PK_1190,PRD-773,35 units,,WH/RWP/03,7.5%,Jul,[CANCELLED],http://b2b.dell-partners.pk/quote
+ORD23-70015,BR2021/PK-1157,PRD-584,16 units,,wh-skt-01,5%,Aug,[pdf],https://shop.hpstore.pk/checkout
+ORD23-70016,CUST-PK-1166,PRD-570,8 units,,WH LHR 03,5%,Sep,[PENDING],http://orders.lenovo-pk.com/b2b/new
+ORD23-70017,Customer: PK-1043 (2017),PRD-521,3 units,,WH-HYD-10,10%,Oct,[CLOSED],https://www.acer-distributor.pk/cart
+ORD23-70018,BR2021/PK-1077,PRD-661,36 units,,WH/HYD/01,7.5%,Nov,[flagged],https://portal.techmazone.com.pk/orders/repeat
+ORD23-70019,Customer: PK-1198 (2022),PRD-556,38 units,,wh-mul-04,10%,Dec,please please confirm the delivery slot,http://b2b.dell-partners.pk/renewal
+ORD23-70020,2024-PK_1130,PRD-605,23 units,,WH QTA 04,7.5%,Jan,urgent urgent needs same day dispatch,https://store.asus-pk.com/business/order
+ORD23-70021,cust_pk_1014,PRD-556,24 units,Salman Tariq,WH-HYD-02,,Feb,call the the customer before loading,http://reseller.msi-pakistan.pk/new
+ORD23-70022,BR2021/PK-1117,PRD-759,17 units,,WH/PEW/12,15%,Mar,send send updated quotation,https://www.samsung-b2b.pk/orders/create
+ORD23-70023,cust_pk_1079,PRD-941,39 units,,wh-fsd-02,,Apr,check check the serial before handover,https://shop.hpstore.pk/enterprise
+ORD23-70024,2019-PK_1085,PRD-871,22 units,,WH HYD 08,15%,May,very very late response from buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70025,BR2021/PK-1137,PRD-542,10 units,,WH-HYD-01,7.5%,Jun,quote sent quote by courier,https://portal.techmazone.com.pk/orders/new
+ORD23-70026,BR2016/PK-1232,PRD-822,30 units,,WH/HYD/05,,Jul,invoice raised invoice against PO,http://b2b.dell-partners.pk/quote
+ORD23-70027,BR2016/PK-1032,PRD-843,25 units,,wh-rwp-03,12.5%,Aug,stock checked stock at warehouse,https://shop.hpstore.pk/checkout
+ORD23-70028,2019-PK_1075,PRD-633,26 units,Omar Siddiqui,WH ISB 04,5%,Sep,order placed order through portal,http://orders.lenovo-pk.com/b2b/new
+ORD23-70029,Customer: PK-1178 (2022),PRD-647,18 units,,WH-ISB-06,20%,Oct,unit tested unit before dispatch,https://www.acer-distributor.pk/cart
+ORD23-70030,2024-PK_1030,PRD-577,35 units,,WH/KHI/08,12.5%,Nov,send confirmation on e-mail,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70031,Customer: PK-1223 (2017),PRD-507,22 units,,wh-hyd-08,7.5%,Dec,confirmation shared over e mail,http://b2b.dell-partners.pk/renewal
+ORD23-70032,BR2021/PK-1017,PRD-654,7 units,,WH RWP 12,,Jan,customer prefers email only,https://store.asus-pk.com/business/order
+ORD23-70033,cust_pk_1099,PRD-633,37 units,,WH-ISB-06,,Feb,resend the E-Mail with pricing,http://reseller.msi-pakistan.pk/new
+ORD23-70034,Customer: PK-1143 (2017),PRD-857,25 units,,WH/ISB/04,5%,Mar,follow up by E mail tomorrow,https://www.samsung-b2b.pk/orders/create
+ORD23-70035,BR2021/PK-1027,PRD-703,38 units,,wh-rwp-03,10%,Apr,delivery rescheduled by customer,https://shop.hpstore.pk/enterprise
+ORD23-70036,2019-PK_1155,PRD-766,29 units,,WH MUL 09,10%,May,partial shipment agreed with buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70037,2019-PK_1045,PRD-570,31 units,,WH-ISB-06,5%,Jun,payment cleared through bank transfer,https://portal.techmazone.com.pk/orders/new
+ORD23-70038,cust_pk_1119,PRD-612,15 units,,WH/MUL/02,10%,Jul,warranty card missing from carton,http://b2b.dell-partners.pk/quote
+ORD23-70039,BR2021/PK-1137,PRD-878,19 units,,wh-qta-06,10%,Aug,buyer collected from warehouse directly,https://shop.hpstore.pk/checkout
+ORD23-70040,CUST-PK-1121,PRD-570,40 units,Ali Raza,WH FSD 04,5%,Sep,routed via third party logistics,http://orders.lenovo-pk.com/b2b/new
+ORD23-70041,Customer: PK-1083 (2017),PRD-836,39 units,,WH-HYD-12,15%,Oct,customer requested extended warranty,https://www.acer-distributor.pk/cart
+ORD23-70042,CUST-PK-1201,PRD-661,10 units,,WH/FSD/10,5%,Nov,bulk order for a branch rollout,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70043,cust_pk_1024,PRD-787,7 units,,wh-isb-03,5%,Dec,replacement unit issued to client,http://b2b.dell-partners.pk/renewal
+ORD23-70044,CUST-PK-1156,PRD-941,13 units,,WH MUL 01,5%,Jan,documentation shared with accounts,https://store.asus-pk.com/business/order
+ORD23-70045,2024-PK_1070,PRD-794,25 units,,WH-SKT-04,7.5%,Feb,purchase order attached to file,http://reseller.msi-pakistan.pk/new
+ORD23-70046,cust_pk_1204,PRD-808,17 units,,WH/KHI/04,5%,Mar,dispatch confirmed by warehouse team,https://www.samsung-b2b.pk/orders/create
+ORD23-70047,BR2021/PK-1207,PRD-682,20 units,,wh-lhr-04,0%,Apr,handover completed at client site,https://shop.hpstore.pk/enterprise
+ORD23-70048,BR2016/PK-1022,PRD-598,31 units,,WH FSD 03,10%,May,reconciled against monthly statement,http://orders.lenovo-pk.com/renewal
+ORD23-70049,2019-PK_1185,PRD-850,32 units,,WH-MUL-06,10%,Jun,[RUSH] deliver before friday,https://portal.techmazone.com.pk/orders/new
+ORD23-70050,2024-PK_1170,PRD-577,18 units,Sarah Nadeem,WH/MUL/11,12.5%,Jul,[URGENT] client waiting at site,http://b2b.dell-partners.pk/quote
+ORD23-70051,cust_pk_1064,PRD-710,8 units,,wh-mul-10,7.5%,Aug,[HOLD] awaiting credit approval,https://shop.hpstore.pk/checkout
+ORD23-70052,Customer: PK-1178 (2022),PRD-626,24 units,,WH HYD 05,,Sep,[PRIORITY] escalated by manager,http://orders.lenovo-pk.com/b2b/new
+ORD23-70053,CUST-PK-1181,PRD-598,6 units,,WH-SKT-12,12.5%,Oct,[BACKORDER] awaiting stock from vendor,https://www.acer-distributor.pk/cart
+ORD23-70054,BR2016/PK-1212,PRD-605,27 units,,WH/MUL/01,10%,Nov,[SPLIT] shipping in two lots,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70055,BR2021/PK-1207,PRD-647,16 units,,wh-hyd-09,5%,Dec,confirm stock before dispatch [pending],http://b2b.dell-partners.pk/renewal
+ORD23-70056,cust_pk_1184,PRD-605,13 units,,WH SKT 05,10%,Jan,packaging damaged on arrival [reported],https://store.asus-pk.com/business/order
+ORD23-70057,CUST-PK-1006,PRD-542,8 units,,WH-MUL-03,0%,Feb,customer asked for invoice [pdf],http://reseller.msi-pakistan.pk/new
+ORD23-70058,2019-PK_1225,PRD-668,28 units,,WH/ISB/11,5%,Mar,installation scheduled next week [planned],https://www.samsung-b2b.pk/orders/create
+ORD23-70059,BR2016/PK-1012,PRD-619,25 units,,wh-lhr-03,15%,Apr,credit terms extended to 60 days [approved],https://shop.hpstore.pk/enterprise
+ORD23-70060,Customer: PK-1068 (2022),PRD-598,12 units,,WH LHR 06,0%,May,serial numbers shared with buyer [done],http://orders.lenovo-pk.com/renewal
+ORD23-70061,CUST-PK-1106,PRD-647,2 units,,WH-RWP-07,10%,Jun,[VERIFIED],https://portal.techmazone.com.pk/orders/new
+ORD23-70062,cust_pk_1034,PRD-542,12 units,Bilal Ansari,WH/LHR/08,0%,Jul,[CANCELLED],http://b2b.dell-partners.pk/quote
+ORD23-70063,CUST-PK-1211,PRD-752,14 units,,wh-qta-01,,Aug,[pdf],https://shop.hpstore.pk/checkout
+ORD23-70064,BR2021/PK-1197,PRD-647,19 units,,WH HYD 05,5%,Sep,[PENDING],http://orders.lenovo-pk.com/b2b/new
+ORD23-70065,cust_pk_1219,PRD-633,19 units,,WH-ISB-12,5%,Oct,[CLOSED],https://www.acer-distributor.pk/cart
+ORD23-70066,CUST-PK-1141,PRD-507,18 units,,WH/QTA/03,20%,Nov,[flagged],https://portal.techmazone.com.pk/orders/repeat
+ORD23-70067,2024-PK_1050,PRD-619,34 units,,wh-lhr-09,0%,Dec,please please confirm the delivery slot,http://b2b.dell-partners.pk/renewal
+ORD23-70068,2024-PK_1150,PRD-619,34 units,,WH SKT 01,5%,Jan,urgent urgent needs same day dispatch,https://store.asus-pk.com/business/order
+ORD23-70069,Customer: PK-1183 (2017),PRD-913,35 units,Hamza Sheikh,WH-LHR-09,15%,Feb,call the the customer before loading,http://reseller.msi-pakistan.pk/new
+ORD23-70070,Customer: PK-1178 (2022),PRD-731,23 units,,WH/FSD/11,7.5%,Mar,send send updated quotation,https://www.samsung-b2b.pk/orders/create
+ORD23-70071,CUST-PK-1156,PRD-899,39 units,,wh-hyd-11,0%,Apr,check check the serial before handover,https://shop.hpstore.pk/enterprise
+ORD23-70072,CUST-PK-1236,PRD-612,28 units,,WH MUL 07,10%,May,very very late response from buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70073,cust_pk_1009,PRD-899,40 units,,WH-ISB-05,20%,Jun,quote sent quote by courier,https://portal.techmazone.com.pk/orders/new
+ORD23-70074,cust_pk_1079,PRD-598,11 units,,WH/FSD/05,5%,Jul,invoice raised invoice against PO,http://b2b.dell-partners.pk/quote
+ORD23-70075,BR2016/PK-1232,PRD-857,38 units,,wh-isb-08,20%,Aug,stock checked stock at warehouse,https://shop.hpstore.pk/checkout
+ORD23-70076,BR2021/PK-1197,PRD-745,1 units,,WH QTA 04,,Sep,order placed order through portal,http://orders.lenovo-pk.com/b2b/new
+ORD23-70077,BR2021/PK-1237,PRD-584,19 units,Sarah Nadeem,WH-LHR-09,5%,Oct,unit tested unit before dispatch,https://www.acer-distributor.pk/cart
+ORD23-70078,2024-PK_1040,PRD-563,1 units,,WH/HYD/04,7.5%,Nov,send confirmation on e-mail,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70079,cust_pk_1229,PRD-857,9 units,,wh-qta-12,5%,Dec,confirmation shared over e mail,http://b2b.dell-partners.pk/renewal
+ORD23-70080,BR2021/PK-1077,PRD-612,35 units,,WH LHR 12,5%,Jan,customer prefers email only,https://store.asus-pk.com/business/order
+ORD23-70081,BR2021/PK-1147,PRD-871,4 units,Fatima Zafar,WH-KHI-06,0%,Feb,resend the E-Mail with pricing,http://reseller.msi-pakistan.pk/new
+ORD23-70082,2019-PK_1025,PRD-675,28 units,,WH/PEW/06,15%,Mar,follow up by E mail tomorrow,https://www.samsung-b2b.pk/orders/create
+ORD23-70083,Customer: PK-1228 (2022),PRD-682,31 units,,wh-rwp-09,12.5%,Apr,delivery rescheduled by customer,https://shop.hpstore.pk/enterprise
+ORD23-70084,2019-PK_1125,PRD-836,40 units,,WH MUL 04,20%,May,partial shipment agreed with buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70085,Customer: PK-1028 (2022),PRD-507,26 units,,WH-MUL-07,0%,Jun,payment cleared through bank transfer,https://portal.techmazone.com.pk/orders/new
+ORD23-70086,cust_pk_1144,PRD-633,30 units,,WH/RWP/04,12.5%,Jul,warranty card missing from carton,http://b2b.dell-partners.pk/quote
+ORD23-70087,Customer: PK-1013 (2017),PRD-794,20 units,,wh-pew-09,5%,Aug,buyer collected from warehouse directly,https://shop.hpstore.pk/checkout
+ORD23-70088,CUST-PK-1101,PRD-871,13 units,,WH ISB 02,,Sep,routed via third party logistics,http://orders.lenovo-pk.com/b2b/new
+ORD23-70089,CUST-PK-1171,PRD-570,27 units,,WH-FSD-02,5%,Oct,customer requested extended warranty,https://www.acer-distributor.pk/cart
+ORD23-70090,BR2021/PK-1237,PRD-675,12 units,,WH/KHI/08,15%,Nov,bulk order for a branch rollout,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70091,Customer: PK-1138 (2022),PRD-598,36 units,Omar Siddiqui,wh-isb-02,10%,Dec,replacement unit issued to client,http://b2b.dell-partners.pk/renewal
+ORD23-70092,CUST-PK-1031,PRD-570,31 units,,WH LHR 07,12.5%,Jan,documentation shared with accounts,https://store.asus-pk.com/business/order
+ORD23-70093,Customer: PK-1083 (2017),PRD-773,9 units,,WH-HYD-06,12.5%,Feb,purchase order attached to file,http://reseller.msi-pakistan.pk/new
+ORD23-70094,2024-PK_1070,PRD-605,16 units,,WH/MUL/06,12.5%,Mar,dispatch confirmed by warehouse team,https://www.samsung-b2b.pk/orders/create
+ORD23-70095,BR2021/PK-1117,PRD-878,28 units,,wh-khi-06,5%,Apr,handover completed at client site,https://shop.hpstore.pk/enterprise
+ORD23-70096,BR2021/PK-1197,PRD-654,9 units,,WH RWP 04,5%,May,reconciled against monthly statement,http://orders.lenovo-pk.com/renewal
+ORD23-70097,Customer: PK-1158 (2022),PRD-927,25 units,,WH-PEW-10,,Jun,[RUSH] deliver before friday,https://portal.techmazone.com.pk/orders/new
+ORD23-70098,cust_pk_1194,PRD-647,8 units,,WH/RWP/10,7.5%,Jul,[URGENT] client waiting at site,http://b2b.dell-partners.pk/quote
+ORD23-70099,Customer: PK-1053 (2017),PRD-871,27 units,,wh-fsd-10,20%,Aug,[HOLD] awaiting credit approval,https://shop.hpstore.pk/checkout
+ORD23-70100,Customer: PK-1133 (2017),PRD-927,24 units,,WH PEW 07,,Sep,[PRIORITY] escalated by manager,http://orders.lenovo-pk.com/b2b/new
+ORD23-70101,cust_pk_1029,PRD-626,6 units,Hira Baig,WH-KHI-01,5%,Oct,[BACKORDER] awaiting stock from vendor,https://www.acer-distributor.pk/cart
+ORD23-70102,Customer: PK-1193 (2017),PRD-619,36 units,,WH/LHR/04,10%,Nov,[SPLIT] shipping in two lots,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70103,Customer: PK-1088 (2022),PRD-794,28 units,,wh-pew-02,5%,Dec,confirm stock before dispatch [pending],http://b2b.dell-partners.pk/renewal
+ORD23-70104,Customer: PK-1118 (2022),PRD-885,13 units,,WH PEW 03,5%,Jan,packaging damaged on arrival [reported],https://store.asus-pk.com/business/order
+ORD23-70105,cust_pk_1029,PRD-633,32 units,Hamza Sheikh,WH-ISB-08,7.5%,Feb,customer asked for invoice [pdf],http://reseller.msi-pakistan.pk/new
+ORD23-70106,cust_pk_1114,PRD-556,29 units,,WH/KHI/03,15%,Mar,installation scheduled next week [planned],https://www.samsung-b2b.pk/orders/create
+ORD23-70107,2024-PK_1050,PRD-759,11 units,,wh-fsd-06,0%,Apr,credit terms extended to 60 days [approved],https://shop.hpstore.pk/enterprise
+ORD23-70108,CUST-PK-1196,PRD-591,8 units,,WH LHR 04,0%,May,serial numbers shared with buyer [done],http://orders.lenovo-pk.com/renewal
+ORD23-70109,CUST-PK-1181,PRD-528,11 units,,WH-MUL-03,0%,Jun,[VERIFIED],https://portal.techmazone.com.pk/orders/new
+ORD23-70110,cust_pk_1069,PRD-801,38 units,,WH/MUL/11,12.5%,Jul,[CANCELLED],http://b2b.dell-partners.pk/quote
+ORD23-70111,BR2021/PK-1187,PRD-752,38 units,Salman Tariq,wh-fsd-07,5%,Aug,[pdf],https://shop.hpstore.pk/checkout
+ORD23-70112,BR2021/PK-1197,PRD-507,37 units,,WH LHR 04,20%,Sep,[PENDING],http://orders.lenovo-pk.com/b2b/new
+ORD23-70113,CUST-PK-1201,PRD-598,7 units,,WH-LHR-04,5%,Oct,[CLOSED],https://www.acer-distributor.pk/cart
+ORD23-70114,cust_pk_1189,PRD-647,7 units,,WH/RWP/09,0%,Nov,[flagged],https://portal.techmazone.com.pk/orders/repeat
+ORD23-70115,Customer: PK-1163 (2017),PRD-857,30 units,,wh-qta-10,7.5%,Dec,please please confirm the delivery slot,http://b2b.dell-partners.pk/renewal
+ORD23-70116,cust_pk_1089,PRD-542,37 units,,WH HYD 06,20%,Jan,urgent urgent needs same day dispatch,https://store.asus-pk.com/business/order
+ORD23-70117,cust_pk_1139,PRD-633,35 units,,WH-LHR-08,5%,Feb,call the the customer before loading,http://reseller.msi-pakistan.pk/new
+ORD23-70118,Customer: PK-1063 (2017),PRD-682,26 units,Omar Siddiqui,WH/ISB/01,15%,Mar,send send updated quotation,https://www.samsung-b2b.pk/orders/create
+ORD23-70119,Customer: PK-1088 (2022),PRD-738,39 units,,wh-skt-12,7.5%,Apr,check check the serial before handover,https://shop.hpstore.pk/enterprise
+ORD23-70120,cust_pk_1109,PRD-717,2 units,,WH PEW 08,,May,very very late response from buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70121,cust_pk_1064,PRD-682,40 units,,WH-PEW-12,0%,Jun,quote sent quote by courier,https://portal.techmazone.com.pk/orders/new
+ORD23-70122,BR2021/PK-1117,PRD-885,2 units,,WH/QTA/04,7.5%,Jul,invoice raised invoice against PO,http://b2b.dell-partners.pk/quote
+ORD23-70123,Customer: PK-1023 (2017),PRD-514,18 units,,wh-hyd-11,15%,Aug,stock checked stock at warehouse,https://shop.hpstore.pk/checkout
+ORD23-70124,CUST-PK-1141,PRD-591,17 units,,WH MUL 02,0%,Sep,order placed order through portal,http://orders.lenovo-pk.com/b2b/new
+ORD23-70125,CUST-PK-1106,PRD-605,37 units,,WH-PEW-05,10%,Oct,unit tested unit before dispatch,https://www.acer-distributor.pk/cart
+ORD23-70126,2024-PK_1080,PRD-563,23 units,Fatima Zafar,WH/KHI/11,5%,Nov,send confirmation on e-mail,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70127,Customer: PK-1148 (2022),PRD-542,13 units,,wh-fsd-05,12.5%,Dec,confirmation shared over e mail,http://b2b.dell-partners.pk/renewal
+ORD23-70128,BR2016/PK-1112,PRD-654,17 units,,WH PEW 02,5%,Jan,customer prefers email only,https://store.asus-pk.com/business/order
+ORD23-70129,cust_pk_1239,PRD-570,22 units,,WH-LHR-07,5%,Feb,resend the E-Mail with pricing,http://reseller.msi-pakistan.pk/new
+ORD23-70130,cust_pk_1229,PRD-822,40 units,,WH/MUL/12,15%,Mar,follow up by E mail tomorrow,https://www.samsung-b2b.pk/orders/create
+ORD23-70131,Customer: PK-1078 (2022),PRD-514,40 units,,wh-hyd-05,20%,Apr,delivery rescheduled by customer,https://shop.hpstore.pk/enterprise
+ORD23-70132,Customer: PK-1073 (2017),PRD-675,13 units,,WH LHR 12,12.5%,May,partial shipment agreed with buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70133,BR2016/PK-1052,PRD-577,32 units,Ayesha Malik,WH-QTA-01,,Jun,payment cleared through bank transfer,https://portal.techmazone.com.pk/orders/new
+ORD23-70134,2024-PK_1170,PRD-871,22 units,,WH/QTA/09,20%,Jul,warranty card missing from carton,http://b2b.dell-partners.pk/quote
+ORD23-70135,Customer: PK-1103 (2017),PRD-647,4 units,,wh-isb-01,20%,Aug,buyer collected from warehouse directly,https://shop.hpstore.pk/checkout
+ORD23-70136,cust_pk_1124,PRD-521,32 units,,WH KHI 03,5%,Sep,routed via third party logistics,http://orders.lenovo-pk.com/b2b/new
+ORD23-70137,BR2016/PK-1042,PRD-570,28 units,Hira Baig,WH-LHR-05,5%,Oct,customer requested extended warranty,https://www.acer-distributor.pk/cart
+ORD23-70138,BR2021/PK-1137,PRD-612,19 units,,WH/LHR/08,,Nov,bulk order for a branch rollout,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70139,CUST-PK-1181,PRD-857,37 units,,wh-qta-07,20%,Dec,replacement unit issued to client,http://b2b.dell-partners.pk/renewal
+ORD23-70140,Customer: PK-1148 (2022),PRD-612,30 units,,WH FSD 09,7.5%,Jan,documentation shared with accounts,https://store.asus-pk.com/business/order
+ORD23-70141,Customer: PK-1043 (2017),PRD-689,8 units,,WH-RWP-03,10%,Feb,purchase order attached to file,http://reseller.msi-pakistan.pk/new
+ORD23-70142,Customer: PK-1233 (2017),PRD-668,17 units,,WH/MUL/01,20%,Mar,dispatch confirmed by warehouse team,https://www.samsung-b2b.pk/orders/create
+ORD23-70143,BR2021/PK-1057,PRD-619,13 units,,wh-lhr-01,12.5%,Apr,handover completed at client site,https://shop.hpstore.pk/enterprise
+ORD23-70144,Customer: PK-1073 (2017),PRD-864,16 units,Fatima Zafar,WH QTA 09,20%,May,reconciled against monthly statement,http://orders.lenovo-pk.com/renewal
+ORD23-70145,Customer: PK-1048 (2022),PRD-738,24 units,,WH-SKT-08,0%,Jun,[RUSH] deliver before friday,https://portal.techmazone.com.pk/orders/new
+ORD23-70146,CUST-PK-1176,PRD-668,19 units,,WH/ISB/01,15%,Jul,[URGENT] client waiting at site,http://b2b.dell-partners.pk/quote
+ORD23-70147,BR2021/PK-1187,PRD-745,3 units,,wh-skt-05,15%,Aug,[HOLD] awaiting credit approval,https://shop.hpstore.pk/checkout
+ORD23-70148,Customer: PK-1108 (2022),PRD-864,1 units,,WH QTA 06,,Sep,[PRIORITY] escalated by manager,http://orders.lenovo-pk.com/b2b/new
+ORD23-70149,cust_pk_1079,PRD-521,30 units,Sarah Nadeem,WH-HYD-08,7.5%,Oct,[BACKORDER] awaiting stock from vendor,https://www.acer-distributor.pk/cart
+ORD23-70150,2019-PK_1085,PRD-941,32 units,,WH/ISB/01,20%,Nov,[SPLIT] shipping in two lots,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70151,2024-PK_1130,PRD-619,38 units,,wh-pew-07,0%,Dec,confirm stock before dispatch [pending],http://b2b.dell-partners.pk/renewal
+ORD23-70152,BR2021/PK-1127,PRD-507,27 units,Bilal Ansari,WH SKT 04,5%,Jan,packaging damaged on arrival [reported],https://store.asus-pk.com/business/order
+ORD23-70153,CUST-PK-1186,PRD-899,28 units,,WH-HYD-06,20%,Feb,customer asked for invoice [pdf],http://reseller.msi-pakistan.pk/new
+ORD23-70154,CUST-PK-1211,PRD-507,7 units,,WH/SKT/05,5%,Mar,installation scheduled next week [planned],https://www.samsung-b2b.pk/orders/create
+ORD23-70155,Customer: PK-1068 (2022),PRD-871,19 units,,wh-qta-12,10%,Apr,credit terms extended to 60 days [approved],https://shop.hpstore.pk/enterprise
+ORD23-70156,Customer: PK-1018 (2022),PRD-661,9 units,,WH LHR 06,7.5%,May,serial numbers shared with buyer [done],http://orders.lenovo-pk.com/renewal
+ORD23-70157,2024-PK_1070,PRD-661,14 units,,WH-QTA-05,10%,Jun,[VERIFIED],https://portal.techmazone.com.pk/orders/new
+ORD23-70158,cust_pk_1054,PRD-598,6 units,,WH/SKT/09,7.5%,Jul,[CANCELLED],http://b2b.dell-partners.pk/quote
+ORD23-70159,2019-PK_1035,PRD-668,1 units,,wh-rwp-06,5%,Aug,[pdf],https://shop.hpstore.pk/checkout
+ORD23-70160,CUST-PK-1006,PRD-864,26 units,,WH MUL 01,10%,Sep,[PENDING],http://orders.lenovo-pk.com/b2b/new
+ORD23-70161,2024-PK_1210,PRD-619,40 units,Bilal Ansari,WH-MUL-05,0%,Oct,[CLOSED],https://www.acer-distributor.pk/cart
+ORD23-70162,Customer: PK-1133 (2017),PRD-542,10 units,,WH/ISB/01,12.5%,Nov,[flagged],https://portal.techmazone.com.pk/orders/repeat
+ORD23-70163,BR2016/PK-1142,PRD-514,7 units,,wh-khi-03,0%,Dec,please please confirm the delivery slot,http://b2b.dell-partners.pk/renewal
+ORD23-70164,CUST-PK-1181,PRD-612,36 units,,WH FSD 12,15%,Jan,urgent urgent needs same day dispatch,https://store.asus-pk.com/business/order
+ORD23-70165,Customer: PK-1068 (2022),PRD-563,34 units,,WH-KHI-02,5%,Feb,call the the customer before loading,http://reseller.msi-pakistan.pk/new
+ORD23-70166,Customer: PK-1063 (2017),PRD-857,2 units,,WH/ISB/02,12.5%,Mar,send send updated quotation,https://www.samsung-b2b.pk/orders/create
+ORD23-70167,Customer: PK-1238 (2022),PRD-878,4 units,Sarah Nadeem,wh-qta-06,10%,Apr,check check the serial before handover,https://shop.hpstore.pk/enterprise
+ORD23-70168,2024-PK_1150,PRD-591,15 units,,WH LHR 05,20%,May,very very late response from buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70169,Customer: PK-1123 (2017),PRD-885,37 units,,WH-QTA-05,5%,Jun,quote sent quote by courier,https://portal.techmazone.com.pk/orders/new
+ORD23-70170,2024-PK_1040,PRD-780,34 units,,WH/RWP/05,0%,Jul,invoice raised invoice against PO,http://b2b.dell-partners.pk/quote
+ORD23-70171,cust_pk_1039,PRD-871,17 units,,wh-isb-08,5%,Aug,stock checked stock at warehouse,https://shop.hpstore.pk/checkout
+ORD23-70172,2019-PK_1155,PRD-801,21 units,,WH ISB 11,0%,Sep,order placed order through portal,http://orders.lenovo-pk.com/b2b/new
+ORD23-70173,2019-PK_1135,PRD-871,21 units,Hira Baig,WH-LHR-12,20%,Oct,unit tested unit before dispatch,https://www.acer-distributor.pk/cart
+ORD23-70174,BR2016/PK-1162,PRD-675,30 units,,WH/ISB/05,5%,Nov,send confirmation on e-mail,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70175,2024-PK_1160,PRD-591,35 units,,wh-fsd-07,,Dec,confirmation shared over e mail,http://b2b.dell-partners.pk/renewal
+ORD23-70176,BR2021/PK-1177,PRD-948,23 units,,WH RWP 05,7.5%,Jan,customer prefers email only,https://store.asus-pk.com/business/order
+ORD23-70177,Customer: PK-1043 (2017),PRD-787,6 units,,WH-LHR-08,0%,Feb,resend the E-Mail with pricing,http://reseller.msi-pakistan.pk/new
+ORD23-70178,Customer: PK-1083 (2017),PRD-675,10 units,,WH/PEW/08,15%,Mar,follow up by E mail tomorrow,https://www.samsung-b2b.pk/orders/create
+ORD23-70179,BR2021/PK-1017,PRD-619,7 units,,wh-skt-01,7.5%,Apr,delivery rescheduled by customer,https://shop.hpstore.pk/enterprise
+ORD23-70180,BR2016/PK-1232,PRD-913,17 units,,WH FSD 10,15%,May,partial shipment agreed with buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70181,2024-PK_1150,PRD-598,33 units,Omar Siddiqui,WH-MUL-05,5%,Jun,payment cleared through bank transfer,https://portal.techmazone.com.pk/orders/new
+ORD23-70182,2024-PK_1140,PRD-794,39 units,,WH/HYD/08,10%,Jul,warranty card missing from carton,http://b2b.dell-partners.pk/quote
+ORD23-70183,2024-PK_1030,PRD-892,9 units,,wh-isb-05,10%,Aug,buyer collected from warehouse directly,https://shop.hpstore.pk/checkout
+ORD23-70184,cust_pk_1219,PRD-563,26 units,,WH RWP 04,5%,Sep,routed via third party logistics,http://orders.lenovo-pk.com/b2b/new
+ORD23-70185,CUST-PK-1226,PRD-535,35 units,,WH-HYD-05,5%,Oct,customer requested extended warranty,https://www.acer-distributor.pk/cart
+ORD23-70186,cust_pk_1214,PRD-717,21 units,,WH/KHI/03,5%,Nov,bulk order for a branch rollout,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70187,Customer: PK-1193 (2017),PRD-941,11 units,,wh-rwp-08,5%,Dec,replacement unit issued to client,http://b2b.dell-partners.pk/renewal
+ORD23-70188,CUST-PK-1061,PRD-570,35 units,,WH SKT 11,10%,Jan,documentation shared with accounts,https://store.asus-pk.com/business/order
+ORD23-70189,cust_pk_1104,PRD-633,13 units,Fatima Zafar,WH-KHI-02,0%,Feb,purchase order attached to file,http://reseller.msi-pakistan.pk/new
+ORD23-70190,CUST-PK-1216,PRD-689,24 units,,WH/RWP/03,10%,Mar,dispatch confirmed by warehouse team,https://www.samsung-b2b.pk/orders/create
+ORD23-70191,cust_pk_1119,PRD-752,18 units,,wh-khi-04,5%,Apr,handover completed at client site,https://shop.hpstore.pk/enterprise
+ORD23-70192,Customer: PK-1118 (2022),PRD-654,22 units,,WH RWP 08,5%,May,reconciled against monthly statement,http://orders.lenovo-pk.com/renewal
+ORD23-70193,CUST-PK-1181,PRD-521,20 units,,WH-KHI-12,12.5%,Jun,[RUSH] deliver before friday,https://portal.techmazone.com.pk/orders/new
+ORD23-70194,cust_pk_1119,PRD-878,26 units,Sarah Nadeem,WH/QTA/09,20%,Jul,[URGENT] client waiting at site,http://b2b.dell-partners.pk/quote
+ORD23-70195,Customer: PK-1003 (2017),PRD-647,3 units,,wh-qta-12,12.5%,Aug,[HOLD] awaiting credit approval,https://shop.hpstore.pk/checkout
+ORD23-70196,cust_pk_1124,PRD-696,8 units,,WH ISB 09,5%,Sep,[PRIORITY] escalated by manager,http://orders.lenovo-pk.com/b2b/new
+ORD23-70197,cust_pk_1194,PRD-801,17 units,,WH-FSD-01,,Oct,[BACKORDER] awaiting stock from vendor,https://www.acer-distributor.pk/cart
+ORD23-70198,Customer: PK-1133 (2017),PRD-829,37 units,,WH/QTA/12,20%,Nov,[SPLIT] shipping in two lots,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70199,Customer: PK-1088 (2022),PRD-941,18 units,,wh-skt-11,5%,Dec,confirm stock before dispatch [pending],http://b2b.dell-partners.pk/renewal
+ORD23-70200,2024-PK_1010,PRD-577,31 units,,WH FSD 10,5%,Jan,packaging damaged on arrival [reported],https://store.asus-pk.com/business/order
+ORD23-70201,2024-PK_1160,PRD-619,30 units,,WH-LHR-11,,Feb,customer asked for invoice [pdf],http://reseller.msi-pakistan.pk/new
+ORD23-70202,cust_pk_1049,PRD-570,5 units,Ali Raza,WH/MUL/04,12.5%,Mar,installation scheduled next week [planned],https://www.samsung-b2b.pk/orders/create
+ORD23-70203,BR2021/PK-1097,PRD-626,9 units,,wh-pew-02,0%,Apr,credit terms extended to 60 days [approved],https://shop.hpstore.pk/enterprise
+ORD23-70204,CUST-PK-1206,PRD-871,14 units,,WH FSD 12,0%,May,serial numbers shared with buyer [done],http://orders.lenovo-pk.com/renewal
+ORD23-70205,Customer: PK-1103 (2017),PRD-535,8 units,Ayesha Malik,WH-HYD-07,12.5%,Jun,[VERIFIED],https://portal.techmazone.com.pk/orders/new
+ORD23-70206,cust_pk_1204,PRD-507,9 units,,WH/KHI/07,7.5%,Jul,[CANCELLED],http://b2b.dell-partners.pk/quote
+ORD23-70207,BR2021/PK-1227,PRD-591,17 units,,wh-lhr-09,10%,Aug,[pdf],https://shop.hpstore.pk/checkout
+ORD23-70208,Customer: PK-1158 (2022),PRD-584,10 units,Omar Siddiqui,WH QTA 10,5%,Sep,[PENDING],http://orders.lenovo-pk.com/b2b/new
+ORD23-70209,Customer: PK-1028 (2022),PRD-619,17 units,,WH-LHR-05,5%,Oct,[CLOSED],https://www.acer-distributor.pk/cart
+ORD23-70210,2024-PK_1140,PRD-521,30 units,,WH/MUL/01,,Nov,[flagged],https://portal.techmazone.com.pk/orders/repeat
+ORD23-70211,cust_pk_1104,PRD-829,33 units,Ali Raza,wh-lhr-11,20%,Dec,please please confirm the delivery slot,http://b2b.dell-partners.pk/renewal
+ORD23-70212,2024-PK_1180,PRD-843,9 units,,WH KHI 01,12.5%,Jan,urgent urgent needs same day dispatch,https://store.asus-pk.com/business/order
+ORD23-70213,Customer: PK-1048 (2022),PRD-619,3 units,,WH-LHR-08,15%,Feb,call the the customer before loading,http://reseller.msi-pakistan.pk/new
+ORD23-70214,cust_pk_1119,PRD-633,5 units,,WH/SKT/11,12.5%,Mar,send send updated quotation,https://www.samsung-b2b.pk/orders/create
+ORD23-70215,cust_pk_1029,PRD-647,18 units,,wh-hyd-10,12.5%,Apr,check check the serial before handover,https://shop.hpstore.pk/enterprise
+ORD23-70216,Customer: PK-1183 (2017),PRD-808,39 units,,WH KHI 05,12.5%,May,very very late response from buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70217,2024-PK_1070,PRD-654,4 units,,WH-RWP-03,20%,Jun,quote sent quote by courier,https://portal.techmazone.com.pk/orders/new
+ORD23-70218,CUST-PK-1176,PRD-885,5 units,,WH/QTA/03,5%,Jul,invoice raised invoice against PO,http://b2b.dell-partners.pk/quote
+ORD23-70219,2019-PK_1015,PRD-563,16 units,,wh-rwp-03,,Aug,stock checked stock at warehouse,https://shop.hpstore.pk/checkout
+ORD23-70220,cust_pk_1194,PRD-871,38 units,,WH FSD 11,,Sep,order placed order through portal,http://orders.lenovo-pk.com/b2b/new
+ORD23-70221,BR2021/PK-1077,PRD-759,9 units,,WH-HYD-07,15%,Oct,unit tested unit before dispatch,https://www.acer-distributor.pk/cart
+ORD23-70222,CUST-PK-1211,PRD-843,14 units,Hamza Sheikh,WH/MUL/06,20%,Nov,send confirmation on e-mail,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70223,cust_pk_1199,PRD-598,23 units,,wh-fsd-10,10%,Dec,confirmation shared over e mail,http://b2b.dell-partners.pk/renewal
+ORD23-70224,Customer: PK-1053 (2017),PRD-682,22 units,,WH ISB 10,12.5%,Jan,customer prefers email only,https://store.asus-pk.com/business/order
+ORD23-70225,2024-PK_1160,PRD-892,39 units,,WH-QTA-07,5%,Feb,resend the E-Mail with pricing,http://reseller.msi-pakistan.pk/new
+ORD23-70226,CUST-PK-1066,PRD-878,38 units,,WH/KHI/11,0%,Mar,follow up by E mail tomorrow,https://www.samsung-b2b.pk/orders/create
+ORD23-70227,Customer: PK-1108 (2022),PRD-794,10 units,,wh-isb-03,12.5%,Apr,delivery rescheduled by customer,https://shop.hpstore.pk/enterprise
+ORD23-70228,2019-PK_1225,PRD-878,36 units,Salman Tariq,WH QTA 01,7.5%,May,partial shipment agreed with buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70229,BR2021/PK-1147,PRD-717,19 units,,WH-FSD-10,7.5%,Jun,payment cleared through bank transfer,https://portal.techmazone.com.pk/orders/new
+ORD23-70230,2024-PK_1030,PRD-507,5 units,,WH/RWP/04,0%,Jul,warranty card missing from carton,http://b2b.dell-partners.pk/quote
+ORD23-70231,2019-PK_1135,PRD-948,37 units,Hamza Sheikh,wh-fsd-01,7.5%,Aug,buyer collected from warehouse directly,https://shop.hpstore.pk/checkout
+ORD23-70232,Customer: PK-1103 (2017),PRD-717,14 units,,WH QTA 06,,Sep,routed via third party logistics,http://orders.lenovo-pk.com/b2b/new
+ORD23-70233,2024-PK_1220,PRD-514,7 units,,WH-KHI-10,12.5%,Oct,customer requested extended warranty,https://www.acer-distributor.pk/cart
+ORD23-70234,cust_pk_1149,PRD-738,22 units,,WH/MUL/08,20%,Nov,bulk order for a branch rollout,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70235,Customer: PK-1238 (2022),PRD-612,13 units,,wh-skt-07,10%,Dec,replacement unit issued to client,http://b2b.dell-partners.pk/renewal
+ORD23-70236,2019-PK_1095,PRD-570,21 units,,WH FSD 01,15%,Jan,documentation shared with accounts,https://store.asus-pk.com/business/order
+ORD23-70237,Customer: PK-1088 (2022),PRD-766,39 units,,WH-ISB-04,12.5%,Feb,purchase order attached to file,http://reseller.msi-pakistan.pk/new
+ORD23-70238,cust_pk_1159,PRD-528,33 units,,WH/HYD/09,15%,Mar,dispatch confirmed by warehouse team,https://www.samsung-b2b.pk/orders/create
+ORD23-70239,cust_pk_1009,PRD-780,19 units,,wh-pew-03,0%,Apr,handover completed at client site,https://shop.hpstore.pk/enterprise
+ORD23-70240,Customer: PK-1023 (2017),PRD-591,25 units,,WH KHI 09,12.5%,May,reconciled against monthly statement,http://orders.lenovo-pk.com/renewal
+ORD23-70241,cust_pk_1034,PRD-619,19 units,,WH-MUL-02,12.5%,Jun,[RUSH] deliver before friday,https://portal.techmazone.com.pk/orders/new
+ORD23-70242,Customer: PK-1108 (2022),PRD-668,36 units,Bilal Ansari,WH/SKT/08,20%,Jul,[URGENT] client waiting at site,http://b2b.dell-partners.pk/quote
+ORD23-70243,CUST-PK-1121,PRD-829,39 units,,wh-isb-07,,Aug,[HOLD] awaiting credit approval,https://shop.hpstore.pk/checkout
+ORD23-70244,Customer: PK-1228 (2022),PRD-661,31 units,,WH RWP 12,10%,Sep,[PRIORITY] escalated by manager,http://orders.lenovo-pk.com/b2b/new
+ORD23-70245,Customer: PK-1143 (2017),PRD-626,22 units,,WH-FSD-04,10%,Oct,[BACKORDER] awaiting stock from vendor,https://www.acer-distributor.pk/cart
+ORD23-70246,CUST-PK-1156,PRD-871,26 units,,WH/QTA/06,12.5%,Nov,[SPLIT] shipping in two lots,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70247,cust_pk_1219,PRD-570,35 units,,wh-mul-06,0%,Dec,confirm stock before dispatch [pending],http://b2b.dell-partners.pk/renewal
+ORD23-70248,CUST-PK-1181,PRD-598,23 units,,WH HYD 03,15%,Jan,packaging damaged on arrival [reported],https://store.asus-pk.com/business/order
+ORD23-70249,2019-PK_1075,PRD-612,37 units,,WH-SKT-10,5%,Feb,customer asked for invoice [pdf],http://reseller.msi-pakistan.pk/new
+ORD23-70250,cust_pk_1084,PRD-507,26 units,Ayesha Malik,WH/HYD/12,,Mar,installation scheduled next week [planned],https://www.samsung-b2b.pk/orders/create
+ORD23-70251,2019-PK_1205,PRD-892,36 units,,wh-qta-09,5%,Apr,credit terms extended to 60 days [approved],https://shop.hpstore.pk/enterprise
+ORD23-70252,cust_pk_1089,PRD-696,6 units,,WH ISB 12,,May,serial numbers shared with buyer [done],http://orders.lenovo-pk.com/renewal
+ORD23-70253,BR2016/PK-1102,PRD-598,27 units,,WH-SKT-08,0%,Jun,[VERIFIED],https://portal.techmazone.com.pk/orders/new
+ORD23-70254,Customer: PK-1043 (2017),PRD-696,18 units,,WH/LHR/12,5%,Jul,[CANCELLED],http://b2b.dell-partners.pk/quote
+ORD23-70255,2019-PK_1105,PRD-745,2 units,,wh-pew-10,5%,Aug,[pdf],https://shop.hpstore.pk/checkout
+ORD23-70256,CUST-PK-1016,PRD-780,37 units,Ali Raza,WH PEW 03,7.5%,Sep,[PENDING],http://orders.lenovo-pk.com/b2b/new
+ORD23-70257,cust_pk_1019,PRD-710,19 units,,WH-FSD-02,5%,Oct,[CLOSED],https://www.acer-distributor.pk/cart
+ORD23-70258,cust_pk_1119,PRD-605,21 units,,WH/LHR/10,0%,Nov,[flagged],https://portal.techmazone.com.pk/orders/repeat
+ORD23-70259,BR2021/PK-1097,PRD-857,13 units,,wh-lhr-08,,Dec,please please confirm the delivery slot,http://b2b.dell-partners.pk/renewal
+ORD23-70260,BR2016/PK-1072,PRD-633,31 units,,WH ISB 08,5%,Jan,urgent urgent needs same day dispatch,https://store.asus-pk.com/business/order
+ORD23-70261,cust_pk_1059,PRD-857,14 units,,WH-QTA-01,10%,Feb,call the the customer before loading,http://reseller.msi-pakistan.pk/new
+ORD23-70262,2024-PK_1240,PRD-864,11 units,Omar Siddiqui,WH/QTA/12,7.5%,Mar,send send updated quotation,https://www.samsung-b2b.pk/orders/create
+ORD23-70263,2019-PK_1075,PRD-584,15 units,,wh-skt-08,20%,Apr,check check the serial before handover,https://shop.hpstore.pk/enterprise
+ORD23-70264,CUST-PK-1171,PRD-682,39 units,,WH SKT 07,15%,May,very very late response from buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70265,CUST-PK-1201,PRD-535,36 units,Ali Raza,WH-PEW-11,10%,Jun,quote sent quote by courier,https://portal.techmazone.com.pk/orders/new
+ORD23-70266,2019-PK_1005,PRD-668,28 units,,WH/FSD/11,20%,Jul,invoice raised invoice against PO,http://b2b.dell-partners.pk/quote
+ORD23-70267,BR2021/PK-1027,PRD-633,18 units,,wh-isb-02,10%,Aug,stock checked stock at warehouse,https://shop.hpstore.pk/checkout
+ORD23-70268,BR2021/PK-1157,PRD-885,24 units,,WH PEW 09,12.5%,Sep,order placed order through portal,http://orders.lenovo-pk.com/b2b/new
+ORD23-70269,BR2021/PK-1027,PRD-570,20 units,Bilal Ansari,WH-FSD-07,12.5%,Oct,unit tested unit before dispatch,https://www.acer-distributor.pk/cart
+ORD23-70270,Customer: PK-1063 (2017),PRD-633,32 units,,WH/PEW/12,20%,Nov,send confirmation on e-mail,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70271,BR2016/PK-1002,PRD-850,8 units,,wh-skt-09,,Dec,confirmation shared over e mail,http://b2b.dell-partners.pk/renewal
+ORD23-70272,2019-PK_1015,PRD-528,40 units,,WH KHI 11,5%,Jan,customer prefers email only,https://store.asus-pk.com/business/order
+ORD23-70273,2024-PK_1020,PRD-731,15 units,,WH-FSD-07,5%,Feb,resend the E-Mail with pricing,http://reseller.msi-pakistan.pk/new
+ORD23-70274,BR2021/PK-1127,PRD-598,12 units,,WH/LHR/03,12.5%,Mar,follow up by E mail tomorrow,https://www.samsung-b2b.pk/orders/create
+ORD23-70275,CUST-PK-1146,PRD-773,16 units,,wh-khi-08,10%,Apr,delivery rescheduled by customer,https://shop.hpstore.pk/enterprise
+ORD23-70276,BR2016/PK-1232,PRD-689,37 units,Hamza Sheikh,WH RWP 09,5%,May,partial shipment agreed with buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70277,2024-PK_1220,PRD-738,21 units,,WH-PEW-07,20%,Jun,payment cleared through bank transfer,https://portal.techmazone.com.pk/orders/new
+ORD23-70278,Customer: PK-1213 (2017),PRD-682,8 units,,WH/LHR/06,,Jul,warranty card missing from carton,http://b2b.dell-partners.pk/quote
+ORD23-70279,2024-PK_1060,PRD-731,6 units,,wh-khi-06,10%,Aug,buyer collected from warehouse directly,https://shop.hpstore.pk/checkout
+ORD23-70280,cust_pk_1089,PRD-647,31 units,,WH ISB 11,12.5%,Sep,routed via third party logistics,http://orders.lenovo-pk.com/b2b/new
+ORD23-70281,cust_pk_1179,PRD-794,13 units,,WH-PEW-10,12.5%,Oct,customer requested extended warranty,https://www.acer-distributor.pk/cart
+ORD23-70282,Customer: PK-1023 (2017),PRD-626,17 units,,WH/MUL/12,15%,Nov,bulk order for a branch rollout,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70283,CUST-PK-1046,PRD-850,3 units,,wh-khi-02,12.5%,Dec,replacement unit issued to client,http://b2b.dell-partners.pk/renewal
+ORD23-70284,Customer: PK-1098 (2022),PRD-584,5 units,,WH LHR 05,,Jan,documentation shared with accounts,https://store.asus-pk.com/business/order
+ORD23-70285,Customer: PK-1173 (2017),PRD-759,31 units,Hamza Sheikh,WH-MUL-02,15%,Feb,purchase order attached to file,http://reseller.msi-pakistan.pk/new
+ORD23-70286,BR2021/PK-1117,PRD-668,24 units,,WH/SKT/06,15%,Mar,dispatch confirmed by warehouse team,https://www.samsung-b2b.pk/orders/create
+ORD23-70287,Customer: PK-1213 (2017),PRD-514,35 units,,wh-isb-06,10%,Apr,handover completed at client site,https://shop.hpstore.pk/enterprise
+ORD23-70288,2024-PK_1080,PRD-619,36 units,,WH FSD 07,10%,May,reconciled against monthly statement,http://orders.lenovo-pk.com/renewal
+ORD23-70289,Customer: PK-1128 (2022),PRD-745,25 units,,WH-ISB-11,10%,Jun,[RUSH] deliver before friday,https://portal.techmazone.com.pk/orders/new
+ORD23-70290,BR2016/PK-1022,PRD-710,31 units,,WH/ISB/07,20%,Jul,[URGENT] client waiting at site,http://b2b.dell-partners.pk/quote
+ORD23-70291,2019-PK_1235,PRD-913,12 units,,wh-hyd-11,15%,Aug,[HOLD] awaiting credit approval,https://shop.hpstore.pk/checkout
+ORD23-70292,BR2021/PK-1027,PRD-535,6 units,,WH KHI 09,0%,Sep,[PRIORITY] escalated by manager,http://orders.lenovo-pk.com/b2b/new
+ORD23-70293,cust_pk_1184,PRD-605,33 units,,WH-LHR-06,5%,Oct,[BACKORDER] awaiting stock from vendor,https://www.acer-distributor.pk/cart
+ORD23-70294,Customer: PK-1003 (2017),PRD-745,6 units,,WH/MUL/08,5%,Nov,[SPLIT] shipping in two lots,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70295,2024-PK_1110,PRD-619,40 units,,wh-fsd-09,0%,Dec,confirm stock before dispatch [pending],http://b2b.dell-partners.pk/renewal
+ORD23-70296,BR2021/PK-1177,PRD-542,29 units,,WH KHI 02,20%,Jan,packaging damaged on arrival [reported],https://store.asus-pk.com/business/order
+ORD23-70297,cust_pk_1184,PRD-661,27 units,Fatima Zafar,WH-RWP-10,12.5%,Feb,customer asked for invoice [pdf],http://reseller.msi-pakistan.pk/new
+ORD23-70298,2024-PK_1070,PRD-864,11 units,,WH/QTA/07,12.5%,Mar,installation scheduled next week [planned],https://www.samsung-b2b.pk/orders/create
+ORD23-70299,2024-PK_1080,PRD-675,6 units,,wh-skt-05,7.5%,Apr,credit terms extended to 60 days [approved],https://shop.hpstore.pk/enterprise
+ORD23-70300,2019-PK_1115,PRD-598,6 units,,WH SKT 10,15%,May,serial numbers shared with buyer [done],http://orders.lenovo-pk.com/renewal
+ORD23-70301,2019-PK_1135,PRD-752,32 units,,WH-FSD-04,15%,Jun,[VERIFIED],https://portal.techmazone.com.pk/orders/new
+ORD23-70302,cust_pk_1089,PRD-899,23 units,,WH/MUL/11,5%,Jul,[CANCELLED],http://b2b.dell-partners.pk/quote
+ORD23-70303,BR2016/PK-1142,PRD-759,33 units,,wh-qta-12,5%,Aug,[pdf],https://shop.hpstore.pk/checkout
+ORD23-70304,cust_pk_1234,PRD-535,16 units,,WH ISB 09,5%,Sep,[PENDING],http://orders.lenovo-pk.com/b2b/new
+ORD23-70305,BR2021/PK-1187,PRD-689,35 units,,WH-LHR-08,15%,Oct,[CLOSED],https://www.acer-distributor.pk/cart
+ORD23-70306,2024-PK_1170,PRD-913,4 units,,WH/MUL/07,15%,Nov,[flagged],https://portal.techmazone.com.pk/orders/repeat
+ORD23-70307,BR2016/PK-1182,PRD-682,24 units,Omar Siddiqui,wh-khi-05,12.5%,Dec,please please confirm the delivery slot,http://b2b.dell-partners.pk/renewal
+ORD23-70308,Customer: PK-1173 (2017),PRD-507,9 units,,WH PEW 10,,Jan,urgent urgent needs same day dispatch,https://store.asus-pk.com/business/order
+ORD23-70309,cust_pk_1039,PRD-843,27 units,,WH-RWP-12,20%,Feb,call the the customer before loading,http://reseller.msi-pakistan.pk/new
+ORD23-70310,CUST-PK-1181,PRD-857,37 units,,WH/PEW/09,20%,Mar,send send updated quotation,https://www.samsung-b2b.pk/orders/create
+ORD23-70311,cust_pk_1089,PRD-885,16 units,,wh-pew-08,,Apr,check check the serial before handover,https://shop.hpstore.pk/enterprise
+ORD23-70312,CUST-PK-1066,PRD-822,6 units,,WH FSD 05,7.5%,May,very very late response from buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70313,CUST-PK-1086,PRD-864,3 units,,WH-QTA-07,12.5%,Jun,quote sent quote by courier,https://portal.techmazone.com.pk/orders/new
+ORD23-70314,cust_pk_1219,PRD-759,26 units,,WH/PEW/05,5%,Jul,invoice raised invoice against PO,http://b2b.dell-partners.pk/quote
+ORD23-70315,2024-PK_1060,PRD-871,10 units,,wh-qta-03,5%,Aug,stock checked stock at warehouse,https://shop.hpstore.pk/checkout
+ORD23-70316,Customer: PK-1113 (2017),PRD-584,5 units,Omar Siddiqui,WH LHR 09,15%,Sep,order placed order through portal,http://orders.lenovo-pk.com/b2b/new
+ORD23-70317,cust_pk_1129,PRD-570,34 units,,WH-ISB-02,5%,Oct,unit tested unit before dispatch,https://www.acer-distributor.pk/cart
+ORD23-70318,CUST-PK-1181,PRD-605,18 units,,WH/MUL/05,5%,Nov,send confirmation on e-mail,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70319,CUST-PK-1196,PRD-689,22 units,Ali Raza,wh-khi-06,12.5%,Dec,confirmation shared over e mail,http://b2b.dell-partners.pk/renewal
+ORD23-70320,cust_pk_1114,PRD-619,21 units,,WH LHR 06,20%,Jan,customer prefers email only,https://store.asus-pk.com/business/order
+ORD23-70321,CUST-PK-1011,PRD-703,36 units,,WH-LHR-08,0%,Feb,resend the E-Mail with pricing,http://reseller.msi-pakistan.pk/new
+ORD23-70322,2024-PK_1050,PRD-829,17 units,,WH/KHI/09,20%,Mar,follow up by E mail tomorrow,https://www.samsung-b2b.pk/orders/create
+ORD23-70323,BR2016/PK-1162,PRD-584,10 units,,wh-isb-01,5%,Apr,delivery rescheduled by customer,https://shop.hpstore.pk/enterprise
+ORD23-70324,BR2021/PK-1197,PRD-731,2 units,,WH QTA 09,10%,May,partial shipment agreed with buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70325,BR2021/PK-1187,PRD-675,1 units,,WH-ISB-08,12.5%,Jun,payment cleared through bank transfer,https://portal.techmazone.com.pk/orders/new
+ORD23-70326,BR2016/PK-1042,PRD-619,6 units,,WH/LHR/11,20%,Jul,warranty card missing from carton,http://b2b.dell-partners.pk/quote
+ORD23-70327,BR2021/PK-1237,PRD-619,22 units,,wh-lhr-06,12.5%,Aug,buyer collected from warehouse directly,https://shop.hpstore.pk/checkout
+ORD23-70328,cust_pk_1139,PRD-535,36 units,Ali Raza,WH FSD 11,12.5%,Sep,routed via third party logistics,http://orders.lenovo-pk.com/b2b/new
+ORD23-70329,BR2016/PK-1142,PRD-514,2 units,,WH-HYD-01,10%,Oct,customer requested extended warranty,https://www.acer-distributor.pk/cart
+ORD23-70330,BR2021/PK-1217,PRD-675,16 units,,WH/RWP/05,15%,Nov,bulk order for a branch rollout,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70331,cust_pk_1199,PRD-542,29 units,,wh-pew-01,0%,Dec,replacement unit issued to client,http://b2b.dell-partners.pk/renewal
+ORD23-70332,Customer: PK-1093 (2017),PRD-584,2 units,,WH LHR 03,20%,Jan,documentation shared with accounts,https://store.asus-pk.com/business/order
+ORD23-70333,2024-PK_1070,PRD-577,19 units,,WH-RWP-06,5%,Feb,purchase order attached to file,http://reseller.msi-pakistan.pk/new
+ORD23-70334,2019-PK_1175,PRD-577,38 units,,WH/SKT/05,,Mar,dispatch confirmed by warehouse team,https://www.samsung-b2b.pk/orders/create
+ORD23-70335,cust_pk_1149,PRD-871,2 units,,wh-skt-12,7.5%,Apr,handover completed at client site,https://shop.hpstore.pk/enterprise
+ORD23-70336,BR2021/PK-1227,PRD-542,13 units,,WH SKT 10,20%,May,reconciled against monthly statement,http://orders.lenovo-pk.com/renewal
+ORD23-70337,2019-PK_1065,PRD-654,13 units,,WH-RWP-08,20%,Jun,[RUSH] deliver before friday,https://portal.techmazone.com.pk/orders/new
+ORD23-70338,cust_pk_1094,PRD-752,23 units,,WH/HYD/05,10%,Jul,[URGENT] client waiting at site,http://b2b.dell-partners.pk/quote
+ORD23-70339,2024-PK_1180,PRD-521,1 units,Hamza Sheikh,wh-isb-08,15%,Aug,[HOLD] awaiting credit approval,https://shop.hpstore.pk/checkout
+ORD23-70340,CUST-PK-1106,PRD-787,7 units,,WH KHI 01,5%,Sep,[PRIORITY] escalated by manager,http://orders.lenovo-pk.com/b2b/new
+ORD23-70341,cust_pk_1219,PRD-675,37 units,,WH-MUL-03,7.5%,Oct,[BACKORDER] awaiting stock from vendor,https://www.acer-distributor.pk/cart
+ORD23-70342,2019-PK_1115,PRD-535,18 units,Fatima Zafar,WH/ISB/09,10%,Nov,[SPLIT] shipping in two lots,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70343,BR2016/PK-1162,PRD-703,37 units,,wh-qta-06,15%,Dec,confirm stock before dispatch [pending],http://b2b.dell-partners.pk/renewal
+ORD23-70344,BR2016/PK-1152,PRD-521,38 units,,WH ISB 01,20%,Jan,packaging damaged on arrival [reported],https://store.asus-pk.com/business/order
+ORD23-70345,Customer: PK-1093 (2017),PRD-703,35 units,Salman Tariq,WH-QTA-09,10%,Feb,customer asked for invoice [pdf],http://reseller.msi-pakistan.pk/new
+ORD23-70346,BR2016/PK-1032,PRD-801,27 units,,WH/HYD/07,7.5%,Mar,installation scheduled next week [planned],https://www.samsung-b2b.pk/orders/create
+ORD23-70347,Customer: PK-1003 (2017),PRD-563,39 units,,wh-khi-09,5%,Apr,credit terms extended to 60 days [approved],https://shop.hpstore.pk/enterprise
+ORD23-70348,2024-PK_1160,PRD-521,9 units,,WH LHR 08,5%,May,serial numbers shared with buyer [done],http://orders.lenovo-pk.com/renewal
+ORD23-70349,2024-PK_1130,PRD-927,18 units,,WH-QTA-11,0%,Jun,[VERIFIED],https://portal.techmazone.com.pk/orders/new
+ORD23-70350,cust_pk_1224,PRD-871,7 units,,WH/QTA/07,5%,Jul,[CANCELLED],http://b2b.dell-partners.pk/quote
+ORD23-70351,CUST-PK-1026,PRD-927,27 units,Fatima Zafar,wh-isb-11,20%,Aug,[pdf],https://shop.hpstore.pk/checkout
+ORD23-70352,2019-PK_1005,PRD-584,34 units,,WH KHI 04,0%,Sep,[PENDING],http://orders.lenovo-pk.com/b2b/new
+ORD23-70353,Customer: PK-1138 (2022),PRD-738,13 units,,WH-SKT-02,12.5%,Oct,[CLOSED],https://www.acer-distributor.pk/cart
+ORD23-70354,BR2016/PK-1112,PRD-766,17 units,,WH/SKT/02,10%,Nov,[flagged],https://portal.techmazone.com.pk/orders/repeat
+ORD23-70355,2024-PK_1070,PRD-829,17 units,,wh-pew-03,,Dec,please please confirm the delivery slot,http://b2b.dell-partners.pk/renewal
+ORD23-70356,cust_pk_1139,PRD-920,13 units,,WH KHI 06,10%,Jan,urgent urgent needs same day dispatch,https://store.asus-pk.com/business/order
+ORD23-70357,2024-PK_1090,PRD-731,9 units,,WH-RWP-05,20%,Feb,call the the customer before loading,http://reseller.msi-pakistan.pk/new
+ORD23-70358,CUST-PK-1091,PRD-885,13 units,,WH/FSD/02,15%,Mar,send send updated quotation,https://www.samsung-b2b.pk/orders/create
+ORD23-70359,2024-PK_1190,PRD-542,33 units,,wh-hyd-12,5%,Apr,check check the serial before handover,https://shop.hpstore.pk/enterprise
+ORD23-70360,Customer: PK-1003 (2017),PRD-619,38 units,,WH LHR 10,12.5%,May,very very late response from buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70361,cust_pk_1019,PRD-556,37 units,Omar Siddiqui,WH-KHI-01,20%,Jun,quote sent quote by courier,https://portal.techmazone.com.pk/orders/new
+ORD23-70362,2024-PK_1210,PRD-528,4 units,,WH/KHI/11,0%,Jul,invoice raised invoice against PO,http://b2b.dell-partners.pk/quote
+ORD23-70363,Customer: PK-1023 (2017),PRD-696,16 units,,wh-qta-02,10%,Aug,stock checked stock at warehouse,https://shop.hpstore.pk/checkout
+ORD23-70364,2024-PK_1010,PRD-822,22 units,,WH ISB 07,5%,Sep,order placed order through portal,http://orders.lenovo-pk.com/b2b/new
+ORD23-70365,Customer: PK-1133 (2017),PRD-647,4 units,,WH-RWP-12,10%,Oct,unit tested unit before dispatch,https://www.acer-distributor.pk/cart
+ORD23-70366,BR2021/PK-1147,PRD-633,12 units,,WH/RWP/10,12.5%,Nov,send confirmation on e-mail,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70367,2019-PK_1225,PRD-927,32 units,Ayesha Malik,wh-lhr-07,5%,Dec,confirmation shared over e mail,http://b2b.dell-partners.pk/renewal
+ORD23-70368,CUST-PK-1131,PRD-612,1 units,,WH FSD 03,,Jan,customer prefers email only,https://store.asus-pk.com/business/order
+ORD23-70369,Customer: PK-1093 (2017),PRD-871,27 units,,WH-HYD-03,10%,Feb,resend the E-Mail with pricing,http://reseller.msi-pakistan.pk/new
+ORD23-70370,2019-PK_1195,PRD-682,40 units,,WH/PEW/06,5%,Mar,follow up by E mail tomorrow,https://www.samsung-b2b.pk/orders/create
+ORD23-70371,CUST-PK-1056,PRD-899,31 units,,wh-rwp-06,12.5%,Apr,delivery rescheduled by customer,https://shop.hpstore.pk/enterprise
+ORD23-70372,2024-PK_1110,PRD-570,22 units,,WH SKT 05,12.5%,May,partial shipment agreed with buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70373,Customer: PK-1208 (2022),PRD-577,38 units,,WH-MUL-09,5%,Jun,payment cleared through bank transfer,https://portal.techmazone.com.pk/orders/new
+ORD23-70374,BR2021/PK-1207,PRD-822,38 units,,WH/KHI/11,5%,Jul,warranty card missing from carton,http://b2b.dell-partners.pk/quote
+ORD23-70375,CUST-PK-1171,PRD-738,6 units,,wh-mul-12,7.5%,Aug,buyer collected from warehouse directly,https://shop.hpstore.pk/checkout
+ORD23-70376,cust_pk_1174,PRD-577,32 units,,WH QTA 06,5%,Sep,routed via third party logistics,http://orders.lenovo-pk.com/b2b/new
+ORD23-70377,Customer: PK-1218 (2022),PRD-570,3 units,,WH-MUL-08,7.5%,Oct,customer requested extended warranty,https://www.acer-distributor.pk/cart
+ORD23-70378,2024-PK_1140,PRD-787,31 units,,WH/PEW/06,7.5%,Nov,bulk order for a branch rollout,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70379,BR2016/PK-1202,PRD-710,29 units,Omar Siddiqui,wh-isb-10,5%,Dec,replacement unit issued to client,http://b2b.dell-partners.pk/renewal
+ORD23-70380,CUST-PK-1141,PRD-654,33 units,,WH RWP 02,0%,Jan,documentation shared with accounts,https://store.asus-pk.com/business/order
+ORD23-70381,cust_pk_1129,PRD-871,28 units,,WH-MUL-01,5%,Feb,purchase order attached to file,http://reseller.msi-pakistan.pk/new
+ORD23-70382,CUST-PK-1106,PRD-780,39 units,,WH/SKT/11,10%,Mar,dispatch confirmed by warehouse team,https://www.samsung-b2b.pk/orders/create
+ORD23-70383,cust_pk_1079,PRD-668,30 units,,wh-lhr-05,,Apr,handover completed at client site,https://shop.hpstore.pk/enterprise
+ORD23-70384,cust_pk_1179,PRD-591,4 units,,WH RWP 09,15%,May,reconciled against monthly statement,http://orders.lenovo-pk.com/renewal
+ORD23-70385,BR2016/PK-1062,PRD-661,13 units,,WH-RWP-02,10%,Jun,[RUSH] deliver before friday,https://portal.techmazone.com.pk/orders/new
+ORD23-70386,BR2016/PK-1142,PRD-878,3 units,,WH/SKT/02,20%,Jul,[URGENT] client waiting at site,http://b2b.dell-partners.pk/quote
+ORD23-70387,Customer: PK-1163 (2017),PRD-829,21 units,,wh-skt-01,10%,Aug,[HOLD] awaiting credit approval,https://shop.hpstore.pk/checkout
+ORD23-70388,Customer: PK-1063 (2017),PRD-612,26 units,,WH KHI 01,20%,Sep,[PRIORITY] escalated by manager,http://orders.lenovo-pk.com/b2b/new
+ORD23-70389,Customer: PK-1098 (2022),PRD-696,28 units,Hira Baig,WH-HYD-08,20%,Oct,[BACKORDER] awaiting stock from vendor,https://www.acer-distributor.pk/cart
+ORD23-70390,2019-PK_1025,PRD-759,39 units,,WH/FSD/07,5%,Nov,[SPLIT] shipping in two lots,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70391,CUST-PK-1101,PRD-773,4 units,,wh-khi-12,10%,Dec,confirm stock before dispatch [pending],http://b2b.dell-partners.pk/renewal
+ORD23-70392,2024-PK_1060,PRD-528,6 units,,WH ISB 06,12.5%,Jan,packaging damaged on arrival [reported],https://store.asus-pk.com/business/order
+ORD23-70393,Customer: PK-1083 (2017),PRD-696,1 units,Hamza Sheikh,WH-HYD-04,5%,Feb,customer asked for invoice [pdf],http://reseller.msi-pakistan.pk/new
+ORD23-70394,Customer: PK-1228 (2022),PRD-661,16 units,,WH/MUL/09,5%,Mar,installation scheduled next week [planned],https://www.samsung-b2b.pk/orders/create
+ORD23-70395,cust_pk_1234,PRD-836,39 units,,wh-hyd-08,5%,Apr,credit terms extended to 60 days [approved],https://shop.hpstore.pk/enterprise
+ORD23-70396,2019-PK_1015,PRD-920,12 units,,WH PEW 12,12.5%,May,serial numbers shared with buyer [done],http://orders.lenovo-pk.com/renewal
+ORD23-70397,2019-PK_1095,PRD-556,31 units,,WH-HYD-12,20%,Jun,[VERIFIED],https://portal.techmazone.com.pk/orders/new
+ORD23-70398,2019-PK_1015,PRD-703,12 units,,WH/RWP/09,5%,Jul,[CANCELLED],http://b2b.dell-partners.pk/quote
+ORD23-70399,BR2021/PK-1077,PRD-773,19 units,Salman Tariq,wh-qta-12,,Aug,[pdf],https://shop.hpstore.pk/checkout
+ORD23-70400,CUST-PK-1091,PRD-822,11 units,,WH QTA 11,12.5%,Sep,[PENDING],http://orders.lenovo-pk.com/b2b/new
+ORD23-70401,cust_pk_1159,PRD-759,24 units,,WH-QTA-09,7.5%,Oct,[CLOSED],https://www.acer-distributor.pk/cart
+ORD23-70402,BR2016/PK-1162,PRD-542,34 units,,WH/HYD/12,0%,Nov,[flagged],https://portal.techmazone.com.pk/orders/repeat
+ORD23-70403,BR2016/PK-1152,PRD-584,6 units,,wh-qta-11,7.5%,Dec,please please confirm the delivery slot,http://b2b.dell-partners.pk/renewal
+ORD23-70404,Customer: PK-1008 (2022),PRD-703,28 units,,WH SKT 08,,Jan,urgent urgent needs same day dispatch,https://store.asus-pk.com/business/order
+ORD23-70405,2019-PK_1085,PRD-577,40 units,,WH-MUL-06,5%,Feb,call the the customer before loading,http://reseller.msi-pakistan.pk/new
+ORD23-70406,Customer: PK-1183 (2017),PRD-542,3 units,Omar Siddiqui,WH/SKT/12,20%,Mar,send send updated quotation,https://www.samsung-b2b.pk/orders/create
+ORD23-70407,CUST-PK-1061,PRD-570,21 units,,wh-lhr-02,20%,Apr,check check the serial before handover,https://shop.hpstore.pk/enterprise
+ORD23-70408,cust_pk_1024,PRD-780,4 units,,WH RWP 10,12.5%,May,very very late response from buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70409,CUST-PK-1166,PRD-577,8 units,,WH-SKT-04,15%,Jun,quote sent quote by courier,https://portal.techmazone.com.pk/orders/new
+ORD23-70410,Customer: PK-1118 (2022),PRD-647,22 units,,WH/QTA/06,10%,Jul,invoice raised invoice against PO,http://b2b.dell-partners.pk/quote
+ORD23-70411,CUST-PK-1226,PRD-878,16 units,,wh-qta-09,5%,Aug,stock checked stock at warehouse,https://shop.hpstore.pk/checkout
+ORD23-70412,CUST-PK-1026,PRD-682,2 units,,WH KHI 12,,Sep,order placed order through portal,http://orders.lenovo-pk.com/b2b/new
+ORD23-70413,CUST-PK-1211,PRD-801,2 units,,WH-FSD-11,5%,Oct,unit tested unit before dispatch,https://www.acer-distributor.pk/cart
+ORD23-70414,BR2016/PK-1062,PRD-934,28 units,,WH/HYD/10,5%,Nov,send confirmation on e-mail,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70415,BR2016/PK-1222,PRD-507,19 units,,wh-hyd-01,20%,Dec,confirmation shared over e mail,http://b2b.dell-partners.pk/renewal
+ORD23-70416,BR2021/PK-1117,PRD-577,18 units,Hira Baig,WH ISB 07,0%,Jan,customer prefers email only,https://store.asus-pk.com/business/order
+ORD23-70417,BR2016/PK-1022,PRD-619,18 units,,WH-FSD-08,5%,Feb,resend the E-Mail with pricing,http://reseller.msi-pakistan.pk/new
+ORD23-70418,CUST-PK-1191,PRD-843,12 units,,WH/PEW/07,12.5%,Mar,follow up by E mail tomorrow,https://www.samsung-b2b.pk/orders/create
+ORD23-70419,BR2021/PK-1077,PRD-787,13 units,,wh-pew-04,,Apr,delivery rescheduled by customer,https://shop.hpstore.pk/enterprise
+ORD23-70420,Customer: PK-1003 (2017),PRD-563,26 units,,WH KHI 09,10%,May,partial shipment agreed with buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70421,cust_pk_1239,PRD-927,6 units,,WH-RWP-10,7.5%,Jun,payment cleared through bank transfer,https://portal.techmazone.com.pk/orders/new
+ORD23-70422,Customer: PK-1193 (2017),PRD-612,18 units,,WH/QTA/05,,Jul,warranty card missing from carton,http://b2b.dell-partners.pk/quote
+ORD23-70423,CUST-PK-1196,PRD-822,22 units,,wh-fsd-07,10%,Aug,buyer collected from warehouse directly,https://shop.hpstore.pk/checkout
+ORD23-70424,CUST-PK-1201,PRD-563,38 units,,WH KHI 12,10%,Sep,routed via third party logistics,http://orders.lenovo-pk.com/b2b/new
+ORD23-70425,cust_pk_1054,PRD-570,24 units,,WH-LHR-05,7.5%,Oct,customer requested extended warranty,https://www.acer-distributor.pk/cart
+ORD23-70426,Customer: PK-1083 (2017),PRD-556,7 units,Salman Tariq,WH/ISB/08,20%,Nov,bulk order for a branch rollout,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70427,cust_pk_1069,PRD-703,37 units,,wh-mul-08,12.5%,Dec,replacement unit issued to client,http://b2b.dell-partners.pk/renewal
+ORD23-70428,CUST-PK-1201,PRD-633,29 units,,WH LHR 08,7.5%,Jan,documentation shared with accounts,https://store.asus-pk.com/business/order
+ORD23-70429,2024-PK_1170,PRD-787,33 units,,WH-PEW-07,12.5%,Feb,purchase order attached to file,http://reseller.msi-pakistan.pk/new
+ORD23-70430,CUST-PK-1211,PRD-871,2 units,,WH/LHR/05,10%,Mar,dispatch confirmed by warehouse team,https://www.samsung-b2b.pk/orders/create
+ORD23-70431,2019-PK_1085,PRD-556,1 units,,wh-rwp-12,15%,Apr,handover completed at client site,https://shop.hpstore.pk/enterprise
+ORD23-70432,BR2021/PK-1037,PRD-899,3 units,,WH ISB 08,7.5%,May,reconciled against monthly statement,http://orders.lenovo-pk.com/renewal
+ORD23-70433,cust_pk_1194,PRD-920,39 units,,WH-RWP-10,10%,Jun,[RUSH] deliver before friday,https://portal.techmazone.com.pk/orders/new
+ORD23-70434,2024-PK_1220,PRD-801,9 units,,WH/SKT/06,5%,Jul,[URGENT] client waiting at site,http://b2b.dell-partners.pk/quote
+ORD23-70435,BR2021/PK-1107,PRD-857,4 units,,wh-skt-05,20%,Aug,[HOLD] awaiting credit approval,https://shop.hpstore.pk/checkout
+ORD23-70436,CUST-PK-1176,PRD-577,11 units,,WH ISB 07,12.5%,Sep,[PRIORITY] escalated by manager,http://orders.lenovo-pk.com/b2b/new
+ORD23-70437,2024-PK_1240,PRD-612,30 units,,WH-MUL-03,0%,Oct,[BACKORDER] awaiting stock from vendor,https://www.acer-distributor.pk/cart
+ORD23-70438,cust_pk_1149,PRD-850,10 units,Hamza Sheikh,WH/QTA/03,12.5%,Nov,[SPLIT] shipping in two lots,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70439,Customer: PK-1013 (2017),PRD-507,28 units,,wh-lhr-07,,Dec,confirm stock before dispatch [pending],http://b2b.dell-partners.pk/renewal
+ORD23-70440,BR2021/PK-1007,PRD-871,34 units,,WH KHI 12,12.5%,Jan,packaging damaged on arrival [reported],https://store.asus-pk.com/business/order
+ORD23-70441,BR2016/PK-1202,PRD-535,14 units,,WH-KHI-10,0%,Feb,customer asked for invoice [pdf],http://reseller.msi-pakistan.pk/new
+ORD23-70442,BR2021/PK-1207,PRD-598,3 units,Omar Siddiqui,WH/FSD/05,20%,Mar,installation scheduled next week [planned],https://www.samsung-b2b.pk/orders/create
+ORD23-70443,2019-PK_1065,PRD-612,34 units,,wh-mul-05,5%,Apr,credit terms extended to 60 days [approved],https://shop.hpstore.pk/enterprise
+ORD23-70444,CUST-PK-1171,PRD-745,35 units,,WH SKT 03,5%,May,serial numbers shared with buyer [done],http://orders.lenovo-pk.com/renewal
+ORD23-70445,CUST-PK-1021,PRD-941,8 units,,WH-KHI-05,5%,Jun,[VERIFIED],https://portal.techmazone.com.pk/orders/new
+ORD23-70446,CUST-PK-1161,PRD-570,16 units,,WH/LHR/12,12.5%,Jul,[CANCELLED],http://b2b.dell-partners.pk/quote
+ORD23-70447,Customer: PK-1143 (2017),PRD-759,16 units,,wh-pew-01,0%,Aug,[pdf],https://shop.hpstore.pk/checkout
+ORD23-70448,2024-PK_1140,PRD-521,30 units,,WH QTA 11,,Sep,[PENDING],http://orders.lenovo-pk.com/b2b/new
+ORD23-70449,BR2016/PK-1112,PRD-899,9 units,Bilal Ansari,WH-KHI-04,10%,Oct,[CLOSED],https://www.acer-distributor.pk/cart
+ORD23-70450,2019-PK_1205,PRD-619,32 units,,WH/PEW/06,5%,Nov,[flagged],https://portal.techmazone.com.pk/orders/repeat
+ORD23-70451,CUST-PK-1236,PRD-948,4 units,,wh-hyd-05,12.5%,Dec,please please confirm the delivery slot,http://b2b.dell-partners.pk/renewal
+ORD23-70452,CUST-PK-1116,PRD-850,8 units,,WH KHI 07,10%,Jan,urgent urgent needs same day dispatch,https://store.asus-pk.com/business/order
+ORD23-70453,CUST-PK-1216,PRD-927,29 units,,WH-LHR-06,15%,Feb,call the the customer before loading,http://reseller.msi-pakistan.pk/new
+ORD23-70454,Customer: PK-1178 (2022),PRD-577,36 units,,WH/FSD/01,12.5%,Mar,send send updated quotation,https://www.samsung-b2b.pk/orders/create
+ORD23-70455,Customer: PK-1068 (2022),PRD-514,14 units,,wh-khi-11,0%,Apr,check check the serial before handover,https://shop.hpstore.pk/enterprise
+ORD23-70456,cust_pk_1059,PRD-507,22 units,,WH KHI 03,12.5%,May,very very late response from buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70457,2024-PK_1070,PRD-829,32 units,,WH-SKT-03,10%,Jun,quote sent quote by courier,https://portal.techmazone.com.pk/orders/new
+ORD23-70458,2019-PK_1055,PRD-864,9 units,,WH/QTA/11,0%,Jul,invoice raised invoice against PO,http://b2b.dell-partners.pk/quote
+ORD23-70459,Customer: PK-1103 (2017),PRD-514,16 units,,wh-fsd-06,15%,Aug,stock checked stock at warehouse,https://shop.hpstore.pk/checkout
+ORD23-70460,CUST-PK-1021,PRD-563,34 units,,WH KHI 12,15%,Sep,order placed order through portal,http://orders.lenovo-pk.com/b2b/new
+ORD23-70461,BR2021/PK-1197,PRD-521,25 units,Hira Baig,WH-SKT-03,7.5%,Oct,unit tested unit before dispatch,https://www.acer-distributor.pk/cart
+ORD23-70462,BR2016/PK-1012,PRD-738,34 units,,WH/MUL/11,15%,Nov,send confirmation on e-mail,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70463,CUST-PK-1056,PRD-864,6 units,,wh-qta-11,0%,Dec,confirmation shared over e mail,http://b2b.dell-partners.pk/renewal
+ORD23-70464,Customer: PK-1013 (2017),PRD-535,40 units,,WH LHR 02,12.5%,Jan,customer prefers email only,https://store.asus-pk.com/business/order
+ORD23-70465,Customer: PK-1163 (2017),PRD-899,40 units,,WH-QTA-11,,Feb,resend the E-Mail with pricing,http://reseller.msi-pakistan.pk/new
+ORD23-70466,2019-PK_1085,PRD-787,24 units,,WH/RWP/10,20%,Mar,follow up by E mail tomorrow,https://www.samsung-b2b.pk/orders/create
+ORD23-70467,CUST-PK-1206,PRD-591,21 units,,wh-mul-03,20%,Apr,delivery rescheduled by customer,https://shop.hpstore.pk/enterprise
+ORD23-70468,2019-PK_1095,PRD-780,3 units,,WH FSD 06,20%,May,partial shipment agreed with buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70469,cust_pk_1014,PRD-591,33 units,,WH-HYD-02,12.5%,Jun,payment cleared through bank transfer,https://portal.techmazone.com.pk/orders/new
+ORD23-70470,BR2021/PK-1077,PRD-808,25 units,,WH/QTA/06,5%,Jul,warranty card missing from carton,http://b2b.dell-partners.pk/quote
+ORD23-70471,BR2016/PK-1082,PRD-626,20 units,,wh-isb-01,20%,Aug,buyer collected from warehouse directly,https://shop.hpstore.pk/checkout
+ORD23-70472,2024-PK_1220,PRD-808,39 units,Ali Raza,WH ISB 05,15%,Sep,routed via third party logistics,http://orders.lenovo-pk.com/b2b/new
+ORD23-70473,Customer: PK-1188 (2022),PRD-535,10 units,,WH-KHI-04,12.5%,Oct,customer requested extended warranty,https://www.acer-distributor.pk/cart
+ORD23-70474,BR2016/PK-1032,PRD-745,4 units,,WH/PEW/04,20%,Nov,bulk order for a branch rollout,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70475,CUST-PK-1146,PRD-703,29 units,,wh-skt-05,7.5%,Dec,replacement unit issued to client,http://b2b.dell-partners.pk/renewal
+ORD23-70476,BR2021/PK-1067,PRD-654,32 units,,WH QTA 01,0%,Jan,documentation shared with accounts,https://store.asus-pk.com/business/order
+ORD23-70477,BR2021/PK-1057,PRD-899,11 units,,WH-ISB-07,5%,Feb,purchase order attached to file,http://reseller.msi-pakistan.pk/new
+ORD23-70478,BR2016/PK-1092,PRD-829,12 units,,WH/KHI/05,15%,Mar,dispatch confirmed by warehouse team,https://www.samsung-b2b.pk/orders/create
+ORD23-70479,cust_pk_1054,PRD-570,1 units,,wh-fsd-07,5%,Apr,handover completed at client site,https://shop.hpstore.pk/enterprise
+ORD23-70480,2019-PK_1125,PRD-948,14 units,,WH PEW 04,20%,May,reconciled against monthly statement,http://orders.lenovo-pk.com/renewal
+ORD23-70481,Customer: PK-1018 (2022),PRD-850,36 units,,WH-QTA-12,0%,Jun,[RUSH] deliver before friday,https://portal.techmazone.com.pk/orders/new
+ORD23-70482,BR2021/PK-1057,PRD-787,1 units,Sarah Nadeem,WH/KHI/07,10%,Jul,[URGENT] client waiting at site,http://b2b.dell-partners.pk/quote
+ORD23-70483,Customer: PK-1048 (2022),PRD-514,21 units,,wh-mul-08,5%,Aug,[HOLD] awaiting credit approval,https://shop.hpstore.pk/checkout
+ORD23-70484,cust_pk_1174,PRD-689,7 units,,WH ISB 04,10%,Sep,[PRIORITY] escalated by manager,http://orders.lenovo-pk.com/b2b/new
+ORD23-70485,CUST-PK-1131,PRD-759,4 units,,WH-KHI-09,10%,Oct,[BACKORDER] awaiting stock from vendor,https://www.acer-distributor.pk/cart
+ORD23-70486,CUST-PK-1201,PRD-878,5 units,,WH/QTA/04,,Nov,[SPLIT] shipping in two lots,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70487,CUST-PK-1166,PRD-864,26 units,,wh-mul-01,20%,Dec,confirm stock before dispatch [pending],http://b2b.dell-partners.pk/renewal
+ORD23-70488,CUST-PK-1191,PRD-633,26 units,Hira Baig,WH KHI 08,20%,Jan,packaging damaged on arrival [reported],https://store.asus-pk.com/business/order
+ORD23-70489,Customer: PK-1028 (2022),PRD-591,9 units,,WH-MUL-09,20%,Feb,customer asked for invoice [pdf],http://reseller.msi-pakistan.pk/new
+ORD23-70490,2024-PK_1010,PRD-535,33 units,,WH/KHI/03,,Mar,installation scheduled next week [planned],https://www.samsung-b2b.pk/orders/create
+ORD23-70491,2024-PK_1150,PRD-857,6 units,,wh-qta-10,10%,Apr,credit terms extended to 60 days [approved],https://shop.hpstore.pk/enterprise
+ORD23-70492,cust_pk_1139,PRD-514,3 units,,WH HYD 10,7.5%,May,serial numbers shared with buyer [done],http://orders.lenovo-pk.com/renewal
+ORD23-70493,2019-PK_1005,PRD-570,16 units,,WH-LHR-01,10%,Jun,[VERIFIED],https://portal.techmazone.com.pk/orders/new
+ORD23-70494,BR2021/PK-1057,PRD-633,12 units,Bilal Ansari,WH/QTA/12,12.5%,Jul,[CANCELLED],http://b2b.dell-partners.pk/quote
+ORD23-70495,cust_pk_1169,PRD-843,16 units,,wh-isb-05,0%,Aug,[pdf],https://shop.hpstore.pk/checkout
+ORD23-70496,cust_pk_1059,PRD-822,25 units,,WH FSD 10,15%,Sep,[PENDING],http://orders.lenovo-pk.com/b2b/new
+ORD23-70497,BR2021/PK-1197,PRD-598,32 units,,WH-FSD-01,,Oct,[CLOSED],https://www.acer-distributor.pk/cart
+ORD23-70498,cust_pk_1109,PRD-787,3 units,,WH/SKT/06,5%,Nov,[flagged],https://portal.techmazone.com.pk/orders/repeat
+ORD23-70499,Customer: PK-1208 (2022),PRD-612,18 units,Ali Raza,wh-skt-06,20%,Dec,please please confirm the delivery slot,http://b2b.dell-partners.pk/renewal
+ORD23-70500,2019-PK_1175,PRD-794,7 units,,WH SKT 10,7.5%,Jan,urgent urgent needs same day dispatch,https://store.asus-pk.com/business/order
+ORD23-70501,2019-PK_1145,PRD-885,35 units,,WH-QTA-03,,Feb,call the the customer before loading,http://reseller.msi-pakistan.pk/new
+ORD23-70502,CUST-PK-1236,PRD-661,35 units,,WH/LHR/03,7.5%,Mar,send send updated quotation,https://www.samsung-b2b.pk/orders/create
+ORD23-70503,2024-PK_1120,PRD-913,33 units,,wh-mul-02,20%,Apr,check check the serial before handover,https://shop.hpstore.pk/enterprise
+ORD23-70504,Customer: PK-1068 (2022),PRD-577,31 units,Fatima Zafar,WH LHR 04,0%,May,very very late response from buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70505,BR2016/PK-1032,PRD-941,7 units,,WH-KHI-08,5%,Jun,quote sent quote by courier,https://portal.techmazone.com.pk/orders/new
+ORD23-70506,Customer: PK-1028 (2022),PRD-661,16 units,,WH/HYD/11,5%,Jul,invoice raised invoice against PO,http://b2b.dell-partners.pk/quote
+ORD23-70507,cust_pk_1199,PRD-521,33 units,,wh-mul-03,20%,Aug,stock checked stock at warehouse,https://shop.hpstore.pk/checkout
+ORD23-70508,CUST-PK-1061,PRD-766,27 units,,WH HYD 07,10%,Sep,order placed order through portal,http://orders.lenovo-pk.com/b2b/new
+ORD23-70509,2019-PK_1165,PRD-668,11 units,,WH-HYD-02,15%,Oct,unit tested unit before dispatch,https://www.acer-distributor.pk/cart
+ORD23-70510,BR2016/PK-1022,PRD-927,27 units,,WH/KHI/08,5%,Nov,send confirmation on e-mail,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70511,BR2021/PK-1067,PRD-850,16 units,,wh-lhr-03,20%,Dec,confirmation shared over e mail,http://b2b.dell-partners.pk/renewal
+ORD23-70512,Customer: PK-1053 (2017),PRD-836,40 units,,WH SKT 08,7.5%,Jan,customer prefers email only,https://store.asus-pk.com/business/order
+ORD23-70513,BR2016/PK-1162,PRD-871,27 units,,WH-QTA-10,,Feb,resend the E-Mail with pricing,http://reseller.msi-pakistan.pk/new
+ORD23-70514,BR2021/PK-1137,PRD-696,5 units,Omar Siddiqui,WH/QTA/07,5%,Mar,follow up by E mail tomorrow,https://www.samsung-b2b.pk/orders/create
+ORD23-70515,CUST-PK-1036,PRD-563,14 units,,wh-khi-03,7.5%,Apr,delivery rescheduled by customer,https://shop.hpstore.pk/enterprise
+ORD23-70516,2024-PK_1120,PRD-822,21 units,,WH KHI 07,0%,May,partial shipment agreed with buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70517,BR2016/PK-1122,PRD-647,38 units,Ali Raza,WH-RWP-09,0%,Jun,payment cleared through bank transfer,https://portal.techmazone.com.pk/orders/new
+ORD23-70518,2019-PK_1015,PRD-892,33 units,,WH/QTA/12,5%,Jul,warranty card missing from carton,http://b2b.dell-partners.pk/quote
+ORD23-70519,cust_pk_1109,PRD-857,36 units,,wh-qta-01,20%,Aug,buyer collected from warehouse directly,https://shop.hpstore.pk/checkout
+ORD23-70520,2019-PK_1165,PRD-864,40 units,,WH FSD 10,5%,Sep,routed via third party logistics,http://orders.lenovo-pk.com/b2b/new
+ORD23-70521,BR2016/PK-1082,PRD-605,14 units,,WH-SKT-05,5%,Oct,customer requested extended warranty,https://www.acer-distributor.pk/cart
+ORD23-70522,2024-PK_1200,PRD-584,20 units,,WH/SKT/12,12.5%,Nov,bulk order for a branch rollout,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70523,BR2016/PK-1042,PRD-829,20 units,,wh-isb-06,10%,Dec,replacement unit issued to client,http://b2b.dell-partners.pk/renewal
+ORD23-70524,2019-PK_1035,PRD-591,31 units,,WH PEW 05,5%,Jan,documentation shared with accounts,https://store.asus-pk.com/business/order
+ORD23-70525,Customer: PK-1098 (2022),PRD-801,32 units,,WH-PEW-05,15%,Feb,purchase order attached to file,http://reseller.msi-pakistan.pk/new
+ORD23-70526,2019-PK_1115,PRD-542,34 units,,WH/LHR/07,7.5%,Mar,dispatch confirmed by warehouse team,https://www.samsung-b2b.pk/orders/create
+ORD23-70527,BR2016/PK-1232,PRD-626,28 units,,wh-lhr-01,0%,Apr,handover completed at client site,https://shop.hpstore.pk/enterprise
+ORD23-70528,BR2021/PK-1157,PRD-892,7 units,Hamza Sheikh,WH QTA 05,20%,May,reconciled against monthly statement,http://orders.lenovo-pk.com/renewal
+ORD23-70529,CUST-PK-1186,PRD-563,21 units,,WH-HYD-04,5%,Jun,[RUSH] deliver before friday,https://portal.techmazone.com.pk/orders/new
+ORD23-70530,2019-PK_1075,PRD-647,26 units,,WH/ISB/01,5%,Jul,[URGENT] client waiting at site,http://b2b.dell-partners.pk/quote
+ORD23-70531,BR2016/PK-1082,PRD-570,28 units,,wh-mul-09,15%,Aug,[HOLD] awaiting credit approval,https://shop.hpstore.pk/checkout
+ORD23-70532,CUST-PK-1051,PRD-619,32 units,,WH SKT 07,15%,Sep,[PRIORITY] escalated by manager,http://orders.lenovo-pk.com/b2b/new
+ORD23-70533,2019-PK_1215,PRD-514,6 units,,WH-QTA-11,12.5%,Oct,[BACKORDER] awaiting stock from vendor,https://www.acer-distributor.pk/cart
+ORD23-70534,Customer: PK-1028 (2022),PRD-542,7 units,,WH/HYD/04,12.5%,Nov,[SPLIT] shipping in two lots,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70535,BR2016/PK-1182,PRD-717,28 units,,wh-skt-07,5%,Dec,confirm stock before dispatch [pending],http://b2b.dell-partners.pk/renewal
+ORD23-70536,BR2021/PK-1087,PRD-836,15 units,,WH QTA 01,20%,Jan,packaging damaged on arrival [reported],https://store.asus-pk.com/business/order
+ORD23-70537,CUST-PK-1186,PRD-563,7 units,Hamza Sheikh,WH-HYD-10,10%,Feb,customer asked for invoice [pdf],http://reseller.msi-pakistan.pk/new
+ORD23-70538,BR2021/PK-1017,PRD-633,40 units,,WH/ISB/04,,Mar,installation scheduled next week [planned],https://www.samsung-b2b.pk/orders/create
+ORD23-70539,BR2021/PK-1097,PRD-661,31 units,,wh-isb-01,15%,Apr,credit terms extended to 60 days [approved],https://shop.hpstore.pk/enterprise
+ORD23-70540,2024-PK_1070,PRD-612,40 units,Fatima Zafar,WH LHR 09,20%,May,serial numbers shared with buyer [done],http://orders.lenovo-pk.com/renewal
+ORD23-70541,CUST-PK-1201,PRD-857,1 units,,WH-LHR-02,10%,Jun,[VERIFIED],https://portal.techmazone.com.pk/orders/new
+ORD23-70542,CUST-PK-1041,PRD-885,10 units,,WH/QTA/04,,Jul,[CANCELLED],http://b2b.dell-partners.pk/quote
+ORD23-70543,2019-PK_1185,PRD-577,18 units,,wh-lhr-09,15%,Aug,[pdf],https://shop.hpstore.pk/checkout
+ORD23-70544,CUST-PK-1041,PRD-654,33 units,,WH FSD 08,,Sep,[PENDING],http://orders.lenovo-pk.com/b2b/new
+ORD23-70545,2019-PK_1075,PRD-738,6 units,,WH-QTA-02,0%,Oct,[CLOSED],https://www.acer-distributor.pk/cart
+ORD23-70546,Customer: PK-1098 (2022),PRD-808,5 units,,WH/FSD/04,15%,Nov,[flagged],https://portal.techmazone.com.pk/orders/repeat
+ORD23-70547,Customer: PK-1043 (2017),PRD-675,3 units,,wh-skt-05,15%,Dec,please please confirm the delivery slot,http://b2b.dell-partners.pk/renewal
+ORD23-70548,BR2016/PK-1182,PRD-934,36 units,,WH MUL 04,5%,Jan,urgent urgent needs same day dispatch,https://store.asus-pk.com/business/order
+ORD23-70549,cust_pk_1124,PRD-927,18 units,Fatima Zafar,WH-LHR-07,,Feb,call the the customer before loading,http://reseller.msi-pakistan.pk/new
+ORD23-70550,CUST-PK-1156,PRD-563,5 units,,WH/HYD/11,7.5%,Mar,send send updated quotation,https://www.samsung-b2b.pk/orders/create
+ORD23-70551,BR2021/PK-1047,PRD-780,15 units,,wh-pew-12,5%,Apr,check check the serial before handover,https://shop.hpstore.pk/enterprise
+ORD23-70552,Customer: PK-1013 (2017),PRD-864,34 units,,WH QTA 07,20%,May,very very late response from buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70553,CUST-PK-1211,PRD-766,17 units,,WH-PEW-07,10%,Jun,quote sent quote by courier,https://portal.techmazone.com.pk/orders/new
+ORD23-70554,BR2016/PK-1062,PRD-647,5 units,,WH/HYD/05,,Jul,invoice raised invoice against PO,http://b2b.dell-partners.pk/quote
+ORD23-70555,CUST-PK-1076,PRD-864,14 units,,wh-qta-06,5%,Aug,stock checked stock at warehouse,https://shop.hpstore.pk/checkout
+ORD23-70556,2019-PK_1155,PRD-850,7 units,,WH MUL 12,15%,Sep,order placed order through portal,http://orders.lenovo-pk.com/b2b/new
+ORD23-70557,2019-PK_1065,PRD-598,14 units,,WH-LHR-01,7.5%,Oct,unit tested unit before dispatch,https://www.acer-distributor.pk/cart
+ORD23-70558,CUST-PK-1076,PRD-682,30 units,,WH/ISB/01,15%,Nov,send confirmation on e-mail,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70559,BR2021/PK-1137,PRD-899,1 units,,wh-lhr-08,12.5%,Dec,confirmation shared over e mail,http://b2b.dell-partners.pk/renewal
+ORD23-70560,BR2021/PK-1137,PRD-535,11 units,Hira Baig,WH KHI 03,0%,Jan,customer prefers email only,https://store.asus-pk.com/business/order
+ORD23-70561,CUST-PK-1056,PRD-633,22 units,,WH-MUL-03,,Feb,resend the E-Mail with pricing,http://reseller.msi-pakistan.pk/new
+ORD23-70562,cust_pk_1054,PRD-878,27 units,,WH/RWP/02,12.5%,Mar,follow up by E mail tomorrow,https://www.samsung-b2b.pk/orders/create
+ORD23-70563,CUST-PK-1016,PRD-682,28 units,,wh-rwp-06,,Apr,delivery rescheduled by customer,https://shop.hpstore.pk/enterprise
+ORD23-70564,2024-PK_1030,PRD-801,14 units,,WH PEW 01,10%,May,partial shipment agreed with buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70565,2019-PK_1015,PRD-612,31 units,,WH-FSD-08,10%,Jun,payment cleared through bank transfer,https://portal.techmazone.com.pk/orders/new
+ORD23-70566,cust_pk_1154,PRD-619,10 units,,WH/LHR/03,7.5%,Jul,warranty card missing from carton,http://b2b.dell-partners.pk/quote
+ORD23-70567,CUST-PK-1101,PRD-682,24 units,,wh-isb-09,7.5%,Aug,buyer collected from warehouse directly,https://shop.hpstore.pk/checkout
+ORD23-70568,CUST-PK-1226,PRD-619,13 units,,WH FSD 03,15%,Sep,routed via third party logistics,http://orders.lenovo-pk.com/b2b/new
+ORD23-70569,CUST-PK-1191,PRD-570,7 units,,WH-FSD-02,20%,Oct,customer requested extended warranty,https://www.acer-distributor.pk/cart
+ORD23-70570,BR2016/PK-1022,PRD-759,36 units,Salman Tariq,WH/PEW/04,20%,Nov,bulk order for a branch rollout,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70571,Customer: PK-1153 (2017),PRD-514,27 units,,wh-skt-10,20%,Dec,replacement unit issued to client,http://b2b.dell-partners.pk/renewal
+ORD23-70572,CUST-PK-1086,PRD-857,27 units,,WH LHR 01,5%,Jan,documentation shared with accounts,https://store.asus-pk.com/business/order
+ORD23-70573,cust_pk_1234,PRD-703,16 units,,WH-HYD-08,5%,Feb,purchase order attached to file,http://reseller.msi-pakistan.pk/new
+ORD23-70574,BR2016/PK-1102,PRD-920,25 units,,WH/KHI/10,10%,Mar,dispatch confirmed by warehouse team,https://www.samsung-b2b.pk/orders/create
+ORD23-70575,cust_pk_1229,PRD-850,34 units,,wh-qta-04,10%,Apr,handover completed at client site,https://shop.hpstore.pk/enterprise
+ORD23-70576,Customer: PK-1033 (2017),PRD-521,26 units,,WH HYD 09,20%,May,reconciled against monthly statement,http://orders.lenovo-pk.com/renewal
+ORD23-70577,Customer: PK-1238 (2022),PRD-521,29 units,Omar Siddiqui,WH-HYD-08,12.5%,Jun,[RUSH] deliver before friday,https://portal.techmazone.com.pk/orders/new
+ORD23-70578,2019-PK_1015,PRD-759,19 units,,WH/RWP/09,5%,Jul,[URGENT] client waiting at site,http://b2b.dell-partners.pk/quote
+ORD23-70579,BR2021/PK-1147,PRD-584,12 units,,wh-mul-08,,Aug,[HOLD] awaiting credit approval,https://shop.hpstore.pk/checkout
+ORD23-70580,CUST-PK-1076,PRD-885,10 units,,WH KHI 01,10%,Sep,[PRIORITY] escalated by manager,http://orders.lenovo-pk.com/b2b/new
+ORD23-70581,Customer: PK-1103 (2017),PRD-682,28 units,,WH-RWP-12,12.5%,Oct,[BACKORDER] awaiting stock from vendor,https://www.acer-distributor.pk/cart
+ORD23-70582,Customer: PK-1228 (2022),PRD-598,33 units,,WH/FSD/10,5%,Nov,[SPLIT] shipping in two lots,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70583,CUST-PK-1036,PRD-507,20 units,,wh-khi-06,20%,Dec,confirm stock before dispatch [pending],http://b2b.dell-partners.pk/renewal
+ORD23-70584,BR2021/PK-1227,PRD-570,36 units,,WH MUL 09,0%,Jan,packaging damaged on arrival [reported],https://store.asus-pk.com/business/order
+ORD23-70585,2019-PK_1015,PRD-563,2 units,,WH-QTA-08,5%,Feb,customer asked for invoice [pdf],http://reseller.msi-pakistan.pk/new
+ORD23-70586,CUST-PK-1086,PRD-899,36 units,,WH/ISB/10,20%,Mar,installation scheduled next week [planned],https://www.samsung-b2b.pk/orders/create
+ORD23-70587,CUST-PK-1171,PRD-626,22 units,,wh-lhr-04,,Apr,credit terms extended to 60 days [approved],https://shop.hpstore.pk/enterprise
+ORD23-70588,BR2016/PK-1042,PRD-626,10 units,Salman Tariq,WH PEW 02,5%,May,serial numbers shared with buyer [done],http://orders.lenovo-pk.com/renewal
+ORD23-70589,Customer: PK-1103 (2017),PRD-794,39 units,,WH-ISB-02,15%,Jun,[VERIFIED],https://portal.techmazone.com.pk/orders/new
+ORD23-70590,2019-PK_1045,PRD-661,7 units,,WH/HYD/06,7.5%,Jul,[CANCELLED],http://b2b.dell-partners.pk/quote
+ORD23-70591,cust_pk_1214,PRD-654,33 units,,wh-isb-07,12.5%,Aug,[pdf],https://shop.hpstore.pk/checkout
+ORD23-70592,2019-PK_1175,PRD-626,25 units,,WH MUL 03,5%,Sep,[PENDING],http://orders.lenovo-pk.com/b2b/new
+ORD23-70593,Customer: PK-1068 (2022),PRD-773,36 units,,WH-ISB-01,7.5%,Oct,[CLOSED],https://www.acer-distributor.pk/cart
+ORD23-70594,Customer: PK-1173 (2017),PRD-878,40 units,,WH/PEW/03,5%,Nov,[flagged],https://portal.techmazone.com.pk/orders/repeat
+ORD23-70595,cust_pk_1029,PRD-857,16 units,,wh-fsd-12,5%,Dec,please please confirm the delivery slot,http://b2b.dell-partners.pk/renewal
+ORD23-70596,2019-PK_1035,PRD-689,18 units,,WH ISB 05,7.5%,Jan,urgent urgent needs same day dispatch,https://store.asus-pk.com/business/order
+ORD23-70597,2019-PK_1055,PRD-871,35 units,,WH-SKT-03,5%,Feb,call the the customer before loading,http://reseller.msi-pakistan.pk/new
+ORD23-70598,BR2021/PK-1017,PRD-654,38 units,Ali Raza,WH/RWP/11,7.5%,Mar,send send updated quotation,https://www.samsung-b2b.pk/orders/create
+ORD23-70599,2024-PK_1240,PRD-808,20 units,,wh-mul-03,7.5%,Apr,check check the serial before handover,https://shop.hpstore.pk/enterprise
+ORD23-70600,BR2021/PK-1237,PRD-556,35 units,,WH RWP 12,12.5%,May,very very late response from buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70601,2024-PK_1220,PRD-612,26 units,,WH-HYD-06,20%,Jun,quote sent quote by courier,https://portal.techmazone.com.pk/orders/new
+ORD23-70602,CUST-PK-1086,PRD-584,16 units,Bilal Ansari,WH/SKT/11,10%,Jul,invoice raised invoice against PO,http://b2b.dell-partners.pk/quote
+ORD23-70603,CUST-PK-1021,PRD-878,12 units,,wh-qta-01,5%,Aug,stock checked stock at warehouse,https://shop.hpstore.pk/checkout
+ORD23-70604,2024-PK_1060,PRD-836,2 units,,WH MUL 11,,Sep,order placed order through portal,http://orders.lenovo-pk.com/b2b/new
+ORD23-70605,2019-PK_1215,PRD-675,2 units,Hira Baig,WH-RWP-02,7.5%,Oct,unit tested unit before dispatch,https://www.acer-distributor.pk/cart
+ORD23-70606,Customer: PK-1128 (2022),PRD-948,12 units,,WH/RWP/04,0%,Nov,send confirmation on e-mail,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70607,Customer: PK-1233 (2017),PRD-577,40 units,,wh-skt-02,20%,Dec,confirmation shared over e mail,http://b2b.dell-partners.pk/renewal
+ORD23-70608,CUST-PK-1196,PRD-521,37 units,,WH HYD 05,5%,Jan,customer prefers email only,https://store.asus-pk.com/business/order
+ORD23-70609,CUST-PK-1196,PRD-836,10 units,,WH-HYD-04,15%,Feb,resend the E-Mail with pricing,http://reseller.msi-pakistan.pk/new
+ORD23-70610,CUST-PK-1126,PRD-759,28 units,Ayesha Malik,WH/MUL/09,15%,Mar,follow up by E mail tomorrow,https://www.samsung-b2b.pk/orders/create
+ORD23-70611,2019-PK_1025,PRD-626,23 units,,wh-isb-09,10%,Apr,delivery rescheduled by customer,https://shop.hpstore.pk/enterprise
+ORD23-70612,Customer: PK-1178 (2022),PRD-626,12 units,,WH MUL 06,5%,May,partial shipment agreed with buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70613,Customer: PK-1238 (2022),PRD-689,36 units,,WH-LHR-02,20%,Jun,payment cleared through bank transfer,https://portal.techmazone.com.pk/orders/new
+ORD23-70614,Customer: PK-1223 (2017),PRD-934,35 units,,WH/SKT/03,,Jul,warranty card missing from carton,http://b2b.dell-partners.pk/quote
+ORD23-70615,BR2021/PK-1197,PRD-836,26 units,,wh-khi-03,0%,Aug,buyer collected from warehouse directly,https://shop.hpstore.pk/checkout
+ORD23-70616,Customer: PK-1123 (2017),PRD-535,29 units,,WH LHR 06,5%,Sep,routed via third party logistics,http://orders.lenovo-pk.com/b2b/new
+ORD23-70617,2024-PK_1030,PRD-619,23 units,,WH-ISB-11,15%,Oct,customer requested extended warranty,https://www.acer-distributor.pk/cart
+ORD23-70618,CUST-PK-1006,PRD-535,11 units,,WH/KHI/06,7.5%,Nov,bulk order for a branch rollout,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70619,cust_pk_1174,PRD-647,2 units,Ayesha Malik,wh-isb-02,5%,Dec,replacement unit issued to client,http://b2b.dell-partners.pk/renewal
+ORD23-70620,Customer: PK-1003 (2017),PRD-787,9 units,,WH PEW 11,20%,Jan,documentation shared with accounts,https://store.asus-pk.com/business/order
+ORD23-70621,cust_pk_1209,PRD-794,13 units,,WH-LHR-08,5%,Feb,purchase order attached to file,http://reseller.msi-pakistan.pk/new
+ORD23-70622,BR2021/PK-1137,PRD-612,32 units,,WH/PEW/04,5%,Mar,dispatch confirmed by warehouse team,https://www.samsung-b2b.pk/orders/create
+ORD23-70623,CUST-PK-1186,PRD-934,24 units,Hira Baig,wh-qta-07,12.5%,Apr,handover completed at client site,https://shop.hpstore.pk/enterprise
+ORD23-70624,BR2016/PK-1192,PRD-920,7 units,,WH QTA 02,10%,May,reconciled against monthly statement,http://orders.lenovo-pk.com/renewal
+ORD23-70625,Customer: PK-1213 (2017),PRD-605,11 units,,WH-KHI-07,10%,Jun,[RUSH] deliver before friday,https://portal.techmazone.com.pk/orders/new
+ORD23-70626,2019-PK_1085,PRD-584,33 units,,WH/LHR/07,5%,Jul,[URGENT] client waiting at site,http://b2b.dell-partners.pk/quote
+ORD23-70627,CUST-PK-1186,PRD-948,26 units,Hamza Sheikh,wh-isb-04,12.5%,Aug,[HOLD] awaiting credit approval,https://shop.hpstore.pk/checkout
+ORD23-70628,2024-PK_1060,PRD-801,19 units,,WH PEW 01,20%,Sep,[PRIORITY] escalated by manager,http://orders.lenovo-pk.com/b2b/new
+ORD23-70629,CUST-PK-1046,PRD-759,3 units,,WH-PEW-01,0%,Oct,[BACKORDER] awaiting stock from vendor,https://www.acer-distributor.pk/cart
+ORD23-70630,cust_pk_1049,PRD-605,23 units,,WH/MUL/07,5%,Nov,[SPLIT] shipping in two lots,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70631,cust_pk_1059,PRD-801,13 units,,wh-lhr-04,7.5%,Dec,confirm stock before dispatch [pending],http://b2b.dell-partners.pk/renewal
+ORD23-70632,BR2021/PK-1237,PRD-822,22 units,,WH FSD 10,15%,Jan,packaging damaged on arrival [reported],https://store.asus-pk.com/business/order
+ORD23-70633,cust_pk_1234,PRD-514,25 units,,WH-RWP-09,5%,Feb,customer asked for invoice [pdf],http://reseller.msi-pakistan.pk/new
+ORD23-70634,2024-PK_1220,PRD-850,11 units,,WH/LHR/03,15%,Mar,installation scheduled next week [planned],https://www.samsung-b2b.pk/orders/create
+ORD23-70635,Customer: PK-1028 (2022),PRD-780,19 units,Sarah Nadeem,wh-pew-06,7.5%,Apr,credit terms extended to 60 days [approved],https://shop.hpstore.pk/enterprise
+ORD23-70636,BR2016/PK-1062,PRD-780,15 units,,WH LHR 06,12.5%,May,serial numbers shared with buyer [done],http://orders.lenovo-pk.com/renewal
+ORD23-70637,cust_pk_1214,PRD-927,1 units,,WH-FSD-03,12.5%,Jun,[VERIFIED],https://portal.techmazone.com.pk/orders/new
+ORD23-70638,CUST-PK-1101,PRD-794,27 units,,WH/FSD/09,7.5%,Jul,[CANCELLED],http://b2b.dell-partners.pk/quote
+ORD23-70639,cust_pk_1219,PRD-808,28 units,,wh-pew-08,5%,Aug,[pdf],https://shop.hpstore.pk/checkout
+ORD23-70640,cust_pk_1029,PRD-668,3 units,,WH RWP 08,,Sep,[PENDING],http://orders.lenovo-pk.com/b2b/new
+ORD23-70641,CUST-PK-1126,PRD-717,35 units,,WH-QTA-08,15%,Oct,[CLOSED],https://www.acer-distributor.pk/cart
+ORD23-70642,2024-PK_1200,PRD-927,24 units,,WH/HYD/02,10%,Nov,[flagged],https://portal.techmazone.com.pk/orders/repeat
+ORD23-70643,cust_pk_1014,PRD-710,28 units,,wh-hyd-08,5%,Dec,please please confirm the delivery slot,http://b2b.dell-partners.pk/renewal
+ORD23-70644,Customer: PK-1118 (2022),PRD-878,1 units,Sarah Nadeem,WH MUL 03,,Jan,urgent urgent needs same day dispatch,https://store.asus-pk.com/business/order
+ORD23-70645,Customer: PK-1238 (2022),PRD-682,24 units,,WH-RWP-11,0%,Feb,call the the customer before loading,http://reseller.msi-pakistan.pk/new
+ORD23-70646,cust_pk_1109,PRD-507,23 units,,WH/HYD/07,0%,Mar,send send updated quotation,https://www.samsung-b2b.pk/orders/create
+ORD23-70647,CUST-PK-1086,PRD-647,4 units,,wh-rwp-08,12.5%,Apr,check check the serial before handover,https://shop.hpstore.pk/enterprise
+ORD23-70648,Customer: PK-1008 (2022),PRD-661,26 units,Fatima Zafar,WH ISB 05,5%,May,very very late response from buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70649,CUST-PK-1226,PRD-661,39 units,,WH-QTA-03,0%,Jun,quote sent quote by courier,https://portal.techmazone.com.pk/orders/new
+ORD23-70650,BR2016/PK-1002,PRD-577,35 units,,WH/MUL/09,7.5%,Jul,invoice raised invoice against PO,http://b2b.dell-partners.pk/quote
+ORD23-70651,BR2021/PK-1207,PRD-570,17 units,,wh-skt-02,5%,Aug,stock checked stock at warehouse,https://shop.hpstore.pk/checkout
+ORD23-70652,Customer: PK-1148 (2022),PRD-864,28 units,,WH QTA 12,0%,Sep,order placed order through portal,http://orders.lenovo-pk.com/b2b/new
+ORD23-70653,2019-PK_1185,PRD-710,27 units,,WH-PEW-08,10%,Oct,unit tested unit before dispatch,https://www.acer-distributor.pk/cart
+ORD23-70654,2019-PK_1025,PRD-626,31 units,Hamza Sheikh,WH/LHR/01,5%,Nov,send confirmation on e-mail,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70655,Customer: PK-1153 (2017),PRD-717,39 units,,wh-pew-08,7.5%,Dec,confirmation shared over e mail,http://b2b.dell-partners.pk/renewal
+ORD23-70656,cust_pk_1139,PRD-647,23 units,,WH RWP 01,20%,Jan,customer prefers email only,https://store.asus-pk.com/business/order
+ORD23-70657,cust_pk_1154,PRD-675,22 units,,WH-FSD-04,7.5%,Feb,resend the E-Mail with pricing,http://reseller.msi-pakistan.pk/new
+ORD23-70658,2024-PK_1040,PRD-808,20 units,,WH/LHR/10,7.5%,Mar,follow up by E mail tomorrow,https://www.samsung-b2b.pk/orders/create
+ORD23-70659,2024-PK_1100,PRD-654,6 units,,wh-isb-03,7.5%,Apr,delivery rescheduled by customer,https://shop.hpstore.pk/enterprise
+ORD23-70660,CUST-PK-1221,PRD-864,38 units,,WH QTA 06,,May,partial shipment agreed with buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70661,Customer: PK-1038 (2022),PRD-591,3 units,,WH-MUL-11,20%,Jun,payment cleared through bank transfer,https://portal.techmazone.com.pk/orders/new
+ORD23-70662,BR2016/PK-1232,PRD-528,36 units,Sarah Nadeem,WH/KHI/08,,Jul,warranty card missing from carton,http://b2b.dell-partners.pk/quote
+ORD23-70663,Customer: PK-1018 (2022),PRD-794,38 units,,wh-mul-12,12.5%,Aug,buyer collected from warehouse directly,https://shop.hpstore.pk/checkout
+ORD23-70664,CUST-PK-1216,PRD-899,37 units,,WH SKT 11,10%,Sep,routed via third party logistics,http://orders.lenovo-pk.com/b2b/new
+ORD23-70665,2019-PK_1165,PRD-717,36 units,,WH-PEW-06,5%,Oct,customer requested extended warranty,https://www.acer-distributor.pk/cart
+ORD23-70666,BR2016/PK-1212,PRD-773,26 units,,WH/PEW/01,5%,Nov,bulk order for a branch rollout,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70667,BR2021/PK-1217,PRD-584,6 units,,wh-mul-06,12.5%,Dec,replacement unit issued to client,http://b2b.dell-partners.pk/renewal
+ORD23-70668,CUST-PK-1161,PRD-612,28 units,,WH FSD 09,7.5%,Jan,documentation shared with accounts,https://store.asus-pk.com/business/order
+ORD23-70669,BR2021/PK-1097,PRD-521,17 units,,WH-KHI-11,5%,Feb,purchase order attached to file,http://reseller.msi-pakistan.pk/new
+ORD23-70670,2019-PK_1115,PRD-556,19 units,,WH/HYD/09,5%,Mar,dispatch confirmed by warehouse team,https://www.samsung-b2b.pk/orders/create
+ORD23-70671,BR2021/PK-1227,PRD-633,34 units,,wh-isb-07,15%,Apr,handover completed at client site,https://shop.hpstore.pk/enterprise
+ORD23-70672,Customer: PK-1233 (2017),PRD-780,11 units,,WH PEW 06,,May,reconciled against monthly statement,http://orders.lenovo-pk.com/renewal
+ORD23-70673,Customer: PK-1158 (2022),PRD-654,5 units,Ayesha Malik,WH-FSD-01,0%,Jun,[RUSH] deliver before friday,https://portal.techmazone.com.pk/orders/new
+ORD23-70674,BR2021/PK-1117,PRD-885,11 units,,WH/KHI/07,10%,Jul,[URGENT] client waiting at site,http://b2b.dell-partners.pk/quote
+ORD23-70675,BR2021/PK-1207,PRD-794,40 units,,wh-isb-08,15%,Aug,[HOLD] awaiting credit approval,https://shop.hpstore.pk/checkout
+ORD23-70676,2019-PK_1165,PRD-850,8 units,Omar Siddiqui,WH LHR 02,5%,Sep,[PRIORITY] escalated by manager,http://orders.lenovo-pk.com/b2b/new
+ORD23-70677,CUST-PK-1231,PRD-787,22 units,,WH-LHR-02,,Oct,[BACKORDER] awaiting stock from vendor,https://www.acer-distributor.pk/cart
+ORD23-70678,cust_pk_1194,PRD-892,40 units,,WH/QTA/09,7.5%,Nov,[SPLIT] shipping in two lots,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70679,2019-PK_1125,PRD-605,31 units,,wh-isb-04,10%,Dec,confirm stock before dispatch [pending],http://b2b.dell-partners.pk/renewal
+ORD23-70680,cust_pk_1079,PRD-668,17 units,,WH ISB 09,,Jan,packaging damaged on arrival [reported],https://store.asus-pk.com/business/order
+ORD23-70681,BR2021/PK-1177,PRD-647,28 units,,WH-ISB-03,12.5%,Feb,customer asked for invoice [pdf],http://reseller.msi-pakistan.pk/new
+ORD23-70682,BR2021/PK-1097,PRD-927,36 units,,WH/FSD/02,0%,Mar,installation scheduled next week [planned],https://www.samsung-b2b.pk/orders/create
+ORD23-70683,BR2021/PK-1017,PRD-542,37 units,Bilal Ansari,wh-khi-09,5%,Apr,credit terms extended to 60 days [approved],https://shop.hpstore.pk/enterprise
+ORD23-70684,2019-PK_1095,PRD-605,37 units,,WH SKT 11,,May,serial numbers shared with buyer [done],http://orders.lenovo-pk.com/renewal
+ORD23-70685,cust_pk_1059,PRD-612,7 units,,WH-SKT-03,0%,Jun,[VERIFIED],https://portal.techmazone.com.pk/orders/new
+ORD23-70686,CUST-PK-1061,PRD-675,1 units,,WH/MUL/11,10%,Jul,[CANCELLED],http://b2b.dell-partners.pk/quote
+ORD23-70687,CUST-PK-1196,PRD-535,16 units,,wh-khi-07,20%,Aug,[pdf],https://shop.hpstore.pk/checkout
+ORD23-70688,CUST-PK-1011,PRD-612,39 units,,WH MUL 08,10%,Sep,[PENDING],http://orders.lenovo-pk.com/b2b/new
+ORD23-70689,2019-PK_1185,PRD-892,20 units,,WH-QTA-04,5%,Oct,[CLOSED],https://www.acer-distributor.pk/cart
+ORD23-70690,cust_pk_1154,PRD-619,29 units,,WH/FSD/08,7.5%,Nov,[flagged],https://portal.techmazone.com.pk/orders/repeat
+ORD23-70691,cust_pk_1179,PRD-619,17 units,,wh-fsd-09,5%,Dec,please please confirm the delivery slot,http://b2b.dell-partners.pk/renewal
+ORD23-70692,BR2021/PK-1177,PRD-773,31 units,Bilal Ansari,WH MUL 04,10%,Jan,urgent urgent needs same day dispatch,https://store.asus-pk.com/business/order
+ORD23-70693,Customer: PK-1208 (2022),PRD-738,36 units,,WH-PEW-06,12.5%,Feb,call the the customer before loading,http://reseller.msi-pakistan.pk/new
+ORD23-70694,cust_pk_1024,PRD-850,38 units,,WH/FSD/06,5%,Mar,send send updated quotation,https://www.samsung-b2b.pk/orders/create
+ORD23-70695,BR2016/PK-1222,PRD-514,34 units,,wh-skt-06,0%,Apr,check check the serial before handover,https://shop.hpstore.pk/enterprise
+ORD23-70696,Customer: PK-1238 (2022),PRD-668,32 units,,WH KHI 03,20%,May,very very late response from buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70697,CUST-PK-1181,PRD-892,37 units,,WH-QTA-02,5%,Jun,quote sent quote by courier,https://portal.techmazone.com.pk/orders/new
+ORD23-70698,cust_pk_1004,PRD-654,21 units,Sarah Nadeem,WH/ISB/05,0%,Jul,invoice raised invoice against PO,http://b2b.dell-partners.pk/quote
+ORD23-70699,Customer: PK-1173 (2017),PRD-535,2 units,,wh-skt-02,5%,Aug,stock checked stock at warehouse,https://shop.hpstore.pk/checkout
+ORD23-70700,cust_pk_1184,PRD-717,1 units,,WH FSD 03,10%,Sep,order placed order through portal,http://orders.lenovo-pk.com/b2b/new
+ORD23-70701,cust_pk_1139,PRD-612,17 units,,WH-SKT-03,5%,Oct,unit tested unit before dispatch,https://www.acer-distributor.pk/cart
+ORD23-70702,cust_pk_1004,PRD-647,21 units,,WH/SKT/07,,Nov,send confirmation on e-mail,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70703,CUST-PK-1096,PRD-584,14 units,,wh-fsd-09,5%,Dec,confirmation shared over e mail,http://b2b.dell-partners.pk/renewal
+ORD23-70704,cust_pk_1024,PRD-899,40 units,,WH KHI 09,20%,Jan,customer prefers email only,https://store.asus-pk.com/business/order
+ORD23-70705,2024-PK_1230,PRD-787,31 units,,WH-PEW-08,5%,Feb,resend the E-Mail with pricing,http://reseller.msi-pakistan.pk/new
+ORD23-70706,CUST-PK-1216,PRD-843,14 units,,WH/LHR/03,20%,Mar,follow up by E mail tomorrow,https://www.samsung-b2b.pk/orders/create
+ORD23-70707,BR2021/PK-1177,PRD-738,34 units,,wh-isb-09,12.5%,Apr,delivery rescheduled by customer,https://shop.hpstore.pk/enterprise
+ORD23-70708,2019-PK_1215,PRD-668,9 units,,WH QTA 04,12.5%,May,partial shipment agreed with buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70709,Customer: PK-1153 (2017),PRD-948,16 units,Ayesha Malik,WH-PEW-01,20%,Jun,payment cleared through bank transfer,https://portal.techmazone.com.pk/orders/new
+ORD23-70710,CUST-PK-1181,PRD-591,26 units,,WH/LHR/02,12.5%,Jul,warranty card missing from carton,http://b2b.dell-partners.pk/quote
+ORD23-70711,BR2021/PK-1017,PRD-591,7 units,,wh-lhr-05,5%,Aug,buyer collected from warehouse directly,https://shop.hpstore.pk/checkout
+ORD23-70712,Customer: PK-1123 (2017),PRD-892,13 units,,WH KHI 04,7.5%,Sep,routed via third party logistics,http://orders.lenovo-pk.com/b2b/new
+ORD23-70713,CUST-PK-1081,PRD-584,25 units,,WH-MUL-05,7.5%,Oct,customer requested extended warranty,https://www.acer-distributor.pk/cart
+ORD23-70714,BR2016/PK-1092,PRD-535,33 units,,WH/KHI/07,5%,Nov,bulk order for a branch rollout,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70715,BR2021/PK-1027,PRD-871,27 units,,wh-isb-07,0%,Dec,replacement unit issued to client,http://b2b.dell-partners.pk/renewal
+ORD23-70716,cust_pk_1229,PRD-731,28 units,Sarah Nadeem,WH RWP 10,10%,Jan,documentation shared with accounts,https://store.asus-pk.com/business/order
+ORD23-70717,cust_pk_1159,PRD-619,17 units,,WH-MUL-04,5%,Feb,purchase order attached to file,http://reseller.msi-pakistan.pk/new
+ORD23-70718,Customer: PK-1053 (2017),PRD-885,14 units,,WH/QTA/11,,Mar,dispatch confirmed by warehouse team,https://www.samsung-b2b.pk/orders/create
+ORD23-70719,BR2016/PK-1232,PRD-577,23 units,,wh-lhr-08,5%,Apr,handover completed at client site,https://shop.hpstore.pk/enterprise
+ORD23-70720,cust_pk_1084,PRD-507,4 units,,WH HYD 12,12.5%,May,reconciled against monthly statement,http://orders.lenovo-pk.com/renewal
+ORD23-70721,Customer: PK-1218 (2022),PRD-829,28 units,,WH-LHR-06,12.5%,Jun,[RUSH] deliver before friday,https://portal.techmazone.com.pk/orders/new
+ORD23-70722,Customer: PK-1153 (2017),PRD-654,37 units,,WH/RWP/07,5%,Jul,[URGENT] client waiting at site,http://b2b.dell-partners.pk/quote
+ORD23-70723,2019-PK_1005,PRD-647,22 units,,wh-hyd-03,20%,Aug,[HOLD] awaiting credit approval,https://shop.hpstore.pk/checkout
+ORD23-70724,Customer: PK-1023 (2017),PRD-542,11 units,,WH HYD 02,7.5%,Sep,[PRIORITY] escalated by manager,http://orders.lenovo-pk.com/b2b/new
+ORD23-70725,cust_pk_1234,PRD-794,18 units,,WH-PEW-08,0%,Oct,[BACKORDER] awaiting stock from vendor,https://www.acer-distributor.pk/cart
+ORD23-70726,2019-PK_1215,PRD-633,23 units,,WH/SKT/05,5%,Nov,[SPLIT] shipping in two lots,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70727,Customer: PK-1123 (2017),PRD-584,10 units,Ayesha Malik,wh-mul-05,7.5%,Dec,confirm stock before dispatch [pending],http://b2b.dell-partners.pk/renewal
+ORD23-70728,BR2016/PK-1062,PRD-878,18 units,,WH QTA 12,20%,Jan,packaging damaged on arrival [reported],https://store.asus-pk.com/business/order
+ORD23-70729,cust_pk_1009,PRD-626,18 units,,WH-FSD-03,20%,Feb,customer asked for invoice [pdf],http://reseller.msi-pakistan.pk/new
+ORD23-70730,CUST-PK-1156,PRD-773,21 units,,WH/MUL/11,10%,Mar,installation scheduled next week [planned],https://www.samsung-b2b.pk/orders/create
+ORD23-70731,cust_pk_1054,PRD-556,34 units,,wh-rwp-05,20%,Apr,credit terms extended to 60 days [approved],https://shop.hpstore.pk/enterprise
+ORD23-70732,BR2016/PK-1222,PRD-626,16 units,,WH QTA 02,10%,May,serial numbers shared with buyer [done],http://orders.lenovo-pk.com/renewal
+ORD23-70733,cust_pk_1024,PRD-612,40 units,,WH-PEW-07,7.5%,Jun,[VERIFIED],https://portal.techmazone.com.pk/orders/new
+ORD23-70734,2019-PK_1045,PRD-689,21 units,,WH/RWP/05,12.5%,Jul,[CANCELLED],http://b2b.dell-partners.pk/quote
+ORD23-70735,BR2016/PK-1222,PRD-528,7 units,,wh-hyd-11,5%,Aug,[pdf],https://shop.hpstore.pk/checkout
+ORD23-70736,BR2021/PK-1157,PRD-927,40 units,,WH LHR 11,12.5%,Sep,[PENDING],http://orders.lenovo-pk.com/b2b/new
+ORD23-70737,2024-PK_1140,PRD-780,36 units,Bilal Ansari,WH-LHR-10,0%,Oct,[CLOSED],https://www.acer-distributor.pk/cart
+ORD23-70738,2024-PK_1080,PRD-857,11 units,,WH/ISB/06,5%,Nov,[flagged],https://portal.techmazone.com.pk/orders/repeat
+ORD23-70739,BR2016/PK-1072,PRD-598,11 units,,wh-pew-03,20%,Dec,please please confirm the delivery slot,http://b2b.dell-partners.pk/renewal
+ORD23-70740,2024-PK_1170,PRD-647,12 units,,WH ISB 02,12.5%,Jan,urgent urgent needs same day dispatch,https://store.asus-pk.com/business/order
+ORD23-70741,CUST-PK-1186,PRD-927,7 units,,WH-HYD-05,12.5%,Feb,call the the customer before loading,http://reseller.msi-pakistan.pk/new
+ORD23-70742,CUST-PK-1171,PRD-899,28 units,,WH/FSD/10,20%,Mar,send send updated quotation,https://www.samsung-b2b.pk/orders/create
+ORD23-70743,cust_pk_1129,PRD-885,30 units,,wh-qta-07,10%,Apr,check check the serial before handover,https://shop.hpstore.pk/enterprise
+ORD23-70744,CUST-PK-1131,PRD-570,2 units,,WH HYD 11,5%,May,very very late response from buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70745,Customer: PK-1158 (2022),PRD-661,27 units,,WH-ISB-07,,Jun,quote sent quote by courier,https://portal.techmazone.com.pk/orders/new
+ORD23-70746,Customer: PK-1228 (2022),PRD-857,20 units,,WH/FSD/07,5%,Jul,invoice raised invoice against PO,http://b2b.dell-partners.pk/quote
+ORD23-70747,2019-PK_1215,PRD-668,15 units,Fatima Zafar,wh-skt-07,5%,Aug,stock checked stock at warehouse,https://shop.hpstore.pk/checkout
+ORD23-70748,2019-PK_1045,PRD-948,26 units,,WH SKT 02,5%,Sep,order placed order through portal,http://orders.lenovo-pk.com/b2b/new
+ORD23-70749,cust_pk_1034,PRD-885,1 units,,WH-PEW-05,5%,Oct,unit tested unit before dispatch,https://www.acer-distributor.pk/cart
+ORD23-70750,2024-PK_1150,PRD-738,8 units,Salman Tariq,WH/FSD/11,12.5%,Nov,send confirmation on e-mail,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70751,BR2021/PK-1067,PRD-675,18 units,,wh-rwp-11,5%,Dec,confirmation shared over e mail,http://b2b.dell-partners.pk/renewal
+ORD23-70752,CUST-PK-1211,PRD-570,10 units,,WH LHR 07,12.5%,Jan,customer prefers email only,https://store.asus-pk.com/business/order
+ORD23-70753,CUST-PK-1076,PRD-675,28 units,,WH-ISB-12,7.5%,Feb,resend the E-Mail with pricing,http://reseller.msi-pakistan.pk/new
+ORD23-70754,BR2021/PK-1027,PRD-647,28 units,,WH/ISB/04,10%,Mar,follow up by E mail tomorrow,https://www.samsung-b2b.pk/orders/create
+ORD23-70755,cust_pk_1134,PRD-654,39 units,,wh-isb-03,5%,Apr,delivery rescheduled by customer,https://shop.hpstore.pk/enterprise
+ORD23-70756,cust_pk_1024,PRD-850,19 units,,WH SKT 02,0%,May,partial shipment agreed with buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70757,cust_pk_1229,PRD-570,35 units,Omar Siddiqui,WH-LHR-04,10%,Jun,payment cleared through bank transfer,https://portal.techmazone.com.pk/orders/new
+ORD23-70758,Customer: PK-1103 (2017),PRD-556,36 units,,WH/KHI/05,,Jul,warranty card missing from carton,http://b2b.dell-partners.pk/quote
+ORD23-70759,BR2016/PK-1172,PRD-801,30 units,,wh-isb-03,0%,Aug,buyer collected from warehouse directly,https://shop.hpstore.pk/checkout
+ORD23-70760,CUST-PK-1226,PRD-654,39 units,,WH RWP 03,0%,Sep,routed via third party logistics,http://orders.lenovo-pk.com/b2b/new
+ORD23-70761,Customer: PK-1213 (2017),PRD-605,23 units,,WH-MUL-10,12.5%,Oct,customer requested extended warranty,https://www.acer-distributor.pk/cart
+ORD23-70762,2019-PK_1085,PRD-619,20 units,,WH/MUL/08,15%,Nov,bulk order for a branch rollout,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70763,2024-PK_1160,PRD-563,37 units,,wh-skt-06,,Dec,replacement unit issued to client,http://b2b.dell-partners.pk/renewal
+ORD23-70764,CUST-PK-1036,PRD-682,12 units,,WH ISB 08,10%,Jan,documentation shared with accounts,https://store.asus-pk.com/business/order
+ORD23-70765,BR2021/PK-1167,PRD-542,1 units,Fatima Zafar,WH-ISB-06,,Feb,purchase order attached to file,http://reseller.msi-pakistan.pk/new
+ORD23-70766,CUST-PK-1181,PRD-689,19 units,,WH/RWP/05,0%,Mar,dispatch confirmed by warehouse team,https://www.samsung-b2b.pk/orders/create
+ORD23-70767,Customer: PK-1088 (2022),PRD-794,13 units,,wh-pew-03,12.5%,Apr,handover completed at client site,https://shop.hpstore.pk/enterprise
+ORD23-70768,BR2016/PK-1172,PRD-857,31 units,,WH MUL 11,12.5%,May,reconciled against monthly statement,http://orders.lenovo-pk.com/renewal
+ORD23-70769,CUST-PK-1166,PRD-535,26 units,,WH-KHI-03,5%,Jun,[RUSH] deliver before friday,https://portal.techmazone.com.pk/orders/new
+ORD23-70770,BR2021/PK-1027,PRD-801,32 units,,WH/FSD/02,5%,Jul,[URGENT] client waiting at site,http://b2b.dell-partners.pk/quote
+ORD23-70771,Customer: PK-1148 (2022),PRD-948,40 units,,wh-khi-02,10%,Aug,[HOLD] awaiting credit approval,https://shop.hpstore.pk/checkout
+ORD23-70772,CUST-PK-1226,PRD-780,35 units,,WH RWP 03,5%,Sep,[PRIORITY] escalated by manager,http://orders.lenovo-pk.com/b2b/new
+ORD23-70773,cust_pk_1144,PRD-808,18 units,,WH-ISB-02,5%,Oct,[BACKORDER] awaiting stock from vendor,https://www.acer-distributor.pk/cart
+ORD23-70774,cust_pk_1189,PRD-591,4 units,Fatima Zafar,WH/FSD/12,7.5%,Nov,[SPLIT] shipping in two lots,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70775,BR2021/PK-1227,PRD-570,39 units,,wh-skt-11,5%,Dec,confirm stock before dispatch [pending],http://b2b.dell-partners.pk/renewal
+ORD23-70776,2019-PK_1075,PRD-759,32 units,,WH PEW 01,5%,Jan,packaging damaged on arrival [reported],https://store.asus-pk.com/business/order
+ORD23-70777,BR2016/PK-1092,PRD-675,5 units,,WH-ISB-10,15%,Feb,customer asked for invoice [pdf],http://reseller.msi-pakistan.pk/new
+ORD23-70778,Customer: PK-1223 (2017),PRD-612,33 units,,WH/LHR/11,,Mar,installation scheduled next week [planned],https://www.samsung-b2b.pk/orders/create
+ORD23-70779,2024-PK_1190,PRD-843,28 units,,wh-qta-08,7.5%,Apr,credit terms extended to 60 days [approved],https://shop.hpstore.pk/enterprise
+ORD23-70780,2024-PK_1120,PRD-808,36 units,,WH FSD 05,5%,May,serial numbers shared with buyer [done],http://orders.lenovo-pk.com/renewal
+ORD23-70781,BR2021/PK-1037,PRD-934,16 units,Ayesha Malik,WH-RWP-06,15%,Jun,[VERIFIED],https://portal.techmazone.com.pk/orders/new
+ORD23-70782,cust_pk_1019,PRD-619,25 units,,WH/ISB/01,12.5%,Jul,[CANCELLED],http://b2b.dell-partners.pk/quote
+ORD23-70783,Customer: PK-1148 (2022),PRD-731,18 units,,wh-isb-07,0%,Aug,[pdf],https://shop.hpstore.pk/checkout
+ORD23-70784,cust_pk_1059,PRD-647,26 units,,WH ISB 08,,Sep,[PENDING],http://orders.lenovo-pk.com/b2b/new
+ORD23-70785,CUST-PK-1001,PRD-675,25 units,,WH-SKT-12,15%,Oct,[CLOSED],https://www.acer-distributor.pk/cart
+ORD23-70786,BR2016/PK-1012,PRD-577,7 units,,WH/KHI/07,0%,Nov,[flagged],https://portal.techmazone.com.pk/orders/repeat
+ORD23-70787,cust_pk_1149,PRD-577,1 units,Ali Raza,wh-skt-04,15%,Dec,please please confirm the delivery slot,http://b2b.dell-partners.pk/renewal
+ORD23-70788,CUST-PK-1181,PRD-871,18 units,,WH FSD 10,15%,Jan,urgent urgent needs same day dispatch,https://store.asus-pk.com/business/order
+ORD23-70789,cust_pk_1154,PRD-787,17 units,,WH-PEW-05,,Feb,call the the customer before loading,http://reseller.msi-pakistan.pk/new
+ORD23-70790,CUST-PK-1151,PRD-794,30 units,,WH/ISB/03,0%,Mar,send send updated quotation,https://www.samsung-b2b.pk/orders/create
+ORD23-70791,BR2021/PK-1217,PRD-759,15 units,,wh-isb-03,0%,Apr,check check the serial before handover,https://shop.hpstore.pk/enterprise
+ORD23-70792,cust_pk_1169,PRD-808,9 units,,WH LHR 05,0%,May,very very late response from buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70793,Customer: PK-1078 (2022),PRD-542,15 units,,WH-ISB-04,20%,Jun,quote sent quote by courier,https://portal.techmazone.com.pk/orders/new
+ORD23-70794,BR2021/PK-1087,PRD-577,5 units,,WH/LHR/08,0%,Jul,invoice raised invoice against PO,http://b2b.dell-partners.pk/quote
+ORD23-70795,2024-PK_1080,PRD-808,39 units,,wh-skt-09,12.5%,Aug,stock checked stock at warehouse,https://shop.hpstore.pk/checkout
+ORD23-70796,BR2016/PK-1132,PRD-507,37 units,Ali Raza,WH SKT 07,12.5%,Sep,order placed order through portal,http://orders.lenovo-pk.com/b2b/new
+ORD23-70797,BR2016/PK-1222,PRD-878,37 units,,WH-MUL-03,15%,Oct,unit tested unit before dispatch,https://www.acer-distributor.pk/cart
+ORD23-70798,cust_pk_1049,PRD-535,4 units,,WH/HYD/02,,Nov,send confirmation on e-mail,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70799,Customer: PK-1108 (2022),PRD-605,7 units,,wh-skt-08,,Dec,confirmation shared over e mail,http://b2b.dell-partners.pk/renewal
+ORD23-70800,BR2021/PK-1177,PRD-633,2 units,,WH LHR 12,15%,Jan,customer prefers email only,https://store.asus-pk.com/business/order
+ORD23-70801,2019-PK_1235,PRD-752,35 units,,WH-PEW-02,5%,Feb,resend the E-Mail with pricing,http://reseller.msi-pakistan.pk/new
+ORD23-70802,CUST-PK-1206,PRD-710,30 units,,WH/PEW/01,5%,Mar,follow up by E mail tomorrow,https://www.samsung-b2b.pk/orders/create
+ORD23-70803,CUST-PK-1076,PRD-542,23 units,,wh-fsd-03,0%,Apr,delivery rescheduled by customer,https://shop.hpstore.pk/enterprise
+ORD23-70804,CUST-PK-1046,PRD-619,26 units,,WH LHR 10,15%,May,partial shipment agreed with buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70805,BR2021/PK-1007,PRD-682,26 units,,WH-PEW-07,15%,Jun,payment cleared through bank transfer,https://portal.techmazone.com.pk/orders/new
+ORD23-70806,CUST-PK-1111,PRD-773,3 units,,WH/RWP/08,5%,Jul,warranty card missing from carton,http://b2b.dell-partners.pk/quote
+ORD23-70807,Customer: PK-1158 (2022),PRD-822,16 units,Hamza Sheikh,wh-skt-02,7.5%,Aug,buyer collected from warehouse directly,https://shop.hpstore.pk/checkout
+ORD23-70808,2024-PK_1120,PRD-927,36 units,,WH MUL 08,5%,Sep,routed via third party logistics,http://orders.lenovo-pk.com/b2b/new
+ORD23-70809,BR2016/PK-1012,PRD-773,40 units,,WH-KHI-01,0%,Oct,customer requested extended warranty,https://www.acer-distributor.pk/cart
+ORD23-70810,BR2021/PK-1047,PRD-521,33 units,,WH/HYD/06,0%,Nov,bulk order for a branch rollout,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70811,BR2021/PK-1217,PRD-878,39 units,,wh-hyd-04,,Dec,replacement unit issued to client,http://b2b.dell-partners.pk/renewal
+ORD23-70812,BR2016/PK-1042,PRD-801,5 units,,WH PEW 04,12.5%,Jan,documentation shared with accounts,https://store.asus-pk.com/business/order
+ORD23-70813,Customer: PK-1098 (2022),PRD-948,16 units,,WH-RWP-08,15%,Feb,purchase order attached to file,http://reseller.msi-pakistan.pk/new
+ORD23-70814,2019-PK_1095,PRD-864,20 units,,WH/KHI/08,10%,Mar,dispatch confirmed by warehouse team,https://www.samsung-b2b.pk/orders/create
+ORD23-70815,BR2021/PK-1207,PRD-598,16 units,,wh-skt-02,0%,Apr,handover completed at client site,https://shop.hpstore.pk/enterprise
+ORD23-70816,Customer: PK-1013 (2017),PRD-654,7 units,,WH LHR 12,7.5%,May,reconciled against monthly statement,http://orders.lenovo-pk.com/renewal
+ORD23-70817,CUST-PK-1086,PRD-633,18 units,Ayesha Malik,WH-RWP-02,0%,Jun,[RUSH] deliver before friday,https://portal.techmazone.com.pk/orders/new
+ORD23-70818,2024-PK_1020,PRD-584,12 units,,WH/SKT/05,7.5%,Jul,[URGENT] client waiting at site,http://b2b.dell-partners.pk/quote
+ORD23-70819,2019-PK_1005,PRD-808,26 units,,wh-skt-12,15%,Aug,[HOLD] awaiting credit approval,https://shop.hpstore.pk/checkout
+ORD23-70820,2024-PK_1060,PRD-780,12 units,,WH HYD 12,,Sep,[PRIORITY] escalated by manager,http://orders.lenovo-pk.com/b2b/new
+ORD23-70821,CUST-PK-1151,PRD-654,22 units,,WH-ISB-09,15%,Oct,[BACKORDER] awaiting stock from vendor,https://www.acer-distributor.pk/cart
+ORD23-70822,Customer: PK-1108 (2022),PRD-605,16 units,,WH/FSD/03,10%,Nov,[SPLIT] shipping in two lots,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70823,CUST-PK-1121,PRD-752,3 units,,wh-mul-02,20%,Dec,confirm stock before dispatch [pending],http://b2b.dell-partners.pk/renewal
+ORD23-70824,CUST-PK-1226,PRD-563,28 units,Sarah Nadeem,WH HYD 08,7.5%,Jan,packaging damaged on arrival [reported],https://store.asus-pk.com/business/order
+ORD23-70825,BR2021/PK-1237,PRD-920,3 units,,WH-ISB-10,0%,Feb,customer asked for invoice [pdf],http://reseller.msi-pakistan.pk/new
+ORD23-70826,2024-PK_1100,PRD-759,10 units,,WH/KHI/10,,Mar,installation scheduled next week [planned],https://www.samsung-b2b.pk/orders/create
+ORD23-70827,BR2016/PK-1012,PRD-654,38 units,,wh-isb-09,7.5%,Apr,credit terms extended to 60 days [approved],https://shop.hpstore.pk/enterprise
+ORD23-70828,Customer: PK-1013 (2017),PRD-759,33 units,,WH PEW 08,20%,May,serial numbers shared with buyer [done],http://orders.lenovo-pk.com/renewal
+ORD23-70829,Customer: PK-1038 (2022),PRD-808,5 units,,WH-SKT-08,12.5%,Jun,[VERIFIED],https://portal.techmazone.com.pk/orders/new
+ORD23-70830,2024-PK_1130,PRD-766,17 units,,WH/FSD/11,15%,Jul,[CANCELLED],http://b2b.dell-partners.pk/quote
+ORD23-70831,BR2016/PK-1102,PRD-591,16 units,,wh-fsd-05,0%,Aug,[pdf],https://shop.hpstore.pk/checkout
+ORD23-70832,CUST-PK-1106,PRD-647,14 units,,WH HYD 03,12.5%,Sep,[PENDING],http://orders.lenovo-pk.com/b2b/new
+ORD23-70833,2019-PK_1155,PRD-885,33 units,,WH-QTA-09,20%,Oct,[CLOSED],https://www.acer-distributor.pk/cart
+ORD23-70834,cust_pk_1004,PRD-570,7 units,,WH/LHR/03,20%,Nov,[flagged],https://portal.techmazone.com.pk/orders/repeat
+ORD23-70835,cust_pk_1194,PRD-703,31 units,Ayesha Malik,wh-skt-09,20%,Dec,please please confirm the delivery slot,http://b2b.dell-partners.pk/renewal
+ORD23-70836,cust_pk_1159,PRD-857,25 units,,WH FSD 11,12.5%,Jan,urgent urgent needs same day dispatch,https://store.asus-pk.com/business/order
+ORD23-70837,BR2021/PK-1047,PRD-598,2 units,,WH-FSD-08,15%,Feb,call the the customer before loading,http://reseller.msi-pakistan.pk/new
+ORD23-70838,CUST-PK-1106,PRD-654,29 units,,WH/KHI/01,10%,Mar,send send updated quotation,https://www.samsung-b2b.pk/orders/create
+ORD23-70839,BR2021/PK-1027,PRD-619,2 units,,wh-skt-12,,Apr,check check the serial before handover,https://shop.hpstore.pk/enterprise
+ORD23-70840,cust_pk_1039,PRD-542,2 units,,WH KHI 05,5%,May,very very late response from buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70841,cust_pk_1069,PRD-661,31 units,,WH-KHI-07,,Jun,quote sent quote by courier,https://portal.techmazone.com.pk/orders/new
+ORD23-70842,CUST-PK-1021,PRD-696,6 units,,WH/RWP/03,12.5%,Jul,invoice raised invoice against PO,http://b2b.dell-partners.pk/quote
+ORD23-70843,2019-PK_1085,PRD-514,26 units,,wh-khi-10,12.5%,Aug,stock checked stock at warehouse,https://shop.hpstore.pk/checkout
+ORD23-70844,CUST-PK-1146,PRD-948,38 units,,WH QTA 07,15%,Sep,order placed order through portal,http://orders.lenovo-pk.com/b2b/new
+ORD23-70845,cust_pk_1044,PRD-885,39 units,,WH-HYD-06,20%,Oct,unit tested unit before dispatch,https://www.acer-distributor.pk/cart
+ORD23-70846,Customer: PK-1208 (2022),PRD-514,12 units,,WH/RWP/10,,Nov,send confirmation on e-mail,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70847,CUST-PK-1166,PRD-857,16 units,Omar Siddiqui,wh-qta-05,5%,Dec,confirmation shared over e mail,http://b2b.dell-partners.pk/renewal
+ORD23-70848,2019-PK_1235,PRD-689,40 units,,WH ISB 07,10%,Jan,customer prefers email only,https://store.asus-pk.com/business/order
+ORD23-70849,cust_pk_1224,PRD-598,15 units,,WH-LHR-07,15%,Feb,resend the E-Mail with pricing,http://reseller.msi-pakistan.pk/new
+ORD23-70850,2024-PK_1140,PRD-689,12 units,,WH/ISB/03,7.5%,Mar,follow up by E mail tomorrow,https://www.samsung-b2b.pk/orders/create
+ORD23-70851,BR2016/PK-1112,PRD-584,13 units,,wh-mul-04,20%,Apr,delivery rescheduled by customer,https://shop.hpstore.pk/enterprise
+ORD23-70852,CUST-PK-1186,PRD-738,6 units,,WH QTA 07,15%,May,partial shipment agreed with buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70853,cust_pk_1199,PRD-577,27 units,,WH-FSD-10,20%,Jun,payment cleared through bank transfer,https://portal.techmazone.com.pk/orders/new
+ORD23-70854,CUST-PK-1146,PRD-654,29 units,,WH/ISB/06,0%,Jul,warranty card missing from carton,http://b2b.dell-partners.pk/quote
+ORD23-70855,BR2021/PK-1207,PRD-507,33 units,Fatima Zafar,wh-khi-03,15%,Aug,buyer collected from warehouse directly,https://shop.hpstore.pk/checkout
+ORD23-70856,BR2021/PK-1107,PRD-710,29 units,,WH SKT 09,10%,Sep,routed via third party logistics,http://orders.lenovo-pk.com/b2b/new
+ORD23-70857,BR2016/PK-1072,PRD-675,32 units,,WH-RWP-08,5%,Oct,customer requested extended warranty,https://www.acer-distributor.pk/cart
+ORD23-70858,cust_pk_1119,PRD-675,22 units,,WH/MUL/10,10%,Nov,bulk order for a branch rollout,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70859,Customer: PK-1108 (2022),PRD-577,37 units,,wh-lhr-03,5%,Dec,replacement unit issued to client,http://b2b.dell-partners.pk/renewal
+ORD23-70860,2019-PK_1115,PRD-612,34 units,,WH SKT 04,12.5%,Jan,documentation shared with accounts,https://store.asus-pk.com/business/order
+ORD23-70861,CUST-PK-1116,PRD-619,39 units,,WH-MUL-02,0%,Feb,purchase order attached to file,http://reseller.msi-pakistan.pk/new
+ORD23-70862,Customer: PK-1028 (2022),PRD-514,14 units,,WH/LHR/12,,Mar,dispatch confirmed by warehouse team,https://www.samsung-b2b.pk/orders/create
+ORD23-70863,2024-PK_1170,PRD-647,18 units,,wh-isb-07,10%,Apr,handover completed at client site,https://shop.hpstore.pk/enterprise
+ORD23-70864,BR2021/PK-1157,PRD-591,3 units,,WH SKT 08,20%,May,reconciled against monthly statement,http://orders.lenovo-pk.com/renewal
+ORD23-70865,Customer: PK-1023 (2017),PRD-535,16 units,Omar Siddiqui,WH-PEW-12,15%,Jun,[RUSH] deliver before friday,https://portal.techmazone.com.pk/orders/new
+ORD23-70866,Customer: PK-1033 (2017),PRD-829,8 units,,WH/RWP/04,5%,Jul,[URGENT] client waiting at site,http://b2b.dell-partners.pk/quote
+ORD23-70867,BR2016/PK-1222,PRD-703,5 units,,wh-fsd-03,15%,Aug,[HOLD] awaiting credit approval,https://shop.hpstore.pk/checkout
+ORD23-70868,BR2016/PK-1112,PRD-612,13 units,,WH MUL 04,15%,Sep,[PRIORITY] escalated by manager,http://orders.lenovo-pk.com/b2b/new
+ORD23-70869,Customer: PK-1228 (2022),PRD-927,7 units,,WH-FSD-07,0%,Oct,[BACKORDER] awaiting stock from vendor,https://www.acer-distributor.pk/cart
+ORD23-70870,BR2016/PK-1062,PRD-563,5 units,,WH/LHR/04,10%,Nov,[SPLIT] shipping in two lots,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70871,2024-PK_1080,PRD-934,15 units,,wh-qta-05,12.5%,Dec,confirm stock before dispatch [pending],http://b2b.dell-partners.pk/renewal
+ORD23-70872,2019-PK_1185,PRD-619,26 units,,WH LHR 02,,Jan,packaging damaged on arrival [reported],https://store.asus-pk.com/business/order
+ORD23-70873,BR2021/PK-1147,PRD-598,14 units,,WH-MUL-11,5%,Feb,customer asked for invoice [pdf],http://reseller.msi-pakistan.pk/new
+ORD23-70874,Customer: PK-1018 (2022),PRD-661,34 units,,WH/ISB/07,7.5%,Mar,installation scheduled next week [planned],https://www.samsung-b2b.pk/orders/create
+ORD23-70875,cust_pk_1209,PRD-913,2 units,Hira Baig,wh-isb-02,15%,Apr,credit terms extended to 60 days [approved],https://shop.hpstore.pk/enterprise
+ORD23-70876,CUST-PK-1001,PRD-689,10 units,,WH KHI 10,7.5%,May,serial numbers shared with buyer [done],http://orders.lenovo-pk.com/renewal
+ORD23-70877,BR2021/PK-1117,PRD-570,7 units,,WH-LHR-12,5%,Jun,[VERIFIED],https://portal.techmazone.com.pk/orders/new
+ORD23-70878,Customer: PK-1048 (2022),PRD-850,5 units,,WH/FSD/10,20%,Jul,[CANCELLED],http://b2b.dell-partners.pk/quote
+ORD23-70879,Customer: PK-1088 (2022),PRD-794,5 units,,wh-pew-11,10%,Aug,[pdf],https://shop.hpstore.pk/checkout
+ORD23-70880,2024-PK_1180,PRD-808,3 units,,WH SKT 06,5%,Sep,[PENDING],http://orders.lenovo-pk.com/b2b/new
+ORD23-70881,BR2021/PK-1227,PRD-899,17 units,Bilal Ansari,WH-QTA-04,12.5%,Oct,[CLOSED],https://www.acer-distributor.pk/cart
+ORD23-70882,cust_pk_1234,PRD-717,32 units,,WH/PEW/11,7.5%,Nov,[flagged],https://portal.techmazone.com.pk/orders/repeat
+ORD23-70883,cust_pk_1214,PRD-920,40 units,,wh-hyd-12,7.5%,Dec,please please confirm the delivery slot,http://b2b.dell-partners.pk/renewal
+ORD23-70884,2024-PK_1080,PRD-682,40 units,,WH MUL 11,5%,Jan,urgent urgent needs same day dispatch,https://store.asus-pk.com/business/order
+ORD23-70885,2024-PK_1180,PRD-794,26 units,,WH-KHI-07,10%,Feb,call the the customer before loading,http://reseller.msi-pakistan.pk/new
+ORD23-70886,CUST-PK-1176,PRD-584,38 units,,WH/MUL/12,5%,Mar,send send updated quotation,https://www.samsung-b2b.pk/orders/create
+ORD23-70887,Customer: PK-1208 (2022),PRD-850,36 units,,wh-qta-12,5%,Apr,check check the serial before handover,https://shop.hpstore.pk/enterprise
+ORD23-70888,BR2016/PK-1072,PRD-654,2 units,Hamza Sheikh,WH RWP 01,5%,May,very very late response from buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70889,BR2021/PK-1217,PRD-661,38 units,,WH-RWP-11,5%,Jun,quote sent quote by courier,https://portal.techmazone.com.pk/orders/new
+ORD23-70890,CUST-PK-1226,PRD-535,15 units,,WH/QTA/01,15%,Jul,invoice raised invoice against PO,http://b2b.dell-partners.pk/quote
+ORD23-70891,BR2016/PK-1212,PRD-654,24 units,,wh-isb-10,15%,Aug,stock checked stock at warehouse,https://shop.hpstore.pk/checkout
+ORD23-70892,Customer: PK-1093 (2017),PRD-605,34 units,Omar Siddiqui,WH LHR 07,20%,Sep,order placed order through portal,http://orders.lenovo-pk.com/b2b/new
+ORD23-70893,Customer: PK-1068 (2022),PRD-913,27 units,,WH-KHI-09,,Oct,unit tested unit before dispatch,https://www.acer-distributor.pk/cart
+ORD23-70894,2019-PK_1055,PRD-801,33 units,,WH/MUL/09,10%,Nov,send confirmation on e-mail,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70895,Customer: PK-1188 (2022),PRD-528,38 units,,wh-isb-07,,Dec,confirmation shared over e mail,http://b2b.dell-partners.pk/renewal
+ORD23-70896,CUST-PK-1161,PRD-612,30 units,,WH LHR 03,5%,Jan,customer prefers email only,https://store.asus-pk.com/business/order
+ORD23-70897,Customer: PK-1033 (2017),PRD-927,2 units,Hamza Sheikh,WH-LHR-10,7.5%,Feb,resend the E-Mail with pricing,http://reseller.msi-pakistan.pk/new
+ORD23-70898,Customer: PK-1008 (2022),PRD-647,14 units,,WH/SKT/11,7.5%,Mar,follow up by E mail tomorrow,https://www.samsung-b2b.pk/orders/create
+ORD23-70899,2024-PK_1110,PRD-836,8 units,,wh-fsd-10,20%,Apr,delivery rescheduled by customer,https://shop.hpstore.pk/enterprise
+ORD23-70900,Customer: PK-1023 (2017),PRD-675,18 units,,WH ISB 11,5%,May,partial shipment agreed with buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70901,cust_pk_1009,PRD-577,21 units,,WH-PEW-05,5%,Jun,payment cleared through bank transfer,https://portal.techmazone.com.pk/orders/new
+ORD23-70902,cust_pk_1164,PRD-878,37 units,Hira Baig,WH/ISB/05,5%,Jul,warranty card missing from carton,http://b2b.dell-partners.pk/quote
+ORD23-70903,cust_pk_1154,PRD-542,31 units,,wh-khi-04,10%,Aug,buyer collected from warehouse directly,https://shop.hpstore.pk/checkout
+ORD23-70904,CUST-PK-1016,PRD-948,2 units,,WH RWP 10,15%,Sep,routed via third party logistics,http://orders.lenovo-pk.com/b2b/new
+ORD23-70905,cust_pk_1029,PRD-857,37 units,,WH-RWP-12,7.5%,Oct,customer requested extended warranty,https://www.acer-distributor.pk/cart
+ORD23-70906,cust_pk_1114,PRD-528,11 units,,WH/MUL/07,15%,Nov,bulk order for a branch rollout,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70907,2019-PK_1175,PRD-605,21 units,,wh-skt-08,7.5%,Dec,replacement unit issued to client,http://b2b.dell-partners.pk/renewal
+ORD23-70908,Customer: PK-1038 (2022),PRD-766,17 units,,WH PEW 07,,Jan,documentation shared with accounts,https://store.asus-pk.com/business/order
+ORD23-70909,cust_pk_1104,PRD-843,10 units,,WH-SKT-06,5%,Feb,purchase order attached to file,http://reseller.msi-pakistan.pk/new
+ORD23-70910,2019-PK_1135,PRD-878,15 units,Omar Siddiqui,WH/LHR/10,5%,Mar,dispatch confirmed by warehouse team,https://www.samsung-b2b.pk/orders/create
+ORD23-70911,Customer: PK-1018 (2022),PRD-535,24 units,,wh-skt-12,,Apr,handover completed at client site,https://shop.hpstore.pk/enterprise
+ORD23-70912,Customer: PK-1038 (2022),PRD-514,9 units,,WH KHI 08,0%,May,reconciled against monthly statement,http://orders.lenovo-pk.com/renewal
+ORD23-70913,Customer: PK-1158 (2022),PRD-612,16 units,,WH-SKT-12,7.5%,Jun,[RUSH] deliver before friday,https://portal.techmazone.com.pk/orders/new
+ORD23-70914,cust_pk_1149,PRD-780,1 units,,WH/PEW/05,12.5%,Jul,[URGENT] client waiting at site,http://b2b.dell-partners.pk/quote
+ORD23-70915,BR2021/PK-1027,PRD-878,3 units,,wh-skt-02,12.5%,Aug,[HOLD] awaiting credit approval,https://shop.hpstore.pk/checkout
+ORD23-70916,CUST-PK-1196,PRD-927,14 units,,WH KHI 05,20%,Sep,[PRIORITY] escalated by manager,http://orders.lenovo-pk.com/b2b/new
+ORD23-70917,Customer: PK-1078 (2022),PRD-647,31 units,,WH-ISB-03,10%,Oct,[BACKORDER] awaiting stock from vendor,https://www.acer-distributor.pk/cart
+ORD23-70918,BR2016/PK-1032,PRD-633,28 units,,WH/MUL/06,20%,Nov,[SPLIT] shipping in two lots,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70919,2024-PK_1100,PRD-619,8 units,Omar Siddiqui,wh-fsd-12,12.5%,Dec,confirm stock before dispatch [pending],http://b2b.dell-partners.pk/renewal
+ORD23-70920,CUST-PK-1176,PRD-507,4 units,,WH PEW 04,15%,Jan,packaging damaged on arrival [reported],https://store.asus-pk.com/business/order
+ORD23-70921,CUST-PK-1226,PRD-857,26 units,,WH-QTA-08,,Feb,customer asked for invoice [pdf],http://reseller.msi-pakistan.pk/new
+ORD23-70922,cust_pk_1129,PRD-794,27 units,,WH/LHR/03,,Mar,installation scheduled next week [planned],https://www.samsung-b2b.pk/orders/create
+ORD23-70923,2019-PK_1045,PRD-535,35 units,,wh-lhr-07,7.5%,Apr,credit terms extended to 60 days [approved],https://shop.hpstore.pk/enterprise
+ORD23-70924,Customer: PK-1128 (2022),PRD-626,27 units,,WH SKT 05,20%,May,serial numbers shared with buyer [done],http://orders.lenovo-pk.com/renewal
+ORD23-70925,Customer: PK-1128 (2022),PRD-794,2 units,,WH-PEW-09,15%,Jun,[VERIFIED],https://portal.techmazone.com.pk/orders/new
+ORD23-70926,Customer: PK-1068 (2022),PRD-682,37 units,,WH/ISB/10,15%,Jul,[CANCELLED],http://b2b.dell-partners.pk/quote
+ORD23-70927,BR2016/PK-1062,PRD-801,4 units,,wh-pew-11,12.5%,Aug,[pdf],https://shop.hpstore.pk/checkout
+ORD23-70928,cust_pk_1204,PRD-612,13 units,,WH HYD 05,20%,Sep,[PENDING],http://orders.lenovo-pk.com/b2b/new
+ORD23-70929,CUST-PK-1186,PRD-766,32 units,Hira Baig,WH-KHI-05,5%,Oct,[CLOSED],https://www.acer-distributor.pk/cart
+ORD23-70930,2019-PK_1205,PRD-556,37 units,,WH/KHI/12,20%,Nov,[flagged],https://portal.techmazone.com.pk/orders/repeat
+ORD23-70931,Customer: PK-1068 (2022),PRD-703,14 units,,wh-lhr-08,15%,Dec,please please confirm the delivery slot,http://b2b.dell-partners.pk/renewal
+ORD23-70932,cust_pk_1159,PRD-871,33 units,,WH ISB 07,,Jan,urgent urgent needs same day dispatch,https://store.asus-pk.com/business/order
+ORD23-70933,Customer: PK-1063 (2017),PRD-864,12 units,,WH-QTA-10,5%,Feb,call the the customer before loading,http://reseller.msi-pakistan.pk/new
+ORD23-70934,BR2016/PK-1202,PRD-850,10 units,Ayesha Malik,WH/SKT/01,20%,Mar,send send updated quotation,https://www.samsung-b2b.pk/orders/create
+ORD23-70935,cust_pk_1184,PRD-899,5 units,,wh-fsd-02,12.5%,Apr,check check the serial before handover,https://shop.hpstore.pk/enterprise
+ORD23-70936,Customer: PK-1083 (2017),PRD-892,4 units,,WH LHR 06,7.5%,May,very very late response from buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70937,cust_pk_1024,PRD-535,30 units,,WH-SKT-10,10%,Jun,quote sent quote by courier,https://portal.techmazone.com.pk/orders/new
+ORD23-70938,2019-PK_1195,PRD-696,19 units,,WH/QTA/10,20%,Jul,invoice raised invoice against PO,http://b2b.dell-partners.pk/quote
+ORD23-70939,CUST-PK-1081,PRD-591,1 units,,wh-pew-11,12.5%,Aug,stock checked stock at warehouse,https://shop.hpstore.pk/checkout
+ORD23-70940,CUST-PK-1206,PRD-598,30 units,,WH SKT 09,10%,Sep,order placed order through portal,http://orders.lenovo-pk.com/b2b/new
+ORD23-70941,CUST-PK-1011,PRD-801,20 units,,WH-KHI-08,,Oct,unit tested unit before dispatch,https://www.acer-distributor.pk/cart
+ORD23-70942,2024-PK_1190,PRD-633,19 units,,WH/RWP/11,20%,Nov,send confirmation on e-mail,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70943,2024-PK_1060,PRD-521,39 units,,wh-khi-09,0%,Dec,confirmation shared over e mail,http://b2b.dell-partners.pk/renewal
+ORD23-70944,BR2016/PK-1062,PRD-885,39 units,Bilal Ansari,WH QTA 04,5%,Jan,customer prefers email only,https://store.asus-pk.com/business/order
+ORD23-70945,BR2021/PK-1127,PRD-843,32 units,,WH-KHI-09,7.5%,Feb,resend the E-Mail with pricing,http://reseller.msi-pakistan.pk/new
+ORD23-70946,Customer: PK-1138 (2022),PRD-577,15 units,,WH/QTA/11,15%,Mar,follow up by E mail tomorrow,https://www.samsung-b2b.pk/orders/create
+ORD23-70947,BR2021/PK-1097,PRD-808,37 units,,wh-pew-09,10%,Apr,delivery rescheduled by customer,https://shop.hpstore.pk/enterprise
+ORD23-70948,CUST-PK-1101,PRD-675,22 units,,WH RWP 04,7.5%,May,partial shipment agreed with buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70949,BR2021/PK-1057,PRD-696,25 units,,WH-RWP-07,20%,Jun,payment cleared through bank transfer,https://portal.techmazone.com.pk/orders/new
+ORD23-70950,Customer: PK-1223 (2017),PRD-927,21 units,Sarah Nadeem,WH/KHI/08,12.5%,Jul,warranty card missing from carton,http://b2b.dell-partners.pk/quote
+ORD23-70951,CUST-PK-1041,PRD-612,28 units,,wh-lhr-11,15%,Aug,buyer collected from warehouse directly,https://shop.hpstore.pk/checkout
+ORD23-70952,cust_pk_1019,PRD-521,14 units,,WH QTA 09,,Sep,routed via third party logistics,http://orders.lenovo-pk.com/b2b/new
+ORD23-70953,Customer: PK-1203 (2017),PRD-941,27 units,,WH-PEW-11,5%,Oct,customer requested extended warranty,https://www.acer-distributor.pk/cart
+ORD23-70954,2019-PK_1175,PRD-878,10 units,,WH/QTA/03,0%,Nov,bulk order for a branch rollout,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70955,2019-PK_1065,PRD-668,26 units,Omar Siddiqui,wh-fsd-07,10%,Dec,replacement unit issued to client,http://b2b.dell-partners.pk/renewal
+ORD23-70956,Customer: PK-1233 (2017),PRD-927,12 units,,WH RWP 10,,Jan,documentation shared with accounts,https://store.asus-pk.com/business/order
+ORD23-70957,CUST-PK-1051,PRD-577,30 units,,WH-FSD-05,0%,Feb,purchase order attached to file,http://reseller.msi-pakistan.pk/new
+ORD23-70958,cust_pk_1169,PRD-822,34 units,,WH/LHR/05,7.5%,Mar,dispatch confirmed by warehouse team,https://www.samsung-b2b.pk/orders/create
+ORD23-70959,BR2021/PK-1087,PRD-626,2 units,,wh-mul-10,20%,Apr,handover completed at client site,https://shop.hpstore.pk/enterprise
+ORD23-70960,CUST-PK-1186,PRD-563,2 units,,WH MUL 07,5%,May,reconciled against monthly statement,http://orders.lenovo-pk.com/renewal
+ORD23-70961,BR2021/PK-1187,PRD-577,32 units,,WH-FSD-01,12.5%,Jun,[RUSH] deliver before friday,https://portal.techmazone.com.pk/orders/new
+ORD23-70962,cust_pk_1204,PRD-612,18 units,,WH/MUL/10,0%,Jul,[URGENT] client waiting at site,http://b2b.dell-partners.pk/quote
+ORD23-70963,2024-PK_1110,PRD-563,39 units,,wh-hyd-03,5%,Aug,[HOLD] awaiting credit approval,https://shop.hpstore.pk/checkout
+ORD23-70964,2019-PK_1105,PRD-584,14 units,,WH FSD 07,0%,Sep,[PRIORITY] escalated by manager,http://orders.lenovo-pk.com/b2b/new
+ORD23-70965,Customer: PK-1018 (2022),PRD-528,40 units,Hira Baig,WH-HYD-05,12.5%,Oct,[BACKORDER] awaiting stock from vendor,https://www.acer-distributor.pk/cart
+ORD23-70966,Customer: PK-1078 (2022),PRD-913,7 units,,WH/FSD/09,5%,Nov,[SPLIT] shipping in two lots,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70967,Customer: PK-1033 (2017),PRD-892,18 units,,wh-qta-01,0%,Dec,confirm stock before dispatch [pending],http://b2b.dell-partners.pk/renewal
+ORD23-70968,cust_pk_1159,PRD-843,18 units,,WH RWP 05,,Jan,packaging damaged on arrival [reported],https://store.asus-pk.com/business/order
+ORD23-70969,BR2016/PK-1072,PRD-598,40 units,,WH-LHR-08,5%,Feb,customer asked for invoice [pdf],http://reseller.msi-pakistan.pk/new
+ORD23-70970,CUST-PK-1001,PRD-556,32 units,,WH/KHI/03,5%,Mar,installation scheduled next week [planned],https://www.samsung-b2b.pk/orders/create
+ORD23-70971,2019-PK_1055,PRD-857,14 units,,wh-qta-07,5%,Apr,credit terms extended to 60 days [approved],https://shop.hpstore.pk/enterprise
+ORD23-70972,cust_pk_1129,PRD-605,7 units,,WH QTA 11,10%,May,serial numbers shared with buyer [done],http://orders.lenovo-pk.com/renewal
+ORD23-70973,2024-PK_1170,PRD-605,30 units,Omar Siddiqui,WH-FSD-11,5%,Jun,[VERIFIED],https://portal.techmazone.com.pk/orders/new
+ORD23-70974,cust_pk_1179,PRD-731,19 units,,WH/KHI/12,15%,Jul,[CANCELLED],http://b2b.dell-partners.pk/quote
+ORD23-70975,cust_pk_1069,PRD-563,19 units,,wh-khi-02,5%,Aug,[pdf],https://shop.hpstore.pk/checkout
+ORD23-70976,Customer: PK-1028 (2022),PRD-647,3 units,,WH ISB 04,20%,Sep,[PENDING],http://orders.lenovo-pk.com/b2b/new
+ORD23-70977,BR2021/PK-1127,PRD-675,34 units,,WH-RWP-10,15%,Oct,[CLOSED],https://www.acer-distributor.pk/cart
+ORD23-70978,Customer: PK-1128 (2022),PRD-542,11 units,,WH/HYD/04,20%,Nov,[flagged],https://portal.techmazone.com.pk/orders/repeat
+ORD23-70979,Customer: PK-1208 (2022),PRD-577,4 units,,wh-khi-03,20%,Dec,please please confirm the delivery slot,http://b2b.dell-partners.pk/renewal
+ORD23-70980,Customer: PK-1213 (2017),PRD-689,25 units,Bilal Ansari,WH ISB 03,15%,Jan,urgent urgent needs same day dispatch,https://store.asus-pk.com/business/order
+ORD23-70981,BR2021/PK-1187,PRD-570,12 units,,WH-LHR-12,0%,Feb,call the the customer before loading,http://reseller.msi-pakistan.pk/new
+ORD23-70982,cust_pk_1224,PRD-577,14 units,,WH/PEW/07,0%,Mar,send send updated quotation,https://www.samsung-b2b.pk/orders/create
+ORD23-70983,Customer: PK-1048 (2022),PRD-766,4 units,,wh-skt-11,0%,Apr,check check the serial before handover,https://shop.hpstore.pk/enterprise
+ORD23-70984,CUST-PK-1176,PRD-738,5 units,,WH HYD 10,,May,very very late response from buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70985,Customer: PK-1003 (2017),PRD-857,25 units,,WH-PEW-09,0%,Jun,quote sent quote by courier,https://portal.techmazone.com.pk/orders/new
+ORD23-70986,cust_pk_1114,PRD-913,24 units,Sarah Nadeem,WH/HYD/01,15%,Jul,invoice raised invoice against PO,http://b2b.dell-partners.pk/quote
+ORD23-70987,2019-PK_1045,PRD-787,31 units,,wh-pew-05,20%,Aug,stock checked stock at warehouse,https://shop.hpstore.pk/checkout
+ORD23-70988,CUST-PK-1146,PRD-864,20 units,,WH HYD 11,20%,Sep,order placed order through portal,http://orders.lenovo-pk.com/b2b/new
+ORD23-70989,CUST-PK-1136,PRD-857,11 units,,WH-HYD-05,0%,Oct,unit tested unit before dispatch,https://www.acer-distributor.pk/cart
+ORD23-70990,CUST-PK-1171,PRD-521,26 units,Fatima Zafar,WH/SKT/02,15%,Nov,send confirmation on e-mail,https://portal.techmazone.com.pk/orders/repeat
+ORD23-70991,Customer: PK-1133 (2017),PRD-605,34 units,,wh-mul-07,12.5%,Dec,confirmation shared over e mail,http://b2b.dell-partners.pk/renewal
+ORD23-70992,CUST-PK-1066,PRD-535,11 units,,WH HYD 05,20%,Jan,customer prefers email only,https://store.asus-pk.com/business/order
+ORD23-70993,Customer: PK-1003 (2017),PRD-885,5 units,,WH-FSD-04,5%,Feb,resend the E-Mail with pricing,http://reseller.msi-pakistan.pk/new
+ORD23-70994,2024-PK_1150,PRD-528,13 units,Ali Raza,WH/HYD/11,20%,Mar,follow up by E mail tomorrow,https://www.samsung-b2b.pk/orders/create
+ORD23-70995,Customer: PK-1238 (2022),PRD-535,10 units,,wh-hyd-01,0%,Apr,delivery rescheduled by customer,https://shop.hpstore.pk/enterprise
+ORD23-70996,2019-PK_1105,PRD-661,9 units,,WH ISB 09,15%,May,partial shipment agreed with buyer,http://orders.lenovo-pk.com/renewal
+ORD23-70997,Customer: PK-1043 (2017),PRD-794,4 units,,WH-KHI-12,12.5%,Jun,payment cleared through bank transfer,https://portal.techmazone.com.pk/orders/new
+ORD23-70998,cust_pk_1184,PRD-675,7 units,,WH/MUL/11,12.5%,Jul,warranty card missing from carton,http://b2b.dell-partners.pk/quote
+ORD23-70999,2019-PK_1145,PRD-892,7 units,,wh-qta-03,5%,Aug,buyer collected from warehouse directly,https://shop.hpstore.pk/checkout
+ORD23-71000,BR2016/PK-1152,PRD-563,5 units,,WH KHI 04,7.5%,Sep,routed via third party logistics,http://orders.lenovo-pk.com/b2b/new
+ORD23-71001,2024-PK_1050,PRD-661,31 units,,WH-ISB-12,5%,Oct,customer requested extended warranty,https://www.acer-distributor.pk/cart
+ORD23-71002,BR2016/PK-1062,PRD-787,38 units,,WH/HYD/08,5%,Nov,bulk order for a branch rollout,https://portal.techmazone.com.pk/orders/repeat
+ORD23-71003,2019-PK_1085,PRD-647,5 units,,wh-fsd-02,15%,Dec,replacement unit issued to client,http://b2b.dell-partners.pk/renewal
+ORD23-71004,CUST-PK-1186,PRD-570,20 units,Sarah Nadeem,WH LHR 11,15%,Jan,documentation shared with accounts,https://store.asus-pk.com/business/order
+ORD23-71005,BR2016/PK-1202,PRD-528,29 units,,WH-KHI-12,12.5%,Feb,purchase order attached to file,http://reseller.msi-pakistan.pk/new
+ORD23-71006,2024-PK_1120,PRD-535,23 units,,WH/MUL/08,,Mar,dispatch confirmed by warehouse team,https://www.samsung-b2b.pk/orders/create
+ORD23-71007,BR2016/PK-1172,PRD-626,40 units,Bilal Ansari,wh-rwp-10,5%,Apr,handover completed at client site,https://shop.hpstore.pk/enterprise
+ORD23-71008,CUST-PK-1111,PRD-584,33 units,,WH FSD 09,12.5%,May,reconciled against monthly statement,http://orders.lenovo-pk.com/renewal
+ORD23-71009,BR2021/PK-1077,PRD-885,28 units,,WH-RWP-10,0%,Jun,[RUSH] deliver before friday,https://portal.techmazone.com.pk/orders/new
+ORD23-71010,cust_pk_1019,PRD-619,12 units,,WH/HYD/04,15%,Jul,[URGENT] client waiting at site,http://b2b.dell-partners.pk/quote
+ORD23-71011,CUST-PK-1211,PRD-843,39 units,,wh-fsd-02,5%,Aug,[HOLD] awaiting credit approval,https://shop.hpstore.pk/checkout
+ORD23-71012,BR2021/PK-1237,PRD-577,19 units,,WH SKT 11,0%,Sep,[PRIORITY] escalated by manager,http://orders.lenovo-pk.com/b2b/new
+ORD23-71013,2024-PK_1120,PRD-654,33 units,,WH-FSD-08,,Oct,[BACKORDER] awaiting stock from vendor,https://www.acer-distributor.pk/cart
+ORD23-71014,CUST-PK-1196,PRD-787,14 units,,WH/FSD/12,12.5%,Nov,[SPLIT] shipping in two lots,https://portal.techmazone.com.pk/orders/repeat
+ORD23-71015,cust_pk_1024,PRD-591,7 units,,wh-mul-08,20%,Dec,confirm stock before dispatch [pending],http://b2b.dell-partners.pk/renewal
+ORD23-71016,Customer: PK-1153 (2017),PRD-850,20 units,,WH QTA 10,15%,Jan,packaging damaged on arrival [reported],https://store.asus-pk.com/business/order
+ORD23-71017,cust_pk_1224,PRD-605,30 units,,WH-MUL-11,7.5%,Feb,customer asked for invoice [pdf],http://reseller.msi-pakistan.pk/new
+ORD23-71018,2024-PK_1060,PRD-801,17 units,,WH/SKT/02,7.5%,Mar,installation scheduled next week [planned],https://www.samsung-b2b.pk/orders/create
+ORD23-71019,Customer: PK-1163 (2017),PRD-675,26 units,Hira Baig,wh-rwp-08,12.5%,Apr,credit terms extended to 60 days [approved],https://shop.hpstore.pk/enterprise
+ORD23-71020,2019-PK_1145,PRD-682,12 units,,WH LHR 09,5%,May,serial numbers shared with buyer [done],http://orders.lenovo-pk.com/renewal
+ORD23-71021,2024-PK_1080,PRD-710,38 units,,WH-HYD-01,15%,Jun,[VERIFIED],https://portal.techmazone.com.pk/orders/new
+ORD23-71022,BR2016/PK-1142,PRD-668,27 units,,WH/LHR/05,7.5%,Jul,[CANCELLED],http://b2b.dell-partners.pk/quote
+ORD23-71023,CUST-PK-1026,PRD-521,9 units,,wh-pew-09,7.5%,Aug,[pdf],https://shop.hpstore.pk/checkout
+ORD23-71024,cust_pk_1024,PRD-535,14 units,,WH KHI 06,5%,Sep,[PENDING],http://orders.lenovo-pk.com/b2b/new
+ORD23-71025,cust_pk_1209,PRD-682,33 units,,WH-MUL-01,20%,Oct,[CLOSED],https://www.acer-distributor.pk/cart
+ORD23-71026,BR2016/PK-1002,PRD-647,21 units,,WH/PEW/11,20%,Nov,[flagged],https://portal.techmazone.com.pk/orders/repeat
+ORD23-71027,BR2021/PK-1207,PRD-577,2 units,,wh-khi-07,,Dec,please please confirm the delivery slot,http://b2b.dell-partners.pk/renewal
+ORD23-71028,cust_pk_1064,PRD-591,4 units,Hira Baig,WH FSD 07,10%,Jan,urgent urgent needs same day dispatch,https://store.asus-pk.com/business/order
+ORD23-71029,Customer: PK-1143 (2017),PRD-598,19 units,,WH-MUL-09,10%,Feb,call the the customer before loading,http://reseller.msi-pakistan.pk/new
+ORD23-71030,BR2016/PK-1022,PRD-528,2 units,,WH/KHI/07,20%,Mar,send send updated quotation,https://www.samsung-b2b.pk/orders/create
+ORD23-71031,cust_pk_1139,PRD-878,33 units,,wh-isb-05,12.5%,Apr,check check the serial before handover,https://shop.hpstore.pk/enterprise
+ORD23-71032,BR2016/PK-1152,PRD-843,32 units,,WH MUL 11,,May,very very late response from buyer,http://orders.lenovo-pk.com/renewal
+ORD23-71033,CUST-PK-1036,PRD-808,13 units,,WH-PEW-05,0%,Jun,quote sent quote by courier,https://portal.techmazone.com.pk/orders/new
+ORD23-71034,2019-PK_1035,PRD-584,29 units,,WH/LHR/11,12.5%,Jul,invoice raised invoice against PO,http://b2b.dell-partners.pk/quote
+ORD23-71035,BR2021/PK-1237,PRD-745,31 units,,wh-isb-02,12.5%,Aug,stock checked stock at warehouse,https://shop.hpstore.pk/checkout
+ORD23-71036,Customer: PK-1208 (2022),PRD-773,30 units,,WH QTA 01,7.5%,Sep,order placed order through portal,http://orders.lenovo-pk.com/b2b/new
+ORD23-71037,Customer: PK-1188 (2022),PRD-738,35 units,,WH-PEW-07,12.5%,Oct,unit tested unit before dispatch,https://www.acer-distributor.pk/cart
+ORD23-71038,Customer: PK-1103 (2017),PRD-521,7 units,,WH/KHI/03,7.5%,Nov,send confirmation on e-mail,https://portal.techmazone.com.pk/orders/repeat
+ORD23-71039,CUST-PK-1151,PRD-689,39 units,,wh-rwp-01,15%,Dec,confirmation shared over e mail,http://b2b.dell-partners.pk/renewal
+ORD23-71040,2024-PK_1240,PRD-801,22 units,Sarah Nadeem,WH MUL 08,,Jan,customer prefers email only,https://store.asus-pk.com/business/order
+ORD23-71041,cust_pk_1119,PRD-661,38 units,,WH-RWP-06,5%,Feb,resend the E-Mail with pricing,http://reseller.msi-pakistan.pk/new
+ORD23-71042,Customer: PK-1148 (2022),PRD-507,24 units,,WH/ISB/03,,Mar,follow up by E mail tomorrow,https://www.samsung-b2b.pk/orders/create
+ORD23-71043,Customer: PK-1038 (2022),PRD-626,20 units,,wh-fsd-04,,Apr,delivery rescheduled by customer,https://shop.hpstore.pk/enterprise
+ORD23-71044,CUST-PK-1236,PRD-619,38 units,,WH MUL 07,0%,May,partial shipment agreed with buyer,http://orders.lenovo-pk.com/renewal
+ORD23-71045,BR2016/PK-1112,PRD-675,14 units,,WH-ISB-09,5%,Jun,payment cleared through bank transfer,https://portal.techmazone.com.pk/orders/new
+ORD23-71046,CUST-PK-1161,PRD-598,28 units,Hira Baig,WH/MUL/09,20%,Jul,warranty card missing from carton,http://b2b.dell-partners.pk/quote
+ORD23-71047,BR2021/PK-1197,PRD-654,15 units,,wh-pew-08,7.5%,Aug,buyer collected from warehouse directly,https://shop.hpstore.pk/checkout
+ORD23-71048,CUST-PK-1096,PRD-689,39 units,,WH LHR 01,10%,Sep,routed via third party logistics,http://orders.lenovo-pk.com/b2b/new
+ORD23-71049,Customer: PK-1128 (2022),PRD-892,26 units,,WH-QTA-11,5%,Oct,customer requested extended warranty,https://www.acer-distributor.pk/cart
+ORD23-71050,CUST-PK-1096,PRD-941,2 units,,WH/FSD/09,5%,Nov,bulk order for a branch rollout,https://portal.techmazone.com.pk/orders/repeat
+ORD23-71051,Customer: PK-1033 (2017),PRD-864,26 units,,wh-qta-12,0%,Dec,replacement unit issued to client,http://b2b.dell-partners.pk/renewal
+ORD23-71052,Customer: PK-1188 (2022),PRD-934,13 units,,WH SKT 12,5%,Jan,documentation shared with accounts,https://store.asus-pk.com/business/order
+ORD23-71053,Customer: PK-1078 (2022),PRD-514,15 units,Fatima Zafar,WH-KHI-07,5%,Feb,purchase order attached to file,http://reseller.msi-pakistan.pk/new
+ORD23-71054,cust_pk_1089,PRD-591,32 units,,WH/ISB/05,10%,Mar,dispatch confirmed by warehouse team,https://www.samsung-b2b.pk/orders/create
+ORD23-71055,CUST-PK-1166,PRD-675,19 units,,wh-isb-07,12.5%,Apr,handover completed at client site,https://shop.hpstore.pk/enterprise
+ORD23-71056,CUST-PK-1096,PRD-745,40 units,,WH RWP 05,10%,May,reconciled against monthly statement,http://orders.lenovo-pk.com/renewal
+ORD23-71057,CUST-PK-1116,PRD-668,24 units,Ali Raza,WH-ISB-03,5%,Jun,[RUSH] deliver before friday,https://portal.techmazone.com.pk/orders/new
+ORD23-71058,2019-PK_1035,PRD-570,40 units,,WH/MUL/04,0%,Jul,[URGENT] client waiting at site,http://b2b.dell-partners.pk/quote
+ORD23-71059,BR2016/PK-1182,PRD-717,22 units,,wh-skt-05,5%,Aug,[HOLD] awaiting credit approval,https://shop.hpstore.pk/checkout
+ORD23-71060,cust_pk_1039,PRD-850,9 units,,WH QTA 01,,Sep,[PRIORITY] escalated by manager,http://orders.lenovo-pk.com/b2b/new
+ORD23-71061,CUST-PK-1021,PRD-612,13 units,,WH-SKT-03,5%,Oct,[BACKORDER] awaiting stock from vendor,https://www.acer-distributor.pk/cart
+ORD23-71062,cust_pk_1034,PRD-682,39 units,,WH/RWP/04,0%,Nov,[SPLIT] shipping in two lots,https://portal.techmazone.com.pk/orders/repeat
+ORD23-71063,Customer: PK-1008 (2022),PRD-864,7 units,,wh-skt-02,5%,Dec,confirm stock before dispatch [pending],http://b2b.dell-partners.pk/renewal
+ORD23-71064,Customer: PK-1193 (2017),PRD-619,28 units,,WH SKT 04,20%,Jan,packaging damaged on arrival [reported],https://store.asus-pk.com/business/order
+ORD23-71065,CUST-PK-1186,PRD-745,2 units,,WH-RWP-07,20%,Feb,customer asked for invoice [pdf],http://reseller.msi-pakistan.pk/new
+ORD23-71066,cust_pk_1209,PRD-577,1 units,Ali Raza,WH/SKT/02,15%,Mar,installation scheduled next week [planned],https://www.samsung-b2b.pk/orders/create
+ORD23-71067,Customer: PK-1008 (2022),PRD-563,10 units,,wh-khi-07,20%,Apr,credit terms extended to 60 days [approved],https://shop.hpstore.pk/enterprise
+ORD23-71068,CUST-PK-1151,PRD-899,38 units,,WH QTA 07,15%,May,serial numbers shared with buyer [done],http://orders.lenovo-pk.com/renewal
+ORD23-71069,BR2016/PK-1022,PRD-857,3 units,,WH-QTA-06,20%,Jun,[VERIFIED],https://portal.techmazone.com.pk/orders/new
+ORD23-71070,2019-PK_1085,PRD-514,22 units,,WH/SKT/08,10%,Jul,[CANCELLED],http://b2b.dell-partners.pk/quote
+ORD23-71071,cust_pk_1129,PRD-731,3 units,,wh-hyd-04,7.5%,Aug,[pdf],https://shop.hpstore.pk/checkout
+ORD23-71072,CUST-PK-1131,PRD-626,9 units,,WH FSD 06,5%,Sep,[PENDING],http://orders.lenovo-pk.com/b2b/new
+ORD23-71073,BR2016/PK-1042,PRD-878,20 units,,WH-FSD-05,10%,Oct,[CLOSED],https://www.acer-distributor.pk/cart
+ORD23-71074,CUST-PK-1236,PRD-605,40 units,,WH/MUL/03,15%,Nov,[flagged],https://portal.techmazone.com.pk/orders/repeat
+ORD23-71075,Customer: PK-1008 (2022),PRD-878,29 units,Ali Raza,wh-qta-08,20%,Dec,please please confirm the delivery slot,http://b2b.dell-partners.pk/renewal
+ORD23-71076,Customer: PK-1008 (2022),PRD-738,12 units,,WH RWP 12,5%,Jan,urgent urgent needs same day dispatch,https://store.asus-pk.com/business/order
+ORD23-71077,CUST-PK-1151,PRD-682,11 units,,WH-RWP-08,15%,Feb,call the the customer before loading,http://reseller.msi-pakistan.pk/new
+ORD23-71078,Customer: PK-1008 (2022),PRD-619,18 units,,WH/QTA/06,12.5%,Mar,send send updated quotation,https://www.samsung-b2b.pk/orders/create
+ORD23-71079,2024-PK_1230,PRD-731,13 units,,wh-hyd-11,7.5%,Apr,check check the serial before handover,https://shop.hpstore.pk/enterprise
+ORD23-71080,BR2016/PK-1052,PRD-612,10 units,,WH PEW 04,20%,May,very very late response from buyer,http://orders.lenovo-pk.com/renewal
+ORD23-71081,cust_pk_1084,PRD-584,33 units,,WH-FSD-07,15%,Jun,quote sent quote by courier,https://portal.techmazone.com.pk/orders/new
+ORD23-71082,BR2021/PK-1227,PRD-717,21 units,,WH/LHR/04,,Jul,invoice raised invoice against PO,http://b2b.dell-partners.pk/quote
+ORD23-71083,Customer: PK-1003 (2017),PRD-654,20 units,,wh-isb-05,15%,Aug,stock checked stock at warehouse,https://shop.hpstore.pk/checkout
+ORD23-71084,CUST-PK-1141,PRD-605,39 units,,WH SKT 11,12.5%,Sep,order placed order through portal,http://orders.lenovo-pk.com/b2b/new
+ORD23-71085,BR2021/PK-1107,PRD-836,35 units,Sarah Nadeem,WH-RWP-05,10%,Oct,unit tested unit before dispatch,https://www.acer-distributor.pk/cart
+ORD23-71086,Customer: PK-1093 (2017),PRD-801,25 units,,WH/SKT/10,10%,Nov,send confirmation on e-mail,https://portal.techmazone.com.pk/orders/repeat
+ORD23-71087,cust_pk_1159,PRD-605,21 units,,wh-mul-11,5%,Dec,confirmation shared over e mail,http://b2b.dell-partners.pk/renewal
+ORD23-71088,cust_pk_1004,PRD-507,36 units,,WH QTA 01,0%,Jan,customer prefers email only,https://store.asus-pk.com/business/order
+ORD23-71089,Customer: PK-1138 (2022),PRD-619,3 units,Fatima Zafar,WH-ISB-01,20%,Feb,resend the E-Mail with pricing,http://reseller.msi-pakistan.pk/new
+ORD23-71090,CUST-PK-1131,PRD-626,40 units,,WH/FSD/05,12.5%,Mar,follow up by E mail tomorrow,https://www.samsung-b2b.pk/orders/create
+ORD23-71091,2024-PK_1160,PRD-752,35 units,,wh-lhr-08,5%,Apr,delivery rescheduled by customer,https://shop.hpstore.pk/enterprise
+ORD23-71092,CUST-PK-1236,PRD-626,15 units,Salman Tariq,WH MUL 11,10%,May,partial shipment agreed with buyer,http://orders.lenovo-pk.com/renewal
+ORD23-71093,Customer: PK-1213 (2017),PRD-710,24 units,,WH-QTA-04,7.5%,Jun,payment cleared through bank transfer,https://portal.techmazone.com.pk/orders/new
+ORD23-71094,2019-PK_1185,PRD-703,26 units,,WH/PEW/05,5%,Jul,warranty card missing from carton,http://b2b.dell-partners.pk/quote
+ORD23-71095,CUST-PK-1131,PRD-892,18 units,Hamza Sheikh,wh-pew-04,5%,Aug,buyer collected from warehouse directly,https://shop.hpstore.pk/checkout
+ORD23-71096,Customer: PK-1143 (2017),PRD-689,37 units,,WH ISB 01,,Sep,routed via third party logistics,http://orders.lenovo-pk.com/b2b/new
+ORD23-71097,Customer: PK-1018 (2022),PRD-759,34 units,,WH-PEW-07,12.5%,Oct,customer requested extended warranty,https://www.acer-distributor.pk/cart
+ORD23-71098,cust_pk_1209,PRD-570,18 units,Fatima Zafar,WH/FSD/12,20%,Nov,bulk order for a branch rollout,https://portal.techmazone.com.pk/orders/repeat
+ORD23-71099,cust_pk_1094,PRD-619,20 units,,wh-qta-02,12.5%,Dec,replacement unit issued to client,http://b2b.dell-partners.pk/renewal
+ORD23-71100,CUST-PK-1206,PRD-654,5 units,,WH RWP 03,12.5%,Jan,documentation shared with accounts,https://store.asus-pk.com/business/order
+ORD23-71101,cust_pk_1009,PRD-577,9 units,,WH-ISB-11,15%,Feb,purchase order attached to file,http://reseller.msi-pakistan.pk/new
+ORD23-71102,Customer: PK-1203 (2017),PRD-794,24 units,,WH/PEW/03,10%,Mar,dispatch confirmed by warehouse team,https://www.samsung-b2b.pk/orders/create
+ORD23-71103,CUST-PK-1096,PRD-948,34 units,,wh-rwp-06,5%,Apr,handover completed at client site,https://shop.hpstore.pk/enterprise
+ORD23-71104,BR2021/PK-1217,PRD-535,27 units,,WH LHR 03,0%,May,reconciled against monthly statement,http://orders.lenovo-pk.com/renewal
+ORD23-71105,CUST-PK-1236,PRD-766,20 units,,WH-PEW-06,5%,Jun,[RUSH] deliver before friday,https://portal.techmazone.com.pk/orders/new
+ORD23-71106,BR2021/PK-1127,PRD-668,26 units,Bilal Ansari,WH/MUL/09,5%,Jul,[URGENT] client waiting at site,http://b2b.dell-partners.pk/quote
+ORD23-71107,BR2021/PK-1007,PRD-703,28 units,,wh-lhr-11,0%,Aug,[HOLD] awaiting credit approval,https://shop.hpstore.pk/checkout
+ORD23-71108,2024-PK_1120,PRD-514,15 units,,WH KHI 06,7.5%,Sep,[PRIORITY] escalated by manager,http://orders.lenovo-pk.com/b2b/new
+ORD23-71109,BR2021/PK-1177,PRD-766,23 units,,WH-FSD-12,15%,Oct,[BACKORDER] awaiting stock from vendor,https://www.acer-distributor.pk/cart
+ORD23-71110,Customer: PK-1103 (2017),PRD-738,9 units,Salman Tariq,WH/FSD/09,10%,Nov,[SPLIT] shipping in two lots,https://portal.techmazone.com.pk/orders/repeat
+ORD23-71111,Customer: PK-1213 (2017),PRD-675,39 units,,wh-isb-09,10%,Dec,confirm stock before dispatch [pending],http://b2b.dell-partners.pk/renewal
+ORD23-71112,BR2016/PK-1232,PRD-675,32 units,,WH MUL 02,7.5%,Jan,packaging damaged on arrival [reported],https://store.asus-pk.com/business/order
+ORD23-71113,BR2016/PK-1002,PRD-878,3 units,,WH-QTA-10,,Feb,customer asked for invoice [pdf],http://reseller.msi-pakistan.pk/new
+ORD23-71114,BR2021/PK-1167,PRD-605,9 units,,WH/LHR/12,15%,Mar,installation scheduled next week [planned],https://www.samsung-b2b.pk/orders/create
+ORD23-71115,2019-PK_1045,PRD-717,10 units,,wh-lhr-09,15%,Apr,credit terms extended to 60 days [approved],https://shop.hpstore.pk/enterprise
+ORD23-71116,BR2016/PK-1052,PRD-941,20 units,,WH HYD 02,15%,May,serial numbers shared with buyer [done],http://orders.lenovo-pk.com/renewal
+ORD23-71117,BR2016/PK-1152,PRD-759,20 units,,WH-KHI-08,5%,Jun,[VERIFIED],https://portal.techmazone.com.pk/orders/new
+ORD23-71118,2024-PK_1050,PRD-619,4 units,,WH/LHR/09,0%,Jul,[CANCELLED],http://b2b.dell-partners.pk/quote
+ORD23-71119,BR2016/PK-1212,PRD-759,15 units,,wh-pew-09,10%,Aug,[pdf],https://shop.hpstore.pk/checkout
+ORD23-71120,2019-PK_1165,PRD-920,37 units,,WH QTA 08,20%,Sep,[PENDING],http://orders.lenovo-pk.com/b2b/new
+ORD23-71121,cust_pk_1089,PRD-878,3 units,Sarah Nadeem,WH-ISB-03,,Oct,[CLOSED],https://www.acer-distributor.pk/cart
+ORD23-71122,cust_pk_1089,PRD-745,9 units,,WH/HYD/09,,Nov,[flagged],https://portal.techmazone.com.pk/orders/repeat
+ORD23-71123,2019-PK_1015,PRD-864,16 units,,wh-isb-05,15%,Dec,please please confirm the delivery slot,http://b2b.dell-partners.pk/renewal
+ORD23-71124,cust_pk_1094,PRD-556,22 units,,WH FSD 08,20%,Jan,urgent urgent needs same day dispatch,https://store.asus-pk.com/business/order
+ORD23-71125,CUST-PK-1106,PRD-689,12 units,,WH-MUL-07,10%,Feb,call the the customer before loading,http://reseller.msi-pakistan.pk/new
+ORD23-71126,2019-PK_1085,PRD-682,21 units,,WH/RWP/10,20%,Mar,send send updated quotation,https://www.samsung-b2b.pk/orders/create
+ORD23-71127,2019-PK_1035,PRD-563,40 units,,wh-khi-02,5%,Apr,check check the serial before handover,https://shop.hpstore.pk/enterprise
+ORD23-71128,BR2021/PK-1087,PRD-745,4 units,,WH ISB 04,5%,May,very very late response from buyer,http://orders.lenovo-pk.com/renewal
+ORD23-71129,BR2016/PK-1112,PRD-668,36 units,,WH-ISB-05,,Jun,quote sent quote by courier,https://portal.techmazone.com.pk/orders/new
+ORD23-71130,cust_pk_1094,PRD-514,12 units,,WH/RWP/05,12.5%,Jul,invoice raised invoice against PO,http://b2b.dell-partners.pk/quote
+ORD23-71131,CUST-PK-1216,PRD-850,15 units,,wh-pew-05,10%,Aug,stock checked stock at warehouse,https://shop.hpstore.pk/checkout
+ORD23-71132,CUST-PK-1166,PRD-857,29 units,,WH QTA 08,12.5%,Sep,order placed order through portal,http://orders.lenovo-pk.com/b2b/new
+ORD23-71133,Customer: PK-1018 (2022),PRD-941,24 units,Bilal Ansari,WH-FSD-09,7.5%,Oct,unit tested unit before dispatch,https://www.acer-distributor.pk/cart
+ORD23-71134,CUST-PK-1006,PRD-626,3 units,,WH/LHR/05,5%,Nov,send confirmation on e-mail,https://portal.techmazone.com.pk/orders/repeat
+ORD23-71135,BR2016/PK-1152,PRD-591,15 units,,wh-skt-06,12.5%,Dec,confirmation shared over e mail,http://b2b.dell-partners.pk/renewal
+ORD23-71136,cust_pk_1119,PRD-598,14 units,,WH PEW 08,,Jan,customer prefers email only,https://store.asus-pk.com/business/order
+ORD23-71137,BR2016/PK-1162,PRD-647,22 units,,WH-ISB-12,,Feb,resend the E-Mail with pricing,http://reseller.msi-pakistan.pk/new
+ORD23-71138,BR2021/PK-1037,PRD-871,13 units,,WH/QTA/10,5%,Mar,follow up by E mail tomorrow,https://www.samsung-b2b.pk/orders/create
+ORD23-71139,CUST-PK-1236,PRD-507,2 units,,wh-fsd-10,5%,Apr,delivery rescheduled by customer,https://shop.hpstore.pk/enterprise
+ORD23-71140,BR2016/PK-1002,PRD-626,27 units,,WH LHR 01,0%,May,partial shipment agreed with buyer,http://orders.lenovo-pk.com/renewal
+ORD23-71141,2024-PK_1090,PRD-535,16 units,,WH-KHI-03,5%,Jun,payment cleared through bank transfer,https://portal.techmazone.com.pk/orders/new
+ORD23-71142,BR2016/PK-1182,PRD-605,31 units,Bilal Ansari,WH/FSD/03,0%,Jul,warranty card missing from carton,http://b2b.dell-partners.pk/quote
+ORD23-71143,BR2016/PK-1162,PRD-626,22 units,,wh-lhr-03,,Aug,buyer collected from warehouse directly,https://shop.hpstore.pk/checkout
+ORD23-71144,cust_pk_1029,PRD-850,5 units,,WH QTA 03,0%,Sep,routed via third party logistics,http://orders.lenovo-pk.com/b2b/new
+ORD23-71145,CUST-PK-1236,PRD-535,33 units,,WH-ISB-05,20%,Oct,customer requested extended warranty,https://www.acer-distributor.pk/cart
+ORD23-71146,cust_pk_1149,PRD-612,39 units,,WH/MUL/09,12.5%,Nov,bulk order for a branch rollout,https://portal.techmazone.com.pk/orders/repeat
+ORD23-71147,2024-PK_1100,PRD-591,28 units,,wh-fsd-09,5%,Dec,replacement unit issued to client,http://b2b.dell-partners.pk/renewal
+ORD23-71148,2024-PK_1170,PRD-759,6 units,,WH PEW 04,0%,Jan,documentation shared with accounts,https://store.asus-pk.com/business/order
+ORD23-71149,BR2021/PK-1217,PRD-689,35 units,,WH-SKT-04,12.5%,Feb,purchase order attached to file,http://reseller.msi-pakistan.pk/new
+ORD23-71150,CUST-PK-1231,PRD-766,19 units,Ayesha Malik,WH/FSD/11,5%,Mar,dispatch confirmed by warehouse team,https://www.samsung-b2b.pk/orders/create
+ORD23-71151,2019-PK_1185,PRD-542,4 units,,wh-hyd-01,5%,Apr,handover completed at client site,https://shop.hpstore.pk/enterprise
+ORD23-71152,cust_pk_1234,PRD-703,33 units,,WH QTA 09,15%,May,reconciled against monthly statement,http://orders.lenovo-pk.com/renewal
+ORD23-71153,BR2016/PK-1012,PRD-689,1 units,Omar Siddiqui,WH-PEW-11,,Jun,[RUSH] deliver before friday,https://portal.techmazone.com.pk/orders/new
+ORD23-71154,Customer: PK-1158 (2022),PRD-850,18 units,,WH/SKT/02,20%,Jul,[URGENT] client waiting at site,http://b2b.dell-partners.pk/quote
+ORD23-71155,2024-PK_1160,PRD-899,8 units,,wh-lhr-01,10%,Aug,[HOLD] awaiting credit approval,https://shop.hpstore.pk/checkout
+ORD23-71156,cust_pk_1014,PRD-892,25 units,,WH KHI 01,10%,Sep,[PRIORITY] escalated by manager,http://orders.lenovo-pk.com/b2b/new
+ORD23-71157,BR2021/PK-1037,PRD-857,1 units,,WH-FSD-06,12.5%,Oct,[BACKORDER] awaiting stock from vendor,https://www.acer-distributor.pk/cart
+ORD23-71158,cust_pk_1144,PRD-647,29 units,,WH/SKT/07,12.5%,Nov,[SPLIT] shipping in two lots,https://portal.techmazone.com.pk/orders/repeat
+ORD23-71159,2019-PK_1015,PRD-689,36 units,,wh-mul-10,15%,Dec,confirm stock before dispatch [pending],http://b2b.dell-partners.pk/renewal
+ORD23-71160,2024-PK_1050,PRD-899,39 units,,WH LHR 06,,Jan,packaging damaged on arrival [reported],https://store.asus-pk.com/business/order
+ORD23-71161,BR2021/PK-1217,PRD-766,5 units,,WH-HYD-06,7.5%,Feb,customer asked for invoice [pdf],http://reseller.msi-pakistan.pk/new
+ORD23-71162,2024-PK_1070,PRD-899,37 units,,WH/ISB/04,15%,Mar,installation scheduled next week [planned],https://www.samsung-b2b.pk/orders/create
+ORD23-71163,Customer: PK-1223 (2017),PRD-885,9 units,,wh-khi-01,20%,Apr,credit terms extended to 60 days [approved],https://shop.hpstore.pk/enterprise
+ORD23-71164,BR2016/PK-1012,PRD-822,36 units,Salman Tariq,WH FSD 07,,May,serial numbers shared with buyer [done],http://orders.lenovo-pk.com/renewal
+ORD23-71165,BR2021/PK-1067,PRD-661,25 units,,WH-LHR-04,5%,Jun,[VERIFIED],https://portal.techmazone.com.pk/orders/new
+ORD23-71166,BR2016/PK-1202,PRD-521,38 units,,WH/KHI/10,5%,Jul,[CANCELLED],http://b2b.dell-partners.pk/quote
+ORD23-71167,CUST-PK-1201,PRD-584,27 units,,wh-hyd-08,5%,Aug,[pdf],https://shop.hpstore.pk/checkout
+ORD23-71168,BR2021/PK-1167,PRD-927,36 units,,WH ISB 02,10%,Sep,[PENDING],http://orders.lenovo-pk.com/b2b/new
+ORD23-71169,2019-PK_1165,PRD-948,3 units,,WH-SKT-02,20%,Oct,[CLOSED],https://www.acer-distributor.pk/cart
+ORD23-71170,2019-PK_1225,PRD-941,14 units,,WH/ISB/07,12.5%,Nov,[flagged],https://portal.techmazone.com.pk/orders/repeat
+ORD23-71171,2019-PK_1205,PRD-682,36 units,,wh-isb-05,0%,Dec,please please confirm the delivery slot,http://b2b.dell-partners.pk/renewal
+ORD23-71172,Customer: PK-1238 (2022),PRD-696,7 units,,WH MUL 11,0%,Jan,urgent urgent needs same day dispatch,https://store.asus-pk.com/business/order
+ORD23-71173,Customer: PK-1138 (2022),PRD-801,15 units,,WH-PEW-07,0%,Feb,call the the customer before loading,http://reseller.msi-pakistan.pk/new
+ORD23-71174,BR2016/PK-1052,PRD-892,36 units,,WH/KHI/02,12.5%,Mar,send send updated quotation,https://www.samsung-b2b.pk/orders/create
+ORD23-71175,cust_pk_1199,PRD-717,38 units,,wh-lhr-10,5%,Apr,check check the serial before handover,https://shop.hpstore.pk/enterprise
+ORD23-71176,BR2021/PK-1047,PRD-577,22 units,Hamza Sheikh,WH MUL 10,15%,May,very very late response from buyer,http://orders.lenovo-pk.com/renewal
+ORD23-71177,CUST-PK-1036,PRD-591,17 units,,WH-RWP-07,20%,Jun,quote sent quote by courier,https://portal.techmazone.com.pk/orders/new
+ORD23-71178,Customer: PK-1048 (2022),PRD-528,25 units,,WH/MUL/02,5%,Jul,invoice raised invoice against PO,http://b2b.dell-partners.pk/quote
+ORD23-71179,Customer: PK-1158 (2022),PRD-948,36 units,Fatima Zafar,wh-fsd-01,20%,Aug,stock checked stock at warehouse,https://shop.hpstore.pk/checkout
+ORD23-71180,cust_pk_1124,PRD-542,36 units,,WH HYD 01,,Sep,order placed order through portal,http://orders.lenovo-pk.com/b2b/new
+ORD23-71181,Customer: PK-1098 (2022),PRD-745,29 units,,WH-FSD-04,0%,Oct,unit tested unit before dispatch,https://www.acer-distributor.pk/cart
+ORD23-71182,CUST-PK-1231,PRD-794,30 units,,WH/HYD/11,10%,Nov,send confirmation on e-mail,https://portal.techmazone.com.pk/orders/repeat
+ORD23-71183,Customer: PK-1178 (2022),PRD-668,38 units,,wh-hyd-07,5%,Dec,confirmation shared over e mail,http://b2b.dell-partners.pk/renewal
+ORD23-71184,CUST-PK-1176,PRD-794,3 units,,WH PEW 10,7.5%,Jan,customer prefers email only,https://store.asus-pk.com/business/order
+ORD23-71185,CUST-PK-1141,PRD-759,38 units,,WH-KHI-02,0%,Feb,resend the E-Mail with pricing,http://reseller.msi-pakistan.pk/new
+ORD23-71186,Customer: PK-1173 (2017),PRD-871,24 units,,WH/ISB/08,10%,Mar,follow up by E mail tomorrow,https://www.samsung-b2b.pk/orders/create
+ORD23-71187,cust_pk_1109,PRD-591,11 units,Bilal Ansari,wh-skt-09,,Apr,delivery rescheduled by customer,https://shop.hpstore.pk/enterprise
+ORD23-71188,Customer: PK-1093 (2017),PRD-598,38 units,,WH FSD 11,5%,May,partial shipment agreed with buyer,http://orders.lenovo-pk.com/renewal
+ORD23-71189,CUST-PK-1226,PRD-542,39 units,,WH-KHI-06,,Jun,payment cleared through bank transfer,https://portal.techmazone.com.pk/orders/new
+ORD23-71190,2019-PK_1225,PRD-766,14 units,,WH/PEW/11,5%,Jul,warranty card missing from carton,http://b2b.dell-partners.pk/quote
+ORD23-71191,2024-PK_1160,PRD-675,38 units,,wh-isb-08,7.5%,Aug,buyer collected from warehouse directly,https://shop.hpstore.pk/checkout
+ORD23-71192,BR2016/PK-1162,PRD-675,38 units,,WH FSD 05,10%,Sep,routed via third party logistics,http://orders.lenovo-pk.com/b2b/new
+ORD23-71193,Customer: PK-1013 (2017),PRD-626,2 units,,WH-LHR-07,10%,Oct,customer requested extended warranty,https://www.acer-distributor.pk/cart
+ORD23-71194,CUST-PK-1051,PRD-654,17 units,,WH/ISB/04,0%,Nov,bulk order for a branch rollout,https://portal.techmazone.com.pk/orders/repeat
+ORD23-71195,cust_pk_1104,PRD-766,28 units,,wh-pew-08,20%,Dec,replacement unit issued to client,http://b2b.dell-partners.pk/renewal
+ORD23-71196,cust_pk_1034,PRD-598,22 units,,WH MUL 03,12.5%,Jan,documentation shared with accounts,https://store.asus-pk.com/business/order
+ORD23-71197,cust_pk_1134,PRD-857,29 units,,WH-FSD-11,12.5%,Feb,purchase order attached to file,http://reseller.msi-pakistan.pk/new
+ORD23-71198,cust_pk_1209,PRD-927,38 units,,WH/SKT/11,15%,Mar,dispatch confirmed by warehouse team,https://www.samsung-b2b.pk/orders/create
+ORD23-71199,BR2021/PK-1007,PRD-507,21 units,Hira Baig,wh-khi-07,7.5%,Apr,handover completed at client site,https://shop.hpstore.pk/enterprise
+ORD23-71200,Customer: PK-1038 (2022),PRD-654,30 units,,WH ISB 07,20%,May,reconciled against monthly statement,http://orders.lenovo-pk.com/renewal
+ORD23-71201,2019-PK_1185,PRD-738,13 units,,WH-ISB-12,7.5%,Jun,[RUSH] deliver before friday,https://portal.techmazone.com.pk/orders/new
+ORD23-71202,cust_pk_1044,PRD-528,15 units,,WH/HYD/04,15%,Jul,[URGENT] client waiting at site,http://b2b.dell-partners.pk/quote
+ORD23-71203,cust_pk_1139,PRD-584,31 units,Hamza Sheikh,wh-hyd-08,12.5%,Aug,[HOLD] awaiting credit approval,https://shop.hpstore.pk/checkout
+ORD23-71204,CUST-PK-1026,PRD-654,40 units,,WH RWP 07,12.5%,Sep,[PRIORITY] escalated by manager,http://orders.lenovo-pk.com/b2b/new
+ORD23-71205,BR2021/PK-1077,PRD-885,36 units,,WH-MUL-02,20%,Oct,[BACKORDER] awaiting stock from vendor,https://www.acer-distributor.pk/cart
+ORD23-71206,CUST-PK-1071,PRD-661,37 units,,WH/RWP/06,7.5%,Nov,[SPLIT] shipping in two lots,https://portal.techmazone.com.pk/orders/repeat
+ORD23-71207,cust_pk_1129,PRD-514,39 units,,wh-isb-10,5%,Dec,confirm stock before dispatch [pending],http://b2b.dell-partners.pk/renewal
+ORD23-71208,Customer: PK-1088 (2022),PRD-941,14 units,,WH MUL 08,5%,Jan,packaging damaged on arrival [reported],https://store.asus-pk.com/business/order
+ORD23-71209,Customer: PK-1218 (2022),PRD-710,2 units,,WH-SKT-05,5%,Feb,customer asked for invoice [pdf],http://reseller.msi-pakistan.pk/new
+ORD23-71210,Customer: PK-1063 (2017),PRD-871,35 units,,WH/HYD/03,0%,Mar,installation scheduled next week [planned],https://www.samsung-b2b.pk/orders/create
+ORD23-71211,CUST-PK-1161,PRD-612,25 units,,wh-mul-03,20%,Apr,credit terms extended to 60 days [approved],https://shop.hpstore.pk/enterprise
+ORD23-71212,CUST-PK-1156,PRD-626,29 units,,WH LHR 05,,May,serial numbers shared with buyer [done],http://orders.lenovo-pk.com/renewal
+ORD23-71213,Customer: PK-1083 (2017),PRD-528,16 units,,WH-QTA-05,10%,Jun,[VERIFIED],https://portal.techmazone.com.pk/orders/new
+ORD23-71214,2019-PK_1035,PRD-654,33 units,,WH/RWP/12,20%,Jul,[CANCELLED],http://b2b.dell-partners.pk/quote
+ORD23-71215,Customer: PK-1123 (2017),PRD-787,29 units,Fatima Zafar,wh-hyd-09,5%,Aug,[pdf],https://shop.hpstore.pk/checkout
+ORD23-71216,BR2016/PK-1012,PRD-696,2 units,,WH RWP 07,20%,Sep,[PENDING],http://orders.lenovo-pk.com/b2b/new
+ORD23-71217,CUST-PK-1041,PRD-633,5 units,,WH-RWP-10,0%,Oct,[CLOSED],https://www.acer-distributor.pk/cart
+ORD23-71218,cust_pk_1194,PRD-591,1 units,,WH/SKT/08,15%,Nov,[flagged],https://portal.techmazone.com.pk/orders/repeat
+ORD23-71219,2024-PK_1210,PRD-542,8 units,,wh-hyd-02,12.5%,Dec,please please confirm the delivery slot,http://b2b.dell-partners.pk/renewal
+ORD23-71220,CUST-PK-1131,PRD-934,1 units,,WH ISB 10,12.5%,Jan,urgent urgent needs same day dispatch,https://store.asus-pk.com/business/order
+ORD23-71221,BR2016/PK-1052,PRD-591,21 units,,WH-LHR-12,5%,Feb,call the the customer before loading,http://reseller.msi-pakistan.pk/new
+ORD23-71222,CUST-PK-1046,PRD-885,31 units,,WH/QTA/04,5%,Mar,send send updated quotation,https://www.samsung-b2b.pk/orders/create
+ORD23-71223,cust_pk_1169,PRD-507,24 units,Bilal Ansari,wh-mul-04,,Apr,check check the serial before handover,https://shop.hpstore.pk/enterprise
+ORD23-71224,2019-PK_1085,PRD-738,20 units,,WH ISB 07,,May,very very late response from buyer,http://orders.lenovo-pk.com/renewal
+ORD23-71225,Customer: PK-1113 (2017),PRD-584,16 units,,WH-FSD-04,12.5%,Jun,quote sent quote by courier,https://portal.techmazone.com.pk/orders/new
+ORD23-71226,CUST-PK-1016,PRD-598,38 units,,WH/HYD/09,,Jul,invoice raised invoice against PO,http://b2b.dell-partners.pk/quote
+ORD23-71227,CUST-PK-1091,PRD-563,24 units,,wh-khi-02,5%,Aug,stock checked stock at warehouse,https://shop.hpstore.pk/checkout
+ORD23-71228,CUST-PK-1141,PRD-535,31 units,Ali Raza,WH HYD 10,0%,Sep,order placed order through portal,http://orders.lenovo-pk.com/b2b/new
+ORD23-71229,Customer: PK-1203 (2017),PRD-605,17 units,,WH-FSD-06,,Oct,unit tested unit before dispatch,https://www.acer-distributor.pk/cart
+ORD23-71230,Customer: PK-1108 (2022),PRD-591,6 units,,WH/LHR/11,0%,Nov,send confirmation on e-mail,https://portal.techmazone.com.pk/orders/repeat
+ORD23-71231,2019-PK_1225,PRD-864,2 units,,wh-rwp-06,15%,Dec,confirmation shared over e mail,http://b2b.dell-partners.pk/renewal
+ORD23-71232,BR2021/PK-1017,PRD-843,4 units,,WH SKT 09,10%,Jan,customer prefers email only,https://store.asus-pk.com/business/order
+ORD23-71233,Customer: PK-1138 (2022),PRD-577,15 units,,WH-KHI-12,10%,Feb,resend the E-Mail with pricing,http://reseller.msi-pakistan.pk/new
+ORD23-71234,cust_pk_1039,PRD-885,18 units,,WH/QTA/05,7.5%,Mar,follow up by E mail tomorrow,https://www.samsung-b2b.pk/orders/create
+ORD23-71235,BR2021/PK-1167,PRD-948,18 units,,wh-hyd-02,5%,Apr,delivery rescheduled by customer,https://shop.hpstore.pk/enterprise
+ORD23-71236,CUST-PK-1086,PRD-584,12 units,,WH LHR 01,20%,May,partial shipment agreed with buyer,http://orders.lenovo-pk.com/renewal
+ORD23-71237,BR2021/PK-1147,PRD-822,33 units,,WH-SKT-07,10%,Jun,payment cleared through bank transfer,https://portal.techmazone.com.pk/orders/new
+ORD23-71238,Customer: PK-1188 (2022),PRD-654,33 units,,WH/ISB/12,7.5%,Jul,warranty card missing from carton,http://b2b.dell-partners.pk/quote
+ORD23-71239,Customer: PK-1173 (2017),PRD-738,8 units,,wh-qta-12,10%,Aug,buyer collected from warehouse directly,https://shop.hpstore.pk/checkout
+ORD23-71240,CUST-PK-1001,PRD-913,32 units,Ayesha Malik,WH QTA 11,15%,Sep,routed via third party logistics,http://orders.lenovo-pk.com/b2b/new
+ORD23-71241,CUST-PK-1136,PRD-598,18 units,,WH-MUL-05,12.5%,Oct,customer requested extended warranty,https://www.acer-distributor.pk/cart
+ORD23-71242,Customer: PK-1068 (2022),PRD-507,21 units,,WH/HYD/03,20%,Nov,bulk order for a branch rollout,https://portal.techmazone.com.pk/orders/repeat
+ORD23-71243,2024-PK_1110,PRD-885,30 units,,wh-rwp-09,5%,Dec,replacement unit issued to client,http://b2b.dell-partners.pk/renewal
+ORD23-71244,cust_pk_1114,PRD-619,4 units,,WH SKT 05,7.5%,Jan,documentation shared with accounts,https://store.asus-pk.com/business/order
+ORD23-71245,BR2016/PK-1082,PRD-885,1 units,,WH-FSD-06,15%,Feb,purchase order attached to file,http://reseller.msi-pakistan.pk/new
+ORD23-71246,Customer: PK-1228 (2022),PRD-703,23 units,,WH/ISB/02,20%,Mar,dispatch confirmed by warehouse team,https://www.samsung-b2b.pk/orders/create
+ORD23-71247,BR2016/PK-1232,PRD-871,5 units,,wh-khi-12,,Apr,handover completed at client site,https://shop.hpstore.pk/enterprise
+ORD23-71248,cust_pk_1104,PRD-528,25 units,,WH HYD 03,15%,May,reconciled against monthly statement,http://orders.lenovo-pk.com/renewal
+ORD23-71249,2024-PK_1010,PRD-682,31 units,,WH-RWP-03,10%,Jun,[RUSH] deliver before friday,https://portal.techmazone.com.pk/orders/new
+ORD23-71250,CUST-PK-1131,PRD-542,12 units,,WH/KHI/06,,Jul,[URGENT] client waiting at site,http://b2b.dell-partners.pk/quote
+ORD23-71251,BR2021/PK-1157,PRD-682,4 units,Fatima Zafar,wh-isb-10,5%,Aug,[HOLD] awaiting credit approval,https://shop.hpstore.pk/checkout
+ORD23-71252,cust_pk_1199,PRD-570,40 units,,WH LHR 11,,Sep,[PRIORITY] escalated by manager,http://orders.lenovo-pk.com/b2b/new
+ORD23-71253,cust_pk_1139,PRD-556,33 units,,WH-KHI-09,5%,Oct,[BACKORDER] awaiting stock from vendor,https://www.acer-distributor.pk/cart
+ORD23-71254,2019-PK_1035,PRD-927,25 units,,WH/HYD/12,0%,Nov,[SPLIT] shipping in two lots,https://portal.techmazone.com.pk/orders/repeat
+ORD23-71255,BR2021/PK-1017,PRD-556,28 units,,wh-pew-06,7.5%,Dec,confirm stock before dispatch [pending],http://b2b.dell-partners.pk/renewal
+ORD23-71256,Customer: PK-1228 (2022),PRD-675,5 units,,WH ISB 04,10%,Jan,packaging damaged on arrival [reported],https://store.asus-pk.com/business/order
+ORD23-71257,cust_pk_1174,PRD-745,26 units,,WH-FSD-01,10%,Feb,customer asked for invoice [pdf],http://reseller.msi-pakistan.pk/new
+ORD23-71258,2024-PK_1010,PRD-528,22 units,Ayesha Malik,WH/HYD/10,5%,Mar,installation scheduled next week [planned],https://www.samsung-b2b.pk/orders/create
+ORD23-71259,Customer: PK-1053 (2017),PRD-857,6 units,,wh-mul-06,0%,Apr,credit terms extended to 60 days [approved],https://shop.hpstore.pk/enterprise
+ORD23-71260,cust_pk_1084,PRD-605,17 units,,WH MUL 11,,May,serial numbers shared with buyer [done],http://orders.lenovo-pk.com/renewal
+ORD23-71261,Customer: PK-1203 (2017),PRD-857,22 units,,WH-SKT-01,,Jun,[VERIFIED],https://portal.techmazone.com.pk/orders/new
+ORD23-71262,2024-PK_1060,PRD-612,22 units,,WH/LHR/12,5%,Jul,[CANCELLED],http://b2b.dell-partners.pk/quote
+ORD23-71263,cust_pk_1079,PRD-850,39 units,,wh-mul-02,10%,Aug,[pdf],https://shop.hpstore.pk/checkout
+ORD23-71264,CUST-PK-1021,PRD-612,39 units,,WH LHR 01,0%,Sep,[PENDING],http://orders.lenovo-pk.com/b2b/new
+ORD23-71265,CUST-PK-1211,PRD-689,24 units,,WH-RWP-05,7.5%,Oct,[CLOSED],https://www.acer-distributor.pk/cart
+ORD23-71266,cust_pk_1004,PRD-689,24 units,,WH/RWP/11,10%,Nov,[flagged],https://portal.techmazone.com.pk/orders/repeat
+ORD23-71267,cust_pk_1074,PRD-598,20 units,,wh-qta-12,0%,Dec,please please confirm the delivery slot,http://b2b.dell-partners.pk/renewal
+ORD23-71268,2024-PK_1240,PRD-927,20 units,,WH QTA 04,0%,Jan,urgent urgent needs same day dispatch,https://store.asus-pk.com/business/order
+ORD23-71269,cust_pk_1129,PRD-696,21 units,Fatima Zafar,WH-ISB-03,5%,Feb,call the the customer before loading,http://reseller.msi-pakistan.pk/new
+ORD23-71270,CUST-PK-1061,PRD-675,4 units,,WH/LHR/11,5%,Mar,send send updated quotation,https://www.samsung-b2b.pk/orders/create
+ORD23-71271,Customer: PK-1008 (2022),PRD-633,12 units,,wh-qta-12,7.5%,Apr,check check the serial before handover,https://shop.hpstore.pk/enterprise
+ORD23-71272,cust_pk_1164,PRD-871,13 units,,WH PEW 09,20%,May,very very late response from buyer,http://orders.lenovo-pk.com/renewal
+ORD23-71273,2019-PK_1005,PRD-591,30 units,,WH-HYD-01,0%,Jun,quote sent quote by courier,https://portal.techmazone.com.pk/orders/new
+ORD23-71274,BR2021/PK-1057,PRD-878,31 units,,WH/QTA/10,0%,Jul,invoice raised invoice against PO,http://b2b.dell-partners.pk/quote
+ORD23-71275,BR2016/PK-1122,PRD-542,36 units,,wh-khi-03,5%,Aug,stock checked stock at warehouse,https://shop.hpstore.pk/checkout
+ORD23-71276,Customer: PK-1213 (2017),PRD-654,12 units,,WH KHI 11,10%,Sep,order placed order through portal,http://orders.lenovo-pk.com/b2b/new
+ORD23-71277,CUST-PK-1146,PRD-745,10 units,Bilal Ansari,WH-ISB-12,0%,Oct,unit tested unit before dispatch,https://www.acer-distributor.pk/cart
+ORD23-71278,cust_pk_1129,PRD-857,13 units,,WH/ISB/01,0%,Nov,send confirmation on e-mail,https://portal.techmazone.com.pk/orders/repeat
+ORD23-71279,2024-PK_1230,PRD-521,6 units,,wh-pew-08,10%,Dec,confirmation shared over e mail,http://b2b.dell-partners.pk/renewal
+ORD23-71280,BR2021/PK-1227,PRD-661,30 units,,WH HYD 03,7.5%,Jan,customer prefers email only,https://store.asus-pk.com/business/order
+ORD23-71281,BR2021/PK-1077,PRD-514,36 units,,WH-MUL-06,0%,Feb,resend the E-Mail with pricing,http://reseller.msi-pakistan.pk/new
+ORD23-71282,CUST-PK-1096,PRD-682,10 units,,WH/RWP/12,7.5%,Mar,follow up by E mail tomorrow,https://www.samsung-b2b.pk/orders/create
+ORD23-71283,cust_pk_1184,PRD-514,23 units,,wh-hyd-06,0%,Apr,delivery rescheduled by customer,https://shop.hpstore.pk/enterprise
+ORD23-71284,2019-PK_1045,PRD-731,32 units,,WH KHI 05,0%,May,partial shipment agreed with buyer,http://orders.lenovo-pk.com/renewal
+ORD23-71285,cust_pk_1239,PRD-801,16 units,,WH-MUL-11,0%,Jun,payment cleared through bank transfer,https://portal.techmazone.com.pk/orders/new
+ORD23-71286,BR2021/PK-1137,PRD-563,11 units,,WH/KHI/06,5%,Jul,warranty card missing from carton,http://b2b.dell-partners.pk/quote
+ORD23-71287,cust_pk_1074,PRD-843,5 units,Fatima Zafar,wh-rwp-06,7.5%,Aug,buyer collected from warehouse directly,https://shop.hpstore.pk/checkout
+ORD23-71288,BR2021/PK-1107,PRD-801,30 units,,WH FSD 03,5%,Sep,routed via third party logistics,http://orders.lenovo-pk.com/b2b/new
+ORD23-71289,Customer: PK-1193 (2017),PRD-682,1 units,,WH-ISB-12,15%,Oct,customer requested extended warranty,https://www.acer-distributor.pk/cart
+ORD23-71290,BR2016/PK-1052,PRD-843,8 units,,WH/ISB/09,10%,Nov,bulk order for a branch rollout,https://portal.techmazone.com.pk/orders/repeat
+ORD23-71291,BR2021/PK-1237,PRD-591,37 units,,wh-skt-02,10%,Dec,replacement unit issued to client,http://b2b.dell-partners.pk/renewal
+ORD23-71292,cust_pk_1204,PRD-689,35 units,,WH RWP 02,20%,Jan,documentation shared with accounts,https://store.asus-pk.com/business/order
+ORD23-71293,BR2016/PK-1022,PRD-577,14 units,,WH-LHR-07,5%,Feb,purchase order attached to file,http://reseller.msi-pakistan.pk/new
+ORD23-71294,Customer: PK-1173 (2017),PRD-605,22 units,,WH/HYD/03,20%,Mar,dispatch confirmed by warehouse team,https://www.samsung-b2b.pk/orders/create
+ORD23-71295,cust_pk_1049,PRD-619,16 units,,wh-lhr-12,7.5%,Apr,handover completed at client site,https://shop.hpstore.pk/enterprise
+ORD23-71296,BR2016/PK-1022,PRD-605,38 units,Fatima Zafar,WH LHR 07,12.5%,May,reconciled against monthly statement,http://orders.lenovo-pk.com/renewal
+ORD23-71297,CUST-PK-1181,PRD-535,37 units,,WH-RWP-10,5%,Jun,[RUSH] deliver before friday,https://portal.techmazone.com.pk/orders/new
+ORD23-71298,Customer: PK-1028 (2022),PRD-885,36 units,,WH/QTA/07,7.5%,Jul,[URGENT] client waiting at site,http://b2b.dell-partners.pk/quote
+ORD23-71299,cust_pk_1234,PRD-864,6 units,,wh-fsd-02,5%,Aug,[HOLD] awaiting credit approval,https://shop.hpstore.pk/checkout
+ORD23-71300,Customer: PK-1153 (2017),PRD-563,20 units,,WH HYD 08,15%,Sep,[PRIORITY] escalated by manager,http://orders.lenovo-pk.com/b2b/new
+ORD23-71301,2024-PK_1080,PRD-633,17 units,Sarah Nadeem,WH-QTA-05,5%,Oct,[BACKORDER] awaiting stock from vendor,https://www.acer-distributor.pk/cart
+ORD23-71302,2019-PK_1125,PRD-556,37 units,,WH/MUL/03,12.5%,Nov,[SPLIT] shipping in two lots,https://portal.techmazone.com.pk/orders/repeat
+ORD23-71303,CUST-PK-1131,PRD-899,27 units,,wh-qta-02,7.5%,Dec,confirm stock before dispatch [pending],http://b2b.dell-partners.pk/renewal
+ORD23-71304,Customer: PK-1168 (2022),PRD-710,35 units,,WH MUL 07,20%,Jan,packaging damaged on arrival [reported],https://store.asus-pk.com/business/order
+ORD23-71305,CUST-PK-1121,PRD-507,6 units,Fatima Zafar,WH-ISB-11,5%,Feb,customer asked for invoice [pdf],http://reseller.msi-pakistan.pk/new
+ORD23-71306,cust_pk_1169,PRD-878,2 units,,WH/ISB/01,0%,Mar,installation scheduled next week [planned],https://www.samsung-b2b.pk/orders/create
+ORD23-71307,cust_pk_1009,PRD-598,21 units,,wh-skt-08,5%,Apr,credit terms extended to 60 days [approved],https://shop.hpstore.pk/enterprise
+ORD23-71308,cust_pk_1179,PRD-591,18 units,,WH MUL 01,0%,May,serial numbers shared with buyer [done],http://orders.lenovo-pk.com/renewal
+ORD23-71309,cust_pk_1149,PRD-864,29 units,,WH-FSD-05,12.5%,Jun,[VERIFIED],https://portal.techmazone.com.pk/orders/new
+ORD23-71310,CUST-PK-1106,PRD-927,38 units,,WH/HYD/11,15%,Jul,[CANCELLED],http://b2b.dell-partners.pk/quote
+ORD23-71311,Customer: PK-1198 (2022),PRD-836,8 units,,wh-fsd-03,10%,Aug,[pdf],https://shop.hpstore.pk/checkout
+ORD23-71312,cust_pk_1039,PRD-598,38 units,Ayesha Malik,WH QTA 04,5%,Sep,[PENDING],http://orders.lenovo-pk.com/b2b/new
+ORD23-71313,2019-PK_1155,PRD-577,4 units,,WH-ISB-01,0%,Oct,[CLOSED],https://www.acer-distributor.pk/cart
+ORD23-71314,CUST-PK-1171,PRD-864,6 units,,WH/QTA/10,12.5%,Nov,[flagged],https://portal.techmazone.com.pk/orders/repeat
+ORD23-71315,2024-PK_1060,PRD-542,31 units,,wh-fsd-06,7.5%,Dec,please please confirm the delivery slot,http://b2b.dell-partners.pk/renewal
+ORD23-71316,CUST-PK-1121,PRD-556,34 units,,WH RWP 05,20%,Jan,urgent urgent needs same day dispatch,https://store.asus-pk.com/business/order
+ORD23-71317,BR2016/PK-1002,PRD-766,18 units,,WH-QTA-06,7.5%,Feb,call the the customer before loading,http://reseller.msi-pakistan.pk/new
+ORD23-71318,Customer: PK-1183 (2017),PRD-675,17 units,,WH/FSD/10,0%,Mar,send send updated quotation,https://www.samsung-b2b.pk/orders/create
+ORD23-71319,cust_pk_1224,PRD-941,5 units,,wh-skt-01,20%,Apr,check check the serial before handover,https://shop.hpstore.pk/enterprise
+ORD23-71320,CUST-PK-1181,PRD-584,17 units,,WH FSD 04,5%,May,very very late response from buyer,http://orders.lenovo-pk.com/renewal
+ORD23-71321,BR2016/PK-1142,PRD-934,13 units,,WH-KHI-08,5%,Jun,quote sent quote by courier,https://portal.techmazone.com.pk/orders/new
+ORD23-71322,2024-PK_1210,PRD-682,11 units,,WH/ISB/10,5%,Jul,invoice raised invoice against PO,http://b2b.dell-partners.pk/quote
+ORD23-71323,Customer: PK-1143 (2017),PRD-577,21 units,,wh-fsd-08,5%,Aug,stock checked stock at warehouse,https://shop.hpstore.pk/checkout
+ORD23-71324,BR2016/PK-1042,PRD-808,28 units,Omar Siddiqui,WH PEW 12,12.5%,Sep,order placed order through portal,http://orders.lenovo-pk.com/b2b/new
+ORD23-71325,CUST-PK-1126,PRD-514,4 units,,WH-MUL-03,15%,Oct,unit tested unit before dispatch,https://www.acer-distributor.pk/cart
+ORD23-71326,CUST-PK-1121,PRD-521,22 units,,WH/KHI/09,5%,Nov,send confirmation on e-mail,https://portal.techmazone.com.pk/orders/repeat
+ORD23-71327,2024-PK_1140,PRD-794,24 units,,wh-khi-10,12.5%,Dec,confirmation shared over e mail,http://b2b.dell-partners.pk/renewal
+ORD23-71328,CUST-PK-1186,PRD-591,28 units,,WH SKT 04,,Jan,customer prefers email only,https://store.asus-pk.com/business/order
+ORD23-71329,cust_pk_1084,PRD-682,15 units,,WH-KHI-10,5%,Feb,resend the E-Mail with pricing,http://reseller.msi-pakistan.pk/new
+ORD23-71330,cust_pk_1124,PRD-563,14 units,,WH/LHR/07,20%,Mar,follow up by E mail tomorrow,https://www.samsung-b2b.pk/orders/create
+ORD23-71331,2019-PK_1025,PRD-857,1 units,,wh-qta-10,7.5%,Apr,delivery rescheduled by customer,https://shop.hpstore.pk/enterprise
+ORD23-71332,Customer: PK-1048 (2022),PRD-626,27 units,Fatima Zafar,WH SKT 08,20%,May,partial shipment agreed with buyer,http://orders.lenovo-pk.com/renewal
+ORD23-71333,CUST-PK-1146,PRD-717,25 units,,WH-PEW-07,,Jun,payment cleared through bank transfer,https://portal.techmazone.com.pk/orders/new
+ORD23-71334,Customer: PK-1138 (2022),PRD-850,23 units,,WH/QTA/12,10%,Jul,warranty card missing from carton,http://b2b.dell-partners.pk/quote
+ORD23-71335,2024-PK_1050,PRD-829,26 units,,wh-fsd-06,20%,Aug,buyer collected from warehouse directly,https://shop.hpstore.pk/checkout
+ORD23-71336,BR2021/PK-1077,PRD-570,30 units,,WH HYD 01,,Sep,routed via third party logistics,http://orders.lenovo-pk.com/b2b/new
+ORD23-71337,CUST-PK-1176,PRD-913,39 units,Sarah Nadeem,WH-HYD-05,5%,Oct,customer requested extended warranty,https://www.acer-distributor.pk/cart
+ORD23-71338,CUST-PK-1031,PRD-794,8 units,,WH/SKT/11,20%,Nov,bulk order for a branch rollout,https://portal.techmazone.com.pk/orders/repeat
+ORD23-71339,BR2016/PK-1012,PRD-738,28 units,,wh-pew-11,10%,Dec,replacement unit issued to client,http://b2b.dell-partners.pk/renewal
+ORD23-71340,cust_pk_1114,PRD-731,30 units,,WH KHI 06,5%,Jan,documentation shared with accounts,https://store.asus-pk.com/business/order
+ORD23-71341,Customer: PK-1148 (2022),PRD-584,1 units,,WH-SKT-01,5%,Feb,purchase order attached to file,http://reseller.msi-pakistan.pk/new
+ORD23-71342,BR2016/PK-1072,PRD-822,5 units,,WH/QTA/04,10%,Mar,dispatch confirmed by warehouse team,https://www.samsung-b2b.pk/orders/create
+ORD23-71343,2024-PK_1170,PRD-577,39 units,,wh-skt-04,15%,Apr,handover completed at client site,https://shop.hpstore.pk/enterprise
+ORD23-71344,CUST-PK-1016,PRD-514,38 units,,WH QTA 02,20%,May,reconciled against monthly statement,http://orders.lenovo-pk.com/renewal
+ORD23-71345,cust_pk_1009,PRD-829,15 units,,WH-MUL-01,10%,Jun,[RUSH] deliver before friday,https://portal.techmazone.com.pk/orders/new
+ORD23-71346,BR2016/PK-1012,PRD-689,6 units,Sarah Nadeem,WH/SKT/04,15%,Jul,[URGENT] client waiting at site,http://b2b.dell-partners.pk/quote
+ORD23-71347,2019-PK_1225,PRD-598,34 units,,wh-hyd-02,7.5%,Aug,[HOLD] awaiting credit approval,https://shop.hpstore.pk/checkout
+ORD23-71348,Customer: PK-1203 (2017),PRD-864,12 units,,WH LHR 12,5%,Sep,[PRIORITY] escalated by manager,http://orders.lenovo-pk.com/b2b/new
+ORD23-71349,2024-PK_1020,PRD-682,22 units,,WH-ISB-03,5%,Oct,[BACKORDER] awaiting stock from vendor,https://www.acer-distributor.pk/cart
+ORD23-71350,Customer: PK-1233 (2017),PRD-829,22 units,,WH/QTA/04,10%,Nov,[SPLIT] shipping in two lots,https://portal.techmazone.com.pk/orders/repeat
+ORD23-71351,2019-PK_1145,PRD-808,22 units,,wh-lhr-12,10%,Dec,confirm stock before dispatch [pending],http://b2b.dell-partners.pk/renewal
+ORD23-71352,CUST-PK-1036,PRD-885,33 units,,WH RWP 05,20%,Jan,packaging damaged on arrival [reported],https://store.asus-pk.com/business/order
+ORD23-71353,CUST-PK-1231,PRD-661,38 units,,WH-ISB-05,20%,Feb,customer asked for invoice [pdf],http://reseller.msi-pakistan.pk/new
+ORD23-71354,cust_pk_1019,PRD-717,31 units,,WH/RWP/01,20%,Mar,installation scheduled next week [planned],https://www.samsung-b2b.pk/orders/create
+ORD23-71355,2019-PK_1215,PRD-514,8 units,,wh-rwp-02,15%,Apr,credit terms extended to 60 days [approved],https://shop.hpstore.pk/enterprise
+ORD23-71356,BR2021/PK-1197,PRD-619,22 units,Hamza Sheikh,WH SKT 08,7.5%,May,serial numbers shared with buyer [done],http://orders.lenovo-pk.com/renewal
+ORD23-71357,CUST-PK-1091,PRD-633,16 units,,WH-ISB-02,0%,Jun,[VERIFIED],https://portal.techmazone.com.pk/orders/new
+ORD23-71358,BR2016/PK-1092,PRD-528,12 units,,WH/QTA/11,5%,Jul,[CANCELLED],http://b2b.dell-partners.pk/quote
+ORD23-71359,Customer: PK-1058 (2022),PRD-948,10 units,,wh-lhr-02,5%,Aug,[pdf],https://shop.hpstore.pk/checkout
+ORD23-71360,CUST-PK-1091,PRD-773,25 units,,WH LHR 10,15%,Sep,[PENDING],http://orders.lenovo-pk.com/b2b/new
+ORD23-71361,2019-PK_1185,PRD-542,39 units,,WH-KHI-04,15%,Oct,[CLOSED],https://www.acer-distributor.pk/cart
+ORD23-71362,cust_pk_1114,PRD-738,5 units,,WH/FSD/04,7.5%,Nov,[flagged],https://portal.techmazone.com.pk/orders/repeat
+ORD23-71363,BR2016/PK-1012,PRD-843,2 units,Ali Raza,wh-fsd-10,,Dec,please please confirm the delivery slot,http://b2b.dell-partners.pk/renewal
+ORD23-71364,2024-PK_1070,PRD-612,9 units,,WH LHR 07,10%,Jan,urgent urgent needs same day dispatch,https://store.asus-pk.com/business/order
+ORD23-71365,Customer: PK-1183 (2017),PRD-605,27 units,,WH-QTA-07,5%,Feb,call the the customer before loading,http://reseller.msi-pakistan.pk/new
+ORD23-71366,CUST-PK-1116,PRD-731,27 units,,WH/QTA/11,,Mar,send send updated quotation,https://www.samsung-b2b.pk/orders/create
+ORD23-71367,cust_pk_1124,PRD-878,15 units,,wh-skt-05,5%,Apr,check check the serial before handover,https://shop.hpstore.pk/enterprise
+ORD23-71368,cust_pk_1069,PRD-598,21 units,,WH KHI 01,5%,May,very very late response from buyer,http://orders.lenovo-pk.com/renewal
+ORD23-71369,CUST-PK-1156,PRD-563,25 units,,WH-HYD-07,10%,Jun,quote sent quote by courier,https://portal.techmazone.com.pk/orders/new
+ORD23-71370,2019-PK_1205,PRD-885,29 units,,WH/FSD/05,,Jul,invoice raised invoice against PO,http://b2b.dell-partners.pk/quote
+ORD23-71371,CUST-PK-1066,PRD-584,31 units,,wh-fsd-10,20%,Aug,stock checked stock at warehouse,https://shop.hpstore.pk/checkout
+ORD23-71372,2024-PK_1010,PRD-577,23 units,Ali Raza,WH ISB 02,5%,Sep,order placed order through portal,http://orders.lenovo-pk.com/b2b/new
+ORD23-71373,Customer: PK-1223 (2017),PRD-773,37 units,,WH-PEW-11,20%,Oct,unit tested unit before dispatch,https://www.acer-distributor.pk/cart
+ORD23-71374,Customer: PK-1183 (2017),PRD-528,12 units,,WH/KHI/09,5%,Nov,send confirmation on e-mail,https://portal.techmazone.com.pk/orders/repeat
+ORD23-71375,2019-PK_1195,PRD-556,13 units,,wh-hyd-09,5%,Dec,confirmation shared over e mail,http://b2b.dell-partners.pk/renewal
+ORD23-71376,2019-PK_1075,PRD-703,40 units,,WH RWP 03,10%,Jan,customer prefers email only,https://store.asus-pk.com/business/order
+ORD23-71377,cust_pk_1204,PRD-948,26 units,,WH-HYD-02,15%,Feb,resend the E-Mail with pricing,http://reseller.msi-pakistan.pk/new
+ORD23-71378,Customer: PK-1178 (2022),PRD-850,16 units,,WH/QTA/04,5%,Mar,follow up by E mail tomorrow,https://www.samsung-b2b.pk/orders/create
+ORD23-71379,2019-PK_1105,PRD-850,39 units,,wh-mul-08,10%,Apr,delivery rescheduled by customer,https://shop.hpstore.pk/enterprise
+ORD23-71380,CUST-PK-1056,PRD-808,19 units,,WH RWP 12,7.5%,May,partial shipment agreed with buyer,http://orders.lenovo-pk.com/renewal
+ORD23-71381,CUST-PK-1231,PRD-682,5 units,,WH-RWP-12,5%,Jun,payment cleared through bank transfer,https://portal.techmazone.com.pk/orders/new
+ORD23-71382,2019-PK_1015,PRD-773,36 units,,WH/HYD/08,5%,Jul,warranty card missing from carton,http://b2b.dell-partners.pk/quote
+ORD23-71383,cust_pk_1214,PRD-703,12 units,,wh-rwp-03,12.5%,Aug,buyer collected from warehouse directly,https://shop.hpstore.pk/checkout
+ORD23-71384,Customer: PK-1043 (2017),PRD-647,23 units,Ayesha Malik,WH ISB 09,0%,Sep,routed via third party logistics,http://orders.lenovo-pk.com/b2b/new
+ORD23-71385,2019-PK_1235,PRD-598,22 units,,WH-FSD-01,10%,Oct,customer requested extended warranty,https://www.acer-distributor.pk/cart
+ORD23-71386,CUST-PK-1061,PRD-605,31 units,,WH/MUL/12,7.5%,Nov,bulk order for a branch rollout,https://portal.techmazone.com.pk/orders/repeat
+ORD23-71387,2019-PK_1145,PRD-626,38 units,,wh-lhr-05,7.5%,Dec,replacement unit issued to client,http://b2b.dell-partners.pk/renewal
+ORD23-71388,2019-PK_1175,PRD-913,38 units,,WH MUL 07,15%,Jan,documentation shared with accounts,https://store.asus-pk.com/business/order
+ORD23-71389,2019-PK_1055,PRD-738,4 units,,WH-QTA-12,,Feb,purchase order attached to file,http://reseller.msi-pakistan.pk/new
+ORD23-71390,CUST-PK-1116,PRD-633,40 units,,WH/RWP/01,5%,Mar,dispatch confirmed by warehouse team,https://www.samsung-b2b.pk/orders/create
+ORD23-71391,Customer: PK-1088 (2022),PRD-745,34 units,,wh-rwp-03,7.5%,Apr,handover completed at client site,https://shop.hpstore.pk/enterprise
+ORD23-71392,2019-PK_1015,PRD-598,22 units,Hamza Sheikh,WH LHR 06,12.5%,May,reconciled against monthly statement,http://orders.lenovo-pk.com/renewal
+ORD23-71393,CUST-PK-1091,PRD-913,37 units,,WH-MUL-02,7.5%,Jun,[RUSH] deliver before friday,https://portal.techmazone.com.pk/orders/new
+ORD23-71394,cust_pk_1009,PRD-731,16 units,,WH/HYD/01,5%,Jul,[URGENT] client waiting at site,http://b2b.dell-partners.pk/quote
+ORD23-71395,2024-PK_1110,PRD-920,11 units,,wh-hyd-08,5%,Aug,[HOLD] awaiting credit approval,https://shop.hpstore.pk/checkout
+ORD23-71396,BR2016/PK-1202,PRD-682,9 units,Omar Siddiqui,WH RWP 10,,Sep,[PRIORITY] escalated by manager,http://orders.lenovo-pk.com/b2b/new
+ORD23-71397,2019-PK_1145,PRD-514,21 units,,WH-HYD-06,,Oct,[BACKORDER] awaiting stock from vendor,https://www.acer-distributor.pk/cart
+ORD23-71398,Customer: PK-1178 (2022),PRD-626,34 units,,WH/SKT/08,12.5%,Nov,[SPLIT] shipping in two lots,https://portal.techmazone.com.pk/orders/repeat
+ORD23-71399,BR2016/PK-1162,PRD-920,2 units,,wh-fsd-11,5%,Dec,confirm stock before dispatch [pending],http://b2b.dell-partners.pk/renewal
+ORD23-71400,cust_pk_1224,PRD-619,11 units,Sarah Nadeem,WH FSD 05,,Jan,packaging damaged on arrival [reported],https://store.asus-pk.com/business/order

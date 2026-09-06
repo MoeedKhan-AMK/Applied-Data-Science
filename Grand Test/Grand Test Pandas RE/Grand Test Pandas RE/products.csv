@@ -1,0 +1,65 @@
+Product ID,Product Details,Category,Unit Price,Warranty (Months)
+PRD-507,Dell Latitude 5420 15.6inch,Laptop,"PKR 325,000",36
+PRD-514,Dell Latitude 7430 16.0inch,laptop ,"PKR 364,000",12
+PRD-521,Dell Vostro 3510 17.3inch,LAPTOP,"PKR 410,000",24
+PRD-528,Dell Vostro 5620 13.3inch, Laptop,"PKR 72,000",12
+PRD-535,Dell Inspiron 3511 14.0inch,Ultrabook,"PKR 85,000",12
+PRD-542,Dell Inspiron 5620 15.6inch,ultrabook ,"PKR 98,500",24
+PRD-549,Dell XPS 9310 16.0inch, ULTRABOOK,"PKR 112,000",24
+PRD-556,Dell XPS 9520 17.3inch,Gaming,"PKR 134,500",
+PRD-563,Dell Precision 3571 13.3inch,gaming ,"PKR 156,000",36
+PRD-570,HP ProBook 450 14.0inch, Gaming,"PKR 178,000",
+PRD-577,HP ProBook 640 15.6inch,Workstation,"PKR 189,000",36
+PRD-584,HP EliteBook 840 16.0inch,workstation ,"PKR 214,000",24
+PRD-591,HP EliteBook 650 17.3inch,Laptop,"PKR 245,000",24
+PRD-598,HP Pavilion 15 13.3inch,laptop ,"PKR 268,000",24
+PRD-605,HP Pavilion 14 14.0inch,LAPTOP,"PKR 298,000",24
+PRD-612,HP Victus 16 15.6inch, Laptop,"PKR 325,000",36
+PRD-619,HP Omen 17 16.0inch,Ultrabook,"PKR 364,000",12
+PRD-626,HP ZBook 15 17.3inch,ultrabook ,"PKR 410,000",24
+PRD-633,Lenovo ThinkBook 15 13.3inch, ULTRABOOK,"PKR 72,000",12
+PRD-640,Lenovo ThinkBook 14 14.0inch,Gaming,"PKR 85,000",12
+PRD-647,Lenovo IdeaPad 3 15.6inch,gaming ,"PKR 98,500",24
+PRD-654,Lenovo IdeaPad 5 16.0inch, Gaming,"PKR 112,000",36
+PRD-661,Lenovo ThinkPad E14 17.3inch,Workstation,"PKR 134,500",36
+PRD-668,Lenovo ThinkPad T14 13.3inch,workstation ,"PKR 156,000",12
+PRD-675,Lenovo Legion 5 14.0inch,Laptop,"PKR 178,000",12
+PRD-682,Lenovo LOQ 15 15.6inch,laptop ,"PKR 189,000",36
+PRD-689,Lenovo Yoga 7 16.0inch,LAPTOP,"PKR 214,000",
+PRD-696,Acer Aspire 5 17.3inch, Laptop,"PKR 245,000",24
+PRD-703,Acer Aspire 7 13.3inch,Ultrabook,"PKR 268,000",12
+PRD-710,Acer Swift 3 14.0inch,ultrabook ,"PKR 298,000",12
+PRD-717,Acer Swift Go 15.6inch, ULTRABOOK,"PKR 325,000",24
+PRD-724,Acer TravelMate P2 16.0inch,Gaming,"PKR 364,000",12
+PRD-731,Acer Nitro 5 17.3inch,gaming ,"PKR 410,000",24
+PRD-738,Acer Nitro 16 13.3inch, Gaming,"PKR 72,000",12
+PRD-745,Acer Predator 300 14.0inch,Workstation,"PKR 85,000",24
+PRD-752,Acer Chromebook 314 15.6inch,workstation ,"PKR 98,500",12
+PRD-759,Asus ExpertBook B1 16.0inch,Laptop,"PKR 112,000",12
+PRD-766,Asus ExpertBook B5 17.3inch,laptop ,"PKR 134,500",24
+PRD-773,Asus ZenBook 14 13.3inch,LAPTOP,"PKR 156,000",36
+PRD-780,Asus ZenBook 15 14.0inch, Laptop,"PKR 178,000",
+PRD-787,Asus VivoBook 15 15.6inch,Ultrabook,"PKR 189,000",24
+PRD-794,Asus VivoBook 16 16.0inch,ultrabook ,"PKR 214,000",
+PRD-801,Asus TUF F15 17.3inch, ULTRABOOK,"PKR 245,000",24
+PRD-808,Asus TUF A16 13.3inch,Gaming,"PKR 268,000",36
+PRD-815,Asus ROG Strix 17 14.0inch,gaming ,"PKR 298,000",24
+PRD-822,Apple MacBook Air M2 13.3inch, Gaming,"PKR 325,000",12
+PRD-829,Apple MacBook Air M3 13.3inch,Workstation,"PKR 364,000",24
+PRD-836,Apple MacBook Pro 14 14.0inch,workstation ,"PKR 410,000",
+PRD-843,Apple MacBook Pro 16 16.0inch,Laptop,"PKR 72,000",24
+PRD-850,MSI Modern 15 14.0inch,laptop ,"PKR 85,000",12
+PRD-857,MSI Modern 14 15.6inch,LAPTOP,"PKR 98,500",12
+PRD-864,MSI Katana 15 16.0inch, Laptop,"PKR 112,000",12
+PRD-871,MSI Cyborg 15 17.3inch,Ultrabook,"PKR 134,500",12
+PRD-878,MSI Stealth 16 13.3inch,ultrabook ,"PKR 156,000",12
+PRD-885,MSI Prestige 13 14.0inch, ULTRABOOK,"PKR 178,000",24
+PRD-892,MSI Bravo 15 15.6inch,Gaming,"PKR 189,000",24
+PRD-899,MSI Thin GF63 16.0inch,gaming ,"PKR 214,000",12
+PRD-906,MSI Creator M16 17.3inch, Gaming,"PKR 245,000",24
+PRD-913,Samsung Galaxy Chromebook 13.3inch,Workstation,"PKR 268,000",12
+PRD-920,Samsung Galaxy Book2 14.0inch,workstation ,"PKR 298,000",24
+PRD-927,Samsung Galaxy Book3 15.6inch,Laptop,"PKR 325,000",24
+PRD-934,Samsung Notebook Flash 16.0inch,laptop ,"PKR 364,000",24
+PRD-941,Samsung Odyssey 15 17.3inch,LAPTOP,"PKR 410,000",24
+PRD-948,Samsung Galaxy Book4 13.3inch, Laptop,"PKR 72,000",24

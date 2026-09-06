@@ -1,0 +1,541 @@
+Order ID,Units Returned,Return Reason
+ORD23-70008,1,DOA on unboxing
+ORD23-70009,1,Late delivery
+ORD23-70019,3,Customer changed mind
+ORD23-70020,2,Faulty screen
+ORD23-70021,4,Faulty screen
+ORD23-70025,6,Late delivery
+ORD23-70027,1,Customer changed mind
+ORD23-70030,6,Battery issue
+ORD23-70038,5,Spec mismatch
+ORD23-70043,2,Late delivery
+ORD23-70049,5,Keyboard fault
+ORD23-70061,6,Wrong model shipped
+ORD23-70066,4,DOA on unboxing
+ORD23-70074,4,Wrong model shipped
+ORD23-70075,5,Battery issue
+ORD23-70083,3,Late delivery
+ORD23-70099,5,Late delivery
+ORD23-70105,1,Damaged in transit
+ORD23-70122,3,Keyboard fault
+ORD23-70126,3,DOA on unboxing
+ORD23-70128,6,DOA on unboxing
+ORD23-70147,3,Customer changed mind
+ORD23-70154,4,Damaged in transit
+ORD23-70164,1,Customer changed mind
+ORD23-70168,1,Wrong model shipped
+ORD23-70169,5,Faulty screen
+ORD23-70170,3,Customer changed mind
+ORD23-70172,1,Faulty screen
+ORD23-70174,6,Late delivery
+ORD23-70177,2,Wrong model shipped
+ORD23-70179,2,DOA on unboxing
+ORD23-70184,5,Keyboard fault
+ORD23-70196,6,Faulty screen
+ORD23-70202,3,Wrong model shipped
+ORD23-70206,4,Customer changed mind
+ORD23-70208,2,Wrong model shipped
+ORD23-70212,6,Spec mismatch
+ORD23-70213,3,Customer changed mind
+ORD23-70214,4,Wrong model shipped
+ORD23-70217,3,DOA on unboxing
+ORD23-70225,1,DOA on unboxing
+ORD23-70228,5,Keyboard fault
+ORD23-70233,4,Late delivery
+ORD23-70234,2,Battery issue
+ORD23-70236,3,Keyboard fault
+ORD23-70251,4,Keyboard fault
+ORD23-70252,5,DOA on unboxing
+ORD23-70259,3,Customer changed mind
+ORD23-70260,3,Spec mismatch
+ORD23-70263,6,Keyboard fault
+ORD23-70276,6,Wrong model shipped
+ORD23-70278,5,DOA on unboxing
+ORD23-70282,6,Damaged in transit
+ORD23-70288,6,DOA on unboxing
+ORD23-70294,6,DOA on unboxing
+ORD23-70296,2,Keyboard fault
+ORD23-70309,1,Customer changed mind
+ORD23-70315,6,Late delivery
+ORD23-70317,2,Late delivery
+ORD23-70319,3,Spec mismatch
+ORD23-70320,6,Customer changed mind
+ORD23-70322,3,Wrong model shipped
+ORD23-70325,4,Wrong model shipped
+ORD23-70326,4,Battery issue
+ORD23-70330,5,Customer changed mind
+ORD23-70331,4,Faulty screen
+ORD23-70346,2,Keyboard fault
+ORD23-70347,4,DOA on unboxing
+ORD23-70349,1,Late delivery
+ORD23-70357,4,Damaged in transit
+ORD23-70359,1,Battery issue
+ORD23-70361,2,Customer changed mind
+ORD23-70362,6,Battery issue
+ORD23-70367,2,Keyboard fault
+ORD23-70381,1,Wrong model shipped
+ORD23-70382,1,Faulty screen
+ORD23-70384,4,DOA on unboxing
+ORD23-70390,6,Wrong model shipped
+ORD23-70400,3,Battery issue
+ORD23-70413,5,Spec mismatch
+ORD23-70416,6,Spec mismatch
+ORD23-70421,5,Faulty screen
+ORD23-70422,6,Spec mismatch
+ORD23-70451,5,Spec mismatch
+ORD23-70472,3,Battery issue
+ORD23-70474,4,Spec mismatch
+ORD23-70476,6,Wrong model shipped
+ORD23-70481,1,Spec mismatch
+ORD23-70483,1,Spec mismatch
+ORD23-70487,2,Battery issue
+ORD23-70490,4,Battery issue
+ORD23-70497,3,Damaged in transit
+ORD23-70500,1,Keyboard fault
+ORD23-70511,5,DOA on unboxing
+ORD23-70513,5,Battery issue
+ORD23-70518,4,Wrong model shipped
+ORD23-70521,6,Customer changed mind
+ORD23-70530,1,Late delivery
+ORD23-70531,2,Keyboard fault
+ORD23-70538,4,Customer changed mind
+ORD23-70548,1,Damaged in transit
+ORD23-70554,5,Battery issue
+ORD23-70562,2,Keyboard fault
+ORD23-70567,5,DOA on unboxing
+ORD23-70572,5,Spec mismatch
+ORD23-70599,5,Battery issue
+ORD23-70602,1,Late delivery
+ORD23-70604,4,DOA on unboxing
+ORD23-70607,4,Late delivery
+ORD23-70617,3,Spec mismatch
+ORD23-70622,1,Wrong model shipped
+ORD23-70628,6,Battery issue
+ORD23-70630,3,Wrong model shipped
+ORD23-70631,6,Wrong model shipped
+ORD23-70638,2,Damaged in transit
+ORD23-70647,6,Wrong model shipped
+ORD23-70658,3,DOA on unboxing
+ORD23-70661,3,DOA on unboxing
+ORD23-70671,2,Wrong model shipped
+ORD23-70674,3,Faulty screen
+ORD23-70701,5,Customer changed mind
+ORD23-70703,6,Damaged in transit
+ORD23-70706,4,DOA on unboxing
+ORD23-70712,3,Keyboard fault
+ORD23-70718,1,Spec mismatch
+ORD23-70730,2,Wrong model shipped
+ORD23-70731,1,Damaged in transit
+ORD23-70739,2,Spec mismatch
+ORD23-70756,6,Faulty screen
+ORD23-70761,6,Customer changed mind
+ORD23-70767,5,Spec mismatch
+ORD23-70769,2,Spec mismatch
+ORD23-70770,4,Customer changed mind
+ORD23-70771,5,Keyboard fault
+ORD23-70773,1,Customer changed mind
+ORD23-70783,2,Wrong model shipped
+ORD23-70784,2,Customer changed mind
+ORD23-70791,5,Customer changed mind
+ORD23-70792,4,Customer changed mind
+ORD23-70793,2,Damaged in transit
+ORD23-70800,3,Customer changed mind
+ORD23-70803,3,Faulty screen
+ORD23-70809,6,DOA on unboxing
+ORD23-70820,2,Customer changed mind
+ORD23-70821,4,Faulty screen
+ORD23-70834,4,Damaged in transit
+ORD23-70843,2,Faulty screen
+ORD23-70850,3,Battery issue
+ORD23-70852,5,Keyboard fault
+ORD23-70853,3,Late delivery
+ORD23-70857,2,Damaged in transit
+ORD23-70861,3,DOA on unboxing
+ORD23-70869,3,Damaged in transit
+ORD23-70879,3,Late delivery
+ORD23-70881,6,Wrong model shipped
+ORD23-70886,6,Customer changed mind
+ORD23-70889,5,DOA on unboxing
+ORD23-70897,1,Late delivery
+ORD23-70900,4,Customer changed mind
+ORD23-70911,1,Keyboard fault
+ORD23-70921,2,Customer changed mind
+ORD23-70922,6,Damaged in transit
+ORD23-70932,1,Faulty screen
+ORD23-70933,4,Keyboard fault
+ORD23-70938,4,Customer changed mind
+ORD23-70946,3,Damaged in transit
+ORD23-70954,3,Faulty screen
+ORD23-70959,6,Keyboard fault
+ORD23-70963,2,Battery issue
+ORD23-70967,2,Battery issue
+ORD23-70969,2,Customer changed mind
+ORD23-70973,5,Keyboard fault
+ORD23-70976,4,Battery issue
+ORD23-70979,4,Battery issue
+ORD23-70991,4,Spec mismatch
+ORD23-70993,5,Damaged in transit
+ORD23-70997,3,Customer changed mind
+ORD23-70999,1,Spec mismatch
+ORD23-71007,4,Spec mismatch
+ORD23-71021,5,Wrong model shipped
+ORD23-71022,6,Faulty screen
+ORD23-71029,6,Damaged in transit
+ORD23-71060,2,Damaged in transit
+ORD23-71073,1,DOA on unboxing
+ORD23-71083,3,Spec mismatch
+ORD23-71088,1,Late delivery
+ORD23-71093,1,Battery issue
+ORD23-71096,2,Battery issue
+ORD23-71103,5,Battery issue
+ORD23-71115,3,Faulty screen
+ORD23-71116,2,Spec mismatch
+ORD23-71118,5,Keyboard fault
+ORD23-71127,5,Faulty screen
+ORD23-71130,3,DOA on unboxing
+ORD23-71134,3,Spec mismatch
+ORD23-71137,4,Damaged in transit
+ORD23-71149,3,Wrong model shipped
+ORD23-71153,4,Battery issue
+ORD23-71170,2,Late delivery
+ORD23-71177,5,Wrong model shipped
+ORD23-71186,5,Customer changed mind
+ORD23-71193,5,Keyboard fault
+ORD23-71196,5,DOA on unboxing
+ORD23-71203,1,Faulty screen
+ORD23-71207,3,Faulty screen
+ORD23-71214,3,Battery issue
+ORD23-71216,5,Damaged in transit
+ORD23-71220,2,Faulty screen
+ORD23-71225,5,Customer changed mind
+ORD23-71226,1,Customer changed mind
+ORD23-71236,6,Wrong model shipped
+ORD23-71237,3,Spec mismatch
+ORD23-71242,4,Keyboard fault
+ORD23-71251,4,Customer changed mind
+ORD23-71256,1,DOA on unboxing
+ORD23-71272,4,DOA on unboxing
+ORD23-71279,1,DOA on unboxing
+ORD23-71280,3,Late delivery
+ORD23-71285,4,DOA on unboxing
+ORD23-71291,3,Faulty screen
+ORD23-71293,5,Faulty screen
+ORD23-71298,1,Spec mismatch
+ORD23-71302,6,Late delivery
+ORD23-71311,4,Wrong model shipped
+ORD23-71315,4,DOA on unboxing
+ORD23-71317,5,Spec mismatch
+ORD23-71323,6,Wrong model shipped
+ORD23-71336,5,Keyboard fault
+ORD23-71337,5,Spec mismatch
+ORD23-71344,5,Faulty screen
+ORD23-71348,2,Battery issue
+ORD23-71356,4,Keyboard fault
+ORD23-71361,5,Faulty screen
+ORD23-71362,2,Battery issue
+ORD23-71368,5,Battery issue
+ORD23-71371,3,Late delivery
+ORD23-71378,4,Late delivery
+ORD23-71380,2,Faulty screen
+ORD23-71393,6,Wrong model shipped
+ORD24-90023,3,Battery issue
+ORD24-90029,1,Late delivery
+ORD24-90035,5,Faulty screen
+ORD24-90042,1,Spec mismatch
+ORD24-90045,2,Customer changed mind
+ORD24-90046,6,DOA on unboxing
+ORD24-90053,5,DOA on unboxing
+ORD24-90067,6,DOA on unboxing
+ORD24-90069,5,Battery issue
+ORD24-90081,3,Customer changed mind
+ORD24-90095,3,Keyboard fault
+ORD24-90100,4,Late delivery
+ORD24-90106,6,Damaged in transit
+ORD24-90112,1,Wrong model shipped
+ORD24-90118,2,Battery issue
+ORD24-90128,1,Faulty screen
+ORD24-90133,2,Damaged in transit
+ORD24-90136,4,Spec mismatch
+ORD24-90140,5,Keyboard fault
+ORD24-90142,4,Faulty screen
+ORD24-90163,1,Spec mismatch
+ORD24-90167,5,Battery issue
+ORD24-90170,2,Damaged in transit
+ORD24-90175,6,Wrong model shipped
+ORD24-90179,5,Spec mismatch
+ORD24-90182,3,DOA on unboxing
+ORD24-90184,4,Keyboard fault
+ORD24-90191,5,DOA on unboxing
+ORD24-90196,2,Customer changed mind
+ORD24-90197,5,Damaged in transit
+ORD24-90205,1,Customer changed mind
+ORD24-90209,6,Damaged in transit
+ORD24-90210,1,Damaged in transit
+ORD24-90215,5,Customer changed mind
+ORD24-90228,4,Keyboard fault
+ORD24-90229,1,Wrong model shipped
+ORD24-90238,4,Damaged in transit
+ORD24-90240,5,Faulty screen
+ORD24-90248,3,Keyboard fault
+ORD24-90257,6,Spec mismatch
+ORD24-90260,4,DOA on unboxing
+ORD24-90268,5,Keyboard fault
+ORD24-90283,2,Wrong model shipped
+ORD24-90287,5,DOA on unboxing
+ORD24-90288,4,Wrong model shipped
+ORD24-90295,4,Faulty screen
+ORD24-90296,1,Damaged in transit
+ORD24-90298,2,Damaged in transit
+ORD24-90300,5,Customer changed mind
+ORD24-90301,4,Keyboard fault
+ORD24-90303,1,Customer changed mind
+ORD24-90307,3,Faulty screen
+ORD24-90327,3,Faulty screen
+ORD24-90329,5,Keyboard fault
+ORD24-90332,5,Wrong model shipped
+ORD24-90334,1,Spec mismatch
+ORD24-90346,4,Customer changed mind
+ORD24-90348,2,Faulty screen
+ORD24-90362,6,Battery issue
+ORD24-90366,5,Customer changed mind
+ORD24-90372,6,Keyboard fault
+ORD24-90380,4,Spec mismatch
+ORD24-90382,4,Customer changed mind
+ORD24-90386,4,Wrong model shipped
+ORD24-90394,3,DOA on unboxing
+ORD24-90397,5,Keyboard fault
+ORD24-90403,5,Wrong model shipped
+ORD24-90409,2,Faulty screen
+ORD24-90412,4,Damaged in transit
+ORD24-90414,3,Keyboard fault
+ORD24-90415,5,Battery issue
+ORD24-90417,6,DOA on unboxing
+ORD24-90422,6,Keyboard fault
+ORD24-90425,6,DOA on unboxing
+ORD24-90428,3,Keyboard fault
+ORD24-90443,3,Spec mismatch
+ORD24-90450,1,Battery issue
+ORD24-90460,2,Keyboard fault
+ORD24-90462,4,Damaged in transit
+ORD24-90467,2,Keyboard fault
+ORD24-90473,6,Late delivery
+ORD24-90479,1,Late delivery
+ORD24-90489,5,Spec mismatch
+ORD24-90490,5,Faulty screen
+ORD24-90492,6,Customer changed mind
+ORD24-90495,2,Faulty screen
+ORD24-90501,2,Faulty screen
+ORD24-90502,3,Damaged in transit
+ORD24-90503,6,Wrong model shipped
+ORD24-90506,2,Late delivery
+ORD24-90518,1,Damaged in transit
+ORD24-90529,4,Battery issue
+ORD24-90536,1,Wrong model shipped
+ORD24-90544,3,Late delivery
+ORD24-90547,2,Keyboard fault
+ORD24-90558,6,DOA on unboxing
+ORD24-90566,1,Customer changed mind
+ORD24-90568,4,Customer changed mind
+ORD24-90587,2,Late delivery
+ORD24-90590,5,Customer changed mind
+ORD24-90591,6,Faulty screen
+ORD24-90593,6,DOA on unboxing
+ORD24-90599,6,Wrong model shipped
+ORD24-90600,1,Keyboard fault
+ORD24-90601,6,Customer changed mind
+ORD24-90603,4,Spec mismatch
+ORD24-90605,5,Battery issue
+ORD24-90609,5,Customer changed mind
+ORD24-90610,3,Late delivery
+ORD24-90614,4,Wrong model shipped
+ORD24-90620,2,Keyboard fault
+ORD24-90628,1,Wrong model shipped
+ORD24-90634,2,Spec mismatch
+ORD24-90649,6,Battery issue
+ORD24-90653,2,Wrong model shipped
+ORD24-90656,4,Customer changed mind
+ORD24-90660,6,Late delivery
+ORD24-90661,6,Battery issue
+ORD24-90662,2,Late delivery
+ORD24-90667,2,Customer changed mind
+ORD24-90671,3,Wrong model shipped
+ORD24-90683,6,DOA on unboxing
+ORD24-90685,5,Customer changed mind
+ORD24-90689,5,Wrong model shipped
+ORD24-90690,4,Faulty screen
+ORD24-90694,1,Battery issue
+ORD24-90697,3,DOA on unboxing
+ORD24-90698,3,Customer changed mind
+ORD24-90713,1,Spec mismatch
+ORD24-90720,5,Spec mismatch
+ORD24-90725,3,Damaged in transit
+ORD24-90730,4,Battery issue
+ORD24-90732,1,Damaged in transit
+ORD24-90740,4,Spec mismatch
+ORD24-90749,2,Damaged in transit
+ORD24-90750,2,Keyboard fault
+ORD24-90779,5,Wrong model shipped
+ORD24-90782,4,Spec mismatch
+ORD24-90788,6,Battery issue
+ORD24-90789,4,Damaged in transit
+ORD24-90796,2,Battery issue
+ORD24-90801,2,Faulty screen
+ORD24-90808,1,Late delivery
+ORD24-90809,6,Spec mismatch
+ORD24-90811,3,Wrong model shipped
+ORD24-90813,4,Damaged in transit
+ORD24-90817,5,DOA on unboxing
+ORD24-90821,2,Faulty screen
+ORD24-90822,1,Late delivery
+ORD24-90830,1,Keyboard fault
+ORD24-90844,5,Customer changed mind
+ORD24-90856,4,Wrong model shipped
+ORD24-90857,5,Battery issue
+ORD24-90861,4,Keyboard fault
+ORD24-90862,4,Wrong model shipped
+ORD24-90870,1,Faulty screen
+ORD24-90872,1,Late delivery
+ORD24-90873,4,Damaged in transit
+ORD24-90883,5,Battery issue
+ORD24-90885,2,Wrong model shipped
+ORD24-90887,5,Spec mismatch
+ORD24-90891,6,Late delivery
+ORD24-90892,6,DOA on unboxing
+ORD24-90895,5,Keyboard fault
+ORD24-90904,1,Wrong model shipped
+ORD24-90907,6,Faulty screen
+ORD24-90911,2,Wrong model shipped
+ORD24-90914,3,Battery issue
+ORD24-90916,3,Wrong model shipped
+ORD24-90918,5,Battery issue
+ORD24-90924,5,Damaged in transit
+ORD24-90927,1,DOA on unboxing
+ORD24-90937,3,Customer changed mind
+ORD24-90943,4,Faulty screen
+ORD24-90952,5,Late delivery
+ORD24-90966,2,Damaged in transit
+ORD24-90974,5,Faulty screen
+ORD24-90976,1,Customer changed mind
+ORD24-90977,4,DOA on unboxing
+ORD24-90981,4,DOA on unboxing
+ORD24-90985,5,DOA on unboxing
+ORD24-90989,6,Damaged in transit
+ORD24-90992,2,DOA on unboxing
+ORD24-90994,3,Wrong model shipped
+ORD24-91013,6,Spec mismatch
+ORD24-91020,3,Customer changed mind
+ORD24-91021,2,Spec mismatch
+ORD24-91022,6,Damaged in transit
+ORD24-91030,2,Wrong model shipped
+ORD24-91041,2,Damaged in transit
+ORD24-91042,3,Spec mismatch
+ORD24-91049,6,Wrong model shipped
+ORD24-91050,1,Battery issue
+ORD24-91057,2,DOA on unboxing
+ORD24-91058,3,Spec mismatch
+ORD24-91059,4,Battery issue
+ORD24-91065,3,Customer changed mind
+ORD24-91074,5,Wrong model shipped
+ORD24-91076,4,Keyboard fault
+ORD24-91085,5,Late delivery
+ORD24-91086,3,Faulty screen
+ORD24-91099,3,Battery issue
+ORD24-91106,6,DOA on unboxing
+ORD24-91113,1,Damaged in transit
+ORD24-91115,1,Faulty screen
+ORD24-91118,3,Faulty screen
+ORD24-91121,6,Faulty screen
+ORD24-91122,2,Battery issue
+ORD24-91130,5,Late delivery
+ORD24-91132,2,Keyboard fault
+ORD24-91140,4,Late delivery
+ORD24-91147,5,Damaged in transit
+ORD24-91151,1,Faulty screen
+ORD24-91162,6,Damaged in transit
+ORD24-91163,1,Battery issue
+ORD24-91165,3,Faulty screen
+ORD24-91168,4,Wrong model shipped
+ORD24-91175,2,Faulty screen
+ORD24-91177,6,Wrong model shipped
+ORD24-91182,6,Customer changed mind
+ORD24-91187,3,Faulty screen
+ORD24-91197,6,Customer changed mind
+ORD24-91199,4,Damaged in transit
+ORD24-91200,6,Late delivery
+ORD24-91204,5,DOA on unboxing
+ORD24-91208,5,Spec mismatch
+ORD24-91211,3,Late delivery
+ORD24-91215,4,Customer changed mind
+ORD24-91228,2,Spec mismatch
+ORD24-91230,4,Faulty screen
+ORD24-91238,5,Spec mismatch
+ORD24-91249,6,DOA on unboxing
+ORD24-91250,3,Late delivery
+ORD24-91252,4,Damaged in transit
+ORD24-91255,5,Wrong model shipped
+ORD24-91261,3,DOA on unboxing
+ORD24-91269,1,DOA on unboxing
+ORD24-91275,3,DOA on unboxing
+ORD24-91278,4,Late delivery
+ORD24-91280,6,Keyboard fault
+ORD24-91283,4,Customer changed mind
+ORD24-91284,2,Battery issue
+ORD24-91286,1,DOA on unboxing
+ORD24-91292,4,Wrong model shipped
+ORD24-91303,2,Damaged in transit
+ORD24-91304,4,Spec mismatch
+ORD24-91308,1,Wrong model shipped
+ORD24-91310,5,Customer changed mind
+ORD24-91318,3,Customer changed mind
+ORD24-91323,1,Wrong model shipped
+ORD24-91325,5,Keyboard fault
+ORD24-91328,4,Faulty screen
+ORD24-91330,2,Damaged in transit
+ORD24-91342,4,Spec mismatch
+ORD24-91345,1,Keyboard fault
+ORD24-91348,6,Battery issue
+ORD24-91354,4,DOA on unboxing
+ORD24-91357,5,Faulty screen
+ORD24-91360,1,Late delivery
+ORD24-91364,2,Faulty screen
+ORD24-91367,5,Damaged in transit
+ORD24-91372,3,Damaged in transit
+ORD24-91378,5,Spec mismatch
+ORD24-91389,6,Customer changed mind
+ORD24-91391,6,Late delivery
+ORD24-91396,4,Damaged in transit
+ORD24-91401,3,Spec mismatch
+ORD24-91407,6,DOA on unboxing
+ORD24-91418,1,Damaged in transit
+ORD24-91420,3,Faulty screen
+ORD24-91421,3,Damaged in transit
+ORD24-91441,2,Damaged in transit
+ORD24-91451,3,Spec mismatch
+ORD24-91456,1,Late delivery
+ORD24-91460,6,Battery issue
+ORD24-91462,5,Faulty screen
+ORD24-91465,4,Late delivery
+ORD24-91482,3,Spec mismatch
+ORD24-91501,6,Customer changed mind
+ORD24-91515,5,Battery issue
+ORD24-91524,4,Customer changed mind
+ORD24-91538,2,Spec mismatch
+ORD24-91546,6,Keyboard fault
+ORD24-91560,4,Wrong model shipped
+ORD24-91567,5,Spec mismatch
+ORD24-91577,1,DOA on unboxing
+ORD24-91589,2,Spec mismatch
+ORD24-91591,6,Wrong model shipped
+ORD24-91597,3,DOA on unboxing
+ORD24-91598,2,Battery issue
+ORD24-91623,6,Wrong model shipped
+ORD24-91648,6,Keyboard fault
+ORD24-91655,5,Customer changed mind
+ORD24-91662,3,DOA on unboxing
+ORD24-91666,5,Spec mismatch
+ORD24-91667,3,Faulty screen
+ORD24-91668,1,Damaged in transit
+ORD24-91678,1,Battery issue
+ORD24-91690,3,Wrong model shipped
+ORD24-91692,4,DOA on unboxing
+ORD24-91693,6,Damaged in transit

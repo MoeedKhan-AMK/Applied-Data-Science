@@ -1,0 +1,263 @@
+Customer Code ,Customer Name,Segment (Type),Home City,Signup Year
+CUST-PK-1001,Yasir Distributors,Retail,Karachi,2015
+BR2016/PK-1002,Laiba Systems,retail ,Hyderabad,2016
+Customer: PK-1003 (2017),Iqra Traders, RETAIL,Lahore,2017
+cust_pk_1004,Yusra Electronics,Retail ,Faisalabad,2018
+2019-PK_1005,Fahad Traders,Corporate,Multan,2019
+CUST-PK-1006,Maria Corporation,,Sialkot,2020
+BR2021/PK-1007,Iqra Distributors,CORPORATE,Islamabad,2021
+Customer: PK-1008 (2022),Haris Industries, Corporate,Rawalpindi,2022
+cust_pk_1009,Hina Solutions,Government,Peshawar,2023
+2024-PK_1010,Bushra Suppliers,government,Quetta,2024
+CUST-PK-1011,Saad Distributors, Government ,Karachi,2015
+BR2016/PK-1012,Parveen Traders,GOVERNMENT,Hyderabad,2016
+Customer: PK-1013 (2017),Palwasha Distributors,Education,Lahore,2017
+cust_pk_1014,Tahir Traders,education ,Faisalabad,2018
+2019-PK_1015,Jawad & Sons, EDUCATION,Multan,2019
+CUST-PK-1016,Dilawar Electronics,Reseller,Sialkot,2020
+BR2021/PK-1017,Erum Industries,reseller ,Islamabad,2021
+Customer: PK-1018 (2022),Farhan Associates,RESELLER,Rawalpindi,2022
+cust_pk_1019,Ubaid Industries,Retail,Peshawar,2023
+2024-PK_1020,Zohaib Systems,retail ,Quetta,2024
+CUST-PK-1021,Rizwan Industries, RETAIL,Karachi,2015
+BR2016/PK-1022,Moiz Solutions,Retail ,Hyderabad,2016
+Customer: PK-1023 (2017),Umair Traders,Corporate,Lahore,2017
+cust_pk_1024,Amna Associates,corporate ,Faisalabad,2018
+2019-PK_1025,Maria Suppliers,CORPORATE,Multan,2019
+CUST-PK-1026,Qasim Enterprises, Corporate,Sialkot,2020
+BR2021/PK-1027,Farhan Systems,Government,Islamabad,2021
+Customer: PK-1028 (2022),Hina Distributors,government,Rawalpindi,2022
+cust_pk_1029,Shazia Systems, Government ,Peshawar,2023
+2024-PK_1030,Tariq Traders,GOVERNMENT,Quetta,2024
+CUST-PK-1031,Erum Distributors,Education,Karachi,2015
+BR2016/PK-1032,Owais Suppliers,education ,Hyderabad,2016
+Customer: PK-1033 (2017),Farhan Distributors, EDUCATION,Lahore,2017
+cust_pk_1034,Qadir Enterprises,Reseller,Faisalabad,2018
+2019-PK_1035,Shazia Enterprises,reseller ,Multan,2019
+CUST-PK-1036,Waqar Suppliers,RESELLER,Sialkot,2020
+BR2021/PK-1037,Owais Associates,Retail,Islamabad,2021
+Customer: PK-1038 (2022),Basit Industries,retail ,Rawalpindi,2022
+cust_pk_1039,Laiba Trading Co, RETAIL,Peshawar,2023
+2024-PK_1040,Faisal Solutions,Retail ,Quetta,2024
+CUST-PK-1041,Junaid Electronics,Corporate,Karachi,2015
+BR2016/PK-1042,Ahmed Electronics,corporate ,Hyderabad,2016
+Customer: PK-1043 (2017),Ahmed Trading Co,,Lahore,2017
+cust_pk_1044,Areeba Industries, Corporate,Faisalabad,2018
+2019-PK_1045,Zeeshan Solutions,Government,Multan,2019
+CUST-PK-1046,Mehwish Solutions,government,Sialkot,2020
+BR2021/PK-1047,Osama Distributors, Government ,Islamabad,2021
+Customer: PK-1048 (2022),Waqar Electronics,GOVERNMENT,Rawalpindi,2022
+cust_pk_1049,Faisal Suppliers,Education,Peshawar,2023
+2024-PK_1050,Saad Electronics,education ,Quetta,2024
+CUST-PK-1051,Areeba Enterprises, EDUCATION,Karachi,2015
+BR2016/PK-1052,Basit Enterprises,Reseller,Hyderabad,2016
+Customer: PK-1053 (2017),Chand Electronics,reseller ,Lahore,2017
+cust_pk_1054,Yusra Suppliers,RESELLER,Faisalabad,2018
+2019-PK_1055,Areeba Suppliers,Retail,Multan,2019
+CUST-PK-1056,Zohaib Enterprises,retail ,Sialkot,2020
+BR2021/PK-1057,Parveen Industries, RETAIL,Islamabad,2021
+Customer: PK-1058 (2022),Sana Enterprises,Retail ,Rawalpindi,2022
+cust_pk_1059,Farhan Enterprises,Corporate,Peshawar,2023
+2024-PK_1060,Jawad Electronics,corporate ,Quetta,2024
+CUST-PK-1061,Gul Trading Co,CORPORATE,Karachi,2015
+BR2016/PK-1062,Qasim Solutions, Corporate,Hyderabad,2016
+Customer: PK-1063 (2017),Tariq Trading Co,Government,Lahore,2017
+cust_pk_1064,Rabia Associates,government,Faisalabad,2018
+2019-PK_1065,Zara Trading Co, Government ,Multan,2019
+CUST-PK-1066,Rabia Traders,GOVERNMENT,Sialkot,2020
+BR2021/PK-1067,Usman Corporation,Education,Islamabad,2021
+Customer: PK-1068 (2022),Laiba Electronics,education ,Rawalpindi,2022
+cust_pk_1069,Yusra Industries, EDUCATION,Peshawar,2023
+2024-PK_1070,Zara Suppliers,Reseller,Quetta,2024
+CUST-PK-1071,Zeeshan Enterprises,reseller ,Karachi,2015
+BR2016/PK-1072,Hina Traders,RESELLER,Hyderabad,2016
+Customer: PK-1073 (2017),Wasim Trading Co,Retail,Lahore,2017
+cust_pk_1074,Wasim Traders,retail ,Faisalabad,2018
+2019-PK_1075,Amna Trading Co, RETAIL,Multan,2019
+CUST-PK-1076,Basit & Sons,Retail ,Sialkot,2020
+BR2021/PK-1077,Nida & Sons,Corporate,Islamabad,2021
+Customer: PK-1078 (2022),Lubna Corporation,corporate ,Rawalpindi,2022
+cust_pk_1079,Faisal Enterprises,CORPORATE,Peshawar,2023
+2024-PK_1080,Tahir Associates,,Quetta,2024
+CUST-PK-1081,Kamran Associates,Government,Karachi,2015
+BR2016/PK-1082,Gul Traders,government,Hyderabad,2016
+Customer: PK-1083 (2017),Haris Associates, Government ,Lahore,2017
+cust_pk_1084,Adeel Suppliers,GOVERNMENT,Faisalabad,2018
+2019-PK_1085,Erum Systems,Education,Multan,2019
+CUST-PK-1086,Bushra Associates,education ,Sialkot,2020
+BR2021/PK-1087,Vania Suppliers, EDUCATION,Islamabad,2021
+Customer: PK-1088 (2022),Maria Industries,Reseller,Rawalpindi,2022
+cust_pk_1089,Gul Electronics,reseller ,Peshawar,2023
+2024-PK_1090,Shazia Suppliers,RESELLER,Quetta,2024
+CUST-PK-1091,Rizwan Systems,Retail,Karachi,2015
+BR2016/PK-1092,Dilawar Associates,retail ,Hyderabad,2016
+Customer: PK-1093 (2017),Tariq Corporation, RETAIL,Lahore,2017
+cust_pk_1094,Tariq Enterprises,Retail ,Faisalabad,2018
+2019-PK_1095,Tariq & Sons,Corporate,Multan,2019
+CUST-PK-1096,Yaqoob Traders,corporate ,Sialkot,2020
+BR2021/PK-1097,Yaqoob Solutions,CORPORATE,Islamabad,2021
+Customer: PK-1098 (2022),Tahir Enterprises, Corporate,Rawalpindi,2022
+cust_pk_1099,Sadia Suppliers,Government,Peshawar,2023
+2024-PK_1100,Yasir Traders,government,Quetta,2024
+CUST-PK-1101,Usman & Sons, Government ,Karachi,2015
+BR2016/PK-1102,Laiba Traders,GOVERNMENT,Hyderabad,2016
+Customer: PK-1103 (2017),Vania Associates,Education,Lahore,2017
+cust_pk_1104,Zenab Enterprises,education ,Faisalabad,2018
+2019-PK_1105,Talha Traders, EDUCATION,Multan,2019
+CUST-PK-1106,Bilal Systems,Reseller,Sialkot,2020
+BR2021/PK-1107,Yaqoob Enterprises,reseller ,Islamabad,2021
+Customer: PK-1108 (2022),Moiz Systems,RESELLER,Rawalpindi,2022
+cust_pk_1109,Tahir Systems,Retail,Peshawar,2023
+2024-PK_1110,Mehwish Industries,retail ,Quetta,2024
+CUST-PK-1111,Haris Suppliers, RETAIL,Karachi,2015
+BR2016/PK-1112,Owais Traders,Retail ,Hyderabad,2016
+Customer: PK-1113 (2017),Rabia Solutions,Corporate,Lahore,2017
+cust_pk_1114,Nida Enterprises,corporate ,Faisalabad,2018
+2019-PK_1115,Erum Traders,CORPORATE,Multan,2019
+CUST-PK-1116,Ubaid Traders, Corporate,Sialkot,2020
+BR2021/PK-1117,Umair Electronics,,Islamabad,2021
+Customer: PK-1118 (2022),Zeeshan Electronics,government,Rawalpindi,2022
+cust_pk_1119,Jawad Distributors, Government ,Peshawar,2023
+2024-PK_1120,Amna Enterprises,GOVERNMENT,Quetta,2024
+CUST-PK-1121,Bushra Industries,Education,Karachi,2015
+BR2016/PK-1122,Waqar Distributors,education ,Hyderabad,2016
+Customer: PK-1123 (2017),Wajahat Enterprises, EDUCATION,Lahore,2017
+cust_pk_1124,Uzma Electronics,Reseller,Faisalabad,2018
+2019-PK_1125,Owais Industries,reseller ,Multan,2019
+CUST-PK-1126,Ghazala Industries,RESELLER,Sialkot,2020
+BR2021/PK-1127,Zenab & Sons,Retail,Islamabad,2021
+Customer: PK-1128 (2022),Sana Suppliers,retail ,Rawalpindi,2022
+cust_pk_1129,Mehwish Systems, RETAIL,Peshawar,2023
+2024-PK_1130,Rabia Trading Co,Retail ,Quetta,2024
+CUST-PK-1131,Junaid Traders,Corporate,Karachi,2015
+BR2016/PK-1132,Kiran Distributors,corporate ,Hyderabad,2016
+Customer: PK-1133 (2017),Fahad Electronics,CORPORATE,Lahore,2017
+cust_pk_1134,Wasim Corporation, Corporate,Faisalabad,2018
+2019-PK_1135,Lubna Industries,Government,Multan,2019
+CUST-PK-1136,Uzma & Sons,government,Sialkot,2020
+BR2021/PK-1137,Wajahat Traders, Government ,Islamabad,2021
+Customer: PK-1138 (2022),Imran Suppliers,GOVERNMENT,Rawalpindi,2022
+cust_pk_1139,Sana Corporation,Education,Peshawar,2023
+2024-PK_1140,Basit Distributors,education ,Quetta,2024
+CUST-PK-1141,Fahad & Sons, EDUCATION,Karachi,2015
+BR2016/PK-1142,Moiz Electronics,Reseller,Hyderabad,2016
+Customer: PK-1143 (2017),Adeel Trading Co,reseller ,Lahore,2017
+cust_pk_1144,Qadir Systems,RESELLER,Faisalabad,2018
+2019-PK_1145,Wajahat & Sons,Retail,Multan,2019
+CUST-PK-1146,Zeeshan Distributors,retail ,Sialkot,2020
+BR2021/PK-1147,Vania Systems, RETAIL,Islamabad,2021
+Customer: PK-1148 (2022),Ghazala Traders,Retail ,Rawalpindi,2022
+cust_pk_1149,Rizwan Traders,Corporate,Peshawar,2023
+2024-PK_1150,Yaqoob Distributors,corporate ,Quetta,2024
+CUST-PK-1151,Basit Trading Co,CORPORATE,Karachi,2015
+BR2016/PK-1152,Shazia Associates, Corporate,Hyderabad,2016
+Customer: PK-1153 (2017),Bilal Distributors,Government,Lahore,2017
+cust_pk_1154,Iqra Systems,,Faisalabad,2018
+2019-PK_1155,Haris Enterprises, Government ,Multan,2019
+CUST-PK-1156,Wasim Associates,GOVERNMENT,Sialkot,2020
+BR2021/PK-1157,Zohaib & Sons,Education,Islamabad,2021
+Customer: PK-1158 (2022),Ghazala Enterprises,education ,Rawalpindi,2022
+cust_pk_1159,Zenab Corporation, EDUCATION,Peshawar,2023
+2024-PK_1160,Sana & Sons,Reseller,Quetta,2024
+CUST-PK-1161,Qasim Electronics,reseller ,Karachi,2015
+BR2016/PK-1162,Osama Corporation,RESELLER,Hyderabad,2016
+Customer: PK-1163 (2017),Nabeel Trading Co,Retail,Lahore,2017
+cust_pk_1164,Haris & Sons,retail ,Faisalabad,2018
+2019-PK_1165,Qadir Corporation, RETAIL,Multan,2019
+CUST-PK-1166,Talha Associates,Retail ,Sialkot,2020
+BR2021/PK-1167,Palwasha Systems,Corporate,Islamabad,2021
+Customer: PK-1168 (2022),Gul Corporation,corporate ,Rawalpindi,2022
+cust_pk_1169,Saad Suppliers,CORPORATE,Peshawar,2023
+2024-PK_1170,Fahad Associates, Corporate,Quetta,2024
+CUST-PK-1171,Yusra Distributors,Government,Karachi,2015
+BR2016/PK-1172,Areeba Associates,government,Hyderabad,2016
+Customer: PK-1173 (2017),Noman Corporation, Government ,Lahore,2017
+cust_pk_1174,Zeeshan Industries,GOVERNMENT,Faisalabad,2018
+2019-PK_1175,Ahmed & Sons,Education,Multan,2019
+CUST-PK-1176,Iqra Suppliers,education ,Sialkot,2020
+BR2021/PK-1177,Ahmed Distributors, EDUCATION,Islamabad,2021
+Customer: PK-1178 (2022),Qasim Systems,Reseller,Rawalpindi,2022
+cust_pk_1179,Vania Solutions,reseller ,Peshawar,2023
+2024-PK_1180,Ubaid Suppliers,RESELLER,Quetta,2024
+CUST-PK-1181,Vania Enterprises,Retail,Karachi,2015
+BR2016/PK-1182,Usman Distributors,retail ,Hyderabad,2016
+Customer: PK-1183 (2017),Danish Distributors, RETAIL,Lahore,2017
+cust_pk_1184,Yusra & Sons,Retail ,Faisalabad,2018
+2019-PK_1185,Wajahat Industries,Corporate,Multan,2019
+CUST-PK-1186,Gul Systems,corporate ,Sialkot,2020
+BR2021/PK-1187,Waqar Traders,CORPORATE,Islamabad,2021
+Customer: PK-1188 (2022),Hassan Suppliers, Corporate,Rawalpindi,2022
+cust_pk_1189,Palwasha & Sons,Government,Peshawar,2023
+2024-PK_1190,Vania Industries,government,Quetta,2024
+CUST-PK-1191,Moiz Industries,,Karachi,2015
+BR2016/PK-1192,Bilal & Sons,GOVERNMENT,Hyderabad,2016
+Customer: PK-1193 (2017),Ubaid Systems,Education,Lahore,2017
+cust_pk_1194,Rehan Enterprises,education ,Faisalabad,2018
+2019-PK_1195,Nida Solutions, EDUCATION,Multan,2019
+CUST-PK-1196,Kamran Trading Co,Reseller,Sialkot,2020
+BR2021/PK-1197,Fahad Solutions,reseller ,Islamabad,2021
+Customer: PK-1198 (2022),Talha Systems,RESELLER,Rawalpindi,2022
+cust_pk_1199,Laiba Solutions,Retail,Peshawar,2023
+2024-PK_1200,Ahmed Traders,retail ,Quetta,2024
+CUST-PK-1201,Palwasha Enterprises, RETAIL,Karachi,2015
+BR2016/PK-1202,Umair Corporation,Retail ,Hyderabad,2016
+Customer: PK-1203 (2017),Rizwan Trading Co,Corporate,Lahore,2017
+cust_pk_1204,Rizwan Suppliers,corporate ,Faisalabad,2018
+2019-PK_1205,Junaid Enterprises,CORPORATE,Multan,2019
+CUST-PK-1206,Sadia Industries, Corporate,Sialkot,2020
+BR2021/PK-1207,Bilal Associates,Government,Islamabad,2021
+Customer: PK-1208 (2022),Owais Solutions,government,Rawalpindi,2022
+cust_pk_1209,Uzma Trading Co, Government ,Peshawar,2023
+2024-PK_1210,Bushra Solutions,GOVERNMENT,Quetta,2024
+CUST-PK-1211,Areeba Distributors,Education,Karachi,2015
+BR2016/PK-1212,Komal Trading Co,education ,Hyderabad,2016
+Customer: PK-1213 (2017),Danish & Sons, EDUCATION,Lahore,2017
+cust_pk_1214,Haris Electronics,Reseller,Faisalabad,2018
+2019-PK_1215,Basit Suppliers,reseller ,Multan,2019
+CUST-PK-1216,Fahad Enterprises,RESELLER,Sialkot,2020
+BR2021/PK-1217,Zenab Associates,Retail,Islamabad,2021
+Customer: PK-1218 (2022),Haris Corporation,retail ,Rawalpindi,2022
+cust_pk_1219,Sadia Solutions, RETAIL,Peshawar,2023
+2024-PK_1220,Amna & Sons,Retail ,Quetta,2024
+CUST-PK-1221,Chand Suppliers,Corporate,Karachi,2015
+BR2016/PK-1222,Eshal & Sons,corporate ,Hyderabad,2016
+Customer: PK-1223 (2017),Parveen Suppliers,CORPORATE,Lahore,2017
+cust_pk_1224,Zara Industries, Corporate,Faisalabad,2018
+2019-PK_1225,Osama Suppliers,Government,Multan,2019
+CUST-PK-1226,Rabia Electronics,government,Sialkot,2020
+BR2021/PK-1227,Lubna & Sons, Government ,Islamabad,2021
+Customer: PK-1228 (2022),Erum Solutions,,Rawalpindi,2022
+cust_pk_1229,Waqar & Sons,Education,Peshawar,2023
+2024-PK_1230,Qasim Suppliers,education ,Quetta,2024
+CUST-PK-1231,Amna Solutions, EDUCATION,Karachi,2015
+BR2016/PK-1232,Shazia Electronics,Reseller,Hyderabad,2016
+Customer: PK-1233 (2017),Faisal Electronics,reseller ,Lahore,2017
+cust_pk_1234,Qadir Trading Co,RESELLER,Faisalabad,2018
+2019-PK_1235,Nabeel Enterprises,Retail,Multan,2019
+CUST-PK-1236,Lubna Systems,retail ,Sialkot,2020
+BR2021/PK-1237,Sadia Systems, RETAIL,Islamabad,2021
+Customer: PK-1238 (2022),Yaqoob Electronics,Retail ,Rawalpindi,2022
+cust_pk_1239,Tariq Suppliers,Corporate,Peshawar,2023
+2024-PK_1240,Ubaid Enterprises,corporate ,Quetta,2024
+CUST-PK-1241,Erum Corporation,CORPORATE,Karachi,2015
+BR2016/PK-1242,Zara Electronics, Corporate,Hyderabad,2016
+Customer: PK-1243 (2017),Dilawar Systems,Government,Lahore,2017
+cust_pk_1244,Yaqoob Systems,government,Faisalabad,2018
+2019-PK_1245,Areeba Trading Co, Government ,Multan,2019
+CUST-PK-1246,Jawad Solutions,GOVERNMENT,Sialkot,2020
+BR2021/PK-1247,Maria & Sons,Education,Islamabad,2021
+Customer: PK-1248 (2022),Tariq Systems,education ,Rawalpindi,2022
+cust_pk_1249,Moiz & Sons, EDUCATION,Peshawar,2023
+2024-PK_1250,Zeeshan Systems,Reseller,Quetta,2024
+CUST-PK-1251,Wasim Solutions,reseller ,Karachi,2015
+BR2016/PK-1252,Bushra Corporation,RESELLER,Hyderabad,2016
+Customer: PK-1253 (2017),Komal Systems,Retail,Lahore,2017
+cust_pk_1254,Sana Electronics,retail ,Faisalabad,2018
+2019-PK_1255,Saad Systems, RETAIL,Multan,2019
+CUST-PK-1256,Fahad Corporation,Retail ,Sialkot,2020
+BR2021/PK-1257,Gul Distributors,Corporate,Islamabad,2021
+Customer: PK-1258 (2022),Imran Electronics,corporate ,Rawalpindi,2022
+cust_pk_1259,Saad & Sons,CORPORATE,Peshawar,2023
+2024-PK_1260,Jawad Associates, Corporate,Quetta,2024
+CUST-PK-1261,Fahad Systems,Government,Karachi,2015
+BR2016/PK-1262,Umair Associates,government,Hyderabad,2016
